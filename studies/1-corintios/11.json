@@ -1,0 +1,921 @@
+{
+  "1": {
+    "normal": "<h2>Imitando a Cristo, Transformando Vidas</h2><p>Pablo nos llama a ser imitadores de él, así como él imita a Cristo. Esta no es una invitación a la arrogancia, sino a la humildad: Pablo reconoce que su vida refleja a Cristo y nos anima a seguir ese ejemplo. Para el creyente de hoy, esto significa examinar nuestras acciones, palabras y actitudes para ver si están alineadas con Jesús. ¿Cómo tratamos a los demás? ¿Perdonamos como Él? ¿Servimos sin esperar nada a cambio? La imitación no es perfección, sino dirección: cada día, podemos elegir un área donde reflejar mejor a Cristo. Aplica esto: esta semana, identifica a alguien que admires por su fe y pregúntale cómo busca imitar a Jesús. O simplemente, en una situación difícil, pregúntate: '¿Qué haría Jesús?'. La meta no es ser perfectos, sino ser más como Él.</p>",
+    "academico": "<h2>Mimesis Cristológica: El Modelo Paulino de Discipulado</h2><h3>Análisis Filológico</h3><p>El verbo griego μιμητής (mimētēs, 'imitador') aparece solo seis veces en el NT, siempre en contexto de imitación de Pablo o de Cristo. La frase 'καθὼς κἀγὼ Χριστοῦ' (kathōs kagō Christou) establece una cadena mimética: Pablo → Cristo → Dios. El término 'imitador' no denota copia superficial sino encarnación de un ethos. En la cultura grecorromana, la imitación (mimesis) era clave en la educación y formación moral; Pablo la cristianiza, vinculándola con la transformación por el Espíritu. El contexto inmediato (1 Cor 10:31-11:1) conecta la imitación con la gloria de Dios y la edificación del prójimo, no con la autoexaltación.</p><h3>Contexto Histórico</h3><p>Corinto era una ciudad cosmopolita con tensiones entre facciones (1 Cor 1:10-12). Pablo, como fundador de la iglesia, usa su autoridad apostólica para modelar una conducta que trasciende divisiones. La imitación no es servilismo sino participación en la tradición apostólica. En el judaísmo, la imitación de Dios (imitatio Dei) era un ideal (Levítico 19:2); Pablo lo aplica a Cristo, mediador único. La frase 'así como yo de Cristo' subraya que la autoridad de Pablo es derivada y ejemplar, no absoluta.</p><h3>Implicaciones Teológicas</h3><p>Este versículo fundamenta el discipulado como imitación cristiforme. La santificación implica una conformidad progresiva con Cristo, facilitada por el Espíritu (2 Cor 3:18). La imitación no es legalismo sino respuesta al evangelio: porque Cristo se entregó por nosotros, podemos seguir su ejemplo (Fil 2:5-11). La cadena mimética protege contra el culto a la personalidad: el modelo final es Cristo, no Pablo. Así, la iglesia es una comunidad de imitadores que apuntan a Jesús.</p>",
+    "ninos": "<h2>🌟 ¡Sigue al Líder!</h2><p>¿Has jugado alguna vez a 'Sigue al líder'? Un niño hace algo y todos lo copian. Pablo dice: '¡Síganme a mí, así como yo sigo a Jesús!' Pablo no era perfecto, pero trataba de hacer lo que Jesús haría. Imagina que Jesús es el mejor capitán de un barco. Pablo es el primer oficial que dice: '¡Hagan lo que yo hago, porque yo hago lo que el capitán manda!' Tú también puedes ser un imitador: cuando ayudas a un amigo, cuando dices la verdad, cuando perdonas, estás imitando a Jesús. Y cuando otros te vean, ¡ellos también querrán seguir al mejor Capitán! La lección: No necesitas ser perfecto, solo sigue a Jesús y otros te seguirán a Él.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 5:1",
+        "tipo": "Temática",
+        "razon": "Ambos versículos llaman a imitar a Dios o a Cristo como modelo de conducta."
+      },
+      {
+        "referencia": "Filipenses 3:17",
+        "tipo": "Paralelo",
+        "razon": "Pablo repite el llamado a imitarlo a él y a otros que siguen su ejemplo."
+      },
+      {
+        "referencia": "1 Pedro 2:21",
+        "tipo": "Complemento",
+        "razon": "Cristo dejó ejemplo para que sigamos sus pasos, reforzando la idea de imitación."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child leading a group of friends in a sunny park, copying the leader's actions like raising arms and smiling. Bright colors, playful atmosphere, soft afternoon light.",
+    "prompt_imagen_normal": "A dramatic scene of Paul preaching to a diverse crowd in ancient Corinth, with intense emotion and determination on his face, gesturing upward, surrounded by listeners in awe, golden sunset light casting long shadows.",
+    "texto_original": "SED imitadores de mí, así como yo de Cristo.",
+    "versiculo": "1 Corintios 11:1"
+  },
+  "2": {
+    "normal": "<h2>Guardando las Tradiciones</h2><p>Pablo comienza este capítulo con un elogio sincero a los corintios: 'Os alabo, hermanos, que en todo os acordáis de mí, y retenéis las instrucciones mías, de la manera que os enseñé.' Es un recordatorio de que la fe cristiana no es solo una experiencia personal, sino también una tradición transmitida. Pablo valora que los corintios recuerden y practiquen lo que él les enseñó. Esto nos desafía a considerar: ¿estamos aferrándonos a las enseñanzas bíblicas que hemos recibido? En un mundo que cambia constantemente, es fácil dejarse llevar por nuevas ideas o modas. Pero Pablo nos anima a ser fieles a las instrucciones apostólicas, que son fundamento de nuestra fe. Aplicación práctica: hoy, reflexiona sobre una enseñanza bíblica que has descuidado. Puede ser la oración constante, el perdón, o la comunión con otros creyentes. Decide retomarla con diligencia, como un acto de amor a Dios y a su Palabra. Que nuestra vida sea un testimonio de que valoramos y guardamos las tradiciones que nos fueron entregadas.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:2</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>παραδόσεις</em> (paradoseis), traducido como 'instrucciones' o 'tradiciones'. En el griego helenístico, <em>parádosis</em> se refiere a la transmisión de enseñanzas, ya sean orales o escritas. Pablo usa este término para designar las tradiciones apostólicas que recibió y transmitió. El verbo <em>κατέχετε</em> (katechete) significa 'retenéis' o 'mantenéis firmemente', indicando una acción continua de aferrarse a esas enseñanzas. La frase 'de la manera que os enseñé' (καθὼς παρέδωκα ὑμῖν) subraya la fidelidad a la transmisión original.</p><h3>Contexto Histórico</h3><p>Corinto era una ciudad cosmopolita y moralmente licenciosa. La iglesia enfrentaba tensiones entre la libertad cristiana y las normas culturales. Pablo establece la autoridad de las tradiciones apostólicas como guía para la conducta. En el contexto del Cercano Oriente Antiguo, la transmisión de tradiciones era fundamental en el judaísmo rabínico y en las escuelas filosóficas griegas. Pablo, como fariseo convertido, aplica este modelo a la enseñanza cristiana, pero con la diferencia de que la tradición no es humana sino divina, recibida de Cristo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece la importancia de la tradición apostólica como norma para la iglesia. No se trata de tradiciones humanas, sino de las enseñanzas que Pablo recibió del Señor. Esto implica que la iglesia debe ser fiel a la doctrina original, sin innovaciones que la desvirtúen. La retención de estas tradiciones es un acto de obediencia y comunión con los apóstoles. Además, la alabanza de Pablo sugiere que la fidelidad a la enseñanza es motivo de alegría y no solo de obligación. Teológicamente, subraya la autoridad de la Escritura y la necesidad de la sucesión doctrinal.</p>",
+    "ninos": "<h2>🌟 ¡Recuerda lo que te enseñaron!</h2><p>Imagina que tu mamá te da una receta secreta para hacer galletas deliciosas. Te dice: 'No te olvides de los ingredientes y el orden.' Si sigues la receta, las galletas salen perfectas. Pero si cambias algo, ¡pueden saber raro! Así es con las enseñanzas de Dios. Pablo le dice a los cristianos: 'Me alegra que recuerden lo que les enseñé y lo sigan al pie de la letra.' Dios nos ha dado instrucciones en la Biblia para vivir felices y en paz. A veces queremos hacer las cosas a nuestra manera, pero Dios sabe lo que es mejor. Así que, cuando aprendas un versículo o una historia de la Biblia, ¡guárdala en tu corazón como un tesoro! Así podrás tomar buenas decisiones. 🍪📖</p>",
+    "recomendaciones": [
+      {
+        "referencia": "2 Tesalonicenses 2:15",
+        "tipo": "paralelo",
+        "razon": "Pablo exhorta a retener las tradiciones enseñadas, ya sea de palabra o por carta."
+      },
+      {
+        "referencia": "2 Timoteo 1:13",
+        "tipo": "paralelo",
+        "razon": "Pablo anima a Timoteo a retener la forma de las sanas palabras que ha oído de él."
+      },
+      {
+        "referencia": "Mateo 15:3-6",
+        "tipo": "contraste",
+        "razon": "Jesús critica las tradiciones humanas que invalidan el mandamiento de Dios, mostrando la diferencia entre tradición divina y humana."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful grandmother teaching a young child how to bake cookies in a warm kitchen. Sunlight streams through window. Child holds a recipe book. Ingredients on counter. Smiling faces. Soft, cozy lighting.",
+    "prompt_imagen_normal": "Apostle Paul standing before a congregation in ancient Corinth, raising his hand in blessing. People listening intently. Stone pillars, oil lamps. Dramatic chiaroscuro lighting. Expressions of reverence and attention.",
+    "texto_original": "Y os alabo, hermanos, que en todo os acordáis de mi, y retenéis las instrucciones mías, de la manera que os enseñé.",
+    "versiculo": "1 Corintios 11:2"
+  },
+  "3": {
+    "normal": "<h2>Cristo, la Cabeza que Nos Guía</h2><p>En 1 Corintios 11:3, Pablo nos invita a entender un orden divino que no es de superioridad o inferioridad, sino de relación y propósito. Imagina una cadena de amor y autoridad: Dios es la cabeza de Cristo, Cristo es la cabeza de todo hombre, y el hombre es la cabeza de la mujer. Esto no significa que un grupo sea más valioso que otro, sino que hay un diseño para la armonía y la bendición. Así como Cristo se somete voluntariamente al Padre en amor, nosotros estamos llamados a someternos unos a otros en el Señor. Para el esposo, ser cabeza implica liderar con sacrificio, como Cristo amó a la iglesia. Para la esposa, la sumisión es una respuesta de confianza en ese liderazgo amoroso. En la práctica, esto significa que en el matrimonio y en la iglesia, debemos reflejar la unidad y el orden que existen en la Trinidad. Cada uno tiene un rol, pero todos somos igualmente importantes ante Dios. Al entender esto, podemos evitar malentendidos que han causado dolor. En lugar de verlo como una cadena de mando, míralo como un baile donde cada uno sigue el ritmo del otro, guiados por el Espíritu. Hoy, pregúntate: ¿Estoy honrando a aquellos que Dios ha puesto como autoridad en mi vida? ¿Estoy liderando con amor o exigiendo con orgullo? Que este versículo nos recuerde que nuestra verdadera cabeza es Cristo, y en Él encontramos nuestra identidad y propósito.</p>",
+    "academico": "<h2>La Cabeza de Cristo, el Hombre y la Mujer: Una Exégesis de 1 Corintios 11:3</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>kephalē</em> (κεφαλή), traducido como \"cabeza\". En el griego koiné, <em>kephalē</em> puede significar literalmente la cabeza física o metafóricamente \"fuente\" u \"origen\", además de \"autoridad\" o \"líder\". Pablo usa la preposición <em>hōs</em> (\"como\") implícitamente para indicar una relación analógica. La frase <em>pantos andros hē kephalē ho Christos</em> (\"de todo varón la cabeza es Cristo\") establece una jerarquía funcional. El verbo <em>einai</em> (\"ser\") está implícito. La construcción <em>kephalē gynaikos ho anēr</em> (\"cabeza de la mujer el varón\") es paralela. El término <em>anēr</em> puede traducirse como \"varón\" o \"esposo\", y <em>gynē</em> como \"mujer\" o \"esposa\". En el contexto de 1 Corintios 11, Pablo discute el velo y la oración, sugiriendo un contexto marital y eclesial.</p><h3>Contexto Histórico</h3><p>Corinto era una ciudad grecorromana con diversas influencias culturales. En el mundo antiguo, la metáfora de la \"cabeza\" como fuente u origen era común; por ejemplo, en la literatura estoica, la cabeza representaba la parte directiva. Pablo no está creando una jerarquía de valor, sino un orden funcional en la creación y la redención. La referencia a Cristo como cabeza del hombre recuerda la creación de Adán, y el hombre como cabeza de la mujer remite a Génesis 2 (la mujer fue creada del hombre). Finalmente, Dios es la cabeza de Cristo, subrayando la subordinación funcional del Hijo al Padre dentro de la Trinidad económica, sin negar la igualdad esencial.</p><h3>Implicaciones Teológicas</h3><p>Este versículo ha sido central en debates sobre roles de género. Una interpretación complementaria sostiene que Pablo enseña una jerarquía ordenada por Dios para el matrimonio y la iglesia, mientras que una visión igualitaria enfatiza la mutualidad y la sumisión recíproca (Efesios 5:21). El texto no debe leerse como una justificación para la opresión, sino como parte de un discurso sobre el orden en la adoración. La Trinidad misma muestra que la autoridad y la sumisión pueden coexistir en igualdad y amor. Por lo tanto, 1 Corintios 11:3 nos llama a entender nuestra identidad en Cristo y a vivir en relaciones que reflejen el diseño divino de amor, respeto y unidad.</p>",
+    "ninos": "🌟 ¡Dios Tiene un Plan Especial!<p>Imagina que eres parte de un equipo de fútbol. Hay un capitán que dirige al equipo, pero todos son importantes. En la Biblia, Pablo nos dice que Jesús es como el capitán de todos los hombres, y el papá (o el esposo) es como el capitán de la familia, y Dios es el capitán de Jesús. Pero no es como si uno fuera más importante que otro. Es como un baile: Dios da el ritmo, Jesús sigue el ritmo de Dios, y nosotros seguimos el ritmo de Jesús. En una familia, el papá cuida y guía con amor, y la mamá ayuda y apoya. Todos se aman y trabajan juntos. Así como Jesús obedece a Dios porque lo ama, nosotros obedecemos a Jesús porque nos ama. Recuerda: todos somos igualmente valiosos para Dios. La lección es: respeta a tus padres y líderes, porque ellos te cuidan como Jesús cuida de nosotros. ¡Y siempre obedece a Dios, que es el mejor capitán de todos!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 5:22-33",
+        "tipo": "Desarrollo temático",
+        "razon": "Amplía el concepto de cabeza y sumisión en el matrimonio, con énfasis en el amor sacrificial de Cristo."
+      },
+      {
+        "referencia": "Génesis 2:18-24",
+        "tipo": "Base del Antiguo Testamento",
+        "razon": "Muestra la creación de la mujer del hombre, estableciendo una relación de origen y complementariedad."
+      },
+      {
+        "referencia": "Colosenses 1:18",
+        "tipo": "Paralelo cristológico",
+        "razon": "Cristo es la cabeza de la iglesia, reforzando la metáfora de la cabeza como fuente y autoridad."
+      },
+      {
+        "referencia": "1 Corintios 15:28",
+        "tipo": "Escatología",
+        "razon": "La sumisión final del Hijo al Padre, mostrando el orden trinitario eterno."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful family scene: a father gently leading his wife and two children by the hand, with a glowing cross above them; warm sunlight, green grass, smiling faces, simple and heartwarming.",
+    "prompt_imagen_normal": "Epic cinematic scene: Christ standing tall as a radiant figure, one hand over a man's head, the other over a woman's; divine light streaming from above, solemn faces, dramatic clouds, sense of sacred order.",
+    "texto_original": "Mas quiero que sepáis, que Cristo es la cabeza de todo varón; y el varón es la cabeza de la mujer; y Dios la cabeza de Cristo.",
+    "versiculo": "1 Corintios 11:3"
+  },
+  "4": {
+    "normal": "<h2>Honrando a Cristo en la Adoración</h2><p>En 1 Corintios 11:4, Pablo nos recuerda que nuestra forma de adorar refleja nuestra relación con Cristo. Para el varón, orar o profetizar con la cabeza cubierta era considerado una afrenta a su cabeza, que es Cristo. En la cultura de Corinto, el velo era símbolo de autoridad y sumisión; para la mujer, cubrirse honraba a su esposo, pero para el varón, descubrirse mostraba que estaba bajo la autoridad directa de Cristo. Hoy, aunque no usamos velos, el principio sigue vigente: nuestra adoración debe ser sincera y ordenada, evitando cualquier gesto que deshonre a Dios. ¿Cómo puedes asegurarte de que tu corazón y tus acciones en el culto honren a Cristo? Quizás necesitas examinar tus motivaciones o buscar mayor reverencia. Aplica esto: antes de orar o enseñar, pregúntate si tu actitud refleja sumisión a Cristo. La adoración no es solo externa, sino una postura del corazón que reconoce a Jesús como Señor.</p>",
+    "academico": "<h2>Análisis de 1 Corintios 11:4: Cobertura y Autoridad en el Culto</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>kata kephales echon</em> (κατὰ κεφαλῆς ἔχων), que significa 'teniendo algo sobre la cabeza'. La palabra <em>kephale</em> (κεφαλή) se traduce como 'cabeza', pero también conlleva el sentido de 'autoridad' o 'fuente' en contextos paulinos (cf. Efesios 5:23). Pablo usa <em>kataischunei</em> (καταισχύνει), 'deshonra' o 'avergüenza', indicando una violación del orden social y teológico. La práctica de cubrirse la cabeza para los varones era inusual en el culto judío y grecorromano, donde los hombres solían orar con la cabeza descubierta (a diferencia de las mujeres, que se cubrían como signo de modestia).</p><h3>Contexto Histórico</h3><p>En Corinto, una ciudad cosmopolita con influencias judías y paganas, el uso del velo tenía connotaciones culturales. Las mujeres respetables se cubrían en público, mientras que los hombres libres llevaban la cabeza descubierta. Pablo aborda la confusión en la iglesia: algunos varones podrían haber adoptado prácticas paganas de cubrirse (como en cultos mistéricos), lo que deshonraba a Cristo como cabeza del varón. La instrucción de Pablo busca mantener el orden en la adoración, reflejando la jerarquía divina: Dios, Cristo, varón, mujer.</p><h3>Implicaciones Teológicas</h3><p>El pasaje subraya la importancia de la autoridad y la sumisión en el cuerpo de Cristo. Pablo no establece una ley universal sobre vestimenta, sino un principio de orden en el culto. La 'cabeza' del varón es Cristo, por lo que cualquier acto que simbolice una autoridad terrenal (como cubrirse) puede confundir ese orden. La aplicación contemporánea requiere discernimiento cultural: lo esencial es que la adoración sea decente y con orden, honrando a Cristo como cabeza suprema.</p>",
+    "ninos": "<h2>🌟 La Cabeza Descubierta</h2><p>Imagina que estás en un equipo de fútbol. El capitán es el que dirige. En la iglesia, Jesús es nuestro capitán. Pablo dice que cuando los hombres oran, deben tener la cabeza descubierta para mostrar que Jesús es su jefe. Es como cuando en el colegio te quitas la gorra al entrar al salón para saludar al profesor. ¡Es una señal de respeto! Así, al orar sin nada en la cabeza, los hombres muestran que respetan a Jesús. Tú también puedes mostrar respeto a Dios cuando oras, con tu corazón atento y tus ojos cerrados. La lección es: siempre respeta a Jesús, tu capitán, en todo lo que hagas. 🕊️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 5:23",
+        "tipo": "Paralelo teológico",
+        "razon": "Ambos versículos usan 'cabeza' para referirse a Cristo como autoridad del varón."
+      },
+      {
+        "referencia": "1 Corintios 11:3",
+        "tipo": "Contexto inmediato",
+        "razon": "Versículo anterior que establece la jerarquía de cabezas."
+      },
+      {
+        "referencia": "1 Timoteo 2:8-9",
+        "tipo": "Paralelo de adoración",
+        "razon": "Pablo instruye sobre la postura y vestimenta en la oración."
+      }
+    ],
+    "prompt_imagen_ninos": "A boy in a colorful shirt removes his baseball cap before praying, with a warm sunset light streaming through a window. His eyes are closed, hands folded, showing respect. Simple room, happy atmosphere.",
+    "prompt_imagen_normal": "A first-century Corinthian man with intense expression, bare-headed, raising his hands in prayer. Sunlight casts dramatic shadows. He looks upward, lips moving. Realistic, epic lighting, conveying reverence and authority.",
+    "texto_original": "Todo varón que ora o profetiza cubierta la cabeza, afrenta su cabeza.",
+    "versiculo": "1 Corintios 11:4"
+  },
+  "5": {
+    "normal": "<h2>Cubriendo Nuestra Cabeza en Oración</h2><p>En la iglesia primitiva, Pablo abordó un tema cultural que hoy nos invita a reflexionar sobre el orden y el respeto en la adoración. Cuando una mujer ora o profetiza sin cubrirse la cabeza, Pablo dice que afrenta su cabeza. Esto no se trata de un mandato cultural obsoleto, sino de un principio más profundo: la importancia de honrar a Dios y a los demás en nuestra forma de adorar. En nuestro contexto actual, podemos aplicar esto preguntándonos: ¿Cómo estamos honrando a Dios y a nuestra comunidad cuando oramos o ministramos? ¿Nuestra actitud y apariencia reflejan respeto y sumisión a Cristo? La lección aquí es que nuestra adoración debe ser intencional y considerada, no descuidada. Así que, ya sea que cubras tu cabeza o no, lo esencial es que tu corazón esté cubierto de reverencia hacia Dios.</p>",
+    "academico": "<h2>Análisis de 1 Corintios 11:5: Velo Profético y Orden en la Adoración</h2><h3>Análisis Filológico</h3><p>El término griego <em>akatalyptos</em> (ἀκαταλύπτως) significa \"sin cubrir\", refiriéndose a la cabeza. El verbo <em>katakalyptō</em> (κατακαλύπτω) se usa para \"cubrir\". La frase \"afrenta su cabeza\" usa <em>kataischynō</em> (καταισχύνω), que implica deshonrar. Pablo contrasta con el versículo 4 donde el hombre descubre la cabeza. La práctica del velo era común en la cultura grecorromana y judía, simbolizando modestia y autoridad marital.</p><h3>Contexto Histórico</h3><p>En Corinto, las mujeres solían cubrirse la cabeza en público como señal de respetabilidad. Las mujeres sin velo eran asociadas con prostitutas o adúlteras. Pablo no inventa esta práctica, sino que la contextualiza teológicamente: la cabeza de la mujer es el hombre (v.3), y cubrirse indica reconocimiento de ese orden. Además, el versículo 6 sugiere que raparse (cortarse el cabello) era una vergüenza, equiparable a no cubrirse.</p><h3>Implicaciones Teológicas</h3><p>Pablo enfatiza el orden en la creación: Dios, Cristo, hombre, mujer. El velo no es una salvación, sino un símbolo cultural de ese orden. Hoy, la aplicación varía según la cultura, pero el principio de respeto mutuo y decoro en la adoración permanece. La libertad en Cristo no anula la sensibilidad cultural ni el orden bíblico.</p>",
+    "ninos": "<h2>🌟 La Cabeza Cubierta</h2><p>Imagina que estás en una fiesta y todos usan sombreros elegantes. De repente, alguien se quita el sombrero y todos se sorprenden. En la iglesia de Corinto, las mujeres usaban un velo en la cabeza cuando oraban. Pablo dijo que si una mujer no se cubría, era como si se hubiera rapado el cabello, ¡qué vergüenza! Pero no se trata solo de un velo, sino de mostrar respeto. Así como tú te pones tu mejor ropa para una ocasión especial, debemos mostrar respeto a Dios cuando oramos. La lección: siempre honra a Dios con tu actitud y tu apariencia, porque él es el Rey de reyes. 🙏✨</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:3",
+        "tipo": "contexto",
+        "razon": "Establece el principio de cabeza: Cristo, hombre, mujer."
+      },
+      {
+        "referencia": "1 Corintios 11:6",
+        "tipo": "contraste",
+        "razon": "Explica la vergüenza de no cubrirse, comparándolo con raparse."
+      },
+      {
+        "referencia": "1 Timoteo 2:9",
+        "tipo": "tema",
+        "razon": "Habla de la modestia en el vestir y adoración."
+      }
+    ],
+    "prompt_imagen_ninos": "A girl with a colorful scarf on her head praying in a sunny church, colorful stained glass, smiling faces, warm light, simple and joyful scene.",
+    "prompt_imagen_normal": "A woman in ancient Corinth, head uncovered, praying in a crowded assembly, dramatic shadows, expressions of shame and surprise on faces, epic lighting.",
+    "texto_original": "Mas toda mujer que ora o profetiza no cubierta su cabeza, afrenta su cabeza; porque lo mismo es que si se rayese.",
+    "versiculo": "1 Corintios 11:5"
+  },
+  "6": {
+    "normal": "<h2>El Valor de la Dignidad en Cristo</h2><p>Querido hermano, hermana: cuando leemos este versículo, podemos sentirnos confundidos. ¿Qué significa cubrirse o no cubrirse? En los tiempos de Pablo, la cobertura era un signo de autoridad y respeto. La mujer casada se cubría para mostrar que estaba bajo la protección de su esposo. Pero hoy, la aplicación no es literal; es sobre el corazón. Dios nos llama a vivir con dignidad, reconociendo que nuestra identidad está en Cristo, no en tradiciones culturales. Reflexiona: ¿Hay áreas en tu vida donde necesitas honrar a Dios con tu apariencia o actitudes? No se trata de reglas externas, sino de un corazón que busca glorificar a Dios en todo. Pídele al Señor que te dé sabiduría para vivir de manera que refleje su amor y orden.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:6</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>ei gar ou katakaluptetai gunē, kai keirasthō; ei de aischron gunaiki to keirasthai ē xurasthai, katakaluptesthō</em>. La palabra clave <em>katakaluptō</em> (κατακαλύπτω) significa 'cubrir completamente', y <em>keirō</em> (κείρω) es 'trasquilar, cortar el cabello'. Pablo usa el argumento cultural de que el cabello corto era vergonzoso para la mujer (posiblemente asociado con esclavas o prostitutas). El versículo subraya la interdependencia entre hombre y mujer en el Señor, no una subordinación absoluta.</p><h3>Contexto Histórico</h3><p>En Corinto, las mujeres que se quitaban el velo en la asamblea podrían estar imitando prácticas de cultos paganos o reclamando independencia. Pablo no impone una ley universal, sino que aplica principios de orden y testimonio en una cultura específica. La deshonra mencionada se refiere a la vergüenza social de tener la cabeza rapada, lo que era un castigo para adúlteras.</p><h3>Implicaciones Teológicas</h3><p>El pasaje enseña sobre la gloria de Dios reflejada en la creación: el hombre es gloria de Dios, la mujer es gloria del hombre (v.7). Sin embargo, en Cristo no hay distinción (Gálatas 3:28). La aplicación hoy debe centrarse en el principio de honrar a Dios en el contexto cultural, no en la imposición de costumbres pasadas.</p>",
+    "ninos": "🌟 <h2>Dios Cuida de Todos</h2><p>Había una vez una niña llamada Sofía. En la iglesia, algunas mujeres usaban un velo en la cabeza. Sofía preguntó: '¿Por qué se cubren?' Su mamá le explicó: 'Hace mucho tiempo, las mujeres se cubrían para mostrar respeto. Pero lo más importante es que todos somos especiales para Dios, sin importar cómo nos veamos.' Sofía sonrió y dijo: 'Entonces, ¿puedo usar una diadema de flores?' Su mamá rió: 'Claro, mientras tu corazón esté feliz y agradecido con Dios.' La lección: Dios nos ama a todos, y lo que importa es que le honremos con nuestro amor. 🌸🙏</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:2-16",
+        "tipo": "contexto",
+        "razon": "El pasaje completo explica el principio de la cobertura y el orden en la creación."
+      },
+      {
+        "referencia": "Gálatas 3:28",
+        "tipo": "complementario",
+        "razon": "Muestra la igualdad en Cristo, equilibrando la enseñanza sobre roles."
+      },
+      {
+        "referencia": "1 Timoteo 2:9-10",
+        "tipo": "tematico",
+        "razon": "Habla sobre la modestia y el adorno de las mujeres, conectando con la aplicación práctica."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful little girl with a flower headband in a sunny church, smiling as her mother explains about head coverings. Warm colors, gentle light, simple and happy scene.",
+    "prompt_imagen_normal": "A dramatic ancient Corinthian assembly, a woman with uncovered hair looking conflicted, surrounded by men and women in first-century attire, tense atmosphere, chiaroscuro lighting.",
+    "texto_original": "Porque si la mujer no se cubre, trasquílese también: y si es deshonesto a la mujer trasquilarse o raerse, cúbrase.",
+    "versiculo": "1 Corintios 11:6"
+  },
+  "7": {
+    "normal": "<h2>Imagen y Gloria</h2><p>Este versículo nos recuerda que tanto hombres como mujeres reflejan la gloria de Dios de maneras únicas. El apóstol Pablo explica que el varón es imagen y gloria de Dios, mientras que la mujer es gloria del varón. Esto no implica inferioridad, sino una relación de orden y complementariedad en el diseño divino. En la cultura de Corinto, cubrirse la cabeza era señal de autoridad o sumisión; Pablo usa esta costumbre para enseñar sobre el orden en la creación y en la iglesia. Hoy, podemos aplicar esto reconociendo que nuestra identidad más profunda está en Cristo, no en roles culturales. La verdadera gloria viene de vivir en armonía con el propósito de Dios: los hombres liderando con amor sacrificial, y las mujeres reflejando la gloria de Dios a través de su apoyo y fortaleza. Al orar y adorar, recordemos que somos llamados a honrar a Dios en nuestras relaciones, valorando a cada persona como portadora de Su imagen.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:7</h2><h3>Análisis Filológico</h3><p>En griego, 'imagen' (<em>eikōn</em>) y 'gloria' (<em>doxa</em>) son términos clave. <em>Eikōn</em> denota representación exacta, como una estatua o reflejo; <em>doxa</em> implica esplendor, honor o reputación. Pablo usa 'imagen y gloria' para el varón, mientras que la mujer es 'gloria del varón', estableciendo una relación asimétrica. El contexto cultural incluye la práctica judía de cubrirse la cabeza durante la oración, y las normas grecorromanas sobre velos. Filón de Alejandría y otros escritores antiguos discuten la jerarquía en la creación. Filológicamente, Pablo no dice que la mujer no sea imagen de Dios (cf. Gén 1:27), sino que enfatiza el orden en la relación hombre-mujer.</p><h3>Contexto Histórico</h3><p>En Corinto, las mujeres solían cubrirse la cabeza en público como señal de modestia y sujeción. Pablo aplica esta costumbre a la adoración cristiana, argumentando desde la creación: el varón fue creado primero y directamente por Dios, mientras que la mujer fue creada del varón (Gén 2). Así, el varón es 'imagen y gloria de Dios' al ejercer autoridad bajo Cristo, y la mujer glorifica al varón al reconocer su liderazgo. Sin embargo, Pablo equilibra esto en 11:11-12 afirmando la interdependencia.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje ha sido debatido en teología feminista y complementaria. La interpretación tradicional sostiene una jerarquía funcional en el hogar y la iglesia, basada en el orden de la creación. Críticos argumentan que Pablo refleja prejuicios culturales. Teológicamente, la imagen de Dios en ambos sexos es fundamental, y la 'gloria' aquí se refiere a la representación de la autoridad divina en el liderazgo masculino. La aplicación pastoral debe evitar el abuso, enfatizando el amor sacrificial y la igualdad ontológica en Cristo (Gál 3:28).</p>",
+    "ninos": "🌟 **Hombres y Mujeres: La Gloria de Dios** 🌟\n\n¿Sabías que cada persona es especial para Dios? En la Biblia, Dios dice que los hombres son como un espejo que refleja su gloria. ¡Como cuando el sol brilla en un espejo y lo ves! Las mujeres también reflejan la gloria de Dios, pero de una manera especial: ¡son como un espejo que refleja la luz del hombre! No significa que las mujeres sean menos importantes, sino que todos tenemos diferentes trabajos en la familia de Dios. Imagina un equipo de fútbol: el capitán dirige, pero todos son importantes. Así, los hombres y las mujeres se ayudan mutuamente para mostrar el amor de Dios. La lección es: respeta a todos, porque cada persona es un regalo de Dios. 🌈",
+    "recomendaciones": [
+      {
+        "referencia": "Génesis 1:27",
+        "tipo": "Fundamento teológico",
+        "razon": "Muestra que tanto hombre como mujer son creados a imagen de Dios, base para entender la gloria."
+      },
+      {
+        "referencia": "1 Corintios 11:3",
+        "tipo": "Contexto inmediato",
+        "razon": "Establece la cadena de autoridad: Cristo, varón, mujer."
+      },
+      {
+        "referencia": "Efesios 5:22-33",
+        "tipo": "Desarrollo temático",
+        "razon": "Expande el concepto de la relación varón-mujer como imagen de Cristo y la iglesia."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful scene of a man and a woman standing together, each holding a mirror reflecting a bright light from above. The man's mirror shows a crown, the woman's shows a heart. Warm colors, children watching with wonder.",
+    "prompt_imagen_normal": "Epic biblical scene: a man with uncovered head, standing in a shaft of heavenly light, his face reflecting divine glory. Beside him, a woman veiled, her posture respectful, both in ancient Middle Eastern attire. Dramatic lighting, sense of awe.",
+    "texto_original": "Porque el varón no ha de cubrir la cabeza, porque es imagen y gloria de Dios: mas la mujer es gloria del varón.",
+    "versiculo": "1 Corintios 11:7"
+  },
+  "8": {
+    "normal": "<h2>El Diseño de la Creación</h2><p>Este versículo nos recuerda el orden original de la creación: Dios formó a la mujer a partir del varón, no al revés. No se trata de superioridad o inferioridad, sino de un diseño intencional. Así como la costilla de Adán fue tomada para formar a Eva, la mujer proviene del varón, estableciendo una relación de interdependencia y complementariedad. En nuestra vida diaria, esto nos invita a valorar el rol único de cada género en el plan de Dios. El esposo y la esposa son iguales en dignidad, pero distintos en función. Aplicar esto significa honrar a Dios en nuestras relaciones, reconociendo que tanto hombres como mujeres son creados a Su imagen y tienen propósitos específicos. Que este versículo nos lleve a una mayor apreciación de cómo Dios nos diseñó para complementarnos mutuamente.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:8</h2><h3>Análisis Filológico</h3><p>El versículo dice literalmente: 'οὐ γάρ ἐστιν ἀνὴρ ἐκ γυναικός, ἀλλὰ γυνὴ ἐξ ἀνδρός' (ou gar estin anēr ek gynaikos, alla gynē ex andros). El término 'ἀνὴρ' (anēr) significa 'varón' o 'hombre' en contraste con mujer, y 'γυνή' (gynē) es 'mujer'. La preposición 'ἐκ' (ek) denota origen o procedencia. Pablo está citando la narrativa de Génesis 2:21-23, donde Eva es formada de la costilla de Adán. Este argumento no es meramente cultural, sino basado en el orden de la creación. El contexto histórico del Cercano Oriente Antiguo muestra que las genealogías y el orden de creación determinaban jerarquías sociales. Sin embargo, Pablo no está estableciendo una inferioridad ontológica, sino una distinción funcional en el contexto del culto. La palabra 'κεφαλή' (kephalē) en versículos anteriores, traducida como 'cabeza', puede significar 'fuente' u 'origen', lo que apoya la idea de procedencia. Así, Pablo usa este argumento para respaldar su enseñanza sobre el velo y el orden en la adoración.</p><h3>Contexto Histórico</h3><p>En la Corinto del siglo I, las mujeres estaban adoptando prácticas de libertad que chocaban con las normas judías y romanas. Pablo escribe para corregir desórdenes en el culto, incluyendo el uso del velo como símbolo de autoridad. Al apelar al orden de la creación, Pablo fundamenta su enseñanza en la teología, no solo en la costumbre. La creación de Eva de Adán establece una relación de interdependencia: la mujer procede del varón, pero el varón nace de la mujer (v. 12), creando un equilibrio.</p><h3>Implicaciones Teológicas</h3><p>Este versículo ha sido malinterpretado para justificar el patriarcado opresivo. Sin embargo, en su contexto, Pablo enfatiza la complementariedad y el orden funcional en la iglesia y el hogar. La teología de la creación muestra que ambos géneros son iguales en esencia (Gálatas 3:28) pero con roles distintos. La aplicación contemporánea debe evitar el legalismo y promover el amor mutuo, reconociendo que el diseño de Dios es para la armonía y la gloria de Cristo.</p>",
+    "ninos": "🌟 ¡Dios Tiene un Plan Especial! 🌟\n\nImagina que eres un artista y quieres hacer una escultura de arcilla. Primero haces un muñeco grande, y luego, de una parte de ese muñeco, ¡haces otro más pequeño! Así hizo Dios con Adán y Eva. Primero creó a Adán, y luego, de una costilla de Adán, hizo a Eva. Esto no significa que Eva sea menos importante, sino que Dios quería que fueran diferentes y se complementaran. Es como un rompecabezas: cada pieza es única y necesaria. En la vida, los niños y las niñas son diferentes, pero igual de valiosos. Dios nos hizo para ayudarnos y amarnos. Recuerda: ¡todos somos especiales en el plan de Dios!",
+    "recomendaciones": [
+      {
+        "referencia": "Génesis 2:21-23",
+        "tipo": "Base del argumento",
+        "razon": "Relata la creación de Eva de la costilla de Adán, fuente del versículo."
+      },
+      {
+        "referencia": "1 Corintios 11:12",
+        "tipo": "Complemento",
+        "razon": "Equilibra al decir que el varón también nace de la mujer, mostrando interdependencia."
+      },
+      {
+        "referencia": "Gálatas 3:28",
+        "tipo": "Contraste",
+        "razon": "Afirma la igualdad espiritual en Cristo, evitando interpretaciones de superioridad."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful scene of God creating Eve from Adam's rib in a lush garden. Adam sleeps peacefully, and Eve emerges glowing with light. Warm colors, gentle expressions, divine presence.",
+    "prompt_imagen_normal": "Epic biblical scene: God forming Eve from Adam's side in Eden. Adam asleep, Eve rising in radiant light. Dramatic lighting, awe-inspiring, divine craftsmanship, serene yet powerful.",
+    "texto_original": "Porque el varón no es de la mujer, sino la mujer del varón.",
+    "versiculo": "1 Corintios 11:8"
+  },
+  "9": {
+    "normal": "<h2>Diseñados para Complementarnos</h2><p>En este pasaje, Pablo nos recuerda que en el plan original de Dios, la mujer fue creada como una ayuda idónea para el varón (Génesis 2:18). No se trata de inferioridad, sino de un diseño intencional de complementariedad. El varón no fue creado para la mujer, sino la mujer para el varón, estableciendo un orden en la relación que refleja el amor y la autoridad de Cristo. Esto no significa que la mujer sea menos valiosa; al contrario, su creación fue un acto especial de Dios para completar lo que faltaba. En nuestras relaciones hoy, este principio nos invita a valorar los roles distintos que Dios nos ha dado, no para competir, sino para colaborar. El esposo debe amar a su esposa como Cristo amó a la iglesia, y la esposa debe responder con respeto y apoyo. Cuando entendemos esto, nuestras relaciones se convierten en un reflejo del evangelio. Aplica esto en tu vida: busca honrar a tu cónyuge o a tus hermanos en la fe, reconociendo que cada uno tiene un propósito único en el cuerpo de Cristo.</p>",
+    "academico": "<h2>Exégesis de 1 Corintios 11:9: Orden de Creación y Complementariedad</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el griego κτίζω (ktizō, 'crear') en aoristo pasivo, indicando un acto divino fundacional. La frase 'por causa de' traduce διά (dia) con acusativo, denotando propósito o razón. Pablo alude directamente a Génesis 2:18-23, donde la mujer (γυνή, gynē) es creada como 'ayuda idónea' (עֵזֶר כְּנֶגְדּוֹ, 'ezer kenegdo) para el varón (ἀνήρ, anēr). La estructura sintáctica enfatiza el orden: primero Adán, luego Eva. El término 'varón' (ἀνήρ) y 'mujer' (γυνή) también implican roles de género en el contexto marital y eclesial.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, la creación de la mujer como 'ayuda' no implicaba inferioridad, sino una posición de igualdad esencial con función diferenciada. En la cultura grecorromana, las mujeres tenían estatus inferior; Pablo contraculturalmente afirma la dignidad de la mujer (v. 11-12) mientras mantiene el orden de creación. La iglesia en Corinto enfrentaba tensiones sobre el velo y la autoridad, y Pablo usa el orden de creación para argumentar que la mujer debe cubrirse como señal de autoridad (v. 10).</p><h3>Implicaciones Teológicas</h3><p>Este versículo fundamenta la complementariedad de género: varón y mujer son iguales en esencia pero distintos en función. El orden de creación (primero Adán, luego Eva) establece una jerarquía relacional no de subordinación ontológica sino de roles. Pablo no enseña superioridad del varón, sino interdependencia (v. 11-12). La teología paulina sostiene que en Cristo no hay distinción de género para la salvación (Gálatas 3:28), pero en la creación y la iglesia hay un orden que refleja la relación entre Cristo y la iglesia (Efesios 5:22-33).</p>",
+    "ninos": "<h2>🌟 Dios Hizo a la Mujer para Ayudar al Hombre</h2><p>Imagina que estás armando un rompecabezas. Tienes todas las piezas, pero falta una muy importante. ¡No puedes terminar el dibujo sin ella! Así como esa pieza especial, Dios hizo a la mujer para completar al hombre. En la Biblia, primero Dios creó a Adán, y luego vio que estaba solo. Entonces, hizo a Eva, una ayudante perfecta para él. No era porque Adán fuera más importante, sino porque juntos podían hacer cosas increíbles. En tu vida, recuerda que todos somos importantes. Los niños y las niñas pueden trabajar juntos, ayudarse y ser amigos. Dios nos hizo diferentes para que podamos complementarnos. Así que, cuando juegues con tus amigos, valora a cada uno, porque todos tenemos un propósito especial. 🧩</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Génesis 2:18-23",
+        "tipo": "Base del AT",
+        "razon": "Pablo cita directamente la creación de Eva como ayuda para Adán."
+      },
+      {
+        "referencia": "Efesios 5:22-33",
+        "tipo": "Paralelo teológico",
+        "razon": "Desarrolla la relación entre Cristo y la iglesia como modelo para el matrimonio."
+      },
+      {
+        "referencia": "1 Timoteo 2:13",
+        "tipo": "Refuerzo del orden de creación",
+        "razon": "Pablo repite el argumento del orden de creación para roles en la iglesia."
+      },
+      {
+        "referencia": "Gálatas 3:28",
+        "tipo": "Contrapunto",
+        "razon": "Equilibra la distinción de roles con la igualdad espiritual en Cristo."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful scene of Adam and Eve in a lush garden, Eve handing Adam a glowing puzzle piece, both smiling, warm sunlight, vibrant colors, playful animals nearby.",
+    "prompt_imagen_normal": "Epic biblical scene: God creating Eve from Adam's rib, Adam asleep, radiant divine light, dramatic shadows, awe and wonder on Adam's face, majestic garden backdrop.",
+    "texto_original": "Porque tampoco el varón fue criado por causa de la mujer, sino la mujer por causa del varón.",
+    "versiculo": "1 Corintios 11:9"
+  },
+  "10": {
+    "normal": "<h2>Autoridad y Respeto</h2><p>En 1 Corintios 11:10, Pablo habla de una señal de autoridad sobre la cabeza de la mujer, por causa de los ángeles. Esto puede parecer extraño hoy, pero en el contexto cultural, era una práctica común que las mujeres casadas usaran un velo como símbolo de su posición bajo la autoridad de su esposo. Sin embargo, Pablo no está promoviendo la sumisión sin sentido, sino un orden divino que refleja la relación entre Cristo y la iglesia. Los ángeles, como testigos de la creación y la redención, observan cómo vivimos nuestro llamado en comunidad. Para el creyente adulto, esto nos recuerda que nuestras acciones tienen un impacto espiritual más amplio. En la práctica, podemos aplicar esto honrando los roles que Dios nos ha dado, no como una carga, sino como una oportunidad para mostrar Su diseño de amor y respeto mutuo. Ya sea en el matrimonio, la iglesia o la sociedad, la sumisión voluntaria por amor a Cristo es una poderosa declaración de fe. Así que, al considerar este versículo, pregúntate: ¿Estoy viviendo de una manera que honra a Dios y edifica a los demás? La señal de autoridad no es solo un símbolo externo, sino una actitud del corazón que reconoce el orden de Dios y busca la unidad en el cuerpo de Cristo.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:10</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>exousía</em> (ἐξουσία), traducido como 'autoridad' o 'señal de potestad'. En el contexto, se refiere a un velo o cobertura que simboliza la autoridad del esposo sobre la mujer. La frase 'por causa de los ángeles' (διὰ τοὺς ἀγγέλους) ha sido debatida. Algunos interpretan a los ángeles como testigos de la creación y el orden divino (cf. 1 Tim 5:21), mientras que otros sugieren que son ángeles caídos que podrían ser tentados por la falta de cobertura (cf. Gén 6:1-4). La palabra 'mujer' (γυνή) puede referirse tanto a esposa como a mujer en general, pero en el contexto del matrimonio y el culto, probablemente se refiere a esposas.</p><h3>Contexto Histórico</h3><p>En la Corinto del siglo I, las mujeres casadas normalmente usaban un velo en público como señal de modestia y de estar bajo la autoridad de su esposo. Pablo aborda prácticas en el culto que podrían causar confusión o escándalo. La mención de los ángeles refleja la creencia judía de que los ángeles están presentes en las asambleas de adoración (cf. Sal 138:1; Qumrán). También podría aludir a la idea de que los ángeles velan por el orden de la creación, y la falta de cobertura podría perturbar ese orden.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje subraya la importancia del orden en la creación y la iglesia. La 'autoridad' no es solo una cuestión cultural, sino teológica: refleja la relación entre Cristo y el Padre (11:3). La mujer, al usar el velo, reconoce el orden divino. Los ángeles, como seres celestiales, son testigos de cómo los humanos responden a la autoridad de Dios. Esto implica que nuestras acciones en el culto tienen dimensiones cósmicas. Aunque las prácticas culturales cambian, el principio de honrar los roles y la autoridad establecidos por Dios sigue siendo relevante. La aplicación contemporánea puede enfocarse en la actitud de sumisión mutua por amor a Cristo, evitando legalismos.</p>",
+    "ninos": "🌟 ¡El Velo Especial!\n\nHabía una vez una mujer llamada Sara que siempre usaba un hermoso velo en la iglesia. Un día, un niño llamado Lucas le preguntó: \"¿Por qué usas eso?\" Sara sonrió y dijo: \"Es como una corona que me recuerda que Dios puso a mi esposo para cuidarme, y yo lo respeto. También es como un regalo para los ángeles, que nos ven desde el cielo y se alegran cuando obedecemos a Dios.\" Lucas entendió: así como él usa su uniforme escolar para mostrar que pertenece a su escuela, el velo mostraba que Sara pertenecía a su familia bajo el amor de Dios. 🕊️\n\nLección: Cuando honramos a quienes Dios puso sobre nosotros, mostramos amor y respeto, ¡y los ángeles celebran!",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 5:22-33",
+        "tipo": "Complemento",
+        "razon": "Desarrolla el tema de la sumisión mutua en el matrimonio y la relación con Cristo."
+      },
+      {
+        "referencia": "Génesis 6:1-4",
+        "tipo": "Trasfondo",
+        "razon": "Posible referencia a ángeles caídos y la necesidad de cobertura."
+      },
+      {
+        "referencia": "1 Timoteo 2:9-15",
+        "tipo": "Paralelo",
+        "razon": "Pablo vuelve a hablar sobre la vestimenta y el orden en la iglesia."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling woman in a colorful church, wearing a white veil, talking to a curious boy. Bright sunlight streams through stained glass windows. Angels with gentle faces watch from above.",
+    "prompt_imagen_normal": "A first-century Corinthian woman with a veil, standing in a sunlit courtyard, her hand touching the fabric. Her expression is respectful and serene. Angels, barely visible in the background, observe with solemn attention.",
+    "texto_original": "Por lo cual, la mujer debe tener señal de potestad sobre su cabeza, por causa de los ángeles.",
+    "versiculo": "1 Corintios 11:10"
+  },
+  "11": {
+    "normal": "<h2>Unidad en el Señor</h2><p>Este versículo nos recuerda que en Cristo, hombres y mujeres no estamos en competencia, sino en una interdependencia sagrada. Pablo escribe para corregir un malentendido: aunque en la cultura de aquel tiempo había roles distintos, en el Señor no hay superioridad ni inferioridad. Ambos nos necesitamos mutuamente para reflejar plenamente la imagen de Dios. En tu vida diaria, esto se aplica cuando valoras las contribuciones de tu cónyuge, hermano o hermana en la fe, reconociendo que juntos son más fuertes. No se trata de quién manda, sino de cómo se complementan. Practica hoy la humildad y el respeto mutuo, viendo a cada persona como un don de Dios para tu crecimiento.</p>",
+    "academico": "<h2>Interdependencia en el Señor: Análisis de 1 Corintios 11:11</h2><h3>Análisis Filológico</h3><p>El versículo utiliza la conjunción adversativa πλὴν (plēn) que puede traducirse como 'sin embargo' o 'no obstante', indicando un contraste con los versículos anteriores donde Pablo habla de la autoridad del varón sobre la mujer (v. 3, 7-9). La frase clave es 'ἐν Κυρίῳ' (en Kyriō) que significa 'en el Señor', señalando que en la esfera de la redención, las diferencias culturales quedan subsumidas bajo la nueva creación. El término 'γυνή' (gynē, 'mujer') y 'ἀνήρ' (anēr, 'varón') se usan en paralelismo quiástico, enfatizando la reciprocidad: ni el varón sin la mujer, ni la mujer sin el varón. El verbo 'χωρίς' (chōris, 'sin') implica separación o independencia, negando cualquier autonomía en la relación.</p><h3>Contexto Histórico</h3><p>En la Corinto del siglo I, las mujeres estaban subordinadas social y legalmente. Pablo, al escribir sobre el velo (vv. 2-16), busca mantener el orden en la adoración, pero introduce esta declaración para prevenir una interpretación jerárquica extrema. El versículo refleja la teología paulina de la igualdad en Cristo (Gálatas 3:28), aplicada aquí a la relación marital y eclesial. En el contexto del Cercano Oriente Antiguo, la interdependencia era un concepto radical, ya que la cultura grecorromana operaba bajo un sistema patriarcal estricto.</p><h3>Implicaciones Teológicas</h3><p>Este versículo es fundamental para una teología de la complementariedad sin jerarquía. Afirma que tanto hombres como mujeres son creados a imagen de Dios (Génesis 1:27) y que en la nueva humanidad en Cristo, la dependencia mutua es la norma. No anula los roles funcionales (como en el matrimonio o el ministerio), pero los sitúa bajo el señorío de Cristo, donde el amor y el servicio mutuo son primordiales. La expresión 'en el Señor' indica que la identidad en Cristo trasciende y redefine las relaciones humanas.</p>",
+    "ninos": "🌟 <h2>Juntos somos mejores</h2><p>Imagina que tienes un rompecabezas. Una pieza sola no muestra el dibujo completo, ¿verdad? Necesitas todas las piezas. Así somos los hombres y las mujeres: cada uno es importante y juntos podemos hacer cosas increíbles. La Biblia dice que en la familia de Dios, nadie es más importante que otro. Todos nos necesitamos. Como cuando juegas en equipo: si solo un amigo tira la pelota y los demás no ayudan, no se gana. Pero si todos participan, ¡es divertido! Así es con papá y mamá, o con tus hermanos. Dios nos hizo diferentes para que podamos ayudarnos. Recuerda: no importa si eres niño o niña, lo importante es amarse y trabajar juntos. Lección: En el amor de Jesús, todos somos iguales y nos necesitamos.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Gálatas 3:28",
+        "tipo": "Teológica",
+        "razon": "Ambos versículos afirman la igualdad en Cristo sin distinción de género."
+      },
+      {
+        "referencia": "Efesios 5:21",
+        "tipo": "Práctica",
+        "razon": "Llama a someterse mutuamente en el temor de Dios, reflejando la interdependencia."
+      },
+      {
+        "referencia": "Génesis 1:27",
+        "tipo": "Creación",
+        "razon": "Muestra que varón y mujer son creados a imagen de Dios, base de su igualdad."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful group of diverse children of different genders and ethnicities holding hands in a circle under a bright sun, smiling, with a church in background, warm colors.",
+    "prompt_imagen_normal": "A dramatic scene of a man and woman facing each other, hands almost touching, with a soft divine light between them, set in an ancient Corinthian courtyard, conveying mutual respect and unity.",
+    "texto_original": "Mas ni el varón sin la mujer, ni la mujer sin el varón, en el Señor.",
+    "versiculo": "1 Corintios 11:11"
+  },
+  "12": {
+    "normal": "<h2>Un diseño de interdependencia</h2><p>Cuando leemos este versículo, vemos una verdad hermosa: Dios diseñó la creación para que todos dependamos unos de otros. El apóstol Pablo nos recuerda que, aunque la mujer fue creada del varón (Génesis 2), ahora cada varón nace de una mujer. No hay lugar para el orgullo o la superioridad. Somos mutuamente necesarios. En nuestra vida diaria, esto nos llama a valorar a cada persona, reconociendo que todos tenemos un lugar en el plan de Dios. ¿Hay alguien a quien menosprecias? Recuerda que sin ellos, no estarías aquí. Agradece a Dios por la red de relaciones que te sostiene.</p>",
+    "academico": "<h2>Interdependencia en el orden creado</h2><h3>Análisis Filológico</h3><p>El versículo usa dos preposiciones griegas: ἐκ (ek) en 'la mujer es del varón' (ἡ γυνὴ ἐκ τοῦ ἀνδρός) y διά (dia) en 'el varón es por la mujer' (ὁ ἀνὴρ διὰ τῆς γυναικός). La primera indica origen causal directo (la mujer procede del varón en la creación), mientras que la segunda expresa mediación instrumental (el varón viene al mundo a través de la mujer). El término 'empero' (τὰ δὲ πάντα) enfatiza la soberanía divina: 'todas las cosas proceden de Dios' (ἐκ τοῦ Θεοῦ). Pablo juega con el relato de Génesis 2:21-23 y el hecho biológico del parto para establecer una dependencia mutua bajo la autoridad final de Dios.</p><h3>Contexto Histórico</h3><p>En la Corinto del siglo I, las tensiones de género eran comunes. Algunos hombres podrían haber usado el orden de la creación para justificar el dominio masculino. Pablo corrige esto recordando que, aunque la mujer fue creada del varón, ahora el varón nace de la mujer. En el mundo grecorromano, la mujer era a menudo vista como inferior; el apóstol nivela el campo al afirmar la interdependencia. Además, el contexto litúrgico (1 Corintios 11:2-16) aborda el velo y la autoridad, mostrando que la diferencia de roles no implica desigualdad de valor.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la doctrina de la creación y la providencia. Dios es la fuente última de todo (Romanos 11:36). La interdependencia entre hombre y mujer refleja la Trinidad: relaciones de amor mutuo sin subordinación de esencia. La aplicación práctica es clara: cualquier jerarquía humana debe estar matizada por la dependencia mutua y la gloria de Dios. Pablo no aboga por una igualdad absoluta de funciones, sino por una reciprocidad que honre a Dios como el origen de todo.</p>",
+    "ninos": "<h2>🌟 Dios hizo un equipo perfecto</h2><p>Imagina que estás armando un rompecabezas. ¡Cada pieza es importante! Así son los hombres y las mujeres. Al principio, Dios hizo a Adán del polvo, pero luego sacó a Eva de una costilla de Adán. ¡Qué sorpresa! Pero ahora, cada bebé varón nace de una mamá. Así que todos nos necesitamos. Como cuando juegas con tu amigo: tú necesitas a tu amigo para divertirte, y él te necesita a ti. Dios quiere que nos ayudemos y nos amemos. Recuerda: nadie es más importante que otro. Todos venimos de Dios. Así que hoy, da las gracias por tu familia y amigos. ¡Eres una pieza especial en el equipo de Dios!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Génesis 2:21-23",
+        "tipo": "Base del argumento",
+        "razon": "Muestra la creación de la mujer del varón, el punto de partida de Pablo."
+      },
+      {
+        "referencia": "1 Corintios 11:11",
+        "tipo": "Contexto inmediato",
+        "razon": "Versículo anterior que establece la interdependencia en el Señor."
+      },
+      {
+        "referencia": "Romanos 11:36",
+        "tipo": "Paralelo teológico",
+        "razon": "Afirma que todas las cosas proceden de Dios, similar al final del versículo."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful scene of a boy and a girl building a colorful puzzle together in a sunny room, smiling, with a glowing light above symbolizing God's love.",
+    "prompt_imagen_normal": "A dramatic scene of Adam and Eve in the Garden of Eden, with Adam's side glowing as Eve is formed, and a divine light illuminating both, showing mutual dependence and God's sovereignty.",
+    "texto_original": "Porque como la mujer es del varón, así también el varón es por la mujer: empero todo de Dios.",
+    "versiculo": "1 Corintios 11:12"
+  },
+  "13": {
+    "normal": "<h2>Orando con libertad y respeto</h2><p>En 1 Corintios 11:13, Pablo desafía a los creyentes a reflexionar sobre la oración y la cobertura. En la cultura de Corinto, las mujeres solían cubrirse la cabeza como señal de modestia y respeto. Pablo pregunta: \"¿Es apropiado que una mujer ore a Dios sin cubrirse?\" La respuesta, en su contexto, era no. Pero más allá de la costumbre, este versículo nos invita a considerar la actitud de nuestro corazón cuando oramos. No se trata de una regla externa, sino de un principio: acercarnos a Dios con reverencia y sensibilidad cultural. Hoy, podemos aplicar esto preguntándonos: ¿Estamos orando con un corazón humilde y respetuoso? ¿Buscamos honrar a Dios en nuestra forma de adorar? A veces nos enfocamos en lo externo, pero Dios mira el interior. Que nuestra oración sea siempre un acto de amor y entrega, no una rutina vacía. Al orar, recordemos que estamos en la presencia del Rey de reyes, y que nuestra postura—física o espiritual—debe reflejar asombro y gratitud.</p>",
+    "academico": "<h2>Análisis de 1 Corintios 11:13</h2><h3>Análisis Filológico</h3><p>El término griego clave aquí es \"κατακαλύπτω\" (katakaluptō), que significa \"cubrir completamente\". Pablo usa el verbo en forma pasiva: \"no cubierta\" (ἀκατακάλυπτος, akatakaluptos). La palabra \"honesto\" traduce \"πρέπον\" (prepon), que indica lo que es apropiado o decoroso. En el contexto cultural grecorromano, las mujeres casadas solían usar un velo (calyptra) como señal de modestia y sumisión al esposo. Pablo apela al sentido común de los corintios, preguntando si es decoroso que una mujer ore sin velo, lo que sería visto como inmodesto y deshonroso. La oración (προσεύχομαι, proseuchomai) se refiere a la oración pública en la asamblea. Este pasaje debe entenderse dentro de la jerarquía de 1 Corintios 11:3: Dios-Cristo-varón-mujer. La cobertura simboliza autoridad (ἐξουσία, exousia) sobre la mujer (v.10).</p><h3>Contexto Histórico</h3><p>Corinto era una ciudad cosmopolita con influencias griegas y romanas. Las mujeres de estatus social alto a veces adoptaban modas liberales, como quitarse el velo en público, lo que escandalizaba a los conservadores. En el culto pagano, algunas sacerdotisas oraban sin velo, asociado con inmoralidad. Pablo busca evitar que la iglesia sea malinterpretada como promiscua o rebelde. Además, la sinagoga judía requería que las mujeres se cubrieran la cabeza. Pablo no impone una ley universal, sino que aplica principios de decoro cultural para no ofender y mantener el testimonio cristiano.</p><h3>Implicaciones Teológicas</h3><p>Este versículo no establece una doctrina permanente sobre el velo, sino que ilustra cómo el evangelio debe encarnarse en contextos culturales específicos. El principio subyacente es la sumisión mutua por amor (Efesios 5:21) y la edificación de la iglesia. La oración debe hacerse con reverencia, evitando causar tropiezo. Hoy, la aplicación varía según la cultura; lo esencial es el corazón humilde y la sensibilidad hacia las normas de la comunidad de fe.</p>",
+    "ninos": "🌟 <h2>La oración del corazón</h2><p>Imagina que estás en una fiesta de cumpleaños. Todos se visten bonito para celebrar. ¿Te pondrías un disfraz de payaso para hablar con el cumpleañero? ¡No! Te vistes con respeto. En la iglesia, cuando oramos, hablamos con Dios, el Rey del universo. En los tiempos de la Biblia, las mujeres usaban un velo en la cabeza para mostrar respeto. Pablo preguntó: \"¿Es correcto que una mujer ore sin velo?\" La respuesta es que debemos mostrar respeto a Dios en todo lo que hacemos. No importa si usas o no un velo hoy, lo importante es que tu corazón esté lleno de amor y reverencia cuando oras. Así que la próxima vez que ores, recuerda: ¡estás hablando con el mejor amigo que puedes tener! Trátalo con cariño y respeto.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:3",
+        "tipo": "contexto",
+        "razon": "Establece la jerarquía de autoridad que subyace al versículo 13."
+      },
+      {
+        "referencia": "1 Timoteo 2:9-10",
+        "tipo": "tema similar",
+        "razon": "Habla de la modestia en la vestimenta y el adorno, relacionado con la cobertura."
+      },
+      {
+        "referencia": "Efesios 5:21-33",
+        "tipo": "principio",
+        "razon": "Desarrolla el principio de sumisión mutua en el matrimonio, aplicable al contexto."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful little girl praying with folded hands, wearing a colorful dress and a soft veil on her head, in a cozy room with warm light streaming through a window, surrounded by toys and a Bible. Bright colors, simple shapes.",
+    "prompt_imagen_normal": "A dramatic scene in an ancient Corinthian gathering: a woman with uncovered head praying fervently, her face expressing deep emotion, surrounded by onlookers with mixed expressions, dim torchlight casting shadows, realistic historical setting.",
+    "texto_original": "Juzgad vosotros mismos: ¿es honesto orar la mujer a Dios no cubierta?",
+    "versiculo": "1 Corintios 11:13"
+  },
+  "14": {
+    "normal": "<h2>La Naturaleza como Maestra</h2><p>Dios nos ha dado la naturaleza como una guía silenciosa. Pablo nos recuerda que incluso las cosas simples, como el cabello, nos enseñan sobre el orden divino. En la cultura de Corinto, el cabello largo en un hombre se asociaba con deshonra, mientras que en la mujer era símbolo de gloria. Esto no es solo una cuestión cultural, sino un reflejo de cómo Dios diseñó la creación para mostrar su sabiduría. Hoy, podemos aprender a observar la naturaleza y las Escrituras para discernir lo que es apropiado. No se trata de reglas rígidas, sino de honrar a Dios en nuestras elecciones diarias. Pregúntate: ¿Estoy siguiendo el diseño de Dios en mi vida? La naturaleza misma nos señala hacia Él.</p>",
+    "academico": "<h2>Análisis de 1 Corintios 11:14: Naturaleza y Convención Cultural</h2><h3>Análisis Filológico</h3><p>El término griego para 'naturaleza' es <em>physis</em> (φύσις), que en el pensamiento estoico y paulino se refiere al orden inherente de la creación. La palabra 'deshonesto' traduce <em>atimia</em> (ἀτιμία), que implica falta de honor o vergüenza. Pablo utiliza una pregunta retórica ('¿no os enseña?') para apelar a la conciencia común. El verbo 'criar' (<em>komaō</em>, κομάω) significa tener cabello largo, y en el contexto grecorromano, el cabello largo en varones se asociaba con afeminamiento o prácticas paganas (como en los cultos de Dionisio).</p><h3>Contexto Histórico</h3><p>En la Corinto del siglo I, el cabello largo era típico de mujeres y de ciertos filósofos cínicos, pero no de hombres respetables. Pablo refuerza esta distinción basándose en la creación (Génesis 1-2) y en las costumbres de las iglesias (v. 16). La naturaleza aquí no es solo biológica, sino también cultural, ya que la creación misma establece diferencias de género que las convenciones sociales deben reflejar.</p><h3>Implicaciones Teológicas</h3><p>Pablo no establece una ley universal sobre la longitud del cabello, sino que usa un ejemplo cultural para enseñar sobre el orden en la adoración. El principio subyacente es que las prácticas de la iglesia deben edificar y evitar ofensas innecesarias. La naturaleza, como creación de Dios, proporciona un marco para entender roles y decoro, pero siempre bajo la guía del Espíritu y el amor.</p>",
+    "ninos": "🌟 ¡Dios Nos Enseña con la Naturaleza! 🌟\n\nImagina que estás en un jardín. Ves flores altas y árboles fuertes. Cada cosa tiene su lugar, ¿verdad? Pues así es con nosotros. Pablo dice que la naturaleza nos enseña que los hombres y las mujeres son diferentes, ¡y eso está bien! El cabello largo en una mujer es hermoso, como una corona, pero en un hombre, en esos tiempos, no era común. No es que esté mal, sino que Dios nos hizo únicos. Como un león tiene melena y una leona no, ¡así somos nosotros! La lección: Dios nos creó a cada uno especial. Obedecerle es como seguir el mapa del jardín: nos lleva a la felicidad. Así que, ¡sonríe! Eres una obra maestra de Dios.",
+    "recomendaciones": [
+      {
+        "referencia": "Génesis 1:27",
+        "tipo": "Fundamento teológico",
+        "razon": "Establece la creación del hombre y la mujer a imagen de Dios, base para las distinciones de género."
+      },
+      {
+        "referencia": "1 Corintios 11:3",
+        "tipo": "Contexto inmediato",
+        "razon": "Introduce el principio de cabeza y orden que Pablo desarrolla en el pasaje."
+      },
+      {
+        "referencia": "Deuteronomio 22:5",
+        "tipo": "Paralelo del Antiguo Testamento",
+        "razon": "Prohíbe la vestimenta del otro sexo, reflejando una preocupación similar por las distinciones de género."
+      },
+      {
+        "referencia": "Romanos 1:26-27",
+        "tipo": "Temático",
+        "razon": "Pablo usa la naturaleza (physis) para argumentar contra la homosexualidad, mostrando su uso retórico de la creación."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful garden with tall sunflowers and a strong oak tree. A smiling boy with short hair and a girl with long braids stand side by side, holding hands. Warm sunlight, vibrant colors, peaceful scene.",
+    "prompt_imagen_normal": "A dramatic ancient Corinthian street. A man with long hair being shamed by elders, pointing at him. Harsh sunlight, dusty road, expressions of disapproval and shame, realistic textures.",
+    "texto_original": "La misma naturaleza ¿no os enseña que al hombre sea deshonesto criar cabello?",
+    "versiculo": "1 Corintios 11:14"
+  },
+  "15": {
+    "normal": "<h2>El Cabello Largo: Un Regalo de Honra</h2><p>Querido hermano, hermana: el versículo de hoy nos habla de algo muy hermoso. El apóstol Pablo dice que para la mujer, tener el cabello largo es una honra, porque le ha sido dado en lugar de velo. En la cultura de aquel tiempo, el velo era un símbolo de autoridad y modestia. Pero aquí, Pablo va más allá: el cabello mismo es un regalo de Dios que cumple ese propósito. No se trata de una regla rígida, sino de reconocer la belleza y el diseño divino. Dios nos creó varón y mujer, y en nuestras diferencias hay una expresión de Su gloria. El cabello largo en la mujer puede ser una señal de su feminidad y de la cobertura que Dios le da. Esto no significa que las mujeres deban tener el cabello largo para ser espirituales, sino que cuando lo hacen, pueden verlo como un recordatorio de la honra que Dios les otorga. Y para los hombres, es una oportunidad de valorar y proteger esa belleza. En la vida diaria, podemos aplicar esto: las mujeres, agradeciendo a Dios por su diseño; los hombres, honrando a las mujeres como dones de Dios. No se trata de apariencias, sino de corazones que reflejan Su orden y amor.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:15</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"γυνὴ δὲ ἐὰν κομᾷ, δόξα αὐτῇ ἐστιν; ὅτι ἡ κόμη ἀντὶ περιβολαίου δέδοται [αὐτῇ].\" La palabra clave es <em>κόμη</em> (komē), que significa \"cabello largo\" o \"melena\", y <em>περιβολαίου</em> (peribolaion), que se refiere a un manto o velo. Pablo usa un juego de palabras: el cabello largo (komē) es dado en lugar de (anti) un velo (peribolaion). El término <em>δόξα</em> (doxa) significa \"gloria\" u \"honra\", indicando que el cabello largo es una fuente de honor para la mujer. En el contexto cultural grecorromano, las mujeres solían cubrirse la cabeza en público como señal de modestia y sujeción a la autoridad masculina. Pablo adapta esta costumbre, argumentando que la naturaleza misma provee un velo: el cabello largo. Esto no implica una norma universal, sino una aplicación contextual basada en principios de orden en la creación.</p><h3>Contexto Histórico</h3><p>En Corinto, una ciudad cosmopolita, las mujeres cristianas enfrentaban presiones culturales. Algunas quizás adoptaban peinados cortos asociados con libertas o prostitutas, mientras que otras, influenciadas por el movimiento de igualdad en Cristo (Gálatas 3:28), podrían haber abandonado el velo. Pablo busca mantener el orden en el culto, distinguiendo los roles de género sin menospreciar a la mujer. El cabello largo era visto como naturalmente femenino, y su uso como velo evitaba controversias.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la complementariedad de los sexos en la creación. La mujer refleja la gloria de Dios de manera única, y el cabello largo simboliza esa gloria. No se trata de legalismo, sino de reconocer el diseño divino. La aplicación hoy debe considerar el contexto cultural: en algunas sociedades, el cabello largo aún es signo de feminidad; en otras, no. El principio perdurable es que tanto hombres como mujeres deben honrar a Dios en su apariencia y roles, evitando la confusión de géneros y promoviendo la edificación mutua.</p>",
+    "ninos": "🌟 ¡El Cabello Es un Regalo Especial! 🌟\n\nImagina que Dios te da un regalo muy especial. Para las niñas, ese regalo puede ser su cabello largo. ¿Sabías que la Biblia dice que el cabello largo de una mujer es como un velo hermoso? Así como una princesa usa una corona, una mujer puede usar su cabello como una señal de que es amada y honrada por Dios. No importa si es largo o corto, lo importante es que seamos agradecidos por cómo Dios nos hizo. A veces, los niños tienen el cabello corto, y las niñas, largo, y eso está bien porque Dios nos hizo diferentes a propósito. Así que, la próxima vez que veas tu cabello en el espejo, recuerda: ¡es un regalo de Dios para ti! Y siempre sé agradecido por cómo Dios te creó. Lección: Dios nos hizo especiales, y debemos honrarlo con todo lo que somos, ¡incluso con nuestro cabello!",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:3-16",
+        "tipo": "Contexto Inmediato",
+        "razon": "El pasaje completo explica la relación de autoridad y el uso del velo/cabello."
+      },
+      {
+        "referencia": "Génesis 1:27",
+        "tipo": "Fundamento Teológico",
+        "razon": "Muestra que Dios creó al hombre y mujer a Su imagen, estableciendo la base para la distinción de género."
+      },
+      {
+        "referencia": "1 Timoteo 2:9-10",
+        "tipo": "Temático",
+        "razon": "Habla sobre la modestia y el adorno de las mujeres, conectando con la honra externa."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful little girl with long flowing hair, smiling, surrounded by colorful flowers and butterflies, warm sunlight, playful and innocent atmosphere, soft focus.",
+    "prompt_imagen_normal": "A woman in ancient Corinth with long hair cascading down, wearing a simple tunic, standing in a modest interior, soft lighting, expression of dignity and peace.",
+    "texto_original": "Por el contrario, a la mujer criar el cabello le es honroso; porque en lugar de velo le es dado el cabello.",
+    "versiculo": "1 Corintios 11:15"
+  },
+  "16": {
+    "normal": "<h2>La Paz en la Iglesia</h2><p>Este versículo nos recuerda que Dios valora la unidad y la paz en su iglesia. Pablo termina una discusión sobre prácticas de adoración con una nota de gracia: no debemos ser contenciosos. A veces, como cristianos, podemos aferrarnos a nuestras opiniones con tanta fuerza que dividimos a la familia de Dios. Pero Pablo nos llama a priorizar la armonía sobre tener la razón. ¿Hay algún tema en tu iglesia local donde puedas ceder por amor a la paz? Ora por sabiduría para discernir cuándo hablar y cuándo callar, siempre buscando edificar a los demás.</p>",
+    "academico": "<h2>La Autoridad Apostólica y la Costumbre Eclesial</h2><h3>Análisis Filológico</h3><p>El término griego <em>philoneikos</em> (φιλόνεικος), traducido como \"contencioso\", denota una propensión a la disputa o a la controversia. Pablo declara que \"nosotros\" (ἡμεῖς, <em>hēmeis</em>) —refiriéndose a los apóstoles— no tenemos \"tal costumbre\" (τοιαύτην συνήθειαν, <em>toiautēn synētheian</em>). La palabra <em>synētheia</em> implica una práctica habitual o tradición. La frase final, \"ni las iglesias de Dios\" (οὐδὲ αἱ ἐκκλησίαι τοῦ θεοῦ, <em>oude hai ekklēsiai tou theou</em>), extiende esta autoridad a todas las comunidades cristianas.</p><h3>Contexto Histórico</h3><p>Pablo concluye una sección sobre el velo de las mujeres (1 Corintios 11:2-16) que refleja tensiones culturales en Corinto. La iglesia corintia, ubicada en una ciudad cosmopolita, enfrentaba presiones para adoptar prácticas que desafiaban las normas judías y apostólicas. Pablo apela a la costumbre universal de las iglesias como argumento de autoridad, evitando un debate interminable sobre prácticas secundarias.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la importancia de la tradición apostólica y la unidad doctrinal. Aunque Pablo no impone legalismo, establece que las iglesias deben mantener prácticas coherentes con la enseñanza de los apóstoles. La advertencia contra el espíritu contencioso protege la paz de la iglesia, recordando que la verdad no necesita ser impuesta con arrogancia.</p>",
+    "ninos": "<h2>🌟 No Pelees por Todo</h2><p>Imagina que estás jugando con tus amigos y no te gusta cómo están jugando. Empiezas a discutir y todos se enojan. ¡Qué triste! En la Biblia, Pablo dice que los cristianos no deben ser \"contenciosos\", es decir, no deben pelear por todo. A veces, es mejor ceder y estar en paz. Como cuando compartes tus juguetes, aunque no quieras. Dios quiere que su familia esté unida. Así que la próxima vez que quieras discutir, respira hondo y piensa: ¿esto es importante para Dios? La lección es: la paz es más valiosa que tener la razón.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Proverbios 17:14",
+        "tipo": "Temática",
+        "razon": "Ambos versículos advierten sobre el peligro de la contienda y la importancia de evitar disputas."
+      },
+      {
+        "referencia": "Romanos 16:17",
+        "tipo": "Contextual",
+        "razon": "Pablo da instrucciones similares sobre evitar a los que causan divisiones, reforzando la unidad."
+      },
+      {
+        "referencia": "2 Timoteo 2:23-24",
+        "tipo": "Aplicación",
+        "razon": "Enseña a evitar discusiones necias y a ser amable, conectando con la actitud no contenciosa."
+      }
+    ],
+    "prompt_imagen_ninos": "A group of diverse children playing happily together in a sunny park, sharing toys and laughing. Bright colors, warm lighting, joyful expressions. No conflict, just harmony.",
+    "prompt_imagen_normal": "A dramatic scene of an ancient church council, with Paul standing firm but peaceful, surrounded by diverse believers. Soft light from above, serious yet calm expressions, stone pillars and scrolls.",
+    "texto_original": "Con todo eso, si alguno parece ser contencioso, nosotros no tenemos tal costumbre, ni las iglesias de Dios.",
+    "versiculo": "1 Corintios 11:16"
+  },
+  "17": {
+    "normal": "<h2>Reuniéndonos para Bien o para Mal</h2><p>Pablo nos confronta con una verdad incómoda: nuestras reuniones como iglesia pueden ser contraproducentes. A veces, lo que debería edificarnos termina dividiéndonos. ¿Has sentido que al juntarte con otros creyentes, en lugar de sentirte animado, sales más desanimado? Pablo nos llama a examinar nuestras motivaciones. No se trata solo de asistir, sino de cómo participamos. ¿Llegamos con un corazón dispuesto a servir, o solo a recibir? ¿Buscamos la unidad o defendemos nuestras opiniones? La advertencia es clara: nuestras juntas pueden ser para peor si no cuidamos el amor y la edificación mutua. Hoy, antes de tu próxima reunión, ora: 'Señor, haz de mi presencia una bendición para otros'. Busca maneras prácticas de alentar a alguien, escuchar sin juzgar, y contribuir a la armonía. Recuerda, la iglesia no es un evento al que asistes, sino una familia a la que perteneces. Que cada encuentro sea una oportunidad para crecer juntos en amor y verdad.</p>",
+    "academico": "<h2>La Eucaristía y la Desunión en Corinto</h2><h3>Análisis Filológico</h3><p>El versículo comienza con \"Esto empero os denuncio\" (τοῦτο δὲ παραγγέλλω, touto de paraggellō), donde παραγγέλλω implica una orden directa, no una sugerencia. La frase \"que no alabo\" (οὐκ ἐπαινῶ, ouk epainō) contrasta con el elogio anterior (11:2). \"Que no por mejor sino por peor os juntáis\" (οὐκ εἰς τὸ κρεῖσσον ἀλλὰ εἰς τὸ ἧσσον συνέρχεσθε, ouk eis to kreisson alla eis to hēsson synerchesthe). El verbo συνέρχομαι (synerchomai, \"reunirse\") se usa técnicamente para la asamblea eucarística. κρεῖσσον (kreisson, \"mejor\") y ἧσσον (hēsson, \"peor\") son comparativos neutros, indicando que la reunión misma, destinada al beneficio espiritual, resultaba en detrimento.</p><h3>Contexto Histórico</h3><p>En la Corinto del siglo I, las comidas comunales (incluyendo la Cena del Señor) reflejaban las divisiones sociales. Los ricos comían y bebían en exceso, mientras los pobres pasaban hambre (11:21). Las casas privadas (domus) donde se reunían tenían espacios diferenciados: el triclinio para los privilegiados y el atrio para los menos favorecidos. Pablo denuncia que estas prácticas contradicen el significado de la Cena, que celebra la unidad en Cristo.</p><h3>Implicaciones Teológicas</h3><p>La advertencia de Pablo subraya que la participación en los sacramentos no es automáticamente beneficiosa; requiere una actitud de amor y respeto por el cuerpo de Cristo, tanto en el pan como en la comunidad. La desunión en la mesa eucarística invalida el testimonio del evangelio. El pasaje llama a la iglesia a examinar sus prácticas a la luz del evangelio, priorizando la edificación mutua sobre los rituales vacíos.</p>",
+    "ninos": "<h2>🌟 La Fiesta Desordenada</h2><p>Imagina que tienes una fiesta de cumpleaños. Preparas pastel, globos y juegos. Pero cuando llegan tus amigos, algunos se sientan en la mesa grande y se comen todo el pastel, mientras otros quedan de pie y sin nada. ¡Eso no es una fiesta divertida! Algo así pasaba en la iglesia de Corinto. Cuando se reunían para cenar juntos, algunos comían mucho y otros se quedaban con hambre. El apóstol Pablo les dijo: \"Así no, amigos. Reunirse así es peor que no reunirse\". ¿La lección? Cuando estamos juntos, debemos compartir y cuidarnos unos a otros. Así como en un juego, todos deben tener su turno y su parte. Jesús nos enseñó a amarnos y a ser generosos. La próxima vez que juegues con tus amigos, asegúrate de que todos se diviertan. ¡Eso hace feliz a Dios! 🎉</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 2:42-47",
+        "tipo": "paralelo temático",
+        "razon": "Muestra la comunidad ideal de los primeros cristianos, contrastando con la desunión en Corinto."
+      },
+      {
+        "referencia": "Santiago 2:1-4",
+        "tipo": "paralelo temático",
+        "razon": "Advierte contra el favoritismo en las reuniones, similar al problema de clases en Corinto."
+      },
+      {
+        "referencia": "1 Corintios 10:16-17",
+        "tipo": "paralelo temático",
+        "razon": "Explica el significado de la Cena del Señor como participación en el cuerpo de Cristo, base de la unidad."
+      }
+    ],
+    "prompt_imagen_ninos": "A colorful messy party scene with some kids eating all the cake at a big table while others stand sad and hungry. Bright balloons and streamers. Warm lighting.",
+    "prompt_imagen_normal": "An ancient Corinthian house church interior, rich and poor Christians separated, some feasting while others watch hungrily. Dramatic chiaroscuro lighting, tense expressions.",
+    "texto_original": "Esto empero os denuncio, que no alabo, que no por mejor sino por peor os juntáis.",
+    "versiculo": "1 Corintios 11:17"
+  },
+  "18": {
+    "normal": "<h2>Unidad en la Iglesia</h2><p>Cuando Pablo escribe a los corintios, su corazón está preocupado por las divisiones que amenazan la unidad del cuerpo de Cristo. En este versículo, él expresa su preocupación al escuchar que hay disensiones entre ellos cuando se reúnen como iglesia. La palabra 'disensiones' no se refiere a simples desacuerdos, sino a divisiones profundas que rompen la comunión. Pablo, con honestidad pastoral, dice que en parte lo cree, mostrando que no quiere juzgar sin evidencia, pero tampoco ignora los reportes.</p><p>Para nosotros hoy, este versículo nos desafía a examinar nuestras propias congregaciones. ¿Hay divisiones ocultas? ¿Preferimos ciertos grupos sobre otros? La unidad no significa uniformidad, sino amor que trasciende diferencias. Te invito a reflexionar: ¿Estás contribuyendo a la unidad o a la división en tu iglesia? Ore por sabiduría para ser un pacificador.</p>",
+    "academico": "<h2>Análisis de 1 Corintios 11:18: Disensiones en la Asamblea</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>σχίσματα</em> (<em>schismata</em>), que significa 'divisiones' o 'separaciones'. En el contexto de la iglesia primitiva, estas no eran meras diferencias de opinión, sino rupturas en la comunión eucarística. Pablo usa el verbo <em>ἀκούω</em> ('oigo') indicando que la información le ha llegado de tercera mano, pero su fe parcial (<em>μέρος τι πιστεύω</em>) sugiere que no acepta acríticamente los reportes. La frase <em>ἐν ἐκκλησίᾳ</em> ('en la iglesia') se refiere a la asamblea local, no al edificio.</p><h3>Contexto Histórico</h3><p>La iglesia en Corinto se reunía en casas particulares, y las divisiones probablemente reflejaban tensiones sociales y económicas entre los miembros ricos y pobres. Las reuniones incluían la Cena del Señor, que debía ser un símbolo de unidad, pero las facciones la profanaban. Pablo aborda esto más adelante en el capítulo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya que la unidad eclesial no es opcional, sino esencial para la identidad del cuerpo de Cristo. Las disensiones contradicen la naturaleza del evangelio que reconcilia. Pablo no minimiza el problema, sino que lo enfrenta con verdad y amor, estableciendo un modelo para el liderazgo pastoral.</p>",
+    "ninos": "<h2>🌟 El Equipo de Jesús</h2><p>Imagina que estás en un equipo de fútbol. Pero algunos quieren jugar solos, otros no pasan la pelota, y todos se pelean. ¡Eso no es un equipo! En la iglesia, los cristianos son como un equipo de Jesús. Pero Pablo escuchó que en Corinto se estaban peleando. Él dijo: 'Oigo que hay divisiones, y lo creo un poco'. Él quería que todos se amaran y trabajaran juntos. Así como en un equipo todos son importantes, en la iglesia todos debemos ayudarnos. Recuerda: cuando te reúnes con otros cristianos, sé amable y comparte. ¡Juntos somos más fuertes! 🏆</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 16:17",
+        "tipo": "Advertencia similar",
+        "razon": "Pablo advierte contra los que causan divisiones, en línea con este versículo."
+      },
+      {
+        "referencia": "1 Corintios 1:10",
+        "tipo": "Contexto directo",
+        "razon": "Pablo exhorta a la unidad, tema central del capítulo."
+      },
+      {
+        "referencia": "Efesios 4:3",
+        "tipo": "Principio general",
+        "razon": "Llamado a mantener la unidad del Espíritu."
+      }
+    ],
+    "prompt_imagen_ninos": "A colorful group of diverse children holding hands in a circle, smiling, with a church building in the background, bright sunny day, warm and joyful atmosphere.",
+    "prompt_imagen_normal": "An ancient Corinthian house church interior, dimly lit by oil lamps, people sitting in tense groups, some arguing, a scroll on the table, dramatic shadows, realistic historical scene.",
+    "texto_original": "Porque lo primero, cuando os juntáis en la iglesia, oigo que hay entre vosotros disensiones; y en parte lo creo.",
+    "versiculo": "1 Corintios 11:18"
+  },
+  "19": {
+    "normal": "<h2>El Propósito de las Divisiones</h2><p>Cuando Pablo escribió a los corintios, ellos estaban experimentando divisiones en la iglesia. En lugar de alarmarse, Pablo les recuerda que estas divisiones tienen un propósito: revelar quiénes son realmente fieles. Las herejías o divisiones no son algo para temer, sino una oportunidad para que los creyentes genuinos se destaquen. Así como el fuego purifica el oro, las pruebas de unidad revelan nuestra verdadera fe. En nuestra vida diaria, podemos ver conflictos en la iglesia, el trabajo o la familia. En lugar de desanimarnos, preguntémonos: ¿Estoy siendo un instrumento de unidad o de división? Dios permite estas situaciones para fortalecer nuestro carácter y mostrar su gracia a través de nosotros. Busquemos ser aquellos que, en medio de la controversia, reflejan el amor de Cristo.</p>",
+    "academico": "<h2>Herejías y Prueba: Un Análisis de 1 Corintios 11:19</h2><h3>Análisis Filológico</h3><p>La palabra griega traducida como 'herejías' es αἱρέσεις (haireseis), que originalmente significaba 'elección' o 'facción', no necesariamente herejía doctrinal. Pablo usa el término para referirse a divisiones o grupos sectarios dentro de la iglesia. El verbo 'ser probados' es δόκιμοι (dokimoi), que implica haber pasado una prueba y ser aprobados. La frase 'se manifiesten' proviene de φανεροί (phaneroi), que significa 'hacerse visibles' o 'revelados'. Así, Pablo argumenta que las divisiones sirven para que los creyentes genuinos (los aprobados) sean evidentes.</p><h3>Contexto Histórico</h3><p>La iglesia en Corinto estaba ubicada en una ciudad cosmopolita y diversa. Las divisiones reflejaban tensiones sociales, económicas y teológicas. Pablo aborda estas facciones en 1 Corintios 1:10-17, donde menciona lealtades a diferentes líderes. En el contexto del capítulo 11, Pablo discute la conducta en la Cena del Señor, donde las divisiones se manifestaban en exclusiones sociales. La afirmación de que 'debe haber' herejías no implica que Dios las cause, sino que dentro de la libertad humana y la soberanía divina, Dios permite que surjan para cumplir su propósito.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que Dios puede usar incluso las divisiones para su gloria. No debemos sorprendernos por los conflictos en la iglesia, sino verlos como oportunidades para que la fe genuina sea probada y confirmada. La unidad verdadera no es la ausencia de conflicto, sino la perseverancia en el amor a pesar de las diferencias. La soberanía de Dios se manifiesta en que Él puede redimir incluso las situaciones negativas para el bien de su pueblo.</p>",
+    "ninos": "<h2>🌟 El Equipo de los Valientes</h2><p>Imagina que estás en un equipo de fútbol. A veces, algunos jugadores no quieren pasar la pelota o se pelean. ¿Eso significa que el equipo está mal? ¡No! En realidad, cuando hay problemas, podemos ver quiénes son los verdaderos amigos que trabajan juntos. Algo parecido pasa en la iglesia. Pablo dice que a veces hay peleas, pero Dios las permite para que veamos quiénes aman a Jesús de verdad. Así como en un juego, los mejores jugadores se destacan cuando hay dificultades. Tú puedes ser como esos jugadores: cuando veas una pelea, elige ser amable y ayudar a que todos se lleven bien. Así mostrarás que eres un amigo de Jesús. 🏆</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 18:15-17",
+        "tipo": "Contexto",
+        "razon": "Instrucciones de Jesús sobre cómo tratar las divisiones en la iglesia."
+      },
+      {
+        "referencia": "1 Corintios 1:10",
+        "tipo": "Paralelo",
+        "razon": "Pablo exhorta a la unidad y a evitar divisiones."
+      },
+      {
+        "referencia": "Hechos 20:29-30",
+        "tipo": "Profecía",
+        "razon": "Pablo predice que surgirán herejías de entre los mismos creyentes."
+      },
+      {
+        "referencia": "Santiago 1:2-4",
+        "tipo": "Aplicación",
+        "razon": "Las pruebas producen perseverancia y madurez espiritual."
+      }
+    ],
+    "prompt_imagen_ninos": "A group of diverse children playing soccer, some arguing while others pass the ball cooperatively, sunny park, warm colors, friendly atmosphere.",
+    "prompt_imagen_normal": "Ancient Corinthian church interior, dim light, two groups of people in tense discussion, one person standing firm with calm expression, dramatic shadows.",
+    "texto_original": "Porque preciso es que haya entre vosotros aun herejías, para que los que son probados se manifiesten entre vosotros.",
+    "versiculo": "1 Corintios 11:19"
+  },
+  "20": {
+    "normal": "<h2>La Cena del Señor: Un Llamado a la Unidad</h2><p>Cuando Pablo escribe a los corintios, les recuerda que la Cena del Señor no es solo un ritual, sino un momento de comunión profunda con Cristo y entre hermanos. El problema en Corinto era que las divisiones sociales y las actitudes egoístas estaban arruinando el significado de la cena. Al reunirse, algunos comían y bebían sin esperar a otros, humillando a los pobres. Pablo les dice: 'Esto no es comer la cena del Señor'. La verdadera cena requiere unidad, amor y respeto mutuo. Hoy, al participar de la comunión, examinemos nuestros corazones. ¿Venimos con humildad, reconociendo que todos somos iguales ante la cruz? La mesa del Señor nos invita a dejar de lado las diferencias y recordar que somos un solo cuerpo. Que cada vez que partamos el pan, lo hagamos con gratitud y en armonía con nuestros hermanos.</p>",
+    "academico": "<h2>Análisis de 1 Corintios 11:20: La Cena del Señor como Acto Comunitario</h2><h3>Análisis Filológico</h3><p>El término griego κυριακὸν δεῖπνον (kyriakon deipnon, 'cena del Señor') aparece solo aquí en el Nuevo Testamento. La palabra κυριακός (kyriakos) denota 'perteneciente al Señor', enfatizando la propiedad divina de la cena. Pablo contrasta esto con ἴδιον δεῖπνον (idion deipnon, 'cena propia') de los corintios (v. 21), indicando que sus acciones egoístas desvirtúan el propósito. El verbo συνέρχομαι (synerchomai, 'reunirse') implica una asamblea con un propósito común, pero la conducta divisoria la hace inauténtica.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, las comidas comunitarias a menudo reflejaban jerarquías sociales. En Corinto, una iglesia multicultural y económicamente diversa, los ricos traían abundante comida mientras los pobres tenían poco. La cena del Señor originalmente incluía una comida completa (ἀγάπη, ágape), pero los abusos llevaron a Pablo a corregir la práctica. La solución no era abolir la cena, sino restaurar su carácter inclusivo y memorial.</p><h3>Implicaciones Teológicas</h3><p>Pablo vincula la Cena del Señor con la unidad del cuerpo de Cristo (1 Co 10:17). Participar indignamente (v. 27) no es solo por pecado personal, sino por despreciar a la comunidad. La cena es un anticipo escatológico del banquete mesiánico, donde las barreras sociales serán abolidas. Por tanto, la iglesia debe practicar la cena como un acto de reconciliación y amor fraternal.</p>",
+    "ninos": "<h2>🌟 La Cena Especial de Jesús</h2><p>Imagina que invitas a tus amigos a comer pastel, pero algunos llegan temprano y se lo comen todo sin esperar a los demás. ¡Qué triste! Así pasaba en la iglesia de Corinto. La gente se reunía para cenar juntos como Jesús les enseñó, pero algunos eran egoístas y no compartían. Pablo les dijo: '¡Así no se hace la cena del Señor!'. La cena de Jesús es para recordar que él nos ama a todos por igual. Cuando compartes con otros, muestras el amor de Dios. Así que la próxima vez que comas con tu familia o amigos, acuérdate de esperar a todos y compartir. Así haces feliz a Jesús. 🍞🍇</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 2:42",
+        "tipo": "Contexto",
+        "razon": "Muestra la práctica de la comunión en la iglesia primitiva, incluyendo la fracción del pan."
+      },
+      {
+        "referencia": "1 Corintios 10:16-17",
+        "tipo": "Paralelo",
+        "razon": "Explica el significado de la copa y el pan como participación en el cuerpo de Cristo y unidad entre creyentes."
+      },
+      {
+        "referencia": "1 Corintios 11:17-34",
+        "tipo": "Continuación",
+        "razon": "Desarrolla el problema de las divisiones en la cena y las instrucciones de Pablo para celebrarla dignamente."
+      }
+    ],
+    "prompt_imagen_ninos": "A group of diverse children sitting around a table, smiling and sharing bread and juice. Warm lighting, cozy room. One child waits for another to be served. Joyful expressions.",
+    "prompt_imagen_normal": "A dramatic scene in an ancient house church: wealthy and poor believers at a table, tension as some eat while others watch. Dim oil lamps, somber faces. A leader gestures rebuke.",
+    "texto_original": "Cuando pues os juntáis en uno, esto no es comer la cena del Señor.",
+    "versiculo": "1 Corintios 11:20"
+  },
+  "21": {
+    "normal": "<h2>Comiendo juntos, pero no en comunión</h2><p>¿Alguna vez has ido a una comida compartida donde todos se sirven sin esperar a los demás? Algunos llegan temprano y se llenan, mientras otros llegan tarde y encuentran solo migajas. Eso es exactamente lo que Pablo denuncia en Corinto. La iglesia se reunía para celebrar la Cena del Señor, pero algunos miembros ricos comenzaban a comer y beber antes de que llegaran los pobres. Los que tenían comida se emborrachaban, mientras los necesitados pasaban hambre.</p><p>Pablo no solo critica el desorden, sino la falta de amor. La Cena del Señor es un acto de unidad, donde recordamos que Cristo murió por todos, sin distinción. Cuando comemos sin considerar a los demás, profanamos el símbolo del sacrificio de Jesús. La iglesia primitiva entendía que compartir la comida era una extensión del amor fraternal. Hoy, podemos aplicar esto en nuestras reuniones: ¿Priorizamos la comodidad de los que tienen más, o nos aseguramos de que todos tengan lo necesario? Tal vez no se trata solo de la cena, sino de cómo tratamos a los que son diferentes a nosotros en la iglesia. La próxima vez que compartas una comida con tu congregación, mira a tu alrededor. ¿Hay alguien que necesita ser incluido? ¿Estás dispuesto a compartir tu pan, tu tiempo y tu amor? La mesa del Señor nos recuerda que todos somos iguales ante Dios.</p>",
+    "academico": "<h2>Abusos en la Cena del Señor: Un análisis de 1 Corintios 11:21</h2><h3>Análisis Filológico</h3><p>El versículo griego dice: <em>ἕκαστος γὰρ τὸ ἴδιον δεῖπνον προλαμβάνει ἐν τῷ φαγεῖν, καὶ ὃς μὲν πεινᾷ, ὃς δὲ μεθύει.</em> El verbo <em>προλαμβάνει</em> (prolambanei) significa 'tomar antes' o 'anticiparse', indicando que algunos comían su propia cena antes del tiempo establecido. <em>Ἴδιον δεῖπνον</em> (idion deipnon) resalta la privatización de lo que debía ser comunitario. <em>Μεθύει</em> (methyei) significa 'estar ebrio', un término fuerte que contrasta con la sobriedad esperada en una reunión de culto. La estructura gramatical muestra un contraste: mientras unos pasan hambre (<em>πεινᾷ</em>), otros se embriagan, revelando una división socioeconómica.</p><h3>Contexto Histórico</h3><p>En la iglesia de Corinto, las comidas comunitarias (ágape) precedían a la Cena del Señor. Los ricos podían llevar alimentos abundantes, mientras los pobres (esclavos o trabajadores) llegaban tarde o con poco. Las casas romanas tenían triclinios donde los invitados se reclinaban; los de mayor estatus recibían mejor comida y vino. Pablo critica que esta jerarquía social se replicara en la asamblea, contradiciendo la igualdad en Cristo. El contexto del capítulo 11 aborda desórdenes en el culto, incluyendo el uso inapropiado de los dones espirituales.</p><h3>Implicaciones Teológicas</h3><p>Pablo vincula la Cena del Señor con la muerte de Cristo (v. 26). Comer indignamente (v. 27) incluye no discernir el cuerpo (la iglesia) como comunidad unida. La división social niega el evangelio: Cristo derribó las barreras (Ef 2:14). La embriaguez y el hambre son síntomas de falta de amor fraternal. Teológicamente, la Cena es un anticipo del banquete escatológico donde todos serán saciados. La corrección de Pablo es pastoral: examinarse a uno mismo (v. 28) implica evaluar las relaciones con los hermanos. La iglesia debe ser un espacio donde los pobres son honrados, no humillados.</p>",
+    "ninos": "<h2>🌟 La cena que se volvió un desorden</h2><p>Imagina que en tu clase de la escuela deciden hacer una fiesta de pizza. Todos deben traer algo: unos traen pizza, otros refrescos, y algunos traen servilletas. Pero cuando llega la hora de comer, unos niños se lanzan a agarrar las pizzas antes de que todos lleguen. ¡Se comen casi todo! Los que llegan tarde solo encuentran migajas. Algunos niños se llenan tanto que les duele la barriga, mientras otros se quedan con hambre. 😢 Eso es lo que pasaba en la iglesia de Corinto. Los cristianos se reunían para cenar juntos y recordar a Jesús, pero algunos empezaban a comer sin esperar a los demás. Los ricos traían mucha comida y hasta tomaban vino de más, mientras los pobres no tenían nada. El apóstol Pablo les dijo: '¡Así no se hace!'. La cena del Señor es para compartir y recordar que Jesús nos ama a todos por igual. Cuando compartes tu comida con otros, muestras el amor de Dios. La próxima vez que compartas un bocadillo con tus amigos, asegúrate de que todos tengan suficiente. Así haces feliz a Jesús. 🍞❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 2:42-47",
+        "tipo": "Contexto histórico",
+        "razon": "Describe la comunión y el compartir de bienes en la iglesia primitiva, contrastando con el abuso en Corinto."
+      },
+      {
+        "referencia": "Santiago 2:1-9",
+        "tipo": "Temático",
+        "razon": "Condena el favoritismo hacia los ricos, similar a la división social en la Cena del Señor."
+      },
+      {
+        "referencia": "1 Corintios 10:16-17",
+        "tipo": "Teológico",
+        "razon": "Explica la unidad del cuerpo de Cristo en la comunión, base para reprender la división en 11:21."
+      }
+    ],
+    "prompt_imagen_ninos": "A lively messy table with pizza boxes and spilled soda, kids grabbing food while one sad child watches with empty plate, bright classroom setting, warm lighting, cartoonish but realistic style.",
+    "prompt_imagen_normal": "Ancient Roman dining room with reclining figures, contrast between richly dressed man drinking wine and a poor man with empty bowl, dramatic chiaroscuro lighting, tense atmosphere, cinematic realism.",
+    "texto_original": "Porque cada uno toma antes para comer su propia cena; y el uno tiene hambre, y el otro está embriagado.",
+    "versiculo": "1 Corintios 11:21"
+  },
+  "22": {
+    "normal": "<h2>Comunidad y Generosidad</h2><p>Pablo nos confronta con una pregunta incómoda: ¿estamos usando la iglesia como un club social o como una familia? En Corinto, los ricos celebraban la Cena del Señor con abundancia, mientras los pobres pasaban hambre. Esto avergonzaba a los necesitados y deshonraba a Dios. Hoy, podemos caer en lo mismo: priorizar nuestras comodidades sobre la unidad del cuerpo de Cristo. ¿Cómo podemos practicar la generosidad en nuestra iglesia local? Quizás invitando a alguien a almorzar después del servicio, compartiendo recursos con quienes están en dificultad, o simplemente siendo sensibles a las necesidades de otros. La iglesia no es un edificio, sino personas unidas por el amor de Cristo. Nuestras reuniones deben reflejar ese amor, no nuestras diferencias económicas. Pablo nos reta a examinar nuestros motivos: ¿buscamos nuestro propio beneficio o el bien de los demás? Que nuestras mesas sean lugares de inclusión, donde nadie se sienta avergonzado. Al final, lo que importa no es lo que tenemos, sino cómo usamos lo que tenemos para honrar a Dios y edificar a su pueblo.</p>",
+    "academico": "<h2>El Juicio Profético de Pablo sobre la Cena del Señor en Corinto</h2><h3>Análisis Filológico</h3><p>El versículo contiene términos griegos clave: <em>oikiai</em> (casas, hogares) contrasta con <em>ekklēsia</em> (iglesia, asamblea). El verbo <em>kataphronēō</em> (menospreciar) implica desprecio activo, no solo negligencia. <em>Epaínō</em> (alabar) aparece en forma interrogativa retórica. Pablo usa <em>ouk epainō</em> (no alabo) como juicio profético, rechazando su conducta. El término <em>hētton</em> (que no tienen) se refiere a los pobres, enfatizando la división socioeconómica.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, las comidas comunitarias (como las <em>eranoi</em>) solían reflejar jerarquías sociales. Los ricos ofrecían mejores alimentos a sus iguales, mientras los pobres recibían raciones inferiores. Pablo rechaza esta práctica en la iglesia, donde la Cena del Señor debe simbolizar igualdad en Cristo. La mención de 'casas' indica que los ricos tenían recursos para comer en privado, pero elegían participar en la comida comunitaria de manera egoísta. Esto avergonzaba a los pobres, que dependían de la generosidad colectiva.</p><h3>Implicaciones Teológicas</h3><p>Pablo vincula la falta de amor fraternal con la profanación de la Cena del Señor. El menosprecio a la iglesia es menosprecio a Cristo mismo. La solución no es abolir las diferencias sociales, sino transformar las relaciones dentro del cuerpo de Cristo. La Cena es un memorial de la muerte de Jesús, que derribó barreras (Efesios 2:14). Por tanto, la exclusión económica contradice el evangelio. Pablo no alaba su conducta porque la alabanza pertenece a Dios, no a acciones que deshonran su nombre. El pasaje anticipa la enseñanza de Santiago 2:1-9 sobre la parcialidad.</p>",
+    "ninos": "🌟 **Jesús Quiere que Compartamos**\n\nImagina que estás en una fiesta de cumpleaños. Un niño tiene un pastel gigante y muchos dulces, pero no comparte con los demás. Otro niño no tiene nada. ¿Cómo se sentiría? Triste, ¿verdad?\n\nEn la iglesia de Corinto, pasaba algo parecido. Los que tenían mucha comida comían todo, y los pobres se quedaban con hambre. Pablo les dijo: \"¡Eso no está bien!\" La iglesia es como una familia donde todos deben cuidarse.\n\nJesús nos enseñó a compartir y amar. Cuando compartimos, mostramos el amor de Dios. Así que la próxima vez que tengas algo rico, piensa en compartirlo con alguien que no tiene. ¡Así haces feliz a Jesús! 😊\n\n**Lección:** Compartir con los demás hace que todos se sientan amados.",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 2:1-9",
+        "tipo": "Temático",
+        "razon": "Ambos pasajes condenan el favoritismo basado en la riqueza dentro de la comunidad cristiana."
+      },
+      {
+        "referencia": "Hechos 2:44-45",
+        "tipo": "Contraste",
+        "razon": "La iglesia primitiva compartía todo, en contraste con la división en Corinto."
+      },
+      {
+        "referencia": "1 Corintios 11:17-34",
+        "tipo": "Contexto",
+        "razon": "Versículos anteriores y posteriores desarrollan el mismo tema de la Cena del Señor."
+      }
+    ],
+    "prompt_imagen_ninos": "Children of different backgrounds sharing food at a long table, smiling, warm lighting, colorful decorations, joyful atmosphere, inclusive scene.",
+    "prompt_imagen_normal": "A dramatic scene in an ancient house church: wealthy believers feasting while poor look on ashamed, dim lighting, tense expressions, contrast between abundance and need.",
+    "texto_original": "Pues qué, ¿no tenéis casas en que comáis y bebáis? ¿o menospreciáis la iglesia de Dios, y avergonzáis a los que no tienen? ¿Qué os diré? ¿os alabaré? En esto no os alabo.",
+    "versiculo": "1 Corintios 11:22"
+  },
+  "23": {
+    "normal": "<h2>El Regalo de la Cena del Señor</h2><p>Querido hermano, hoy meditamos en 1 Corintios 11:23, donde Pablo nos recuerda que la Cena del Señor no es un invento humano, sino un regalo directo de Jesús. En la noche en que fue traicionado, Él tomó pan y estableció un memorial para todos nosotros. Este acto nos muestra su amor inmenso y su deseo de permanecer cerca de nosotros. Cuando participamos de la comunión, no solo recordamos su sacrificio, sino que también renovamos nuestra conexión con Él y con la iglesia. Te animo a que la próxima vez que tomes la Cena, lo hagas con gratitud, examinando tu corazón y recordando que Jesús dio todo por ti. Que este momento sea de intimidad y renovación espiritual.</p>",
+    "academico": "<h2>La Tradición de la Cena del Señor: Un Análisis Exegético</h2><h3>Análisis Filológico</h3><p>El término griego παρέλαβον (parelabon, 'recibí') indica una transmisión de tradición, mientras que ἀπὸ τοῦ κυρίου (apo tou kyriou, 'del Señor') sugiere revelación directa o tradición apostólica autoritativa. La frase 'tomó pan' (ἔλαβεν ἄρτον, elaben arton) refleja la acción litúrgica de la cena pascual judía. El contexto histórico muestra que Pablo corrige abusos en Corinto, recordando la institución de la Eucaristía.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, la hospitalidad y la cena compartida tenían un profundo significado social. Jesús, en la noche de su traición, transformó la cena pascual en un nuevo pacto. La comunidad corintia, influenciada por divisiones sociales, había distorsionado esta práctica, lo que llevó a Pablo a reafirmar su origen divino.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la autoridad apostólica y la centralidad de la muerte de Cristo. La Eucaristía no es solo un memorial, sino una participación real en el cuerpo y sangre de Cristo (koinonia). Invita a la unidad y a la autoexaminación antes de participar.</p>",
+    "ninos": "<h2>🌟 La Cena Especial de Jesús</h2><p>Imagina que estás en una fiesta de cumpleaños y tu mejor amigo te da un regalo muy especial. ¡Así hizo Jesús! La noche antes de irse al cielo, cenó con sus amigos. Tomó un pan y dijo: 'Este pan soy yo, que doy mi vida por ustedes'. Jesús sabía que iba a sufrir, pero quería que sus amigos siempre lo recordaran. Así que cada vez que comemos pan en la iglesia, recordamos su amor. ¿Sabes qué? Jesús también te ama a ti. Él quiere que seas su amigo y que compartas su amor con otros. ¡Qué bonito es tener un amigo como Jesús!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 26:26-28",
+        "tipo": "Paralelo directo",
+        "razon": "Describe la misma institución de la Cena del Señor."
+      },
+      {
+        "referencia": "Lucas 22:19-20",
+        "tipo": "Paralelo directo",
+        "razon": "Otra versión del relato de la institución."
+      },
+      {
+        "referencia": "1 Corintios 10:16",
+        "tipo": "Complementario",
+        "razon": "Explica el significado de la comunión del cuerpo y la sangre de Cristo."
+      }
+    ],
+    "prompt_imagen_ninos": "A friendly Jesus holding a loaf of bread at a long table with smiling disciples, warm candlelight, simple room, joyful atmosphere.",
+    "prompt_imagen_normal": "Jesus breaking bread at the Last Supper, dramatic lighting, solemn expression, disciples watching, historical realism, epic cinematic feel.",
+    "texto_original": "Porque yo recibí del Señor lo que también os he enseñado: Que el Señor Jesús, la noche que fue entregado, tomó pan;",
+    "versiculo": "1 Corintios 11:23"
+  },
+  "24": {
+    "normal": "<h2>Recibiendo el Cuerpo de Cristo</h2><p>En la última cena, Jesús transformó un simple gesto en un memorial eterno. Al partir el pan y decir: 'Esto es mi cuerpo que por vosotros es partido', nos invitó a participar de su entrega total. Cada vez que celebramos la Cena del Señor, recordamos no solo su sacrificio, sino también su amor incondicional. Este versículo nos llama a tomar el pan con gratitud, reconociendo que Jesús se dio por completo para nuestra redención. La aplicación práctica es sencilla pero profunda: al acercarnos a la mesa del Señor, examinemos nuestros corazones, agradezcamos por su sacrificio y renovemos nuestro compromiso de vivir en comunión con Él y con los demás. Que cada bocado nos recuerde que somos parte de su cuerpo, llamados a amarnos y servirnos mutuamente.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:24</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'καὶ εὐχαριστήσας ἔκλασεν καὶ εἶπεν· Τοῦτό μού ἐστιν τὸ σῶμα τὸ ὑπὲρ ὑμῶν· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν.' El verbo 'εὐχαριστήσας' (eucharistēsas) denota acción de gracias, raíz de 'eucaristía'. 'Ἔκλασεν' (eklasen) significa 'partió', refiriéndose al pan ácimo. La frase 'τὸ ὑπὲρ ὑμῶν' (to hyper hymōn) indica 'por vosotros', con un sentido sacrificial. 'Ἀνάμνησιν' (anamnēsin) implica 'memorial' o 'recuerdo', no mero recuerdo mental, sino una re-presentación del evento salvífico. El contexto de la Pascua judía subraya la tipología: así como el cordero pascual era sacrificado, Cristo es el Cordero de Dios. Pablo enfatiza la unidad del cuerpo de Cristo (la iglesia) en la participación del pan.</p><h3>Contexto Histórico</h3><p>La carta a los corintios aborda divisiones en la iglesia, especialmente en la Cena del Señor. Los ricos comían sin esperar a los pobres, humillándolos (v. 21-22). Pablo recuerda la tradición recibida del Señor para corregir estos abusos. En el Cercano Oriente Antiguo, las comidas comunitarias sellaban alianzas; la Cena del Señor renueva la nueva alianza en la sangre de Cristo. El pan partido simboliza el cuerpo entregado, y el mandato 'haced esto' instituye un rito perpetuo.</p><h3>Implicaciones Teológicas</h3><p>El versículo establece la presencia real de Cristo en la Cena (aunque interpretada diversamente). Enfatiza el carácter sacrificial de la muerte de Jesús, sustitutivo ('por vosotros'). La anámnesis no es solo memoria, sino actualización del único sacrificio de Cristo. La participación une a los creyentes en un solo cuerpo, exigiendo amor fraterno y exclusión de divisiones. La Eucaristía es fuente de unidad y compromiso ético.</p>",
+    "ninos": "<h2>🌟 El Pan Especial de Jesús</h2><p>Imagina que estás en una cena muy especial con tu mejor amigo. De repente, él toma un pan, lo parte en pedazos y te dice: 'Este pan soy yo, y lo parto para ti porque te quiero mucho. Cada vez que comas pan, recuerda cuánto te amo.' Jesús hizo eso con sus discípulos. Quería que nunca olvidaran que él dio su vida por ellos, como un regalo enorme. Así que cuando ves pan en la mesa, puedes sonreír y pensar: 'Jesús me ama tanto que se partió como este pan para estar siempre conmigo.' La lección es: Dios nos ama tanto que se entregó por nosotros. ¡Nunca lo olvides! 🍞❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 26:26-28",
+        "tipo": "Relato paralelo",
+        "razon": "Es la versión de Mateo de la institución de la Cena del Señor, con énfasis en la sangre del pacto."
+      },
+      {
+        "referencia": "Lucas 22:19-20",
+        "tipo": "Relato paralelo",
+        "razon": "Lucas añade 'haced esto en memoria de mí', vinculando directamente con 1 Corintios 11:24."
+      },
+      {
+        "referencia": "Juan 6:51-58",
+        "tipo": "Fundamento teológico",
+        "razon": "Jesús se presenta como el pan vivo que da vida eterna, explicando el significado del cuerpo partido."
+      },
+      {
+        "referencia": "Éxodo 12:1-14",
+        "tipo": "Tipología del Antiguo Testamento",
+        "razon": "La Pascua prefigura el sacrificio de Cristo; el cordero pascual apunta al Cordero de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A cozy dinner table with Jesus smiling, holding broken bread, surrounded by diverse children with wide eyes. Warm candlelight, colorful plates, joyful atmosphere. Simple and inviting.",
+    "prompt_imagen_normal": "Jesus at the Last Supper, breaking bread with solemn expression, dimly lit room, disciples watching intently, dramatic shadows, epic realism, somber yet hopeful mood.",
+    "texto_original": "Y habiendo dado gracias, lo partió, y dijo: Tomad, comed: esto es mi cuerpo que por vosotros es partido: haced esto en memoria de mí.",
+    "versiculo": "1 Corintios 11:24"
+  },
+  "25": {
+    "normal": "<h2>Recordando el Nuevo Pacto</h2><p>En la intimidad de la última cena, Jesús tomó la copa y la ofreció a sus discípulos, declarando que representaba el nuevo pacto en su sangre. Este momento no es solo un evento histórico; es una invitación a vivir cada día en la realidad de ese pacto. La sangre de Cristo no solo nos limpia del pecado, sino que establece una relación viva y personal con Dios. Al participar de la comunión, recordamos que somos parte de una familia redimida, llamada a vivir en gratitud y obediencia. La práctica de \"hacer esto en memoria de mí\" nos conecta con el sacrificio de Jesús y nos recuerda que nuestra fe se basa en un amor que se entregó completamente. Que al beber de la copa, renovemos nuestro compromiso de seguir a Cristo, amando a otros como él nos amó.</p>",
+    "academico": "<h2>El Nuevo Pacto en la Sangre de Cristo: Un Análisis Exegético de 1 Corintios 11:25</h2><h3>Análisis Filológico</h3><p>El término griego para \"copa\" (ποτήριον, potērion) aparece en el contexto de la cena del Señor, pero Pablo lo usa para referirse al contenido (el vino) como símbolo del nuevo pacto. La frase \"nuevo pacto\" (καινὴ διαθήκη, kainē diathēkē) evoca Jeremías 31:31, donde Dios promete un pacto interno y espiritual. La sangre (αἷμα, haima) de Cristo es el medio de ratificación, en contraste con la sangre de animales del antiguo pacto (Éxodo 24:8). El mandato \"haced esto\" (τοῦτο ποιεῖτε, touto poieite) es un imperativo presente, indicando una acción repetitiva, no un mero recuerdo, sino una proclamación de la muerte del Señor hasta que él venga (v. 26).</p><h3>Contexto Histórico</h3><p>La cena del Señor se celebraba en el contexto de una comida comunitaria (ágape) en las iglesias primitivas, como se evidencia en los abusos que Pablo corrige en Corinto (11:17-22). La copa después de la cena refleja la práctica de la Pascua judía, donde la cuarta copa (la copa de la alabanza) se tomaba después de la comida. Jesús reinterpreta esta copa como el nuevo pacto en su sangre, uniendo el éxodo de Egipto con la nueva liberación del pecado. La memoria (ἀνάμνησις, anamnēsis) no es solo un recuerdo mental, sino una actualización del evento salvífico en la comunidad.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece la Eucaristía como un sacramento central, donde los creyentes participan en los beneficios del nuevo pacto. La sangre de Cristo es el sello de la nueva alianza, que ofrece perdón y comunión con Dios. La repetición del rito subraya la necesidad de recordar y proclamar la muerte redentora de Jesús hasta su regreso. Teológicamente, conecta la obra de Cristo con la promesa del Espíritu Santo, quien aplica los beneficios del pacto a los creyentes.</p>",
+    "ninos": "<h2>🌟 La Copa Especial de Jesús</h2><p>Imagina que estás en una cena muy especial con tus mejores amigos. Después de comer, Jesús toma una copa con jugo de uva y dice: \"Esta copa es como un nuevo acuerdo que hago con ustedes. Mi sangre, que daré por ustedes, hará que este acuerdo sea para siempre. Cada vez que beban de esta copa, recuérdenme y piensen en cuánto los amo\". Es como cuando tu mejor amigo te da un regalo y te pide que no lo olvides. Jesús nos pidió que recordemos su amor cada vez que tomamos la comunión. Así que, cuando veas la copa en la iglesia, sonríe y piensa: \"Jesús me ama tanto que hizo un pacto especial conmigo\".</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Jeremías 31:31-34",
+        "tipo": "Profecía cumplida",
+        "razon": "Jeremías profetiza el nuevo pacto que Jesús establece con su sangre."
+      },
+      {
+        "referencia": "Éxodo 24:8",
+        "tipo": "Tipología",
+        "razon": "Moisés sella el antiguo pacto con sangre, prefigurando el nuevo pacto en la sangre de Cristo."
+      },
+      {
+        "referencia": "Mateo 26:27-28",
+        "tipo": "Paralelo",
+        "razon": "Institución de la cena del Señor en el Evangelio de Mateo, con palabras similares."
+      },
+      {
+        "referencia": "Hebreos 9:15",
+        "tipo": "Teológico",
+        "razon": "Explica cómo la muerte de Cristo es el mediador del nuevo pacto."
+      }
+    ],
+    "prompt_imagen_ninos": "A cozy dinner table with Jesus holding a cup, surrounded by happy children. Warm candlelight, colorful food, friendly faces. Simple and joyful atmosphere.",
+    "prompt_imagen_normal": "Jesus at the Last Supper, holding a cup, with intense emotion. Disciples around, dimly lit room, dramatic shadows. His eyes show sacrifice and love.",
+    "texto_original": "Asimismo tomó también la copa, después de haber cenado, diciendo: Esta copa es el nuevo pacto en mi sangre: haced esto todas las veces que bebiereis, en memoria de mí.",
+    "versiculo": "1 Corintios 11:25"
+  },
+  "26": {
+    "normal": "<h2>Anunciando Su Muerte Hasta Que Él Venga</h2><p>La Cena del Señor no es solo un ritual; es una proclamación viva. Cada vez que partimos el pan y bebemos de la copa, recordamos el sacrificio de Jesús y anunciamos su muerte hasta que regrese. Este versículo nos invita a participar con intención, reflexionando sobre el costo de nuestra redención y la esperanza de su venida. En medio de nuestras rutinas diarias, la comunión nos conecta con la historia de salvación y nos desafía a vivir en gratitud y anticipación. Que cada vez que comamos este pan, nuestro corazón se vuelva hacia Él, proclamando su amor y esperando su retorno con fe activa.</p>",
+    "academico": "<h2>Proclamación Escatológica en la Cena del Señor</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>katangellō</em> (καταγγέλλω) significa 'proclamar solemnemente' o 'anunciar públicamente'. Pablo usa el presente activo, indicando una acción continua. 'Hasta que venga' (<em>achri hou elthē</em>) es una cláusula temporal con subjuntivo aoristo, señalando un punto futuro definido. El pan (<em>artos</em>) y la copa (<em>potērion</em>) son símbolos del cuerpo y la sangre de Cristo. El contexto litúrgico de la iglesia primitiva unía el memorial con la esperanza escatológica.</p><h3>Contexto Histórico</h3><p>En Corinto, la Cena del Señor se celebraba en el contexto de comidas comunitarias. Pablo corrige abusos (11:20-22) recordando la institución por Jesús. La expresión 'anunciáis la muerte del Señor' refleja la tradición oral de la iglesia primitiva, donde la Cena era un acto de proclamación pública, no solo privado. La espera de la parusía ('hasta que venga') era central en la teología paulina, dando urgencia y significado a la práctica.</p><h3>Implicaciones Teológicas</h3><p>Este versículo vincula la Cena con la escatología: la muerte de Cristo es el evento central de la historia, proclamado hasta su consumación en la segunda venida. La Cena es un 'memorial' (anamnesis) que trasciende el tiempo, haciendo presente el sacrificio pasado y anticipando la gloria futura. Teológicamente, enfatiza la tensión entre el 'ya' y el 'todavía no' del reino. La participación en la Cena no es opcional para la iglesia; es una proclamación necesaria que sostiene la fe y la esperanza.</p>",
+    "ninos": "<h2>🌟 El Pan que Cuenta una Historia</h2><p>Imagina que tienes una foto especial de tu familia. Cada vez que la ves, recuerdas un momento feliz. Así es la Cena del Señor: cuando los cristianos comen pan y toman jugo de uva, recuerdan que Jesús murió por ellos. Pero no solo recuerdan, ¡también le cuentan a otros lo que Jesús hizo! Es como un anuncio en la tele: '¡Jesús murió por ti y volverá!' Hasta que un día, Jesús regrese. Así que cada vez que veas pan o jugo en la iglesia, piensa: 'Jesús me ama y volverá por mí'. 🍞🥤</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 26:26-29",
+        "tipo": "Institución",
+        "razon": "Describe la institución de la Cena del Señor por Jesús, base del versículo de Pablo."
+      },
+      {
+        "referencia": "Lucas 22:19-20",
+        "tipo": "Paralelo",
+        "razon": "Relato paralelo de la institución, enfatizando el memorial."
+      },
+      {
+        "referencia": "1 Corintios 10:16-17",
+        "tipo": "Contexto",
+        "razon": "Explica la comunión y el significado del pan y la copa en la iglesia de Corinto."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful children's Sunday school class gathered around a table with bread and grape juice. Bright, warm lighting. Simple, colorful illustration style. Kids smiling, one holding a piece of bread. Focus on togetherness and anticipation.",
+    "prompt_imagen_normal": "A dramatic cinematic scene of an ancient church gathering around a wooden table. Bread and a cup in center. Soft candlelight illuminating faces. Expression of solemn remembrance and hope. Epic realism, emotional depth.",
+    "texto_original": "Porque todas las veces que comiereis este pan, y bebiereis esta copa, la muerte del Señor anunciáis hasta que venga.",
+    "versiculo": "1 Corintios 11:26"
+  },
+  "27": {
+    "normal": "<h2>Comiendo y Bebiendo con Reverencia</h2><p>La Cena del Señor es un momento sagrado donde recordamos el sacrificio de Jesús. Pablo nos advierte que participar indignamente trae consecuencias graves. ¿Qué significa participar indignamente? No se trata de ser perfecto, sino de tener una actitud de respeto y examen personal. Antes de tomar la comunión, pregúntate: ¿He confesado mis pecados? ¿Estoy en paz con mis hermanos? ¿Reconozco el cuerpo de Cristo en la iglesia? Participar indignamente es hacerlo sin discernir el significado, como si fuera una comida común. Pero Dios nos invita a acercarnos con un corazón humilde y agradecido. Hoy, antes de la próxima comunión, tómate un momento para preparar tu corazón. Confiesa, restaura relaciones y recibe el pan y la copa con la reverencia que merecen. Así, no solo evitarás la culpa, sino que experimentarás la gracia y el amor de Dios de una manera más profunda.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:27</h2><h3>Análisis Filológico</h3><p>El término griego ἀναξίως (anaxios) significa 'indignamente' o 'de manera inapropiada'. Pablo usa ἐσθίῃ (esthíē) 'comer' y πίνῃ (pínē) 'beber', verbos en presente subjuntivo, indicando una acción continua o habitual. La frase 'será culpado' traduce ἔνοχος ἔσται (enochos estai), que implica responsabilidad legal o culpa. El 'cuerpo y sangre' (σώματος καὶ αἵματος) se refiere a la presencia real de Cristo en la Cena, no solo simbólica. El contexto histórico muestra que en Corinto, la cena del Señor se celebraba en un contexto de ágape donde los ricos comían y bebían en exceso mientras los pobres pasaban hambre (11:21-22). Esto era una profanación del sacramento.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, las comidas sacrificiales tenían un carácter comunitario. La iglesia en Corinto, compuesta por judíos y gentiles, traía sus propias costumbres. Pablo corrige la falta de discernimiento del cuerpo de Cristo, tanto en el sentido sacramental como en el comunitario (la iglesia como cuerpo). La referencia a 'indignamente' está ligada a la actitud egoísta y divisionista.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la seriedad de la Cena del Señor como participación real en el sacrificio de Cristo. La advertencia contra la participación indigna no es para desanimar, sino para promover un examen personal (v. 28). La culpabilidad recae en quien no discierne el cuerpo, es decir, no reconoce la presencia de Cristo ni la unidad de la iglesia. Teológicamente, la Cena es un medio de gracia que requiere fe y arrepentimiento. La advertencia protege el sacramento de la profanación y llama a la iglesia a la santidad y la unidad.</p>",
+    "ninos": "🌟 ¡Cuidado con la Mesa Especial! 🌟<p>Imagina que tienes una mesa muy especial en tu casa, donde solo se ponen las cosas más importantes. Un día, tu mamá prepara un pastel delicioso y dice: 'Este pastel es para recordar algo muy especial'. Pero tú llegas corriendo, con las manos sucias, y empiezas a comer sin escuchar la historia. Eso no está bien, ¿verdad? La Biblia nos dice que cuando vamos a la iglesia y comemos el pan y bebemos el jugo (que recuerdan a Jesús), debemos hacerlo con respeto, pensando en lo que Jesús hizo por nosotros. Si lo hacemos sin cuidado, es como si no nos importara. Así que, antes de comer, podemos cerrar los ojos y dar gracias, recordando que Jesús nos ama mucho. Lección: Siempre debemos acercarnos a Dios con un corazón agradecido y respetuoso.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:23-26",
+        "tipo": "contexto",
+        "razon": "Institución de la Cena del Señor y su significado"
+      },
+      {
+        "referencia": "1 Corintios 10:16-17",
+        "tipo": "explicación",
+        "razon": "Participación en el cuerpo y sangre de Cristo y unidad de la iglesia"
+      },
+      {
+        "referencia": "Mateo 26:26-28",
+        "tipo": "paralelo",
+        "razon": "Institución de la Cena del Señor en los evangelios"
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child with clean hands sitting at a beautifully set table, holding a piece of bread and a cup, with a warm glow around, smiling, surrounded by family, in a cozy room with sunlight streaming through a window.",
+    "prompt_imagen_normal": "A dramatic biblical scene: a solemn congregation at a wooden communion table, a man reaching for bread with trembling hand, dim candlelight, shadows, expressions of reverence and guilt, epic realism.",
+    "texto_original": "De manera que, cualquiera que comiere este pan o bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor.",
+    "versiculo": "1 Corintios 11:27"
+  },
+  "28": {
+    "normal": "<h2>Examen Personal Antes de la Mesa del Señor</h2><p>Este versículo nos recuerda la importancia de preparar nuestro corazón antes de participar en la Cena del Señor. No se trata de ser perfectos, sino de ser honestos con Dios y con nosotros mismos. Antes de tomar el pan y la copa, tómate un momento para reflexionar: ¿Hay algo en tu vida que necesitas confesar? ¿Alguna relación rota que restaurar? ¿Un corazón agradecido por el sacrificio de Jesús? Este autoexamen no es para condenarnos, sino para asegurarnos de que participamos con reverencia y gratitud. Así, la Cena se convierte en un momento de encuentro íntimo con Dios, donde recordamos su amor y renovamos nuestro compromiso de seguirle.</p>",
+    "academico": "<h2>Autoexamen y Participación en la Cena del Señor</h2><h3>Análisis Filológico</h3><p>El término griego clave es \"δοκιμαζέτω\" (dokimazetō), imperativo presente activo de \"δοκιμάζω\" (dokimazō), que significa \"probar, examinar, aprobar después de prueba\". Implica un escrutinio continuo y personal. \"ἑαυτόν\" (heauton) enfatiza el autoexamen, no la comparación con otros. \"ἄνθρωπος\" (anthropos) es genérico: \"cada persona\". El contexto histórico se sitúa en Corinto, una ciudad grecorromana con fuertes divisiones sociales. La Cena del Señor se celebraba en el contexto de una comida comunitaria (ágape), donde los ricos comían abundantemente mientras los pobres pasaban hambre (11:21). Pablo corrige esta falta de discernimiento del cuerpo de Cristo, tanto el cuerpo físico de Jesús como la comunidad eclesial. El autoexamen previene participar indignamente, trayendo juicio (11:29).</p><h3>Contexto Histórico</h3><p>En el ambiente corintio, las comidas de culto pagano incluían excesos. Pablo contrapone la sobriedad y la unidad en la Cena del Señor. El autoexamen asegura que los creyentes participen con conciencia de la gracia y la responsabilidad comunitaria.</p><h3>Implicaciones Teológicas</h3><p>La Cena no es un rito mágico, sino un encuentro que requiere preparación espiritual. El autoexamen promueve la santidad personal y la unidad del cuerpo de Cristo. Teológicamente, conecta con la doctrina de la gracia preveniente: Dios nos examina, pero también nos capacita para examinarnos.</p>",
+    "ninos": "<h2>🌟 Prepárate para la Mesa de Jesús</h2><p>Imagina que vas a comer con un rey muy especial. Antes de sentarte, te lavas las manos y te aseguras de estar limpio. Así es cuando vamos a la mesa del Señor: Jesús nos invita a comer pan y beber jugo que recuerdan su amor. Pero antes, Dios nos dice: \"Mira dentro de tu corazón. ¿Hay algo que te ponga triste? ¿Algo malo que hiciste? Pídele perdón a Jesús y a las personas que lastimaste\". Así, cuando comes el pan y bebes de la copa, te sientes feliz y agradecido. Jesús te ama mucho y quiere que estés listo para celebrar con Él. 🍞🍇</p>",
+    "recomendaciones": [
+      {
+        "referencia": "2 Corintios 13:5",
+        "tipo": "paralelo",
+        "razon": "Ambos versículos llaman al autoexamen espiritual."
+      },
+      {
+        "referencia": "Éxodo 12:11",
+        "tipo": "tipo",
+        "razon": "La preparación para la Pascua prefigura el examen antes de la Cena del Señor."
+      },
+      {
+        "referencia": "Hebreos 10:22",
+        "tipo": "aplicación",
+        "razon": "Exhorta a acercarse con corazón limpio, similar al autoexamen."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child with a glowing heart, standing before a simple table with bread and a cup, surrounded by warm sunlight and gentle smile, inviting atmosphere.",
+    "prompt_imagen_normal": "A person kneeling in quiet reflection, hands clasped, with a faint glow on their face, in a dimly lit room with a wooden table holding bread and a cup, conveying solemn introspection.",
+    "texto_original": "Por tanto, pruébese cada uno a sí mismo, y coma así de aquel pan, y beba de aquella copa.",
+    "versiculo": "1 Corintios 11:28"
+  },
+  "29": {
+    "normal": "<h2>Comiendo con Reverencia</h2><p>La Cena del Señor es un momento sagrado para recordar el sacrificio de Jesús. Cuando participamos, debemos hacerlo con un corazón agradecido y consciente de lo que significa. Pablo nos advierte que comer y beber indignamente trae juicio sobre nosotros mismos. Esto no significa que tengamos que ser perfectos, sino que debemos examinar nuestros corazones, confesar nuestros pecados y acercarnos con respeto. No discernir el cuerpo del Señor es no reconocer que la comunión representa el cuerpo partido de Cristo y la sangre derramada por nuestros pecados. Aplicar esto hoy significa tomarnos un tiempo antes de la comunión para reflexionar, arrepentirnos y agradecer. Que cada vez que participemos, lo hagamos con reverencia, recordando que estamos unidos como cuerpo de Cristo.</p>",
+    "academico": "<h2>El Juicio de la Comunión Indigna: Análisis de 1 Corintios 11:29</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>anaxios</em> (ἀναξίως), traducido como 'indignamente', que significa 'de manera inapropiada o irreverente'. El verbo <em>diakrinō</em> (διακρίνω) en 'no discerniendo' implica 'juzgar, distinguir, hacer una separación'. La frase 'el cuerpo del Señor' (<em>to sōma tou Kyriou</em>) se refiere tanto al cuerpo físico de Cristo en la cruz como a la comunidad de creyentes (el cuerpo de Cristo). Pablo usa un juego de palabras: el que no discierne el cuerpo (la iglesia) se come juicio (<em>krima</em>) a sí mismo.</p><h3>Contexto Histórico</h3><p>En la iglesia de Corinto, la Cena del Señor se celebraba como parte de una comida comunitaria (ágape). Los ricos comían y bebían en exceso mientras los pobres pasaban hambre, dividiendo así el cuerpo de Cristo. Pablo corrige esta práctica, enseñando que la comunión es un acto de unidad y memoria. El contexto del Cercano Oriente Antiguo incluía comidas de pacto donde los participantes reconocían la presencia de la deidad; aquí, Cristo está presente espiritualmente.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la seriedad de la Cena del Señor. Participar indignamente trae juicio divino, no como condenación eterna sino como disciplina correctiva (v. 32). La necesidad de autoexamen (v. 28) es crucial. Además, el discernimiento del cuerpo incluye reconocer a la iglesia como el cuerpo de Cristo, promoviendo la unidad y el amor fraternal.</p>",
+    "ninos": "<h2>🌟 ¡La Cena Especial de Jesús!</h2><p>Imagina que tienes un pastel de cumpleaños súper especial, y tu mejor amigo te dice: 'Este pastel es para celebrar que te quiero mucho'. Pero si comes el pastel sin pensar en tu amigo, solo por glotonería, eso no está bien, ¿verdad? La Cena del Señor es como ese pastel especial: Jesús nos pidió que comiéramos pan y bebiéramos vino para recordar su amor. Pero si lo hacemos sin pensar en Él, o si peleamos con otros mientras comemos, eso entristece a Jesús. Pablo nos dice que cuando comemos y bebemos sin respeto, nos hacemos daño a nosotros mismos. Así que, antes de la comunión, debemos pedir perdón por nuestras peleas y dar gracias a Jesús. Así, la cena nos llena de alegría y nos une como una gran familia. 🍞🍷</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:27-28",
+        "tipo": "Contexto inmediato",
+        "razon": "Explica el mandato de examinarse antes de participar."
+      },
+      {
+        "referencia": "Juan 6:53-56",
+        "tipo": "Temática",
+        "razon": "Jesús habla de comer su carne y beber su sangre para tener vida eterna."
+      },
+      {
+        "referencia": "Hechos 2:42",
+        "tipo": "Práctica",
+        "razon": "La iglesia primitiva perseveraba en la comunión como parte de su devoción."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful children's table with a loaf of bread and a cup of juice, kids holding hands and smiling, warm sunlight, simple and colorful scene.",
+    "prompt_imagen_normal": "A dramatic biblical scene: a hand reaching for bread on a wooden table, dim candlelight, sorrowful expression, symbolizing self-examination and reverence.",
+    "texto_original": "Porque el que come y bebe indignamente, juicio come y bebe para sí, no discerniendo el cuerpo del Señor.",
+    "versiculo": "1 Corintios 11:29"
+  },
+  "30": {
+    "normal": "<h2>Salud Espiritual y Física</h2><p>En 1 Corintios 11:30, Pablo nos confronta con una verdad seria: nuestras acciones tienen consecuencias. Los corintios estaban participando en la Cena del Señor de manera indigna, sin discernir el cuerpo de Cristo. Como resultado, muchos estaban débiles, enfermos e incluso habían muerto. Este pasaje nos recuerda que nuestra comunión con Dios y con los hermanos afecta todas las áreas de nuestra vida, incluyendo la salud. No se trata de que cada enfermedad sea un castigo directo, sino de que vivir en desobediencia puede traer consecuencias naturales y espirituales. Dios nos ama demasiado para dejarnos seguir por caminos que nos dañan. La aplicación práctica es clara: examinemos nuestro corazón antes de acercarnos a la mesa del Señor. Busquemos la reconciliación con Dios y con los demás. Vivamos en santidad, no por miedo, sino por amor a Aquel que dio su vida por nosotros. La salud espiritual trae bendición a todo nuestro ser.</p>",
+    "academico": "<h2>Juicio y Disciplina en la Comunión</h2><h3>Análisis Filológico</h3><p>El término griego 'ἀσθενεῖς' (astheneis) significa 'débiles' o 'enfermos', mientras que 'ἄρρωστοι' (arrōstoi) se traduce como 'enfermos' en sentido físico. 'Κοιμῶνται' (koimōntai) literalmente 'duermen', es un eufemismo común en el NT para referirse a la muerte física (cf. 1 Tes 4:13-15). Pablo usa una progresión: debilidad, enfermedad, muerte, indicando un juicio divino gradual sobre la comunidad por su comportamiento irreverente en la Cena del Señor.</p><h3>Contexto Histórico</h3><p>En la iglesia de Corinto, la Cena del Señor se celebraba como parte de una comida comunitaria (ágape). Los abusos incluían divisiones sociales: los ricos comían y se embriagaban mientras los pobres pasaban hambre (vv. 21-22). Esto profanaba el significado de la Cena como memorial del sacrificio de Cristo y expresión de unidad del cuerpo de Cristo. En el mundo grecorromano, las comidas religiosas tenían un carácter sagrado; el comportamiento inapropiado se consideraba una ofensa a la deidad.</p><h3>Implicaciones Teológicas</h3><p>Pablo enseña que la Cena del Señor no es un mero ritual, sino una comunión real con Cristo y con los hermanos. Participar indignamente trae juicio (κρίμα, krima), que no es condenación eterna sino disciplina paternal (v. 32). Dios disciplina a sus hijos para corregirlos y evitar su condenación con el mundo. Esto subraya la seriedad de la participación en los sacramentos y la necesidad de autoexamen, arrepentimiento y reconciliación. La salud física y espiritual están conectadas en la vida de la comunidad.</p>",
+    "ninos": "<h2>🌟 La Cena Especial de Jesús</h2><p>Imagina que tienes una fiesta de cumpleaños y alguien llega y empieza a jugar bruscamente con la comida, sin importarle los demás. ¡Qué triste! Algo así pasó en la iglesia de Corinto. Cuando celebraban la cena especial que Jesús nos pidió recordar, algunos solo pensaban en sí mismos. Por eso, muchos se enfermaron o se pusieron débiles. Dios nos enseña que cuando hacemos algo importante para Él, debemos hacerlo con respeto y amor. Así como cuando compartes tus juguetes con cuidado, cuando tomamos la cena del Señor, debemos pensar en Jesús y en nuestros amigos. Si no, podemos lastimarnos a nosotros mismos. La lección es: antes de hacer algo especial para Dios, revisa tu corazón y pide perdón si has sido egoísta. Así, todo saldrá bien y estarás feliz y saludable. 🌈</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:27-29",
+        "tipo": "Contexto directo",
+        "razon": "Explica el juicio por participar indignamente."
+      },
+      {
+        "referencia": "Hebreos 12:5-11",
+        "tipo": "Temática similar",
+        "razon": "Habla de la disciplina de Dios como amor paternal."
+      },
+      {
+        "referencia": "Santiago 5:14-15",
+        "tipo": "Complemento",
+        "razon": "Relaciona enfermedad y oración en la comunidad."
+      }
+    ],
+    "prompt_imagen_ninos": "A crowded room with children around a table, one child grabbing all the food selfishly while others look sad. Bright colors, warm lighting, cartoon style.",
+    "prompt_imagen_normal": "Dimly lit ancient gathering, people at a long table, some weak and pale, one person lying down. Dramatic shadows, sense of solemnity and consequence.",
+    "texto_original": "Por lo cual hay muchos enfermos y debilitados entre vosotros; y muchos duermen.",
+    "versiculo": "1 Corintios 11:30"
+  },
+  "31": {
+    "normal": "<h2>El Espejo de la Autoevaluación</h2><p>Imagina que estás a punto de cruzar un puente colgante sobre un profundo desfiladero. Antes de dar el primer paso, revisas las cuerdas, miras las tablas, aseguras tu arnés. Eso es la autoevaluación: un momento de honestidad que previene desastres. Pablo nos dice que si nos examináramos a nosotros mismos, no seríamos juzgados. No se trata de una crítica cruel, sino de una mirada amorosa a nuestro interior.</p><p>Muchas veces vivimos en piloto automático, sin detenernos a reflexionar sobre nuestras acciones, pensamientos y motivaciones. Este versículo nos invita a hacer una pausa. Antes de participar en la comunión, antes de tomar decisiones importantes, antes de hablar o actuar, podemos preguntarnos: ¿Esto honra a Dios? ¿Refleja el amor de Cristo? ¿Es para mi beneficio o para el de otros?</p><p>Cuando nos examinamos, permitimos que el Espíritu Santo nos muestre áreas de crecimiento. Es como limpiar el polvo de un espejo para ver nuestro rostro con claridad. La autoevaluación no es para condenarnos, sino para corregir el rumbo. Al hacerlo, evitamos el juicio disciplinario de Dios, que aunque es amoroso, busca nuestra santificación.</p><p>Hoy, tómate cinco minutos para examinar tu corazón. Pídele a Dios que te revele cualquier actitud o acción que necesite cambio. No temas, porque su gracia está disponible. Al examinarnos, caminamos en luz y experimentamos su paz.</p>",
+    "academico": "<h2>Autocrítica como Antídoto del Juicio Divino</h2><h3>Análisis Filológico</h3><p>El verbo griego usado es <em>diakrinō</em> (διακρίνω), que significa 'discernir, juzgar, distinguir'. En este contexto, Pablo emplea el imperativo de <em>diakrinō</em> en tiempo presente: <em>ei heautous diekrinomen</em> (εἰ ἑαυτοὺς διεκρίνομεν). Literalmente, 'si nos discerniésemos a nosotros mismos'. La partícula condicional <em>ei</em> introduce una condición de segundo tipo (contraria al hecho), sugiriendo que no lo hacen. El verbo <em>krinō</em> (κρίνω) para 'juzgados' es el mismo, pero en voz pasiva, indicando el juicio divino. La raíz <em>krin-</em> implica separación, decisión, y en contexto judicial, sentencia.</p><h3>Contexto Histórico</h3><p>Este versículo se sitúa en 1 Corintios 11, donde Pablo reprende a la iglesia de Corinto por su comportamiento durante la Cena del Señor. Los corintios celebraban la comunión de manera desordenada: algunos comían y bebían en exceso, mientras otros pasaban hambre (v. 21). Pablo les recuerda que la Cena es un memorial del sacrificio de Cristo, y que participar indignamente trae juicio (v. 27-30). El juicio al que se refiere no es la condenación eterna, sino una disciplina temporal de Dios para corregir a sus hijos (v. 32). En el mundo grecorromano, el autoexamen era una práctica filosófica, pero Pablo le da un giro teológico: examinarse a la luz de la cruz y la comunidad.</p><h3>Implicaciones Teológicas</h3><p>Pablo enseña que la autoevaluación sincera previene el juicio disciplinario de Dios. Esto no anula la gracia, sino que la presupone: los creyentes son llamados a vivir de manera coherente con su nueva identidad en Cristo. El autoexamen no es una obra meritoria, sino un medio de gracia para mantener la comunión con Dios y con los hermanos. Teológicamente, este versículo subraya la responsabilidad humana en la santificación, sin menoscabar la soberanía divina. También refleja la tensión entre la seguridad de la salvación y la necesidad de una vida santa. La iglesia primitiva entendía que la Cena del Señor era un momento de examen personal y comunitario, para evitar la hipocresía y el abuso.</p>",
+    "ninos": "<h2>🌟 El Espejo Mágico</h2><p>Había una vez un niño llamado Samuel que siempre se metía en problemas. Un día, su abuelo le dio un espejo especial. —Este espejo te muestra cómo eres por dentro— le dijo. Samuel lo miró y vio que estaba enojado. Decidió disculparse con su amigo. ¡El espejo lo ayudó a cambiar!</p><p>La Biblia dice que si nos examinamos a nosotros mismos, no seremos juzgados. Es como mirarnos en un espejo antes de salir de casa: nos aseguramos de estar bien vestidos. Cuando revisamos nuestro corazón, vemos si estamos siendo buenos, si perdonamos, si obedecemos a Dios. Así evitamos hacer cosas malas que nos traen problemas.</p><p>¿Cómo puedes examinarte? Antes de dormir, piensa: ¿Fui amable? ¿Compartí? ¿Le pedí perdón a alguien? Si encuentras algo mal, pídele a Jesús que te ayude. Él te ama y quiere que crezcas. Recuerda: examinarte te hace más sabio y feliz. 😊</p><p>Lección: Mirar tu corazón cada día te ayuda a ser mejor amigo y hijo de Dios.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "2 Corintios 13:5",
+        "tipo": "Temática",
+        "razon": "Ambos versículos hablan de examinarse a uno mismo para probar la fe y evitar el juicio."
+      },
+      {
+        "referencia": "Salmos 139:23-24",
+        "tipo": "Oración",
+        "razon": "David pide a Dios que lo examine, similar a la autoevaluación que Pablo recomienda."
+      },
+      {
+        "referencia": "Gálatas 6:4",
+        "tipo": "Aplicación práctica",
+        "razon": "Cada uno debe examinar su propia obra, en lugar de compararse con otros."
+      }
+    ],
+    "prompt_imagen_ninos": "A boy looking into a magical mirror reflecting his heart with bright colors, surrounded by toys and a smiling grandfather, warm sunlight streaming through a window.",
+    "prompt_imagen_normal": "A dramatic scene: a person kneeling in prayer, hands over heart, with a soft heavenly light illuminating their face, symbolizing self-examination and repentance.",
+    "texto_original": "Que si nos examinásemos a nosotros mismos, cierto no seríamos juzgados.",
+    "versiculo": "1 Corintios 11:31"
+  },
+  "32": {
+    "normal": "<h2>El Amor que Disciplina</h2><p>A veces, cuando enfrentamos dificultades, podemos sentir que Dios está enojado con nosotros. Pero este versículo nos revela una verdad hermosa: la disciplina de Dios es una expresión de su amor. Así como un padre corrige a su hijo para protegerlo de peligros mayores, Dios nos corrige para que no compartamos el destino de aquellos que lo rechazan. No es un castigo por castigar, sino una oportunidad para volvernos a Él.</p><p>Piensa en un momento en que aprendiste una lección valiosa a través de una experiencia difícil. Tal vez fue un fracaso que te enseñó humildad, o una pérdida que te recordó lo que realmente importa. Dios usa esas circunstancias para moldear nuestro carácter y acercarnos más a Él. La clave está en nuestra respuesta: podemos resistirnos, amargarnos, o podemos abrir nuestro corazón y dejar que su disciplina nos transforme.</p><p>Hoy, si estás pasando por un tiempo de prueba, no te desanimes. Pregúntale a Dios: '¿Qué quieres enseñarme en esto?' Confía en que su corrección es temporal y tiene un propósito eterno. Él no te ha abandonado; al contrario, te está preparando para algo mejor. Recuerda: el que corrige es el que ama. Deja que su amor te guíe hacia la vida verdadera.</p>",
+    "academico": "<h2>Disciplina Redentora: Un Análisis de 1 Corintios 11:32</h2><h3>Análisis Filológico</h3><p>El versículo presenta dos términos griegos clave: κρινόμενοι (krinomenoi, 'siendo juzgados') y παιδευόμεθα (paideuometha, 'somos disciplinados'). El primero, en voz media, indica un juicio que Dios realiza sobre los creyentes, mientras que el segundo proviene de παιδεία (paideia), que implica crianza, educación y corrección formativa, no castigo punitivo. El contraste con κατακριθῶμεν (katakrithomen, 'seamos condenados') es crucial: la disciplina divina evita la condenación eterna reservada para el mundo (κόσμος, kosmos).</p><h3>Contexto Histórico</h3><p>Pablo escribe a una iglesia en Corinto que abusaba de la Cena del Señor, comiendo y bebiendo sin discernir el cuerpo de Cristo (vv. 27-29). Como resultado, muchos estaban débiles, enfermos y algunos habían muerto (v. 30). En el mundo grecorromano, la disciplina era vista como un medio para formar ciudadanos virtuosos; Pablo adapta este concepto para mostrar que Dios disciplina a sus hijos para santificarlos, no para destruirlos. La referencia a 'el mundo' alude a aquellos que están fuera de la comunidad de fe y bajo condenación.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la doctrina de la disciplina divina como expresión del amor paternal de Dios (cf. Heb 12:5-11). La corrección no es contradictoria con la gracia; más bien, es un medio para preservar al creyente en la fe y apartarlo del juicio final. También resalta la distinción entre el pueblo de Dios y el mundo: los creyentes son disciplinados para que no compartan la condenación del mundo. Esto implica una soteriología corporativa y eclesiológica: la iglesia es el espacio donde Dios forma a su pueblo mediante la disciplina correctiva, apuntando a la santidad y la comunión restaurada.</p>",
+    "ninos": "🌟 ¡El Abrazo que Corrige! 🌟\n\nImagina que estás jugando cerca de una calle muy peligrosa. Tu papá te ve, te toma de la mano y te lleva a un lugar seguro. Puede que te enojes porque te sacó del juego, ¡pero él te salvó de un gran peligro! Así es Dios con nosotros.\n\nCuando hacemos algo mal, Dios no se enoja para siempre. Él nos corrige con amor, como un papá que nos enseña a cruzar bien la calle. ¿Sabes por qué? Porque no quiere que nos lastimemos con cosas peores. La Biblia dice que los que no aman a Dios serán castigados para siempre, pero nosotros, los hijos de Dios, recibimos su corrección para aprender y estar cerca de Él.\n\nAsí que cuando te equivoques y sientas que algo malo te pasa, no pienses que Dios te odia. Al contrario, ¡te está cuidando! Dile: 'Gracias, Dios, por enseñarme'. Y verás cómo su amor te hace más fuerte.\n\nLección: La disciplina de Dios es una muestra de su amor, para protegernos y guiarnos por el buen camino.",
+    "recomendaciones": [
+      {
+        "referencia": "Hebreos 12:5-11",
+        "tipo": "Desarrollo temático",
+        "razon": "Expande la doctrina de la disciplina divina como señal de filiación y amor paternal."
+      },
+      {
+        "referencia": "Apocalipsis 3:19",
+        "tipo": "Paralelo conceptual",
+        "razon": "Refuerza la idea de que Cristo reprende y disciplina a los que ama, llamándolos al arrepentimiento."
+      },
+      {
+        "referencia": "Proverbios 3:11-12",
+        "tipo": "Base veterotestamentaria",
+        "razon": "Cita del AT que Pablo probablemente tenía en mente, vinculando disciplina con amor paternal."
+      },
+      {
+        "referencia": "1 Corintios 11:27-31",
+        "tipo": "Contexto inmediato",
+        "razon": "Explica por qué la disciplina ocurre: por participar indignamente de la Cena del Señor."
+      }
+    ],
+    "prompt_imagen_ninos": "A child being gently led by a giant warm hand away from a busy road, with a bright sun and a protective glowing figure in the background, soft colors, safe and loving atmosphere.",
+    "prompt_imagen_normal": "A dramatic scene of a person kneeling in prayer under a stormy sky, with a beam of light breaking through clouds, symbolizing divine correction and hope, realistic epic lighting.",
+    "texto_original": "Mas siendo juzgados, somos castigados del Señor, para que no seamos condenados con el mundo.",
+    "versiculo": "1 Corintios 11:32"
+  },
+  "33": {
+    "normal": "<h2>Esperando con amor</h2><p>En la iglesia primitiva, la Cena del Señor era una comida completa donde los creyentes se reunían para compartir. Pablo corrige una práctica que causaba divisiones: algunos comían sin esperar a otros, dejando a los más pobres con hambre (1 Corintios 11:21-22). El versículo 33 nos llama a la paciencia y la consideración mutua. No se trata solo de esperar para comer, sino de valorar a cada persona como miembro del cuerpo de Cristo. Cuando esperamos a otros, mostramos que su necesidad es tan importante como la nuestra. En nuestras comidas familiares, reuniones de iglesia o incluso en la mesa del almuerzo, podemos practicar este principio: mirar a nuestro alrededor, asegurarnos de que todos estén incluidos, y compartir no solo el alimento sino también el tiempo y la atención. Así reflejamos el amor de Cristo que se entregó por todos. La aplicación práctica es sencilla: antes de empezar a comer, haz una pausa, observa si falta alguien, ofrece un lugar, comparte tu pan. Este pequeño gesto construye comunidad y honra a Dios.</p>",
+    "academico": "<h2>Unidad en la Cena del Señor</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>ekdechomai</em> (ἐκδέχομαι) en el texto original significa \"esperar\", pero con un matiz de expectativa activa y hospitalidad. Pablo usa el imperativo presente <em>prosdechomai</em> (προσδέχομαι) en algunos manuscritos, que implica \"recibir\" o \"aceptar\" a los demás. La frase \"cuando os juntáis a comer\" (συνέρχεσθε εἰς τὸ φαγεῖν) refleja la práctica de la iglesia primitiva de reunirse para la Cena del Señor como una comida comunitaria. El contexto histórico muestra que en Corinto, las reuniones estaban marcadas por divisiones de clase: los ricos comían temprano y se emborrachaban, mientras los pobres quedaban excluidos (vv. 21-22). Pablo contrasta esto con la naturaleza unificadora de la Cena del Señor, que conmemora el cuerpo y la sangre de Cristo, dados por todos.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, las comidas comunitarias (como los <em>symposia</em>) solían reflejar jerarquías sociales. Los anfitriones ofrecían mejor comida a los invitados de alto rango. Pablo rechaza esta práctica en la iglesia, llamando a la igualdad. La instrucción \"esperaos unos a otros\" subvierte las normas culturales, estableciendo que en Cristo no hay distinción entre rico y pobre (Gálatas 3:28). La Cena del Señor no es un banquete privado, sino un acto de memoria colectiva que requiere participación equitativa.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la eclesiología: la iglesia como cuerpo de Cristo donde cada miembro es esencial. La espera mutua es una expresión práctica de <em>koinonia</em> (comunión). Teológicamente, anticipa la escatología: la Cena del Señor es un anticipo del banquete mesiánico (Mateo 8:11), donde todos serán reunidos. La exhortación de Pablo corrige una comprensión individualista de la Cena, recordando que es un acto corporativo que exige justicia y amor fraternal.</p>",
+    "ninos": "🌟 ¡Espera tu turno con amor! 🌟\n\nImagina que estás en una fiesta de cumpleaños. Todos tienen hambre y quieren pastel. Pero algunos niños empiezan a comer antes de que lleguen los demás. ¿Qué pasaría? Los que llegan tarde se sentirían tristes y solos.\n\nEn la Biblia, el apóstol Pablo les dijo a sus amigos de la iglesia: \"Cuando se reúnan para comer, espérense unos a otros\". Es como cuando juegas en el parque: esperas a que todos estén listos para empezar el juego. Así nadie se queda fuera.\n\nJesús nos enseñó a amarnos como él nos ama. Esperar a los demás es una forma de mostrar amor. La próxima vez que comas con tu familia o amigos, mira a tu alrededor. ¿Falta alguien? Invítalo a sentarse y espera a que todos tengan su plato. ¡Compartir la comida es más divertido cuando todos están juntos!\n\nLección: Esperar a los demás demuestra que los valoramos y que somos un equipo.",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 2:42",
+        "tipo": "Contexto",
+        "razon": "Describe la comunión en la iglesia primitiva, incluyendo la fracción del pan y la oración, que es el contexto de la Cena del Señor."
+      },
+      {
+        "referencia": "Gálatas 3:28",
+        "tipo": "Temática",
+        "razon": "Enfatiza la unidad en Cristo sin distinción de clase, reforzando el llamado a esperar a todos."
+      },
+      {
+        "referencia": "Santiago 2:1-4",
+        "tipo": "Aplicación",
+        "razon": "Advierte contra el favoritismo en las reuniones, similar a la división que Pablo corrige."
+      }
+    ],
+    "prompt_imagen_ninos": "A group of diverse children sitting around a colorful table with plates of food, smiling and holding hands before eating, warm sunlight streaming through a window, joyful expressions, cozy room with paintings of Bible scenes.",
+    "prompt_imagen_normal": "Early Christian community gathered around a rustic wooden table with bread and cups, diverse people including rich and poor, waiting patiently, warm candlelight, expressions of love and unity, dramatic chiaroscuro lighting.",
+    "texto_original": "Así, que, hermanos míos, cuando os juntáis a comer, esperaos unos a otros.",
+    "versiculo": "1 Corintios 11:33"
+  },
+  "34": {
+    "normal": "<h2>Orden y Corazón en la Cena del Señor</h2><p>Pablo nos recuerda que la Cena del Señor no es un momento para saciar el hambre física, sino para celebrar el sacrificio de Cristo en comunidad. Si alguien tiene hambre, debe comer en casa, para que la reunión no se convierta en un motivo de juicio. Este consejo práctico nos invita a examinar nuestras motivaciones: ¿venimos a la iglesia con un corazón preparado, o distraído por necesidades temporales? La aplicación es clara: antes de participar en la comunión, asegurémonos de haber satisfecho nuestras necesidades básicas y de venir con un espíritu de reverencia y unidad. Así, la Cena será un verdadero encuentro de gracia, no un motivo de división. Que cada reunión sea un espacio donde el amor y el orden reflejen el carácter de Dios.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Corintios 11:34</h2><h3>Análisis Filológico</h3><p>El término griego <em>peinaō</em> (πεινάω) significa 'tener hambre', indicando una necesidad física. La frase 'coma en su casa' (ἐν οἴκῳ ἐσθιέτω) subraya la distinción entre la comida común y la Cena del Señor. 'Para juicio' (εἰς κρίμα) tiene connotaciones de condenación divina, como se ve en el contexto de los versículos anteriores (v. 29-32). La palabra 'ordenaré' (διατάξομαι) implica una disposición autoritativa, mostrando la preocupación pastoral de Pablo por el orden en la iglesia.</p><h3>Contexto Histórico</h3><p>En la iglesia de Corinto, la Cena del Señor se celebraba como parte de una comida comunitaria (ágape). Sin embargo, los ricos comían sin esperar a los pobres, creando divisiones (v. 21). Pablo corrige este abuso, separando la comida común de la celebración eucarística. La referencia a 'las demás cosas' sugiere que Pablo planeaba dar más instrucciones cuando visitara Corinto, posiblemente sobre otros aspectos del culto.</p><h3>Implicaciones Teológicas</h3><p>El versículo enfatiza la santidad de la Cena del Señor y la necesidad de autoexamen. No es un mero ritual, sino un encuentro con Cristo que requiere preparación espiritual. La advertencia contra el 'juicio' (krima) resalta la seriedad de participar indignamente. La instrucción de comer en casa separa lo común de lo sagrado, enseñando que la iglesia debe ser un lugar de orden y reverencia. La promesa de 'ordenaré' muestra la autoridad apostólica y la provisión divina para la iglesia.</p>",
+    "ninos": "<h2>🌟 La Cena Especial de Jesús</h2><p>Imagina que tienes una fiesta de cumpleaños muy importante. Pero antes de empezar, tu mamá te dice: 'Si tienes hambre, come algo en casa primero, porque esta fiesta es para celebrar y estar juntos, no solo para llenar la panza.' Así es la Cena del Señor: es un momento especial para recordar cuánto nos ama Jesús, no para comer mucho. Por eso, si tienes hambre, come antes de ir a la iglesia. Así puedes estar tranquilo y pensar en Jesús con tus amigos. La lección es: prepara tu corazón para los momentos especiales con Dios.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 11:17-22",
+        "tipo": "Contexto inmediato",
+        "razon": "Pablo reprende los abusos en la Cena del Señor, estableciendo el problema que motiva el versículo 34."
+      },
+      {
+        "referencia": "Hechos 2:42-46",
+        "tipo": "Paralelo temático",
+        "razon": "Muestra la práctica ideal de la comunión en la iglesia primitiva, con unidad y generosidad."
+      },
+      {
+        "referencia": "Juan 6:35",
+        "tipo": "Contraste teológico",
+        "razon": "Jesús como el pan de vida contrasta con el pan físico; la Cena apunta a Él, no a la comida."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child eating a simple meal at home, smiling, with a warm kitchen background. Soft lighting, cozy atmosphere, family setting.",
+    "prompt_imagen_normal": "A dramatic ancient Corinthian church interior, believers gathering around a simple table with bread and cup, some looking conflicted, dim candlelight, expressions of reverence and tension.",
+    "texto_original": "Si alguno tuviere hambre, coma en su casa, porque no os juntéis para juicio. Las demás cosas ordenaré cuando llegare.",
+    "versiculo": "1 Corintios 11:34"
+  }
+}

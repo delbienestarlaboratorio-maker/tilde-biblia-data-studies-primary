@@ -1,0 +1,625 @@
+{
+  "1": {
+    "normal": "<h2>Aceptar con Amor</h2><p>Este versículo nos llama a recibir a los hermanos débiles en la fe, no para discutir ni juzgar sus convicciones. En la iglesia, todos estamos en diferentes etapas de crecimiento espiritual. Algunos tienen una fe más fuerte en ciertos asuntos, mientras que otros luchan con dudas o escrúpulos. Pablo nos insta a acogerlos con amor, no para ganar argumentos, sino para edificar. La contienda solo divide, pero la gracia une. Aplica esto hoy: antes de corregir a alguien, pregúntate si tu actitud es de amor o de orgullo. Recibir al débil significa dar espacio para crecer, sin imponer cargas innecesarias. La unidad en Cristo se construye con paciencia y humildad.</p>",
+    "academico": "<h2>Romanos 14:1: Un Llamado a la Aceptación en la Comunidad de Fe</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>προσλαμβάνω</em> (proslambanō) significa 'recibir a uno en compañía, acoger' (BDAG). Implica una acción intencional de inclusión. El término <em>ἀσθενέω</em> (astheneō) se refiere a ser 'débil' o 'débil en fe' (cf. 1 Cor 8:7-12), no en un sentido moral, sino en la conciencia escrupulosa respecto a alimentos y días. La frase <em>μὴ εἰς διακρίσεις διαλογισμῶν</em> (mē eis diakriseis dialogismōn) significa 'no para juicios de disputas' o 'no para discutir opiniones' (cf. v. 2-5). El contexto es la controversia entre los 'fuertes' (que comen todo) y los 'débiles' (que solo comen verduras). Pablo ordena no despreciar ni juzgar al hermano (v. 3).</p><h3>Contexto Histórico</h3><p>En la iglesia de Roma, compuesta por judíos y gentiles, existían tensiones sobre la observancia de leyes dietéticas y días sagrados (14:2-6). Los 'débiles' probablemente eran cristianos judíos que aún se aferraban a restricciones mosaicas, mientras que los 'fuertes' eran gentiles o judíos liberados de la ley. Pablo enfatiza que el reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo (v. 17). La exhortación a 'recibir' refleja la hospitalidad del mundo antiguo, un valor crucial en las comunidades cristianas primitivas.</p><h3>Implicaciones Teológicas</h3><p>La unidad en la diversidad es central: los creyentes deben aceptarse mutuamente sin imponer conciencias. La libertad cristiana no es para juzgar, sino para servir en amor. Este principio se aplica hoy en disputas sobre prácticas no esenciales (estilo de adoración, días festivos, etc.). La fe auténtica se demuestra en la tolerancia y la edificación mutua, no en la controversia.</p>",
+    "ninos": "🌟 ¡Recibe a Todos con Amor! 🌟\n\nImagina que en tu clase hay un niño nuevo que no sabe jugar bien al fútbol. ¿Le dices: 'No juegues con nosotros porque eres malo'? ¡No! Lo invitas a jugar y le enseñas. Así es Dios con nosotros. A veces, algunos amigos creen en Jesús pero aún tienen dudas. No debemos pelear con ellos ni burlarnos. Mejor los abrazamos y los ayudamos a crecer. Como cuando mamá te recibe con un abrazo aunque hayas tenido un mal día. Jesús nos enseña a ser amables y pacientes. La próxima vez que veas a alguien diferente, recíbelo con una sonrisa. ¡Así haces feliz a Dios!",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:9-13",
+        "tipo": "Temática",
+        "razon": "Trata sobre la libertad cristiana y el cuidado de los débiles en la fe."
+      },
+      {
+        "referencia": "Romanos 15:7",
+        "tipo": "Complementaria",
+        "razon": "Llama a recibirnos unos a otros como Cristo nos recibió."
+      },
+      {
+        "referencia": "Gálatas 6:1-2",
+        "tipo": "Práctica",
+        "razon": "Instruye a restaurar con mansedumbre a los que caen, llevando las cargas unos de otros."
+      }
+    ],
+    "prompt_imagen_ninos": "A diverse group of children playing together in a sunny park. One shy child is invited into a circle by a smiling girl. Warm lighting, joyful expressions, inclusive atmosphere.",
+    "prompt_imagen_normal": "A dramatic biblical scene: a weathered apostle Paul extending his hand to a hesitant man, surrounded by a diverse early Christian community in a dimly lit room. Intense emotions, chiaroscuro lighting, historical realism.",
+    "texto_original": "RECIBID al flaco en la fe, pero no para contiendas de disputas.",
+    "versiculo": "Romanos 14:1"
+  },
+  "2": {
+    "normal": "<h2>Libertad en Cristo</h2><p>¿Alguna vez te has sentido juzgado por lo que comes o dejas de comer? En Romanos 14:2, Pablo aborda precisamente este tema. Habla de dos grupos: los que se sienten libres para comer de todo, y los que, por su fe más débil, prefieren solo verduras. La clave aquí no es la comida, sino el corazón. No se trata de quién tiene la razón, sino de cómo tratamos a los demás cuando diferimos en cosas no esenciales.</p><p>Pablo nos recuerda que cada persona es responsable ante Dios, no ante nosotros. Nuestra libertad en Cristo no debe convertirse en una piedra de tropiezo para otros. Si tu hermano en la fe se siente más seguro comiendo solo verduras, ¿por qué menospreciarlo? Y si comes de todo, ¿por qué juzgar al que no lo hace? El amor debe guiar nuestras acciones. Acepta al que es débil en la fe, sin discutir opiniones.</p><p>Hoy, examina tu corazón: ¿hay áreas donde estás juzgando a otros por sus costumbres? ¿O quizás te sientes juzgado? Recuerda que en Cristo somos libres, pero esa libertad está al servicio del amor. Busca la unidad, no la uniformidad. Vive tu fe con gratitud, y deja que los demás vivan la suya delante de Dios.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:2</h2><h3>Análisis Filológico</h3><p>El versículo dice: 'ὃς μὲν πιστεύει φαγεῖν πάντα, ὁ δὲ ἀσθενῶν λάχανα ἐσθίει' (hos men pisteuei phagein panta, ho de asthenōn lachana esthiei). El verbo 'πιστεύει' (pisteuei) indica una convicción personal, no una doctrina universal. 'ἀσθενῶν' (asthenōn) literalmente 'el que está débil', refiriéndose a una conciencia escrupulosa. 'λάχανα' (lachana) son verduras o legumbres, posiblemente para evitar carne sacrificada a ídolos (cf. 1 Cor 8). El contexto sugiere que los 'débiles' evitaban carne por temor a contaminación idolátrica, mientras que los 'fuertes' entendían que los ídolos no son nada.</p><h3>Contexto Histórico</h3><p>En la Roma del siglo I, la carne disponible en el mercado a menudo provenía de sacrificios paganos. Los cristianos judíos, acostumbrados a las leyes dietéticas del Antiguo Testamento, podrían haber tenido escrúpulos. Los cristianos gentiles, sin ese trasfondo, se sentían libres. Pablo media entre ambos, enfatizando la aceptación mutua. La 'debilidad' no es moral sino de conciencia; el 'fuerte' debe considerar al otro.</p><h3>Implicaciones Teológicas</h3><p>Pablo distingue entre asuntos esenciales y no esenciales. La salvación no depende de lo que se come. La libertad cristiana debe ejercerse con amor. El juicio pertenece a Dios, no a nosotros. Este pasaje sienta las bases para la tolerancia en disputas adiafóricas (cosas indiferentes). La unidad de la iglesia se preserva cuando cada uno vive para el Señor, sin imponer sus convicciones personales.</p>",
+    "ninos": "🌟 ¡Diferentes pero Amigos! 🌟\n\nImagina que en tu clase, a unos niños les encanta comer pizza con todo, y otros solo quieren comer verduras. ¿Está mal? ¡Claro que no! En la Biblia, Pablo dice que algunos creen que pueden comer de todo, y otros, que se sienten más débiles, solo comen verduras. Lo importante es no pelearse por la comida.\n\nPablo nos enseña a respetar las decisiones de los demás. Si tu amigo no come lo mismo que tú, no te burles. Cada uno puede tener sus razones. Lo que importa es amarse y no juzgarse.\n\nAsí que, la próxima vez que veas a alguien comer diferente, recuerda: ¡Dios nos ama a todos igual! Trata a los demás con cariño, aunque no piensen igual que tú. 😊",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:8",
+        "tipo": "Temático",
+        "razon": "Ambos versículos tratan sobre la libertad de comer y la conciencia débil respecto a alimentos sacrificados a ídolos."
+      },
+      {
+        "referencia": "Colosenses 2:16",
+        "tipo": "Temático",
+        "razon": "Pablo advierte contra juzgar por comida o bebida, similar a Romanos 14."
+      },
+      {
+        "referencia": "Gálatas 5:13",
+        "tipo": "Temático",
+        "razon": "La libertad en Cristo debe usarse para servir por amor, no para juzgar."
+      }
+    ],
+    "prompt_imagen_ninos": "Two cartoon children at a lunch table: one eating a slice of pizza, the other eating a bowl of vegetables. They smile at each other. Bright light, warm colors, playful scene.",
+    "prompt_imagen_normal": "A dramatic biblical scene: two men at a market, one confidently buying meat, the other hesitantly choosing vegetables. Intense eye contact, contrasting expressions, dim lighting with a divine glow.",
+    "texto_original": "Porque uno cree que se ha de comer de todas cosas: otro que es débil, come legumbres.",
+    "versiculo": "Romanos 14:2"
+  },
+  "3": {
+    "normal": "<h2>Aceptación Mutua</h2><p>En Romanos 14:3, Pablo nos recuerda que en la familia de Dios no hay lugar para el menosprecio ni el juicio. Cada creyente tiene una relación personal con Dios, y Él es quien acepta a cada uno. A veces, podemos caer en la trampa de criticar a otros por sus decisiones, especialmente en áreas donde la Biblia no da mandatos claros. Pero Pablo nos llama a la humildad: Dios ha recibido tanto al que come como al que no come. Nuestra tarea no es juzgar, sino amarnos y edificarnos mutuamente. Hoy, pregúntate: ¿Hay alguien a quien estés menospreciando o juzgando? Pide a Dios que te dé un corazón de aceptación, recordando que todos somos siervos del mismo Señor. Practica la gracia en tus relaciones, celebrando la diversidad dentro del cuerpo de Cristo.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:3</h2><h3>Análisis Filológico</h3><p>El versículo contiene dos verbos clave en griego: <em>exoutheneo</em> (ἐξουθενέω, 'menospreciar, tratar con desdén') y <em>krino</em> (κρίνω, 'juzgar, condenar'). Pablo usa una estructura quiástica: 'el que come no menosprecie al que no come; y el que no come no juzgue al que come'. El término <em>exoutheneo</em> implica una actitud de superioridad, mientras que <em>krino</em> sugiere un juicio condenatorio. La razón teológica es contundente: <em>ho theos gar auton proselabeto</em> (ὁ θεὸς γὰρ αὐτὸν προσελάβετο, 'porque Dios le ha recibido'). El verbo <em>proslambano</em> (προσλαμβάνω) significa 'acoger, admitir en la comunidad', indicando que la aceptación divina es el fundamento de la aceptación mutua.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda disputas entre 'fuertes' y 'débiles' en la fe, probablemente relacionadas con la observancia de días y alimentos (cf. vv. 2, 5-6). En la iglesia romana, algunos cristianos de origen judío se abstenían de carne y observaban días especiales, mientras que los gentiles se sentían libres. Pablo no toma partido en la práctica, sino que enfatiza la aceptación mutua. El contexto del Cercano Oriente Antiguo muestra que las comidas comunitarias eran centrales en la vida social y religiosa; las divisiones en la mesa reflejaban divisiones más profundas.</p><h3>Implicaciones Teológicas</h3><p>El versículo enseña que la unidad en Cristo trasciende las diferencias en asuntos no esenciales. La aceptación divina es incondicional y debe modelar nuestras relaciones. No debemos usurpar el lugar de Dios como juez. Esto tiene implicaciones para la ética cristiana: la libertad personal debe ejercerse con amor, sin causar tropiezo al hermano. La comunidad de fe es un espacio de gracia donde cada uno es valorado por su fe, no por sus prácticas.</p>",
+    "ninos": "<h2>🌟 No Juzgues, Ama</h2><p>Imagina que tienes un amigo que come pizza con piña, y tú piensas que es raro. O tal vez tú no comes pizza, y otros te miran extraño. En la Biblia, Pablo dice: 'El que come, no menosprecie al que no come; y el que no come, no juzgue al que come'. ¿Por qué? Porque Dios acepta a todos. Es como cuando mamá prepara la cena: a veces a uno le gusta la verdura y a otro no, pero todos son parte de la familia. Lo importante es amarse y no pelearse por gustos. Dios nos ama a todos igual. Así que, la próxima vez que veas a alguien diferente, recuerda: no juzgues, ¡ama! 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Colosenses 2:16",
+        "tipo": "Tema paralelo",
+        "razon": "Ambos versículos tratan sobre no juzgar en asuntos de comida o días festivos."
+      },
+      {
+        "referencia": "1 Corintios 8:9",
+        "tipo": "Aplicación práctica",
+        "razon": "Expande la idea de no hacer tropezar a un hermano débil con nuestra libertad."
+      },
+      {
+        "referencia": "Mateo 7:1",
+        "tipo": "Principio general",
+        "razon": "Jesús enseña a no juzgar, base de la exhortación de Pablo."
+      }
+    ],
+    "prompt_imagen_ninos": "Two children sitting at a table, one happily eating pizza with pineapple, the other eating a salad. They are smiling at each other, with a warm kitchen background. Soft lighting, friendly atmosphere.",
+    "prompt_imagen_normal": "A dramatic biblical scene: a diverse group of early Christians sharing a meal in a dimly lit room. Some eat meat, others bread. Expressions of acceptance and love. Epic lighting, realistic textures.",
+    "texto_original": "El que come, no menosprecie al que no come: y el que no come, no juzgue al que come; porque Dios le ha levantado.",
+    "versiculo": "Romanos 14:3"
+  },
+  "4": {
+    "normal": "<h2>No Juzgues al Siervo de Otro</h2><p>Este versículo nos recuerda que no somos dueños de los demás, sino que cada persona responde ante Dios. Es fácil caer en la trampa de juzgar a otros creyentes, especialmente cuando vemos algo que nos parece incorrecto. Pero Pablo nos dice: \"¿Tú quién eres que juzgas al siervo ajeno?\" La verdad es que no conocemos el corazón ni las circunstancias de los demás. Solo Dios, que es el Señor de todos, tiene la autoridad para evaluar.</p><p>La buena noticia es que Dios es poderoso para afirmar a sus siervos. No necesitamos ser los jueces; podemos confiar en que Él sostendrá a cada persona en su caminar. Nuestra tarea es animar, orar y apoyar, no criticar. Hoy, cuando sientas la tentación de juzgar a otro, recuerda que tú también eres un siervo que depende de la gracia de Dios. Deja el juicio en sus manos y enfócate en amarte y servirte mutuamente.</p>",
+    "academico": "<h2>El Juicio Humano ante la Soberanía Divina</h2><h3>Análisis Filológico</h3><p>El término griego traducido como \"juzgar\" es <i>krínō</i> (κρίνω), que implica un juicio condenatorio o una evaluación crítica. La frase \"al siervo ajeno\" (oikéten allótrion) se refiere a un esclavo doméstico que pertenece a otro amo. El verbo \"está en pie\" (stékei) y \"cae\" (píptei) son imágenes de estabilidad o fracaso en la vida de fe. La afirmación final, \"poderoso es el Señor para afirmarle\", usa el verbo <i>dynatós</i> (δυνατός) para describir la capacidad divina de sostener. El contexto de Romanos 14 trata sobre disputas en la iglesia primitiva respecto a días sagrados y alimentos (kosher vs. no kosher), donde los \"fuertes\" (los que entendían la libertad cristiana) despreciaban a los \"débiles\" (los que aún observaban la ley). Pablo insta a la unidad y a no juzgarse mutuamente.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, los esclavos estaban sujetos completamente a sus amos. La metáfora de Pablo habría resonado fuertemente: así como un esclavo no es juzgado por otro esclavo sino por su amo, los creyentes no deben juzgarse entre sí, pues solo Dios es el Señor. La iglesia en Roma era diversa, con judíos y gentiles, y las tensiones por las prácticas culturales y religiosas amenazaban la comunión. Pablo enfatiza que cada persona es responsable ante Dios, no ante otros creyentes.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje subraya la soberanía de Dios sobre su pueblo y la libertad cristiana. El juicio humano usurpa la autoridad divina. La confianza en que Dios puede \"afirmar\" a sus siervos implica que la seguridad del creyente no depende de su desempeño sino del poder de Dios. Esto promueve una comunidad donde la tolerancia y el amor prevalecen sobre la crítica.</p>",
+    "ninos": "<h2>🌟 ¿Quién Eres Tú para Juzgar?</h2><p>Imagina que estás en el parque y ves a otro niño jugando con un juguete de una manera que no te gusta. Tal vez piensas: \"¡Lo está haciendo mal!\" Pero ¿sabes qué? Ese juguete no es tuyo, y ese niño no es tu sirviente. Es como si alguien te juzgara por cómo te gusta comer tus galletas: ¿con leche o solas? ¡Cada quien tiene su forma!</p><p>La Biblia dice que solo Dios es el dueño de todos. Él es como un papá que cuida a sus hijos. Si ves a alguien que hace algo diferente, no te preocupes, porque Dios puede ayudarlo a hacerlo bien. Tú no tienes que ser el juez. En lugar de criticar, puedes ser amigo y jugar juntos. La lección es: no juzgues a los demás, porque Dios los ama y los cuida, igual que a ti. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:1-2",
+        "tipo": "Temática",
+        "razon": "Jesús enseña directamente sobre no juzgar para no ser juzgados, reforzando el tema de Romanos 14:4."
+      },
+      {
+        "referencia": "Santiago 4:12",
+        "tipo": "Temática",
+        "razon": "Santiago pregunta quién eres para juzgar al prójimo, similar a la retórica de Pablo."
+      },
+      {
+        "referencia": "1 Corintios 4:5",
+        "tipo": "Temática",
+        "razon": "Pablo dice que no juzguemos antes de tiempo, pues el Señor traerá a luz lo oculto."
+      },
+      {
+        "referencia": "Romanos 14:10",
+        "tipo": "Contextual",
+        "razon": "Versículo siguiente que continúa el argumento: todos compareceremos ante el tribunal de Dios."
+      },
+      {
+        "referencia": "Colosenses 2:16",
+        "tipo": "Temática",
+        "razon": "Pablo aplica el mismo principio a disputas sobre comida y días festivos."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful playground scene with diverse children playing; one child watches another building with blocks differently, but a smiling adult nearby shows acceptance. Bright sunlight, warm colors.",
+    "prompt_imagen_normal": "A dramatic biblical scene: a Roman house church, two men arguing over food, an older apostle gently intervening, pointing upward. Soft light through a window, intense emotions, realistic oil painting style.",
+    "texto_original": "¿Tú quién eres que juzgas al siervo ajeno? para su señor está en pie, o cae: mas se afirmará; que poderoso es el Señor para afirmarle.",
+    "versiculo": "Romanos 14:4"
+  },
+  "5": {
+    "normal": "<h2>La libertad de una conciencia segura</h2><p>En Romanos 14:5, Pablo aborda una de las áreas más sensibles de la vida cristiana: las diferencias en convicciones personales. Algunos creyentes consideraban ciertos días como especiales para el Señor, mientras que otros veían todos los días iguales. Pablo no establece una regla universal, sino que da un principio liberador: \"Cada uno esté asegurado en su ánimo\".</p><p>Esta seguridad no es terquedad o independencia, sino la certeza que viene de haber examinado nuestras motivaciones delante de Dios. En nuestra vida diaria, enfrentamos decisiones que no están explícitamente prohibidas o mandadas en la Biblia: cómo celebrar días festivos, qué tipo de música escuchar, cómo vestir en ciertas ocasiones. La tentación es imponer nuestras preferencias como estándar para otros, o sentirnos juzgados cuando otros eligen diferente.</p><p>Pablo nos llama a una madurez que respeta la libertad individual en Cristo, mientras cada uno actúa con convicción personal. La clave está en la relación con Dios: \"Para el Señor\" es el motivo que unifica todas nuestras acciones (v. 6). Así que hoy, si tienes una convicción firme sobre algún asunto, actúa con gozo, sabiendo que es para el Señor. Y si ves a un hermano actuar de manera diferente, recuerda que él también está delante de su propio Señor. La paz en la diversidad es posible cuando todos buscamos honrar a Dios con corazón sincero.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:5: La Libertad de Conciencia en Asuntos Adiáforos</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>Ὃς μὲν γὰρ κρίνει ἡμέραν παρ᾽ ἡμέραν, ὃς δὲ κρίνει πᾶσαν ἡμέραν· ἕκαστος ἐν τῷ ἰδίῳ νοῒ πληροφορείσθω.</em> El verbo <em>κρίνει</em> (krínei) significa \"juzgar, distinguir, hacer diferencia\", mientras que <em>πληροφορείσθω</em> (plērophoreísthō) es un imperativo presente medio/pasivo de <em>πληροφορέω</em>, que significa \"estar plenamente seguro, estar convencido\". La frase <em>ἐν τῷ ἰδίῳ νοῒ</em> (en tō idíō noḯ) significa \"en su propia mente\" o \"en su propio entendimiento\". Pablo enfatiza la responsabilidad individual de alcanzar una convicción personal, no impuesta externamente.</p><h3>Contexto Histórico</h3><p>La iglesia en Roma estaba compuesta por judíos y gentiles. Los \"débiles en la fe\" (14:1) probablemente eran cristianos judaizantes que aún observaban días festivos del calendario judío (sábados, lunas nuevas, fiestas). Los \"fuertes\" entendían que en Cristo estas distinciones ceremoniales habían caducado (Col 2:16-17). Sin embargo, Pablo no condena a ninguno, sino que llama a la tolerancia mutua. El contexto del Cercano Oriente Antiguo incluía calendarios religiosos diversos; la observancia de días era un marcador de identidad comunitaria.</p><h3>Implicaciones Teológicas</h3><p>Este versículo es fundamental para la doctrina de la libertad cristiana y los adiáfora (cosas indiferentes). Pablo establece que la unidad en la iglesia no requiere uniformidad en prácticas no esenciales. La conciencia individual, iluminada por el Espíritu y la Palabra, debe ser la guía. La expresión \"estar asegurado en su ánimo\" implica un proceso de persuasión interna que resulta en una certeza piadosa, no en duda o presunción. La aplicación práctica incluye respetar las convicciones ajenas sin menospreciar ni juzgar, recordando que todos somos siervos de un mismo Señor.</p>",
+    "ninos": "🌟 ¡Cada quien con su propia opinión! 🌟\n\nImagina que en tu clase, algunos niños piensan que el mejor día para jugar al fútbol es el sábado, y otros creen que el domingo es mejor. ¿Quién tiene la razón? ¡Los dos! Porque lo importante no es el día, sino que jueguen felices y se diviertan juntos.\n\nLa Biblia dice que algunas personas creen que un día es más especial que otro para Dios, y otras personas piensan que todos los días son iguales. ¿Y sabes qué? ¡Ambos pueden estar bien! Lo que importa es que cada uno esté seguro en su corazón de que lo que hace es para agradar a Jesús.\n\nAsí que cuando veas que alguien hace algo diferente a ti, no te enojes. Recuerda que cada persona puede tener su propia manera de mostrar amor a Dios. ¡Lo importante es que todos amamos a Jesús y nos portamos bien! ❤️",
+    "recomendaciones": [
+      {
+        "referencia": "Colosenses 2:16-17",
+        "tipo": "Paralelo temático",
+        "razon": "Pablo menciona directamente la observancia de días como sombra de Cristo, reforzando la libertad en asuntos ceremoniales."
+      },
+      {
+        "referencia": "Gálatas 4:10-11",
+        "tipo": "Contraste",
+        "razon": "Pablo reprende a los gálatas por volver a observar días, mostrando que la libertad puede perderse si se hace por obligación legalista."
+      },
+      {
+        "referencia": "Romanos 14:1-4",
+        "tipo": "Contexto inmediato",
+        "razon": "Estos versículos establecen el marco de no juzgar al hermano débil, del cual 14:5 es parte central."
+      }
+    ],
+    "prompt_imagen_ninos": "Two diverse children, one holding a calendar with a star on Saturday, the other with a heart on Sunday, smiling at each other in a sunny park, gentle lighting, warm colors.",
+    "prompt_imagen_normal": "A dramatic scene: a Roman street at dawn, two men of different backgrounds, one with a scroll of Jewish feasts, the other with open hands, facing each other with mutual respect, chiaroscuro lighting.",
+    "texto_original": "Uno hace diferencia entre día y día; otro juzga iguales todos los días. Cada uno esté asegurado en su ánimo.",
+    "versiculo": "Romanos 14:5"
+  },
+  "6": {
+    "normal": "<h2>Viviendo para el Señor en cada detalle</h2><p>Este versículo nos recuerda que nuestra vida diaria está llena de decisiones, y que incluso las más pequeñas pueden ser hechas para el Señor. Pablo habla de dos áreas comunes: los días especiales y la comida. Algunos cristianos en Roma consideraban ciertos días más sagrados que otros, mientras que otros veían todos los días iguales. Algunos comían carne que había sido ofrecida a ídolos, mientras que otros, por conciencia, solo comían verduras. Pablo no dice quién tiene razón, sino que cada uno actúe con convicción personal, dando gracias a Dios en todo.</p><p>La clave está en la actitud del corazón. No se trata de seguir reglas externas, sino de vivir cada acción como un acto de adoración. Cuando comes, puedes hacerlo para el Señor, agradeciéndole por el alimento. Cuando trabajas, estudias o descansas, puedes hacerlo para Él. Esto transforma lo ordinario en sagrado.</p><p>Aplicación práctica: Hoy, antes de tomar cualquier decisión, pregúntate: '¿Puedo hacer esto para el Señor?' Ya sea elegir qué comer, cómo pasar tu tiempo libre o cómo responder a una situación difícil, hazlo con gratitud y consciente de Su presencia. No juzgues a otros por sus elecciones, sino enfócate en tu propia relación con Dios.</p>",
+    "academico": "<h2>Unidad en la diversidad: Análisis de Romanos 14:6</h2><h3>Análisis Filológico</h3><p>El texto griego usa <em>phroneō</em> (φρονέω) para 'hace caso', que implica una actitud mental o inclinación deliberada. La frase 'para el Señor' (Κυρίῳ) aparece en dativo, indicando propósito o dedicación. Pablo emplea un paralelismo antitético: el que observa el día y el que no, el que come y el que no, ambos actúan 'para el Señor'. El verbo 'da gracias' (εὐχαριστεῖ) es clave: la acción de gracias valida la intención del corazón. El término 'día' (ἡμέραν) puede referirse a festividades judías o días de ayuno, reflejando la tensión entre judaizantes y gentiles en Roma.</p><h3>Contexto Histórico</h3><p>La iglesia en Roma incluía creyentes judíos y gentiles con diferentes trasfondos. Los 'débiles en la fe' (14:1) probablemente eran judíos cristianos que aún se aferraban a las leyes alimenticias y calendarios festivos. Los 'fuertes' (14:2) entendían que la libertad en Cristo trascendía estas prácticas. Pablo no resuelve la disputa imponiendo una norma, sino que eleva la discusión al principio de vivir para el Señor. En el Cercano Oriente Antiguo, la comida ofrecida a ídolos era un tema espinoso; Pablo ya lo había tratado en 1 Corintios 8-10. Aquí, la conciencia individual y la gratitud son el fundamento.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje enseña que la libertad cristiana no es licencia para juzgar, sino para servir al Señor con sinceridad. La unidad en la iglesia no requiere uniformidad en prácticas no esenciales. La acción de gracias (eucaristía) es el acto que santifica la vida cotidiana. Además, anticipa el principio de Romanos 14:17: 'el reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo'. La aplicación hoy: evitar legalismo y relativismo, enfocándose en la relación con Cristo.</p>",
+    "ninos": "<h2>🌟 ¡Todo es para Dios!</h2><p>Imagina que tienes un amigo que solo come verduras, y otro que come de todo. ¿Quién tiene razón? La Biblia dice que los dos pueden estar bien si lo hacen para Dios. Es como cuando juegas: puedes jugar fútbol o dibujar, pero si lo haces contento y agradecido a Dios, ¡Él se alegra! También hay días especiales, como el domingo. Algunos niños van a la iglesia, otros no. Lo importante es que cada día lo vivas para Jesús. Así que cuando comas tu cereal 🥣, da gracias. Cuando juegues 🎮, hazlo con alegría. Dios ve tu corazón ❤️. No critiques a los demás, solo ama y agradece. Lección: Cada cosa que haces puede ser para Dios si lo haces con amor.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 10:31",
+        "tipo": "Temática",
+        "razon": "Ambos versículos enseñan que todo debe hacerse para la gloria de Dios."
+      },
+      {
+        "referencia": "Colosenses 3:17",
+        "tipo": "Temática",
+        "razon": "Similar exhortación a hacer todo en el nombre del Señor Jesús."
+      },
+      {
+        "referencia": "Romanos 14:17",
+        "tipo": "Continuidad",
+        "razon": "Conclusión directa del argumento sobre el reino de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "Two happy children, one eating a salad and one eating pizza, both smiling and looking up with gratitude, surrounded by colorful food and a warm sunny kitchen, soft lighting.",
+    "prompt_imagen_normal": "A dramatic scene of a Roman house church: diverse believers around a table, some eating meat, others vegetables, all with expressions of devotion and gratitude, dim candlelight illuminating their faces.",
+    "texto_original": "El que hace caso del día, háce lo para el Señor: y el que no hace caso del día, no lo hace para el Señor. El que come, come para el Señor, porque da gracias a Dios; y el que no come, no come para el Señor, y da gracias a Dios.",
+    "versiculo": "Romanos 14:6"
+  },
+  "7": {
+    "normal": "<h2>Viviendo para Cristo</h2><p>¿Alguna vez te has sentido solo en tu caminar cristiano? A veces pensamos que nuestras decisiones solo nos afectan a nosotros mismos. Pero Pablo nos recuerda una verdad poderosa: ninguno de nosotros vive para sí, y ninguno muere para sí. Como creyentes, estamos conectados unos con otros y con Cristo. Cada acción, cada palabra, cada pensamiento tiene un impacto en el cuerpo de Cristo. Vivir para sí mismo es una ilusión; en realidad, todo lo que hacemos refleja nuestra relación con Dios y con los demás. ¿Estás viviendo para agradar a Dios y servir a los demás? Hoy, elige vivir consciente de que perteneces a una comunidad más grande. Ora pidiendo a Dios que te ayude a vivir no para ti mismo, sino para Él y para los demás.</p>",
+    "academico": "<h2>La Interdependencia del Creyente</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el griego <em>oudeis gar hēmōn heautō zē</em> (οὐδεὶς γὰρ ἡμῶν ἑαυτῷ ζῇ) y <em>oudeis heautō apothnēskei</em> (οὐδεὶς ἑαυτῷ ἀποθνῄσκει). El dativo reflexivo <em>heautō</em> (ἑαυτῷ) indica posesión o beneficio: 'para sí mismo'. Pablo niega que el cristiano viva o muera como un fin en sí mismo. El contexto inmediato (Romanos 14) trata sobre disputas entre 'fuertes' y 'débiles' en la fe, especialmente en cuanto a comida y días sagrados. El versículo 7 sirve como principio general: la vida y muerte del creyente están orientadas al Señor (versículo 8).</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, la autonomía individual era altamente valorada, especialmente entre los filósofos estoicos. Pablo contrarresta esta noción al afirmar que el creyente pertenece a Cristo y a la comunidad. La iglesia en Roma era diversa, con judíos y gentiles, y Pablo insta a la unidad en medio de las diferencias de conciencia.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la naturaleza corporativa de la salvación. No somos islas espirituales; nuestra vida y muerte tienen significado en relación con Cristo y su cuerpo. Esto implica que nuestras decisiones afectan a otros creyentes (cf. 1 Corintios 8). También apunta a la soberanía de Dios sobre la vida y la muerte del creyente; no somos dueños de nosotros mismos.</p>",
+    "ninos": "<h2>🌟 No Estás Solo</h2><p>Imagina que estás en un equipo de fútbol. Cuando juegas, no solo piensas en ti; pasas el balón a tus compañeros y trabajas juntos para ganar. Así es en la familia de Dios. La Biblia dice que nadie vive solo para sí mismo. Cada cosa que haces, como compartir un juguete o ayudar en casa, es como pasar el balón a Jesús y a los demás. Cuando estamos tristes o felices, Dios está con nosotros. Y cuando ayudamos a otros, mostramos el amor de Dios. Recuerda: nunca estás solo. Dios te creó para vivir con Él y con otros. Así que hoy, busca maneras de compartir y ayudar. ¡Eso hace feliz a Dios!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "2 Corintios 5:15",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos versículos enseñan que Cristo murió por todos para que ya no vivamos para nosotros mismos, sino para Él."
+      },
+      {
+        "referencia": "Gálatas 2:20",
+        "tipo": "Paralelo temático",
+        "razon": "Pablo afirma que ya no vive él, sino Cristo en él, reforzando la idea de no vivir para sí."
+      },
+      {
+        "referencia": "Filipenses 1:21",
+        "tipo": "Contraste",
+        "razon": "Pablo dice que para él el vivir es Cristo y el morir es ganancia, mostrando una vida centrada en Cristo, no en sí mismo."
+      },
+      {
+        "referencia": "1 Corintios 8:9-13",
+        "tipo": "Aplicación práctica",
+        "razon": "Pablo aplica el principio de no vivir para sí al aconsejar a los fuertes que no hagan tropezar a los débiles."
+      }
+    ],
+    "prompt_imagen_ninos": "A group of diverse children holding hands in a circle, smiling, with a bright sunny sky and a cross glowing softly in the background. Warm colors, joyful expressions.",
+    "prompt_imagen_normal": "A solitary figure standing on a hill at sunset, looking towards a cross on the horizon, with other faint figures in the distance, symbolizing connection. Dramatic lighting, emotional depth.",
+    "texto_original": "Porque ninguno de nosotros vive para sí, y ninguno muere para sí.",
+    "versiculo": "Romanos 14:7"
+  },
+  "8": {
+    "normal": "<h2>Vivir y Morir en el Señor</h2><p>Este versículo nos recuerda una verdad profunda: nuestra vida entera pertenece a Dios. Ya sea que estemos despiertos o durmamos, activos o en reposo, nuestra existencia está enmarcada por Su soberanía. Pablo nos invita a vivir cada día con la conciencia de que no somos dueños de nosotros mismos; somos del Señor. Esto transforma la manera en que enfrentamos tanto las alegrías como las dificultades. Cuando vivimos, lo hacemos para Él: nuestras decisiones, nuestro trabajo, nuestras relaciones deben reflejar Su amor y propósito. Cuando morimos, también morimos para Él, confiando en que nuestra muerte no es el final, sino una transición hacia Su presencia. Esta certeza nos da paz en medio de la incertidumbre. Aplica esto hoy: antes de actuar, pregúntate: '¿Estoy haciendo esto para el Señor?' Permite que esta verdad guíe tus prioridades y te libre del miedo al futuro. Eres de Cristo, y eso es suficiente.</p>",
+    "academico": "<h2>Perteneciendo al Señor en Vida y Muerte: Un Análisis Exegético de Romanos 14:8</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'ἐάν τε γὰρ ζῶμεν, τῷ κυρίῳ ζῶμεν, ἐάν τε ἀποθνῄσκωμεν, τῷ κυρίῳ ἀποθνῄσκομεν· ἐάν τε οὖν ζῶμεν ἐάν τε ἀποθνῄσκωμεν, τοῦ κυρίου ἐσμέν.' La palabra clave es 'κυρίῳ' (Kuriō), dativo de posesión o interés, indicando que la vida y la muerte son 'para el Señor' o 'en relación con el Señor'. El verbo 'ζῶμεν' (zōmen) es presente activo, subrayando una acción continua. 'ἀποθνῄσκομεν' (apothnēskomen) también es presente, sugiriendo la realidad constante de la mortalidad. La frase final 'τοῦ κυρίου ἐσμέν' (tou Kyriou esmen) usa el genitivo de posesión: 'del Señor somos', enfatizando la pertenencia absoluta.</p><h3>Contexto Histórico</h3><p>Pablo escribe a una iglesia en Roma compuesta por judíos y gentiles, enfrentando tensiones sobre prácticas alimentarias y días sagrados (14:1-6). En este contexto, Pablo eleva la discusión a un principio teológico: la vida cristiana no se trata de disputas menores, sino de vivir bajo el señorío de Cristo. La muerte era una realidad cotidiana en el Imperio Romano, con persecuciones periódicas. Para los creyentes, la muerte no era un fin temido, sino una puerta hacia Cristo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece la base para una ética cristocéntrica: toda la existencia humana está bajo la soberanía de Cristo. La vida y la muerte no son dominios autónomos; ambas son esferas de servicio y pertenencia al Señor. Esto elimina el miedo a la muerte y da propósito a la vida. Además, implica que la comunidad cristiana debe centrarse en lo esencial: la relación con Cristo, no en disputas secundarias. La seguridad de pertenecer a Cristo en todo momento ofrece consuelo y unidad.</p>",
+    "ninos": "<h2>🌟 Siempre con Jesús</h2><p>Imagina que tienes un amigo que nunca te deja solo. ¡Jesús es así! La Biblia dice que cuando estamos despiertos, estamos con Jesús, y cuando dormimos, también estamos con Él. Es como cuando mamá te abraza antes de dormir: aunque cierres los ojos, ella sigue ahí. Pablo nos enseña que no importa lo que pase, somos de Jesús. Si juegas, lo haces para Él; si descansas, descansas en Él. Así que no tengas miedo, porque Jesús te cuida siempre. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Filipenses 1:21",
+        "tipo": "Temática",
+        "razon": "Pablo expresa que para él el vivir es Cristo y el morir es ganancia, reflejando la misma idea de pertenencia a Cristo en vida y muerte."
+      },
+      {
+        "referencia": "2 Corintios 5:8",
+        "tipo": "Temática",
+        "razon": "Habla de estar ausentes del cuerpo y presentes al Señor, complementando la idea de que la muerte nos lleva a estar con Cristo."
+      },
+      {
+        "referencia": "Gálatas 2:20",
+        "tipo": "Doctrinal",
+        "razon": "Pablo dice que ya no vive él, sino Cristo en él, mostrando la identificación con Cristo que subyace a la pertenencia al Señor."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child holding hands with a glowing Jesus in a sunny meadow, surrounded by colorful butterflies and flowers, warm light, peaceful atmosphere.",
+    "prompt_imagen_normal": "A dramatic sunset over a vast landscape, a lone figure standing on a cliff with arms outstretched, golden light breaking through clouds, symbolizing surrender and belonging.",
+    "texto_original": "Que si vivimos, para el Señor vivimos; y si morimos, para el Señor morimos. Así que, o que vivamos, o que muramos, del Señor somos.",
+    "versiculo": "Romanos 14:8"
+  },
+  "9": {
+    "normal": "<h2>El Señor de Vivos y Muertos</h2><p>Este versículo nos recuerda que la muerte y resurrección de Cristo no fueron solo eventos históricos, sino que establecieron su señorío sobre toda la humanidad, tanto los que han muerto como los que vivimos. Jesús no solo murió por nuestros pecados, sino que resucitó para ser el Señor soberano sobre la vida y la muerte. Esto significa que su autoridad se extiende más allá de esta vida terrenal; él reina en el cielo y en la tierra, sobre los que ya han partido y sobre nosotros que aún caminamos. Para nuestra vida diaria, esto nos da una seguridad inmensa: no importa lo que enfrentemos, Cristo tiene el control. Podemos confiar en que él gobierna sobre cada situación, incluso aquellas que parecen fuera de nuestro alcance. Practícamente, esto nos invita a vivir con valentía y esperanza, sabiendo que nuestro Señor es más grande que cualquier desafío. También nos llama a honrarle en cada decisión, porque él es el dueño de nuestra vida y de nuestra muerte. Que esta verdad transforme tu perspectiva hoy: no estás solo, Cristo es tu Señor, y su amor y poder te sostienen.</p>",
+    "academico": "<h2>La Señorío de Cristo sobre Vivos y Muertos en Romanos 14:9</h2><h3>Análisis Filológico</h3><p>El versículo en griego dice: <em>εἰς τοῦτο γὰρ Χριστὸς ἀπέθανεν καὶ ἔζησεν, ἵνα καὶ νεκρῶν καὶ ζώντων κυριεύσῃ</em>. La palabra clave es <em>κυριεύσῃ</em> (aoristo subjuntivo activo de <em>κυριεύω</em>), que significa 'llegar a ser Señor' o 'ejercer señorío'. El término <em>νεκρῶν</em> (genitivo plural de <em>νεκρός</em>) se refiere a los muertos, y <em>ζώντων</em> (genitivo plural de <em>ζάω</em>) a los vivos. La preposición <em>ἵνα</em> indica propósito: 'para que'. Así, el versículo afirma que el propósito de la muerte y resurrección de Cristo fue establecer su señorío universal sobre todos los seres humanos, tanto los que han muerto como los que viven.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda disputas entre cristianos judíos y gentiles sobre alimentos y días sagrados. Pablo argumenta que todos son siervos de Cristo, quien es el único Juez. En el contexto del Imperio Romano, el título <em>κύριος</em> (Señor) se usaba para el emperador, pero Pablo lo aplica a Cristo, subvirtiendo las lealtades políticas. La muerte y resurrección de Cristo son presentadas como el acto que lo legitima como Señor sobre todos, incluso sobre los muertos, un concepto que contrasta con las creencias paganas sobre el destino de los muertos.</p><h3>Implicaciones Teológicas</h3><p>Este versículo es central para la cristología paulina: la muerte y resurrección no solo logran la salvación, sino que instauran el reinado de Cristo. Implica que su señorío es absoluto y escatológico, abarcando la esfera de los muertos (los que ya han fallecido) y los vivos (los creyentes actuales). Esto tiene implicaciones para la ética cristiana: los creyentes viven bajo la autoridad de Cristo, no bajo leyes humanas o tradiciones. Además, asegura que los muertos en Cristo están bajo su cuidado, dando esperanza de resurrección.</p>",
+    "ninos": "<h2>🌟 Jesús, el Rey de todos</h2><p>Imagina que eres el capitán de un equipo de fútbol. Cuando mueres y luego vuelves a la vida, ¡te conviertes en el capitán de todos los equipos del mundo! Eso hizo Jesús. Él murió en la cruz, pero luego resucitó, y ahora es el Rey de todos: de las personas que viven y de las que ya murieron. Es como si tuviera una llave mágica que abre la puerta del cielo y de la tierra. Por eso, cuando tengas miedo, recuerda que Jesús es el Rey más poderoso. Él cuida de ti y de tus abuelitos que están en el cielo. 🕊️ La lección es: confía en Jesús, porque él es el Señor de todo.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Filipenses 2:9-11",
+        "tipo": "Expansión teológica",
+        "razon": "Ambos pasajes enfatizan la exaltación de Cristo como Señor universal."
+      },
+      {
+        "referencia": "Hechos 10:42",
+        "tipo": "Paralelo temático",
+        "razon": "Pedro declara que Cristo es el Juez de vivos y muertos."
+      },
+      {
+        "referencia": "Apocalipsis 1:18",
+        "tipo": "Confirmación profética",
+        "razon": "Cristo tiene las llaves de la muerte y del Hades."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful Jesus with glowing light, standing on a hill, one hand raised in blessing. Below, children of all nations playing, and in the sky, gentle silhouettes of grandparents smiling. Warm sunset colors.",
+    "prompt_imagen_normal": "Epic cinematic scene: Christ on a rocky outcrop at dawn, arms outstretched, radiant light emanating. Below, a crowd of diverse people, some kneeling, some looking up. Dramatic clouds, golden hour lighting, sense of awe.",
+    "texto_original": "Porque Cristo para esto murió, y resucitó, y volvió a vivir, para ser Señor así de los muertos como de los que viven.",
+    "versiculo": "Romanos 14:9"
+  },
+  "10": {
+    "normal": "<h2>No Juzgues, Acepta</h2><p>¿Alguna vez has criticado a alguien por sus decisiones? Tal vez viste a un hermano en la fe haciendo algo diferente a lo que tú harías, y sentiste la tentación de juzgarlo. Pero Pablo nos recuerda algo crucial: todos estaremos ante el tribunal de Cristo. No somos jueces; somos compañeros de viaje. Dios conoce los corazones y las circunstancias de cada uno. Nuestra tarea no es señalar con el dedo, sino amarnos y animarnos mutuamente. Hoy, antes de emitir un juicio, detente y recuerda que tú también necesitas gracia. Deja que Dios sea el juez, y concéntrate en tu propia relación con Él. Pídele que te dé un corazón humilde y amoroso hacia los demás.</p>",
+    "academico": "<h2>El Tribunal de Cristo: Un Llamado a la Unidad</h2><h3>Análisis Filológico</h3><p>El versículo usa κρίνεις (krineis, 'juzgas') y ἐξουθενεῖς (exoutheneis, 'menosprecias'). κρίνεις implica un juicio condenatorio, no solo discernimiento. ἐξουθενεῖς significa tratar como nada, despreciar. Ambas acciones son incompatibles con el evangelio. El término βήματι (bēmati, 'tribunal') se refiere al estrado de un juez romano, sugiriendo autoridad final. Pablo enfatiza que todos compareceremos ante Cristo, no ante humanos.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda disputas entre cristianos judíos y gentiles sobre alimentos y días sagrados. En la iglesia primitiva, algunos judíos cristianos observaban leyes dietéticas y festivas, mientras que los gentiles no. Pablo insta a no juzgarse mutuamente, porque la conciencia de cada uno debe guiarse por el Señor. El tribunal de Cristo es una realidad escatológica que nivela a todos: nadie es superior.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje enseña que el juicio final pertenece solo a Cristo. Juzgar a otros usurpa Su autoridad y divide el cuerpo de Cristo. La unidad se basa en la gracia común, no en la uniformidad de prácticas. Además, el tribunal de Cristo no es para condenación de los creyentes (Romanos 8:1), sino para recompensas (2 Corintios 5:10). Por tanto, debemos vivir con humildad y amor, dejando el juicio a Dios.</p>",
+    "ninos": "🌟 ¡No Seas Juez, Sé Amigo! 🌟\n\nImagina que estás en el recreo y ves a un niño comiendo un sándwich de mantequilla de maní, pero a ti no te gusta. ¿Le dirías: '¡Está mal!'? ¡No! Cada quien puede elegir lo que come. La Biblia dice que no debemos juzgar a otros por lo que hacen, porque solo Dios es el juez. Todos, algún día, estaremos frente a Jesús, y Él nos mirará con amor. Así que mejor sé amable y juega con todos. Recuerda: Dios nos ama a todos igual. ¡Amar es mejor que juzgar!",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:1-5",
+        "tipo": "Temática",
+        "razon": "Jesús enseña sobre no juzgar a otros."
+      },
+      {
+        "referencia": "2 Corintios 5:10",
+        "tipo": "Complementaria",
+        "razon": "Menciona el tribunal de Cristo."
+      },
+      {
+        "referencia": "Santiago 4:12",
+        "tipo": "Temática",
+        "razon": "Solo Dios es el juez."
+      }
+    ],
+    "prompt_imagen_ninos": "A sunny playground, diverse children playing happily, one child shares a sandwich with another, warm sunlight, smiling faces, no judgment, inclusive scene.",
+    "prompt_imagen_normal": "A majestic heavenly courtroom, golden light, Christ seated on a throne, diverse people standing before Him, some looking humbled, others hopeful, dramatic lighting, epic scale.",
+    "texto_original": "Mas tú ¿por qué juzgas a tu hermano? o tú también, ¿por qué menosprecias a tu hermano? porque todos hemos de estar ante el tribunal de Cristo.",
+    "versiculo": "Romanos 14:10"
+  },
+  "11": {
+    "normal": "<h2>Rendirse ante Dios</h2><p>Imagina por un momento que cada persona en el mundo, sin importar su historia o creencias, finalmente reconoce quién es Dios. Eso es exactamente lo que Pablo nos dice en Romanos 14:11. Este versículo nos recuerda que todos, tarde o temprano, nos arrodillaremos ante el Señor y confesaremos que Él es Dios. No es una amenaza, sino una promesa de que la verdad de Dios prevalecerá. En nuestra vida diaria, a menudo queremos hacer las cosas a nuestra manera. Pero este pasaje nos invita a rendirnos voluntariamente a Dios ahora, no por obligación, sino por amor. Cuando enfrentes decisiones difíciles o conflictos con otros, recuerda que el único que merece nuestra total lealtad es Dios. Practica hoy la humildad: reconoce en oración que Él es el Señor de tu vida, y deja que esa verdad transforme cómo tratas a los demás.</p>",
+    "academico": "<h2>La Soberanía Universal de Dios en Romanos 14:11</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'ζῶ ἐγώ, λέγει κύριος, ὅτι ἐμοὶ κάμψει πᾶν γόνυ, καὶ πᾶσα γλῶσσα ἐξομολογήσεται τῷ θεῷ' (Zō egō, legei kyrios, hoti emoi kampsi pan gonu, kai pasa glōssa exomologēsetai tō theō). La expresión 'ζῶ ἐγώ' (Zō egō) es un juramento divino que enfatiza la certeza de lo que sigue. 'Κάμψει πᾶν γόνυ' (kampsi pan gonu) significa 'toda rodilla se doblará', indicando sumisión universal. 'Ἐξομολογήσεται' (exomologēsetai) implica confesión pública y reconocimiento. La cita proviene de Isaías 45:23 (LXX), donde Dios jura por sí mismo. Pablo adapta el texto para subrayar la autoridad de Cristo en el juicio final.</p><h3>Contexto Histórico</h3><p>Pablo escribe a una iglesia en Roma compuesta por judíos y gentiles. El capítulo 14 aborda disputas sobre días sagrados y alimentos. Al citar Isaías, Pablo recuerda a los creyentes que Dios es el juez supremo, no ellos. En el Antiguo Cercano Oriente, doblar la rodilla era un gesto de homenaje a reyes y deidades. La imagen de 'toda lengua' confesando refleja la expectativa judía de que todas las naciones reconocerían a Yahvé.</p><h3>Implicaciones Teológicas</h3><p>Este versículo afirma la soberanía universal de Dios y la responsabilidad humana. La confesión final no es opcional, pero puede ser voluntaria ahora. Para el creyente, es un llamado a vivir en humildad y unidad, evitando juzgar a otros. También apunta a la victoria escatológica de Cristo, donde toda oposición cesará.</p>",
+    "ninos": "<h2>🌟 Todos se arrodillarán ante Dios</h2><p>Imagina un gran rey que es tan poderoso que todos, incluso los más fuertes, se arrodillan ante él. La Biblia dice que un día, todas las personas del mundo, de todos los países, se arrodillarán ante Dios y dirán: '¡Tú eres el único Dios verdadero!' Es como cuando en el colegio todos se ponen de pie para saludar al director, pero aquí es mucho más especial. Dios nos ama tanto que quiere que lo reconozcamos no por miedo, sino porque Él es bueno. Así que hoy, puedes agradecerle a Dios por ser el Rey de tu vida. Cuando haces lo correcto, como compartir tus juguetes o ayudar a mamá, estás mostrando que Dios es importante para ti. La lección es: Dios es el Rey de todos, y es mejor seguirlo con alegría.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 45:23",
+        "tipo": "Cita directa",
+        "razon": "Pablo cita este versículo del Antiguo Testamento, que habla del juramento divino de que toda rodilla se doblará y toda lengua jurará lealtad a Dios."
+      },
+      {
+        "referencia": "Filipenses 2:10-11",
+        "tipo": "Paralelo teológico",
+        "razon": "Pablo repite la misma idea aplicándola a Cristo: toda rodilla se doblará y toda lengua confesará que Jesucristo es el Señor."
+      },
+      {
+        "referencia": "Romanos 14:10",
+        "tipo": "Contexto inmediato",
+        "razon": "El versículo anterior establece que todos compareceremos ante el tribunal de Cristo, preparando el terreno para la cita de Isaías."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful multi-ethnic group of children kneeling in a sunlit meadow, hands clasped, looking up at a bright sky with a gentle light, smiling, peaceful atmosphere.",
+    "prompt_imagen_normal": "Epic cinematic scene of a diverse crowd of people from all nations kneeling in a vast desert landscape under a dramatic stormy sky, rays of light breaking through clouds, expressions of awe and reverence.",
+    "texto_original": "Porque escrito está: Vivo yo, dice el Señor, que a mí se doblará toda rodilla, Y toda lengua confesará a Dios.",
+    "versiculo": "Romanos 14:11"
+  },
+  "12": {
+    "normal": "<h2>Rendir cuentas con confianza</h2><p>Este versículo nos recuerda que cada persona es responsable ante Dios. No se trata de compararnos con otros, sino de vivir con integridad sabiendo que un día daremos razón de nuestras decisiones. En un mundo que nos presiona a justificarnos ante los demás, Pablo nos invita a enfocarnos en la única opinión que realmente importa: la de Dios. Esto no debe generar miedo, sino libertad. Podemos descansar en que Dios es justo y misericordioso. La aplicación práctica es clara: examina tu corazón, no juzgues a otros y vive cada día como para el Señor.</p>",
+    "academico": "<h2>Análisis exegético de Romanos 14:12</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"ἄρα [οὖν] ἕκαστος ἡμῶν περὶ ἑαυτοῦ λόγον δώσει τῷ θεῷ\" (ara [oun] hekastos hēmōn peri heautou logon dōsei tō theō). El término clave es \"λόγον δώσει\" (logon dōsei), literalmente \"dará palabra o cuenta\". Esta expresión forense implica rendir cuentas ante un tribunal, resonando con el concepto del Día del Juicio. \"Περὶ ἑαυτοῦ\" (peri heautou) enfatiza la responsabilidad individual. El contexto del Cercano Oriente Antiguo muestra que en la cultura judía, cada persona era responsable ante Dios por sus acciones (cf. Ezequiel 18). Pablo aplica este principio a la comunidad cristiana, donde los fuertes y débiles en la fe deben evitar juzgarse mutuamente.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda disputas sobre alimentos y días sagrados. Los \"débiles\" (judaizantes) se abstenían de ciertos alimentos, mientras que los \"fuertes\" (gentiles) comían de todo. Pablo argumenta que ambos grupos deben aceptarse sin condenarse, porque todos comparecerán ante el tribunal de Dios (v.10). El versículo 12 culmina esta sección, subrayando la responsabilidad personal.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece la responsabilidad individual ante Dios sin negar la comunidad. Contrarresta la tendencia a juzgar a otros, recordando que cada uno dará cuenta de sí mismo. La soteriología paulina combina gracia y juicio: la salvación es por fe, pero las obras serán evaluadas. Esto motiva una vida santa sin legalismo.</p>",
+    "ninos": "<h2>🌟 El libro especial de Dios</h2><p>Imagina que tienes un cuaderno donde escribes todo lo que haces: cuando ayudas a tu mamá, cuando compartes tus juguetes, pero también cuando dices una mentira. Dios tiene un libro así, pero no para castigarte, sino para recordar todo lo bueno que haces. Romanos 14:12 dice que cada uno de nosotros le va a contar a Dios lo que hizo. Es como cuando tu maestro te pide que expliques tu tarea. No da miedo, porque Dios te ama y quiere ayudarte a hacer lo correcto. Así que, cuando tengas dudas, pregúntate: \"¿Esto le gustaría a Dios?\" y hazlo con alegría. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "2 Corintios 5:10",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos versículos hablan del tribunal de Cristo y la rendición de cuentas personal."
+      },
+      {
+        "referencia": "Gálatas 6:5",
+        "tipo": "Complemento",
+        "razon": "Enfatiza la responsabilidad individual de cada persona ante Dios."
+      },
+      {
+        "referencia": "Mateo 12:36",
+        "tipo": "Paralelo temático",
+        "razon": "Jesús también habla de dar cuenta de cada palabra ociosa."
+      }
+    ],
+    "prompt_imagen_ninos": "A child kneeling by a bed, praying with hands clasped, a warm glowing light from above, surrounded by soft clouds, toys nearby, peaceful night scene.",
+    "prompt_imagen_normal": "A lone figure standing before a majestic throne of light, surrounded by clouds, with a scroll in hand, dramatic lighting, sense of awe and accountability.",
+    "texto_original": "De manera que, cada uno de nosotros dará a Dios razón de sí.",
+    "versiculo": "Romanos 14:12"
+  },
+  "13": {
+    "normal": "<h2>No seas piedra de tropiezo</h2><p>Pablo nos llama a dejar de juzgar a otros creyentes. En lugar de señalar lo que hacen mal, debemos enfocarnos en no poner obstáculos en su camino espiritual. Esto significa ser cuidadosos con nuestras acciones y palabras, especialmente en áreas donde otros son débiles. Por ejemplo, si un hermano tiene problemas con el alcohol, evita beber delante de él. No se trata de restringir tu libertad, sino de amar lo suficiente como para priorizar el bienestar del otro. Hoy, pregúntate: ¿hay algo en mi vida que pueda hacer tropezar a alguien más? El amor busca edificar, no derribar.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:13</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego <em>krinō</em> (κρίνω) para 'juzgar', que implica una evaluación crítica o condenatoria. Pablo insta a cesar ese tipo de juicio mutuo. La frase 'no poner tropiezo' traduce <em>mē tithenai proskomma</em> (μὴ τιθέναι πρόσκομμα), donde <em>proskomma</em> significa literalmente 'obstáculo' o 'piedra de tropiezo'. 'Escándalo' proviene de <em>skandalon</em> (σκάνδαλον), que originalmente se refería a la trampa de una trampa para cazar. En el contexto, Pablo usa estos términos para describir cualquier acción que pueda inducir a otro creyente a pecar o debilitar su fe.</p><h3>Contexto Histórico</h3><p>La carta a los Romanos fue escrita alrededor del año 57 d.C., probablemente desde Corinto. En Roma, la iglesia estaba compuesta por judíos y gentiles con diferentes prácticas respecto a alimentos y días sagrados. Pablo aborda las disputas entre 'fuertes' y 'débiles' en la fe. Los fuertes entendían que los ídolos no son nada y podían comer carne ofrecida a ídolos; los débiles, con una conciencia más sensible, consideraban eso como pecado. Pablo insta a la tolerancia y a no hacer que el hermano tropiece.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje subraya la primacía del amor sobre la libertad personal. La comunidad cristiana debe caracterizarse por la edificación mutua, no por la condena. La libertad en Cristo no es una licencia para hacer lo que uno quiera, sino una oportunidad para servir a otros en amor. Pablo conecta este principio con el juicio final: todos compareceremos ante el tribunal de Dios, por lo que debemos abstenernos de juzgar a los demás ahora. La aplicación práctica incluye la responsabilidad de considerar cómo nuestras acciones afectan la conciencia de otros creyentes, incluso si esas acciones son permisibles en sí mismas.</p>",
+    "ninos": "<h2>🌟 ¡Cuidado con las piedras!</h2><p>Imagina que estás jugando con tus amigos en un parque. Hay un camino con piedras pequeñas. Si pones una piedra grande justo en medio, alguien podría tropezar y lastimarse. La Biblia dice que no debemos poner 'tropiezos' a nuestros hermanos. Eso significa que no debemos hacer cosas que hagan que otros pequeños creyentes se sientan mal o pequen. Por ejemplo, si a tu amigo le cuesta no comer dulces, no le ofrezcas un caramelo. En lugar de eso, ayúdale a ser fuerte. Jesús nos enseña a amarnos y cuidarnos unos a otros. Así que, seamos como ayudantes que limpian el camino, no como los que ponen piedras. ❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:9",
+        "tipo": "paralelo",
+        "razon": "Ambos versículos tratan sobre no poner tropiezo a los hermanos débiles en la fe."
+      },
+      {
+        "referencia": "Mateo 7:1-5",
+        "tipo": "complementario",
+        "razon": "Jesús enseña a no juzgar a otros, lo cual es la base de la exhortación de Pablo."
+      },
+      {
+        "referencia": "Gálatas 6:1-2",
+        "tipo": "aplicación",
+        "razon": "Instruye a restaurar a los caídos con mansedumbre, en línea con no poner tropiezos."
+      }
+    ],
+    "prompt_imagen_ninos": "A sunny park with children playing on a path. One child removes a large stone from the path while another child smiles. Bright colors, friendly faces, warm lighting.",
+    "prompt_imagen_normal": "A dramatic scene of a person kneeling to remove a large stone from a dusty road, with another traveler approaching. Intense sunlight, shadows, emotional expression of care and humility.",
+    "texto_original": "Así que, no juzguemos más los unos de los otros: antes bien juzgad de no poner tropiezo o escándalo al hermano.",
+    "versiculo": "Romanos 14:13"
+  },
+  "14": {
+    "normal": "<h2>Libertad en Cristo</h2><p>Querido hermano, ¿alguna vez te has sentido atrapado por reglas que otros te imponen? Pablo nos recuerda que en Cristo somos libres. Nada es impuro por sí mismo, pero si alguien piensa que algo es impuro, para él lo es. Esto no es una excusa para pecar, sino un llamado a respetar la conciencia de los demás. Aplica esto en tu vida diaria: no juzgues a otros por lo que comen o beben, y no hagas tropezar a un hermano débil con tu libertad. Vive en paz, sabiendo que tu fe no depende de lo externo, sino de tu relación con Jesús. Que esta verdad te lleve a amar más y a juzgar menos.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:14</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"Οἶδα καὶ πέπεισμαι ἐν Κυρίῳ Ἰησοῦ ὅτι οὐδὲν κοινὸν δι’ ἑαυτοῦ· εἰ μὴ τῷ λογιζομένῳ τι κοινὸν εἶναι, ἐκείνῳ κοινόν.\" La palabra clave es <em>κοινός</em> (koinos), que significa \"común\" o \"impuro\" en sentido ritual. Pablo usa <em>πέπεισμαι</em> (pepeismai), perfecto pasivo de <em>πείθω</em> (peitho), \"estar convencido\". El contexto histórico se enmarca en la controversia entre judíos y gentiles sobre alimentos y días sagrados. Pablo argumenta que la pureza ceremonial ya no es vinculante, pero la conciencia personal sigue siendo importante. Teológicamente, este versículo enseña la libertad cristiana y la responsabilidad de no ofender a otros. La frase \"en el Señor Jesús\" enfatiza que esta convicción viene de la autoridad de Cristo, no de la razón humana.</p><h3>Contexto Histórico</h3><p>En la iglesia primitiva, los cristianos judíos seguían las leyes dietéticas del Antiguo Testamento, mientras que los gentiles no. Esto causaba divisiones. Pablo aborda el problema afirmando que en Cristo, todas las comidas son limpias (cf. Marcos 7:19), pero insta a los fuertes a no despreciar a los débiles.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje subraya la primacía de la conciencia y el amor sobre la libertad individual. No hay una ética universal de lo puro o impuro; lo que importa es la fe y el amor fraternal. La libertad cristiana debe ejercerse con responsabilidad, evitando ser tropiezo para otros.</p>",
+    "ninos": "<h2>🌟 La Comida que No Es Mala</h2><p>Imagina que tienes un amigo que piensa que los caramelos verdes son malos. Tú sabes que no, pero si él los ve, se siente mal. ¿Qué harías? ¡No comerías caramelos verdes delante de él! Pablo dice que nada es malo por sí mismo, pero si alguien piensa que es malo, para él lo es. Así que debemos respetar lo que otros creen. Dios nos ama a todos, y lo importante es amarnos unos a otros. No importa si comes pizza o ensalada, lo que importa es tu corazón. ¡Sé amable y no hagas sentir mal a los demás!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:8-9",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos pasajes tratan sobre la libertad cristiana y la conciencia respecto a los alimentos."
+      },
+      {
+        "referencia": "Marcos 7:18-19",
+        "tipo": "Fundamento bíblico",
+        "razon": "Jesús declara limpios todos los alimentos, base de la enseñanza de Pablo."
+      },
+      {
+        "referencia": "Gálatas 5:13",
+        "tipo": "Aplicación práctica",
+        "razon": "Llama a usar la libertad para servir por amor, no para satisfacer la carne."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful child offering a plate of colorful fruits to a friend who looks hesitant, with a warm sunny kitchen background, soft lighting, and a Bible open on the table.",
+    "prompt_imagen_normal": "A dramatic scene of an ancient Roman marketplace with diverse people, a central figure holding bread and wine, contrasting reactions of acceptance and doubt, epic lighting.",
+    "texto_original": "Yo sé, y confío en el Señor Jesús, que de suyo nada hay inmundo: mas a aquel que piensa alguna cosa ser inmunda, para él es inmunda.",
+    "versiculo": "Romanos 14:14"
+  },
+  "15": {
+    "normal": "<h2>Andar en Amor, No en Libertad</h2><p>Este versículo nos confronta con una verdad poderosa: nuestra libertad en Cristo no es una licencia para actuar sin considerar a los demás. Pablo nos recuerda que si nuestra comida —o cualquier acción— entristece a un hermano, hemos dejado de andar en amor. El amor no es solo un sentimiento; es un camino, una forma de vida que prioriza el bienestar del otro sobre nuestros derechos. ¿Cuántas veces hemos defendido nuestra libertad a costa de lastimar a alguien? La mesa de la comunión se convierte en un campo de batalla donde el orgullo y la indiferencia hieren a aquellos por quienes Cristo murió. La aplicación práctica es clara: antes de ejercer tu libertad, pregúntate: ¿Esto edifica? ¿Esto muestra el amor de Cristo? A veces, renunciar a algo legítimo es el acto más liberador, porque nos alinea con el corazón de Dios. No se trata de legalismo, sino de sensibilidad espiritual. Jesús dio su vida por cada creyente; ¿no podemos nosotros renunciar a un plato de comida por él? Hoy, elige el amor sobre el derecho, la unidad sobre la razón. Eso es andar conforme a la caridad.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:15</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'εἰ γὰρ διὰ βρῶμα ὁ ἀδελφός σου λυπεῖται, οὐκέτι κατὰ ἀγάπην περιπατεῖς. μὴ τῷ βρώματί σου ἐκεῖνον ἀπόλλυε ὑπὲρ οὗ Χριστὸς ἀπέθανεν.' La palabra clave 'λυπεῖται' (lypeitai) significa 'entristecerse' o 'afligirse', indicando un dolor emocional y espiritual profundo. 'Περιπατεῖς' (peripateis) es metafórico para 'conducta' o 'estilo de vida'. 'Ἀγάπην' (agapen) es amor sacrificial, no mero afecto. 'Ἀπόλλυε' (apollye) significa 'destruir' o 'arruinar', en sentido espiritual. El contexto histórico del Cercano Oriente Antiguo sitúa este pasaje en la controversia entre judíos y gentiles sobre alimentos sacrificados a ídolos y días sagrados. Pablo aborda la libertad cristiana versus la conciencia débil. Implicaciones teológicas: el amor (ágape) es el principio hermenéutico supremo que debe regir la libertad cristiana. La muerte de Cristo por el hermano débil otorga a este un valor incalculable, haciendo que cualquier acción que lo dañe sea una contradicción del evangelio.</p><h3>Contexto Histórico</h3><p>La iglesia en Roma incluía judíos y gentiles con diferentes tradiciones. Los 'débiles' probablemente eran cristianos judíos que aún se abstenían de ciertas carnes y observaban días especiales. Los 'fuertes' eran gentiles que entendían su libertad en Cristo. Pablo media en este conflicto, instando a la tolerancia y al amor mutuo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la libertad cristiana no es absoluta sino que está limitada por el amor. La conciencia del hermano debe ser considerada, no despreciada. La unidad de la iglesia es más importante que el ejercicio de derechos personales. Además, la referencia a la muerte de Cristo subraya el valor infinito de cada creyente, por lo que causar su tropiezo es un pecado grave.</p>",
+    "ninos": "<h2>🌟 La Comida que Duele</h2><p>Imagina que tienes un amigo que no puede comer dulces porque le hacen daño. Un día, tú comes un pastel delante de él y le dices: '¡Mira qué rico!'. Tu amigo se pone triste porque no puede comerlo. Jesús dice que es mejor no hacer cosas que entristezcan a los demás, aunque nosotros podamos hacerlas. En la Biblia, algunos cristianos no comían cierta carne porque antes adoraban ídolos. Otros sí podían comerla. Pablo dijo: 'Si tu comida hace llorar a tu hermano, ya no estás andando en amor'. El amor es más importante que tener razón. Así que, si algo que haces —como comer, jugar o hablar— pone triste a alguien, mejor no lo hagas. Recuerda: Jesús murió por todos, y debemos cuidarnos unos a otros. 🧡 Lección: El amor siempre gana.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:9-13",
+        "tipo": "Continuidad temática",
+        "razon": "Pablo desarrolla el mismo principio sobre la libertad y el amor hacia los débiles."
+      },
+      {
+        "referencia": "Gálatas 5:13-14",
+        "tipo": "Refuerzo teológico",
+        "razon": "La libertad en Cristo debe servir por amor, no para satisfacer la carne."
+      },
+      {
+        "referencia": "Romanos 15:1-3",
+        "tipo": "Consecuencia lógica",
+        "razon": "Los fuertes deben soportar las debilidades de los débiles, siguiendo el ejemplo de Cristo."
+      }
+    ],
+    "prompt_imagen_ninos": "A sad boy sitting alone at a lunch table, watching another child happily eating cake. Bright classroom with warm sunlight. Emotional contrast, simple and colorful.",
+    "prompt_imagen_normal": "A dramatic scene: a man looks sorrowfully at a plate of food, while a hand reaches out to stop him. Dimly lit room, emotional tension, realistic epic style.",
+    "texto_original": "Empero si por causa de la comida tu hermano es contristado, ya no andas conforme a la caridad. No arruines con tu comida a aquél por el cual Cristo murió.",
+    "versiculo": "Romanos 14:15"
+  },
+  "16": {
+    "normal": "<h2>El Bien que No se Mancha</h2><p>El apóstol Pablo nos advierte: 'No sea pues blasfemado vuestro bien'. Es una advertencia que resuena en nuestro caminar diario. A veces, sin darnos cuenta, nuestras buenas acciones pueden ser malinterpretadas o incluso usadas para criticar el nombre de Dios. Piensa en un acto de generosidad que hiciste con todo el corazón, pero alguien lo vio como un intento de ganar popularidad. Duele, ¿verdad? Pablo nos llama a ser cuidadosos. Nuestro 'bien' —nuestra fe, nuestras obras, nuestra libertad en Cristo— no debe convertirse en una piedra de tropiezo para otros. Esto no significa esconder nuestra fe, sino vivirla con sabiduría. Pregúntate hoy: ¿Cómo puedo hacer el bien de tal manera que honre a Dios y edifique a los demás? Quizás sea renunciar a un derecho por amor al hermano débil, o elegir palabras que construyan en vez de defender. El bien que hacemos debe apuntar siempre a la gloria de Dios, no a la nuestra. Que tu luz brille, pero que nunca proyecte sombras sobre el Evangelio.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:16</h2><h3>Análisis Filológico</h3><p>El término griego clave es βλασφημέω (blasphēmeō), que significa 'calumniar, hablar mal de, blasfemar'. Pablo usa el subjuntivo aoristo pasivo: μὴ βλασφημείσθω (mē blasphēmeisthō) — 'no sea blasfemado'. El sujeto es 'vuestro bien' (τὸ ἀγαθὸν ὑμῶν, to agathon hymōn). 'Agathos' denota bondad intrínseca, aquí probablemente refiriéndose a la libertad cristiana o las buenas obras. Pablo advierte que incluso lo bueno puede ser objeto de blasfemia si se ejerce sin consideración hacia los débiles. En el contexto del Cercano Oriente Antiguo, la blasfemia no era solo un acto verbal, sino que podía implicar deshonra pública que afectaba la reputación de la comunidad. Pablo utiliza un imperativo indirecto para prevenir que la conducta de los fuertes dé lugar a que los incrédulos o los débiles hablen mal de Dios o del evangelio.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda las disputas entre 'fuertes' y 'débiles' en la fe respecto a alimentos y días. Los débiles, probablemente judeocristianos, se abstenían de carne y observaban días especiales; los fuertes, gentiles o cristianos con mayor libertad, participaban de todo. Pablo insta a los fuertes a no menospreciar a los débiles ni hacer que tropiecen. El versículo 16 cierra la sección con una advertencia: si los fuertes insisten en su libertad sin amor, pueden provocar que los débiles —o los de fuera— blasfemen contra Dios. En la cultura grecorromana, la conducta de una minoría religiosa era escrutada; cualquier escándalo podía usarse para desacreditar al grupo entero. Pablo, por tanto, prioriza la edificación de la comunidad sobre los derechos individuales.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la responsabilidad ética del creyente: la libertad cristiana no es absoluta sino que está limitada por el amor. El 'bien' no es solo lo que hacemos, sino cómo lo hacemos. La blasfemia aquí no es solo contra Dios directamente, sino contra su nombre a través de la conducta de sus hijos. Teológicamente, conecta con la santidad práctica: la iglesia debe ser una comunidad donde el bien se practica de modo que glorifique a Dios (1 Cor 10:31). También refleja la tensión escatológica: el bien presente debe anticipar el reino, evitando toda ocasión de tropiezo.</p>",
+    "ninos": "<h2>🌟 No Dejes que Tu Luz se Apague</h2><p>Imagina que tienes una linterna súper brillante. La enciendes para ayudar a tu amigo a encontrar su juguete perdido. Pero si la apuntas directo a sus ojos, ¡le molesta! Aunque tu intención era buena, la luz puede lastimar. Así pasa con las cosas buenas que hacemos. A veces, sin querer, podemos hacer que otros se sientan mal o se enojen con Dios. Por ejemplo, si en el recreo comes un dulce y le dices a tu amigo que no puede porque él no tiene, aunque sea verdad, puede sentirse triste. La Biblia dice: 'No dejen que hablen mal de lo bueno que ustedes hacen'. Significa que debemos hacer el bien con cuidado, pensando en cómo se sienten los demás. Como cuando compartes tus juguetes con una sonrisa, no para presumir. Así, todos verán que Dios es bueno. 😊 Lección: Haz el bien con amor, para que otros vean a Jesús en ti.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 10:31",
+        "tipo": "principio similar",
+        "razon": "Ambos versículos enseñan que todas las acciones deben ser para la gloria de Dios y no causar tropiezo."
+      },
+      {
+        "referencia": "Romanos 14:13",
+        "tipo": "contexto directo",
+        "razon": "Versículo anterior que establece el principio de no poner tropiezo al hermano."
+      },
+      {
+        "referencia": "1 Pedro 2:12",
+        "tipo": "tema paralelo",
+        "razon": "Instruye a los creyentes a tener buena conducta para que los gentiles no blasfemen, sino glorifiquen a Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child sharing a glowing toy with a sad friend in a sunny playground, warm lighting, cartoon style, simple and bright colors.",
+    "prompt_imagen_normal": "Epic scene: a radiant beam of light from a believer's hands, but shadows of mockery around; dramatic lighting, realistic, emotional tension, biblical era setting.",
+    "texto_original": "No sea pues blasfemado vuestro bien:",
+    "versiculo": "Romanos 14:16"
+  },
+  "17": {
+    "normal": "<h2>El Reino de Dios: Justicia, Paz y Gozo</h2><p>Pablo nos recuerda que el Reino de Dios no se trata de lo que comemos o bebemos, sino de realidades más profundas: justicia, paz y gozo en el Espíritu Santo. A menudo, como cristianos, podemos distraernos con disputas sobre prácticas externas, como qué alimentos son aceptables o qué días observar. Pero Pablo nos invita a centrarnos en lo esencial: vivir en justicia (relaciones correctas con Dios y los demás), experimentar la paz que sobrepasa todo entendimiento, y regocijarnos en el gozo que solo el Espíritu puede dar. Aplica esto hoy: antes de discutir sobre preferencias personales, pregúntate si estás promoviendo justicia, paz y gozo en tu comunidad. Deja que el Espíritu Santo guíe tus acciones para reflejar el verdadero carácter del Reino.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:17</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>ou gar estin hē basileia tou theou brōsis kai posis, alla dikaiosynē kai eirēnē kai chara en pneumati hagiō</em>. <em>Basileia tou theou</em> (Reino de Dios) se refiere al dominio soberano de Dios, presente y futuro. <em>Brōsis kai posis</em> (comida y bebida) son términos genéricos para prácticas dietéticas, probablemente en disputa entre judíos y gentiles. <em>Dikaiosynē</em> (justicia) denota rectitud ética y relación correcta; <em>eirēnē</em> (paz) implica bienestar integral y armonía; <em>chara</em> (gozo) es alegría profunda del Espíritu. La frase <em>en pneumati hagiō</em> (en el Espíritu Santo) indica el ámbito y fuente de estas virtudes.</p><h3>Contexto Histórico</h3><p>Pablo escribe a una iglesia en Roma compuesta por judíos y gentiles. Había conflictos sobre la observancia de la ley mosaica, especialmente en cuanto a alimentos y días sagrados. Pablo argumenta que el Reino de Dios trasciende estas prácticas externas y se manifiesta en frutos del Espíritu. La carta busca unidad y tolerancia mutua, recordando que cada uno debe estar plenamente convencido en su propia mente (14:5).</p><h3>Implicaciones Teológicas</h3><p>Este versículo redefine la esencia del cristianismo: no en rituales, sino en transformación interior. La justicia es imputada y practicada; la paz es reconciliación con Dios y los hombres; el gozo es don del Espíritu. El Reino ya está presente donde estos frutos se manifiestan. Esto orienta la ética cristiana hacia el amor y la edificación mutua, evitando legalismos.</p>",
+    "ninos": "<h2>🌟 El Secreto del Reino de Dios</h2><p>Imagina que tienes un amigo que solo quiere jugar con sus juguetes nuevos, pero tú quieres compartir los tuyos. ¿Cuál es más importante: el juguete o la amistad? Dios nos enseña que su Reino no es sobre cosas como la comida o la bebida, sino sobre ser justos (hacer lo correcto), tener paz (estar tranquilos) y sentir gozo (alegría) que viene de su Espíritu Santo. Es como cuando ayudas a alguien y te sientes feliz por dentro. Jesús quiere que vivamos así: amando, perdonando y siendo felices con Él. Recuerda: lo mejor del Reino de Dios es el amor que compartimos. ¡Practícalo hoy!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 6:33",
+        "tipo": "Temática",
+        "razon": "Ambos versículos enseñan a buscar el Reino de Dios como prioridad sobre las necesidades materiales."
+      },
+      {
+        "referencia": "Gálatas 5:22-23",
+        "tipo": "Temática",
+        "razon": "El fruto del Espíritu incluye gozo y paz, paralelo a las virtudes mencionadas en Romanos 14:17."
+      },
+      {
+        "referencia": "1 Corintios 8:8",
+        "tipo": "Contextual",
+        "razon": "Pablo trata el mismo tema de la comida y su irrelevancia para el Reino."
+      },
+      {
+        "referencia": "Romanos 14:1-23",
+        "tipo": "Contextual",
+        "razon": "El versículo forma parte de la discusión sobre disputas por alimentos y días."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful group of diverse children playing together in a sunny park, some sharing toys, others holding hands in a circle, with a warm golden light and a subtle dove symbol in the sky.",
+    "prompt_imagen_normal": "A dramatic epic scene: a majestic kingdom in the clouds with a throne, surrounded by radiant light, and below a peaceful crowd of diverse people embracing, with a dove representing the Holy Spirit descending.",
+    "texto_original": "Que el reino de Dios no es comida ni bebida, sino justicia y paz y gozo por el Espíritu Santo.",
+    "versiculo": "Romanos 14:17"
+  },
+  "18": {
+    "normal": "<h2>Servir a Cristo en Todo</h2><p>Este versículo nos recuerda que nuestra verdadera motivación debe ser agradar a Dios, no a los hombres. Cuando servimos a Cristo con un corazón sincero, no solo obtenemos Su aprobación, sino que también ganamos el respeto de quienes nos rodean. En nuestra vida diaria, esto significa actuar con integridad, amor y humildad, buscando la gloria de Dios en cada decisión. Por ejemplo, en el trabajo, podemos ser honestos y dedicados, reflejando a Cristo en nuestra ética laboral. En casa, podemos mostrar paciencia y bondad, incluso cuando es difícil. Al hacerlo, nos convertimos en testigos vivos del evangelio, y las personas notan la diferencia. No se trata de buscar la aprobación humana, sino de que, al agradar a Dios, naturalmente somos aceptados por los demás. Que hoy puedas servir a Cristo con gozo, sabiendo que tu esfuerzo no es en vano.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:18</h2><h3>Análisis Filológico</h3><p>El término griego clave es \"δουλεύων\" (douleuōn), participio presente activo de \"δουλεύω\", que significa \"servir como esclavo\". Implica una entrega total y voluntaria a Cristo. La frase \"ἐν τούτῳ\" (en toutō) se refiere al contexto anterior: vivir en paz y edificación mutua (vv. 17, 19). \"Εὐάρεστος\" (euarestos) significa \"bien agradable\", usado en el NT para describir la adoración aceptable a Dios (Heb 13:21). \"Δόκιμος\" (dokimos) traducido como \"acepto\" significa \"aprobado después de examen\", como metal refinado. Pablo contrasta la aprobación divina con la humana, pero afirma que ambas pueden coincidir cuando se sirve a Cristo.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda disputas entre cristianos judíos y gentiles sobre alimentos y días sagrados. Pablo insta a no juzgarse mutuamente, sino a buscar la paz. El versículo 18 aparece en una sección donde se enfatiza que el reino de Dios no es cuestión de comida o bebida, sino de justicia, paz y gozo en el Espíritu Santo (v. 17). En el contexto del Cercano Oriente Antiguo, la hospitalidad y las comidas eran centrales en la vida comunitaria, y las restricciones alimentarias judías creaban tensiones. Pablo redirige el enfoque hacia el servicio a Cristo como la base de la unidad.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la verdadera espiritualidad no se mide por observancias externas, sino por una vida centrada en Cristo. La aceptación humana es un subproducto, no el objetivo. Teológicamente, subraya la libertad cristiana y la responsabilidad de edificar a otros. También apunta a la escatología: el servicio presente anticipa la aprobación final de Dios en el juicio.</p>",
+    "ninos": "🌟 Sirviendo a Jesús con Alegría 🌟\n\nImagina que tienes un amigo invisible que siempre te cuida y te ama: ¡Jesús! Cuando haces cosas buenas porque quieres agradarle, como compartir tus juguetes o ayudar a mamá, Jesús sonríe. Y lo mejor es que los demás también se alegran contigo. Es como cuando en la escuela ayudas a un compañero: el maestro lo ve y tus amigos te quieren más. Así es con Jesús: cuando le sirves con todo tu corazón, Dios está feliz y la gente te respeta. No lo hagas para que te aplaudan, sino porque amas a Jesús. ¡Eso es lo más importante!",
+    "recomendaciones": [
+      {
+        "referencia": "Colosenses 3:23",
+        "tipo": "Complemento",
+        "razon": "Ambos versículos enseñan a trabajar para el Señor, no para los hombres."
+      },
+      {
+        "referencia": "1 Pedro 2:12",
+        "tipo": "Complemento",
+        "razon": "Habla de mantener buena conducta para que los hombres glorifiquen a Dios."
+      },
+      {
+        "referencia": "Gálatas 1:10",
+        "tipo": "Contraste",
+        "razon": "Pablo contrasta agradar a Dios vs. agradar a los hombres."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child helping an elderly person cross a street, bright sunny day, warm colors, flowers and trees, sense of joy and kindness, simple and heartwarming scene.",
+    "prompt_imagen_normal": "A kneeling figure in ancient robes, hands clasped in prayer, face illuminated by a heavenly light, dramatic shadows, epic realism, sense of devotion and peace.",
+    "texto_original": "Porque el que en esto sirve a Cristo, agrada a Dios, y es acepto a los hombres.",
+    "versiculo": "Romanos 14:18"
+  },
+  "19": {
+    "normal": "<h2>Paz y edificación mutua</h2><p>En Romanos 14:19, Pablo nos llama a priorizar la paz y la edificación de los demás. En un mundo lleno de divisiones y conflictos, este versículo nos recuerda que nuestra fe no es solo individual, sino comunitaria. La paz no es simplemente la ausencia de conflicto, sino una búsqueda activa de armonía y unidad entre hermanos. Edificar a otros implica fortalecerlos en su fe, animarlos y ayudarlos a crecer espiritualmente.</p><p>Aplicación práctica: Hoy, antes de hablar o actuar, pregúntate: ¿Esto promueve la paz? ¿Edifica a mi hermano? Tal vez sea dejar de lado una opinión, ofrecer una palabra de aliento o simplemente escuchar. La paz y la edificación son frutos del Espíritu que transforman nuestras relaciones y reflejan el amor de Cristo. Que tu vida sea un puente que une, no un muro que divide.</p>",
+    "academico": "<h2>La búsqueda de la paz y la edificación en Romanos 14:19</h2><h3>Análisis Filológico</h3><p>El versículo dice: \"Así que, sigamos lo que hace a la paz, y a la edificación de los unos a los otros.\" La palabra griega para \"paz\" es <em>eirēnē</em> (εἰρήνη), que en el contexto paulino no solo denota ausencia de conflicto, sino un estado de bienestar integral y armonía en las relaciones, reflejando el concepto hebreo de <em>shalom</em>. \"Edificación\" traduce <em>oikodomē</em> (οἰκοδομή), originalmente referido a la construcción de un edificio, pero metafóricamente usado para el crecimiento espiritual y fortalecimiento de la comunidad de fe. El verbo \"sigamos\" (<em>diōkō</em>, διώκω) implica una persecución activa y diligente, no una mera aceptación pasiva.</p><h3>Contexto Histórico</h3><p>Romanos 14 aborda disputas entre \"fuertes\" y \"débiles\" en la fe, probablemente en torno a la observancia de días y alimentos. Pablo insta a no juzgarse mutuamente, sino a buscar lo que promueve la paz y la edificación. La iglesia en Roma era diversa, con judíos y gentiles, y las tensiones culturales y religiosas amenazaban la unidad. En el Cercano Oriente Antiguo, la paz (shalom) era un ideal comunitario, y la edificación (oikodomē) evocaba la imagen de la comunidad como templo de Dios (1 Corintios 3:16-17).</p><h3>Implicaciones Teológicas</h3><p>Este versículo resume la ética cristiana: la unidad en la diversidad. La paz no es un fin en sí misma, sino el contexto para la edificación mutua. Teológicamente, refleja la obra de Cristo que derribó muros de separación (Efesios 2:14). La edificación apunta al crecimiento del cuerpo de Cristo, donde cada miembro contribuye al bien común. La aplicación es radical: nuestras acciones deben evaluarse por su impacto en la comunidad, no solo por convicciones personales.</p>",
+    "ninos": "<h2>🌟 Constructores de paz</h2><p>Imagina que estás en un parque con tus amigos. Algunos quieren jugar fútbol, otros prefieren columpios. ¿Qué haces? ¡Puedes proponer un juego donde todos se diviertan!</p><p>En la Biblia, Pablo dice: \"Sigamos lo que hace a la paz y edifica a los demás\". Eso significa buscar la paz, como cuando abrazas a un amigo enojado. Y edificar es como construir una torre de bloques juntos: cada palabra amable es un bloque que hace fuerte la amistad.</p><p>Hoy, puedes ser un constructor de paz: comparte tus juguetes, invita a jugar a quien está solo, o di \"lo siento\" si peleaste. Jesús nos enseñó a amarnos, y la paz y la ayuda mutua hacen feliz a todos. 🕊️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 4:3",
+        "tipo": "Temática",
+        "razon": "Ambos versículos hablan de mantener la unidad y la paz en la comunidad cristiana."
+      },
+      {
+        "referencia": "1 Tesalonicenses 5:11",
+        "tipo": "Temática",
+        "razon": "Exhorta a edificarnos unos a otros, similar a Romanos 14:19."
+      },
+      {
+        "referencia": "Hebreos 12:14",
+        "tipo": "Temática",
+        "razon": "Llama a seguir la paz con todos, en línea con la búsqueda activa de paz."
+      }
+    ],
+    "prompt_imagen_ninos": "A sunny park with diverse children building a colorful block tower together, smiling and sharing toys. Warm lighting, happy expressions, cooperative play.",
+    "prompt_imagen_normal": "A dramatic ancient scene: a diverse group of early Christians in a Roman house church, embracing and reconciling, with soft light streaming through a window, conveying peace and unity.",
+    "texto_original": "Así que, sigamos lo que hace a la paz, y a la edificación de los unos a los otros.",
+    "versiculo": "Romanos 14:19"
+  },
+  "20": {
+    "normal": "<h2>La Obra de Dios es Más Importante que la Comida</h2><p>Imagina que estás en una cena con amigos. Alguien se siente incómodo porque la comida que sirven va en contra de sus convicciones religiosas. Pablo nos recuerda que, aunque todas las comidas son limpias ante Dios, debemos ser sensibles a la conciencia de los demás. No vale la pena pelear por la comida si eso hiere a un hermano. La obra de Dios en la vida de las personas es más valiosa que cualquier plato. Hoy, pregúntate: ¿Estoy priorizando la unidad y el amor sobre mis preferencias? A veces, renunciar a un derecho personal es la mejor manera de edificar a otros. Busca la paz, no la razón. La libertad cristiana no es para hacer lo que quieras, sino para servir en amor.</p>",
+    "academico": "<h2>Análisis Exegético de Romanos 14:20</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>kathara</em> (καθαρά), que significa 'puro' o 'limpio', refiriéndose a la clasificación de alimentos en la ley mosaica. Pablo afirma que 'todas las cosas son limpias' (<em>panta men kathara</em>), una declaración radical en el contexto del judaísmo del Segundo Templo. La palabra <em>proskomma</em> (πρόσκομμα) denota 'tropiezo' u 'ofensa', indicando que comer puede causar daño espiritual a otro creyente. El verbo <em>katalyein</em> (καταλύειν) significa 'destruir' o 'derribar', enfatizando la seriedad de dañar la obra de Dios.</p><h3>Contexto Histórico</h3><p>La carta fue escrita a una iglesia en Roma compuesta por judíos y gentiles. Los 'débiles' (probablemente cristianos judíos) se abstenían de ciertas comidas por conciencia, mientras que los 'fuertes' (gentiles o judíos liberados) comían de todo. Pablo media entre ambas posturas, recordando que el reino de Dios no es cuestión de comida, sino de justicia, paz y gozo en el Espíritu Santo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la prioridad del amor sobre la libertad. La obra de Dios es la comunidad redimida, y cualquier acción que la dañe es pecaminosa, incluso si es lícita. La conciencia del hermano debe guiar nuestras decisiones, no solo nuestro conocimiento. La aplicación práctica invita a la iglesia a mantener la unidad en asuntos no esenciales, evitando juzgar o menospreciar al otro.</p>",
+    "ninos": "<h2>🌟 No Peleemos por la Comida</h2><p>Imagina que tienes un amigo que no come chocolate porque cree que no debe. Tú sabes que el chocolate es bueno, pero si comes delante de él, él se sentirá mal. ¿Qué harías? La Biblia dice que no debemos 'destruir la obra de Dios' por la comida. La obra de Dios son las personas, como tus amigos y familiares. Es mejor dejar de comer algo que hacer que un amigo se sienta triste. Jesús nos enseñó a amar a los demás más que a nosotros mismos. Así que, la próxima vez que tengas un dulce, piensa en cómo se sienten los demás. ¡Compartir y cuidar es más importante que tener la razón! 🍪❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:9-13",
+        "tipo": "Paralelo temático",
+        "razon": "Pablo trata el mismo conflicto sobre comidas ofrecidas a ídolos y la conciencia del hermano débil."
+      },
+      {
+        "referencia": "Gálatas 5:13-14",
+        "tipo": "Principio general",
+        "razon": "La libertad cristiana debe ejercerse en amor, sirviendo unos a otros, no para satisfacer la carne."
+      },
+      {
+        "referencia": "Colosenses 2:16-17",
+        "tipo": "Contexto doctrinal",
+        "razon": "No juzgar por comida o bebida, pues estas cosas son sombra de lo que ha de venir: Cristo."
+      }
+    ],
+    "prompt_imagen_ninos": "Two children at a table, one offers a cookie to the other who looks hesitant. Warm kitchen, soft lighting, friendly expressions. Focus on the moment of sharing.",
+    "prompt_imagen_normal": "A dramatic biblical scene: a hand reaching to take food from a plate, while another hand gently stops it. Dim lighting, intense expressions, symbolizing conflict over conscience.",
+    "texto_original": "No destruyas la obra de Dios por causa de la comida. Todas las cosas a la verdad son limpias: mas malo es al hombre que come con escándalo.",
+    "versiculo": "Romanos 14:20"
+  },
+  "21": {
+    "normal": "<h2>El amor por encima de la libertad</h2><p>Este versículo nos recuerda que nuestra libertad en Cristo no es una excusa para hacer lo que nos plazca sin considerar a los demás. Pablo nos anima a poner el amor y la edificación de nuestros hermanos por encima de nuestros derechos personales. A veces, aunque algo no sea malo en sí mismo, puede convertirse en una piedra de tropiezo para alguien más débil en la fe. La pregunta no es solo '¿Es pecado?', sino '¿Edifica a mi hermano?'. Aplicar esto hoy significa estar dispuestos a renunciar a ciertas libertades por amor, mostrando que valoramos más la unidad del cuerpo de Cristo que nuestros propios gustos. Que el Señor nos dé un corazón sensible para discernir cómo nuestras acciones impactan a quienes nos rodean.</p>",
+    "academico": "<h2>Renuncia por amor: análisis de Romanos 14:21</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>proskomma</em> (πρόσκομμα), 'tropiezo' u 'obstáculo', y <em>skandalon</em> (σκάνδαλον), 'escándalo' u 'ofensa'. Pablo usa estos términos para describir acciones que pueden hacer tropezar a un hermano en su fe. El contexto es la disputa entre 'fuertes' y 'débiles' respecto a alimentos sacrificados a ídolos y días especiales. El verbo <em>oikodomeō</em> (edificar) contrasta con derribar (kathaireō), subrayando el propósito comunitario.</p><h3>Contexto Histórico</h3><p>En la Roma del siglo I, la carne del mercado solía provenir de sacrificios paganos, lo que causaba conflicto entre creyentes judíos y gentiles. Pablo insta a los 'fuertes' a no ejercer su libertad si daña la conciencia del 'débil'. El vino también podía estar asociado a libaciones paganas. La exhortación refleja la tensión entre la libertad cristiana y la responsabilidad comunitaria.</p><h3>Implicaciones Teológicas</h3><p>El pasaje enseña que el amor es el principio regulador de la libertad cristiana. No se trata de legalismo, sino de priorizar la edificación del cuerpo de Cristo sobre los derechos individuales. La conciencia del hermano es sagrada; hacerlo tropezar es pecar contra Cristo (1 Co 8:12). La aplicación hoy incluye renunciar a prácticas lícitas que puedan ofender a creyentes de trasfondos diferentes.</p>",
+    "ninos": "<h2>🌟 ¡Compartir es mejor!</h2><p>Imagina que tienes un juguete nuevo y súper divertido. Pero tu amigo no puede jugar con él porque le da miedo. ¿Qué harías? Pablo dice que a veces es mejor no usar algo que tenemos, aunque sea bueno, si eso hace que nuestro amigo se sienta mal o se aleje de Jesús. Es como cuando dejas de comer tu dulce favorito porque a tu amigo le hace daño. ¡Eso es amor! Jesús nos enseñó a pensar en los demás primero. Así que, aunque tengas libertad para hacer algo, pregúntate: ¿esto ayuda a mi amigo a seguir a Jesús? Si no, mejor elige lo que los une. Recuerda: el amor siempre gana.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 8:9-13",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos pasajes tratan sobre la libertad cristiana y el cuidado de no hacer tropezar al hermano débil."
+      },
+      {
+        "referencia": "Gálatas 5:13",
+        "tipo": "Contraste",
+        "razon": "La libertad no es para complacerse a uno mismo, sino para servir por amor."
+      },
+      {
+        "referencia": "Romanos 14:13",
+        "tipo": "Contexto inmediato",
+        "razon": "Versículo anterior que introduce el tema de no poner tropiezo al hermano."
+      }
+    ],
+    "prompt_imagen_ninos": "Two children playing, one hesitates to touch a shiny toy, the other gently pushes it away with a smile, warm sunlight, cozy room, caring expression.",
+    "prompt_imagen_normal": "A man in ancient attire abstaining from a feast, looking at a weaker brother with concern, dramatic lighting, emotional tension, realistic style.",
+    "texto_original": "Bueno es no comer carne, ni beber vino, ni nada en que tu hermano tropiece, o se ofenda o sea debilitado.",
+    "versiculo": "Romanos 14:21"
+  },
+  "22": {
+    "normal": "<h2>Fe personal: un tesoro entre tú y Dios</h2><p>La fe es un don íntimo, una convicción que a veces no todos comparten. Pablo nos anima a tenerla 'para contigo delante de Dios', es decir, a vivirla en nuestra relación personal con Él, sin imponerla ni juzgar a otros. Es fácil caer en la trampa de querer que todos vean y aprueben lo que nosotros creemos, pero el apóstol nos recuerda que la fe auténtica no necesita exhibición. Al contrario, cuando la guardamos en el corazón y la vivimos en silencio ante Dios, encontramos libertad y paz. Además, nos llama bienaventurados si no nos condenamos a nosotros mismos con lo que aprobamos. Esto significa que debemos actuar en coherencia con nuestra conciencia. Si algo que hacemos o aprobamos nos trae culpa, tal vez no sea lo mejor para nuestra fe. La bendición está en vivir sin remordimientos, en la certeza de que agradamos a Dios. Así que hoy, pregúntate: ¿estás viviendo tu fe en privado con Dios? ¿Hay algo en tu vida que apruebas pero que te condena interiormente? Busca la paz de una conciencia limpia y una fe que solo Dios ve.</p>",
+    "academico": "<h2>La fe como posesión personal y la conciencia como juez</h2><h3>Análisis Filológico</h3><p>El versículo griego dice: 'σὺ πίστιν ἔχεις; κατὰ σεαυτὸν ἔχε ἐνώπιον τοῦ θεοῦ. μακάριος ὁ μὴ κρίνων ἑαυτὸν ἐν ᾧ δοκιμάζει.' La palabra 'πίστιν' (pistin) significa 'fe', pero en este contexto se refiere a la convicción personal sobre asuntos adiaphora (cosas indiferentes). 'ἔχε ἐνώπιον τοῦ θεοῦ' (eche enopion tou theou) implica tenerla 'delante de Dios', es decir, en la esfera privada de la relación divina. 'μακάριος' (makarios) es 'bienaventurado', término que evoca las bienaventuranzas. 'κρίνων ἑαυτὸν' (krinon heauton) significa 'juzgarse a sí mismo' o 'condenarse', y 'δοκιμάζει' (dokimazei) es 'aprobar' o 'probar'. La raíz hebrea subyacente podría ser אמן (aman) para fe, y שפט (shafat) para juzgar, aunque Pablo escribe en griego. El contexto es la controversia entre 'fuertes' y 'débiles' en la fe, respecto a comidas y días.</p><h3>Contexto Histórico</h3><p>En la iglesia romana del siglo I, había tensiones entre judíos y gentiles conversos. Los 'débiles' (probablemente judeocristianos) se abstenían de carne y observaban días especiales, mientras que los 'fuertes' (gentiles) comían de todo. Pablo no condena ni a unos ni a otros, sino que insta a la tolerancia mutua. El versículo 22 es la conclusión práctica: cada uno debe vivir su fe ante Dios, sin juzgar al otro. La conciencia individual es el árbitro final, y la bienaventuranza está en no autocondenarse por acciones que uno mismo aprueba pero que contradicen su fe. Esto refleja el énfasis paulino en la libertad cristiana y la responsabilidad personal.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la primacía de la conciencia iluminada por la fe. La fe no es para ser exhibida ni impuesta, sino vivida en la intimidad con Dios. La bienaventuranza no viene de la aprobación externa, sino de la coherencia interna entre lo que se cree y lo que se hace. Esto anticipa la doctrina de la justificación por la fe sola, pues la conciencia tranquila es fruto de la gracia. También limita el legalismo: no todo lo permitido es edificante, y cada uno debe actuar según su grado de fe. La aplicación práctica es el respeto por las convicciones ajenas y la búsqueda de una fe auténtica que no tropiece en la propia conciencia.</p>",
+    "ninos": "<h2>🌟 El tesoro secreto de la fe</h2><p>Imagina que tienes un juguete muy especial, tu favorito. No necesitas mostrarlo a todos para que sea valioso, ¿verdad? Lo guardas en tu corazón y juegas con él cuando estás en casa. Así es la fe: es como un tesoro que tienes tú y Dios. No hace falta que lo presumas. Pablo dice: '¿Tienes fe? Tenla para ti delante de Dios'. Eso significa que tu fe es algo privado y bonito entre tú y Dios. Luego dice: 'Bienaventurado el que no se condena a sí mismo con lo que aprueba'. ¿Qué quiere decir? Que si haces algo que sabes que está mal, te sientes mal por dentro, como si una vocecita te dijera 'eso no estuvo bien'. Pero si haces lo correcto, te sientes feliz y en paz. Esa paz es una bendición. Así que recuerda: guarda tu fe como un tesoro en tu corazón, y siempre elige hacer lo que te hace sentir bien con Dios y contigo mismo. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Gálatas 6:5",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos versículos enfatizan la responsabilidad personal ante Dios: 'cada uno llevará su propia carga'."
+      },
+      {
+        "referencia": "1 Corintios 8:7-13",
+        "tipo": "Contexto directo",
+        "razon": "Trata el mismo tema de la conciencia del débil y el fuerte respecto a comidas ofrecidas a ídolos."
+      },
+      {
+        "referencia": "Romanos 14:23",
+        "tipo": "Versículo siguiente",
+        "razon": "Concluye el argumento: 'todo lo que no procede de fe es pecado', conectando directamente con la conciencia."
+      },
+      {
+        "referencia": "Mateo 5:8",
+        "tipo": "Temático",
+        "razon": "Los de limpio corazón verán a Dios; la conciencia pura es clave para la bienaventuranza."
+      }
+    ],
+    "prompt_imagen_ninos": "A child holding a glowing treasure box close to their chest, smiling softly, with a warm light from the box illuminating their face, peaceful bedroom background, gentle and safe atmosphere.",
+    "prompt_imagen_normal": "A man kneeling in prayer in a dimly lit room, hands over his heart, a soft divine light from above casting shadows, expression of peace and conviction, realistic dramatic lighting.",
+    "texto_original": "¿Tienes tú fe? Tenla para contigo delante de Dios. Bienaventurado el que no se condena a sí mismo con lo que aprueba.",
+    "versiculo": "Romanos 14:22"
+  },
+  "23": {
+    "normal": "<h2>Viviendo por Fe en Cada Decisión</h2><p>Romanos 14:23 nos recuerda que nuestras acciones deben nacer de la fe. Pablo habla aquí sobre aquellos que dudan si está bien comer ciertos alimentos, pero deciden hacerlo de todos modos. Esa persona es condenada por su propia conciencia, porque no actuó con fe. El principio es claro: todo lo que no proviene de fe es pecado.</p><p>Esto no significa que debamos vivir con miedo a equivocarnos, sino que nuestras decisiones diarias deben estar arraigadas en nuestra confianza en Dios. Antes de actuar, pregúntate: ¿Estoy haciendo esto porque creo que Dios me guía a hacerlo? ¿O lo hago por presión social, costumbre o simple deseo personal? La fe no es solo una creencia teórica; es la brújula que dirige cada paso.</p><p>Hoy, examina tus motivaciones. Si dudas sobre algo, busca dirección en oración y en la Palabra. No actúes por incertidumbre, sino con la certeza de que Dios aprueba tu camino. Cuando vives por fe, cada acción se convierte en un acto de adoración.</p>",
+    "academico": "<h2>El Pecado de la Duda: Un Análisis de Romanos 14:23</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>diakrinomenos</em> (διακρινόμενος), participio presente medio de <em>diakrinō</em>, que significa 'dudar, distinguir, juzgar'. En este contexto, denota a quien tiene escrúpulos de conciencia pero actúa en contra de ellos. La frase 'no comió por fe' usa <em>ek pisteōs</em> (ἐκ πίστεως), indicando que la acción no procede de la confianza en Dios. Finalmente, 'pecado' (<em>hamartia</em>, ἁμαρτία) aquí no es una transgresión legal, sino una desviación de la fe como principio rector.</p><h3>Contexto Histórico</h3><p>Pablo escribe a una iglesia en Roma compuesta por judíos y gentiles. Los 'débiles' en la fe eran cristianos judíos que aún se sentían obligados a las leyes dietéticas del Antiguo Testamento. Los 'fuertes' entendían que en Cristo todas las comidas son limpias. Pablo insta a los fuertes a no hacer tropezar a los débiles, y a los débiles a no juzgar. El versículo 23 cierra la sección sobre 'cosas dudosas' (14:1-23), estableciendo que la fe es el criterio último para la conducta.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que el pecado no es solo un acto externo, sino una cuestión de conciencia y fe. La fe no es simplemente asentimiento intelectual, sino la base de toda acción que agrada a Dios. La duda moral, cuando se actúa en contra de ella, constituye pecado. Esto subraya la importancia de una conciencia informada por la Palabra y la necesidad de vivir con integridad entre lo que creemos y lo que hacemos.</p>",
+    "ninos": "🌟 ¡Fe o Duda!<p>Imagina que estás en un parque y ves un cartel que dice: 'No tocar las flores'. Pero tú no estás seguro si está bien o mal. Tus amigos te dicen: 'Tócalas, nadie mira'. ¿Qué haces? Si las tocas aunque piensas que está mal, te sentirás mal por dentro. Eso es lo que Pablo dice en Romanos 14:23. Él nos enseña que cuando hacemos algo que no estamos seguros de que a Dios le guste, es como si dijéramos 'no confío en Dios' 😔. Pero si hacemos lo que creemos que es correcto, con fe en Dios, estamos felices y en paz 😊. Así que, antes de hacer algo, pregúntate: '¿Esto agrada a Dios?'. Si no estás seguro, mejor no lo hagas. ¡Así siempre harás lo correcto!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hebreos 11:6",
+        "tipo": "Temática",
+        "razon": "Ambos versículos enfatizan que sin fe es imposible agradar a Dios."
+      },
+      {
+        "referencia": "1 Corintios 8:7-13",
+        "tipo": "Contextual",
+        "razon": "Pablo trata el mismo tema de la conciencia débil y la libertad cristiana en relación con los alimentos."
+      },
+      {
+        "referencia": "Santiago 4:17",
+        "tipo": "Principio",
+        "razon": "Define el pecado como omitir el bien conocido, similar a Romanos 14:23 que define el pecado como actuar sin fe."
+      }
+    ],
+    "prompt_imagen_ninos": "A child in a park, unsure whether to touch a flower, with a sign saying 'Don't touch'. Friends are urging him, but he looks conflicted. Warm sunlight, gentle shadows.",
+    "prompt_imagen_normal": "A dramatic scene: a person kneeling in prayer, hands clasped, face illuminated by a beam of light from above, surrounded by darkness symbolizing doubt. Emotional intensity.",
+    "texto_original": "Mas el que hace diferencia, si comiere, es condenado, porque no comió por fe: y todo lo que no es de fe, es pecado.",
+    "versiculo": "Romanos 14:23"
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "1": {
+    "normal": "<h2>La identidad que nos define</h2><p>Cuando Santiago se presenta como 'siervo de Dios y del Señor Jesucristo', no usa un título de honor humano, sino una palabra que implica pertenencia total. En el mundo antiguo, un siervo no tenía derechos propios; su vida entera estaba al servicio de su amo. Santiago, hermano de Jesús según la carne, podía haber reclamado su parentesco, pero eligió identificarse como siervo. Esto nos desafía: ¿qué título define nuestra vida? ¿Somos conocidos por nuestro trabajo, nuestra familia o nuestras posesiones? Santiago nos recuerda que nuestra identidad más profunda está en ser siervos de Cristo.</p><p>La carta está dirigida 'a las doce tribus que están esparcidas'. Estas eran comunidades de creyentes judíos que vivían fuera de Palestina, enfrentando persecución y dificultades. Santiago les escribe como un pastor que conoce sus luchas. La palabra 'esparcidas' evoca la dispersión del pueblo de Dios, pero también su propósito: ser testigos en medio de las naciones. Hoy, nosotros también podemos sentirnos esparcidos en un mundo que no siempre nos comprende. Pero esta carta nos asegura que no estamos solos; pertenecemos a una familia global de creyentes.</p><p>La palabra 'salud' es un saludo común, pero en el contexto de Santiago, es un deseo de bienestar integral. No solo salud física, sino una vida completa en Dios. Al comenzar su carta así, Santiago nos invita a recordar que nuestra mayor necesidad es la salud del alma, que solo se encuentra en la relación con el Dios a quien servimos. Que hoy podamos vivir con la seguridad de que somos siervos de un Señor que nos cuida y nos envía.</p>",
+    "academico": "<h2>Identidad y Diáspora: Un Análisis de Santiago 1:1</h2><h3>Análisis Filológico</h3><p>El término griego δοῦλος (doulos) usado por Santiago significa 'esclavo' o 'siervo', indicando una relación de pertenencia absoluta. En la LXX, traduce el hebreo עֶבֶד (eved), usado para siervos de Dios como Moisés (Jos 1:2). Santiago omite cualquier referencia a su parentesco carnal con Jesús, priorizando su identidad espiritual. El destinatario, ταῖς δώδεκα φυλαῖς ταῖς ἐν τῇ διασπορᾷ (tais dodeka fylais tais en tē diaspora), se refiere a los judíos de la Diáspora, pero en contexto cristiano, simboliza la nueva Israel de Dios. El saludo χαίρειν (chairein) es un saludo epistolar común, pero también un juego de palabras con χαρά (chara, gozo), tema recurrente en la carta.</p><h3>Contexto Histórico</h3><p>La carta fue probablemente escrita desde Jerusalén antes del 62 d.C., dirigida a comunidades judeocristianas fuera de Palestina. La Diáspora judía era extensa, con centros en Alejandría, Roma y Antioquía. Estas comunidades enfrentaban presión social y persecución, lo que explica el énfasis de Santiago en la perseverancia y la fe práctica. El uso de 'doce tribus' evoca la restauración escatológica de Israel, sugiriendo que los creyentes son el verdadero pueblo de Dios.</p><h3>Implicaciones Teológicas</h3><p>Santiago se presenta como doulos, un título que implica autoridad derivada de su sumisión a Cristo. Esto establece un modelo de liderazgo basado en el servicio, no en el poder. La Diáspora se reinterpreta como una condición espiritual: los creyentes son peregrinos en el mundo, pero unidos en Cristo. La carta enfatiza la fe que obra, contrastando con una fe meramente intelectual. El saludo inicial apunta al gozo en medio de las pruebas (Stg 1:2), conectando la identidad del siervo con la alegría de pertenecer a Dios.</p>",
+    "ninos": "🌟 ¡Hola, siervo de Jesús!\n<p>Imagina que eres un superhéroe, pero no usas capa ni tienes poderes mágicos. Tu poder especial es ser un <strong>siervo</strong> de Dios. ¿Qué significa eso? Pues que eres como un ayudante muy importante de Jesús. Así como un doctor ayuda a los enfermos o un bombero apaga incendios, tú puedes ayudar a otros con amor.</p><p>La Biblia dice que Santiago, el hermano de Jesús, no dijo 'miren, soy el hermano del Rey'. Él dijo: 'soy un siervo'. ¡Qué humilde! Él sabía que lo más importante no era tener un título famoso, sino servir a Dios y a los demás.</p><p>Hoy, tú también puedes ser un siervo. ¿Cómo? Ayudando a mamá a poner la mesa 🍽️, compartiendo tus juguetes 🧸 con un amigo, o diciéndole a alguien que Jesús lo ama ❤️. No importa si eres pequeño; Dios te usa para hacer cosas grandes cuando sirves con alegría.</p><p>Recuerda: ser siervo de Jesús es el mejor título del mundo. ¡No necesitas capa para ser un héroe!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 1:1",
+        "tipo": "paralelo temático",
+        "razon": "Pablo también se presenta como siervo de Jesucristo, mostrando que la identidad de siervo es fundamental en el liderazgo cristiano."
+      },
+      {
+        "referencia": "1 Pedro 1:1",
+        "tipo": "paralelo contextual",
+        "razon": "Pedro escribe a los expatriados de la dispersión, similar al contexto de la diáspora en Santiago."
+      },
+      {
+        "referencia": "Gálatas 2:20",
+        "tipo": "profundización teológica",
+        "razon": "Explica la identidad del creyente como alguien que vive por fe en Cristo, complementando la idea de ser siervo."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful boy helping his mother set the dinner table, smiling, warm kitchen light, vegetables and plates, family atmosphere, bright colors, simple scene.",
+    "prompt_imagen_normal": "A humble man in ancient robes, kneeling with head bowed, hands open in service, dramatic lighting from above, stone floor, solemn expression, sense of devotion.",
+    "texto_original": "JACOBO, siervo de Dios y del Señor Jesucristo, a las doce tribus que están esparcidas, salud.",
+    "versiculo": "Santiago 1:1"
+  },
+  "2": {
+    "normal": "<h2>Gozo en medio de las pruebas</h2><p>Cuando Santiago nos dice que tengamos por sumo gozo cuando enfrentemos diversas pruebas, no está negando el dolor o la dificultad que estas conllevan. Más bien, nos invita a cambiar nuestra perspectiva. Las pruebas no son un castigo, sino una oportunidad para crecer en fe y carácter. Así como el oro se purifica en el fuego, nuestra fe se fortalece cuando es puesta a prueba. En lugar de desanimarnos, podemos confiar en que Dios está obrando en nosotros, moldeándonos a la imagen de Cristo. La próxima vez que enfrentes una situación difícil, pregúntate: ¿qué puedo aprender aquí? ¿cómo puedo crecer? Recuerda que el gozo no depende de las circunstancias, sino de la certeza de que Dios tiene un propósito mayor. Permítele usar esas pruebas para transformarte.</p>",
+    "academico": "<h2>Gozo en la prueba: Un análisis exegético de Santiago 1:2</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>chara</em> (χαρά), que significa 'gozo', y <em>peirasmos</em> (πειρασμός), traducido como 'tentaciones' o 'pruebas'. En el contexto de Santiago, <em>peirasmos</em> se refiere a pruebas externas que ponen a prueba la fe, no a tentaciones internas al pecado (que se aborda en el versículo 13). La frase 'tened por sumo gozo' (πᾶσαν χαρὰν ἡγήσασθε) implica una decisión deliberada de considerar las pruebas como motivo de alegría. El verbo <em>hēgeomai</em> (ἡγέομαι) denota un juicio o estimación, no un sentimiento espontáneo. La construcción 'cuando cayereis' (ὅταν περιπέσητε) sugiere circunstancias inesperadas o abrumadoras, como caer en una trampa.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos judíos dispersos (la diáspora) que enfrentaban persecución y dificultades económicas. En el judaísmo del Segundo Templo, las pruebas se veían como disciplina divina (Proverbios 3:11-12) o como purificación (Sabiduría 3:5-6). Santiago reinterpreta esta tradición desde una perspectiva cristocéntrica: el gozo no es masoquismo, sino confianza en que Dios usa las pruebas para producir paciencia (hypomonē), una virtud que lleva a la madurez espiritual.</p><h3>Implicaciones Teológicas</h3><p>Este versículo desafía la teología de la prosperidad, que asume que la fe genuina evita el sufrimiento. Santiago presenta una teología de la cruz: el camino del discipulado incluye pruebas, pero estas son instrumentos de gracia. El gozo no es emocional, sino escatológico: se basa en la esperanza de la venida del Señor (Santiago 5:7-8). Además, la comunidad cristiana primitiva entendía las pruebas como participación en los sufrimientos de Cristo (1 Pedro 4:13).</p>",
+    "ninos": "<h2>🌟 ¡Alegría en los problemas!</h2><p>Imagina que estás jugando y de repente te caes y te raspas la rodilla. Duele, ¿verdad? Pero luego tu mamá te limpia la herida y te pone una curita. ¡Y te sientes mejor! Santiago nos dice que cuando tengamos problemas, podemos sentir alegría porque Dios los usa para hacernos más fuertes, como cuando haces ejercicio y tus músculos crecen. No es que los problemas sean divertidos, pero sabemos que Dios está con nosotros y nos ayuda a aprender cosas importantes, como ser pacientes y confiar en Él. Así que la próxima vez que algo difícil pase, recuerda: Dios está haciendo crecer tu corazón. ¡Y eso es motivo de alegría! 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 5:3-5",
+        "tipo": "Temático",
+        "razon": "Ambos pasajes relacionan las pruebas con el gozo y el desarrollo del carácter."
+      },
+      {
+        "referencia": "1 Pedro 1:6-7",
+        "tipo": "Temático",
+        "razon": "Habla de alegrarse en medio de pruebas que prueban la fe como oro."
+      },
+      {
+        "referencia": "Hebreos 12:11",
+        "tipo": "Contraste",
+        "razon": "Menciona que la disciplina produce fruto de justicia, similar al propósito de las pruebas en Santiago."
+      },
+      {
+        "referencia": "Mateo 5:11-12",
+        "tipo": "Temático",
+        "razon": "Jesús dice que debemos gozarnos cuando somos perseguidos, paralelo al gozo en las pruebas."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child with a scraped knee, smiling while a parent puts on a band-aid. Bright, warm lighting. Simple background with toys. Heartwarming scene.",
+    "prompt_imagen_normal": "A dramatic desert landscape with a lone traveler climbing a rocky path under a stormy sky. Sweat and determination on face. Epic, cinematic lighting emphasizing struggle and hope.",
+    "texto_original": "Hermanos míos, tened por sumo gozo cuando cayereis en diversas tentaciones;",
+    "versiculo": "Santiago 1:2"
+  },
+  "3": {
+    "normal": "<h2>Paciencia en la Prueba</h2><p>Cuando enfrentamos dificultades, es natural querer que terminen rápido. Pero Santiago nos dice que la prueba de nuestra fe produce paciencia. No es una paciencia pasiva, sino activa: aprender a confiar en Dios mientras esperamos. Cada desafío es una oportunidad para crecer. Piensa en una semilla: necesita estar bajo tierra, en oscuridad y presión, para luego brotar. Así nuestra fe, probada, se fortalece. Hoy, si estás en medio de una prueba, recuerda que Dios está obrando. Pídele que te dé perseverancia y mira más allá del dolor. Al final, verás cómo Él ha formado en ti un carácter más firme y una fe más auténtica.</p>",
+    "academico": "<h2>La Prueba de la Fe como Forjadora de Paciencia</h2><h3>Análisis Filológico</h3><p>El término griego para 'prueba' es δοκίμιον (dokimion), que significa 'el acto de probar' o 'el medio de prueba', usado para referirse al proceso de acuñar monedas para verificar su autenticidad. La palabra 'fe' (πίστις, pistis) implica confianza activa. 'Obra' (κατεργάζεται, katergazetai) denota 'producir' o 'efectuar', un proceso continuo. 'Paciencia' (ὑπομονή, hupomonē) no es resignación, sino perseverancia activa bajo presión. Santiago 1:3 refleja la tradición sapiencial judía donde la prueba purifica y fortalece.</p><h3>Contexto Histórico</h3><p>La carta fue escrita a cristianos judíos dispersos enfrentando persecución y pobreza. La prueba (πειρασμός, peirasmos) podía referirse a tentaciones o tribulaciones externas. En el judaísmo del Segundo Templo, la paciencia era una virtud escatológica, esperando la vindicación divina. Santiago conecta la prueba con el desarrollo del carácter, eco de Proverbios y Sabiduría de Salomón.</p><h3>Implicaciones Teológicas</h3><p>La prueba no es un castigo sino un medio de santificación. La paciencia no es un fin en sí mismo, sino que prepara para la madurez espiritual (v.4). La fe genuina se demuestra en la perseverancia. Este versículo anticipa la teología de la gracia capacitadora: Dios da la fuerza para soportar y crecer.</p>",
+    "ninos": "<h2>🌟 La Semilla de la Paciencia</h2><p>Imagina que eres una semillita pequeña. Estás bajo tierra, oscuro y apretado. Pero no te preocupes: ¡estás creciendo! Así es la paciencia. Cuando algo difícil te pasa, como esperar tu turno o no ganar un juego, Dios está haciendo crecer tu paciencia. Es como cuando plantas una semilla y riegas todos los días; al final sale una flor hermosa. La próxima vez que tengas que esperar, recuerda: estás siendo una semilla fuerte. ¡Dios te está ayudando a ser paciente!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 5:3-4",
+        "tipo": "Desarrollo del tema",
+        "razon": "Pablo también conecta tribulación con paciencia, carácter y esperanza."
+      },
+      {
+        "referencia": "1 Pedro 1:6-7",
+        "tipo": "Paralelo temático",
+        "razon": "La prueba de la fe es más valiosa que el oro."
+      },
+      {
+        "referencia": "Hebreos 12:1",
+        "tipo": "Exhortación práctica",
+        "razon": "Correr con paciencia la carrera puesta delante de nosotros."
+      }
+    ],
+    "prompt_imagen_ninos": "A small seed underground, roots growing, with a gentle sunbeam breaking through soil. Smiling worm nearby. Warm earthy colors, soft lighting, child-friendly.",
+    "prompt_imagen_normal": "A person kneeling in a dark, rocky landscape, hands clasped, looking up at a faint light breaking through storm clouds. Expression of determined faith, dramatic lighting.",
+    "texto_original": "Sabiendo que la prueba de vuestra fe obra paciencia.",
+    "versiculo": "Santiago 1:3"
+  },
+  "4": {
+    "normal": "<h2>Paciencia que Perfecciona</h2><p>En nuestra cultura de inmediatez, la paciencia parece una virtud olvidada. Queremos resultados rápidos, respuestas instantáneas y soluciones sin espera. Pero Santiago nos invita a un camino diferente: dejar que la paciencia haga su obra completa en nosotros. No se trata solo de aguantar, sino de permitir que el proceso de espera y perseverancia nos transforme. La paciencia no es pasiva; es activa. Es confiar en que Dios está obrando incluso en los momentos difíciles, puliendo nuestro carácter, quitando impurezas y haciéndonos más semejantes a Cristo. ¿Qué área de tu vida necesita más paciencia hoy? Quizás es una relación complicada, un proyecto que no avanza o una oración que parece no ser respondida. En lugar de frustrarte, invita a Dios a usar esa espera para moldear tu corazón. La meta no es solo soportar, sino llegar a ser 'perfectos y cabales, sin faltar en alguna cosa'. Esa perfección no es ausencia de defectos, sino madurez espiritual, integridad y plenitud en Dios. Así que hoy, elige la paciencia como una herramienta de crecimiento, no como una carga.</p>",
+    "academico": "<h2>La Obra Perfecta de la Paciencia: Un Análisis de Santiago 1:4</h2><h3>Análisis Filológico</h3><p>El término griego clave en este versículo es <em>hupomonē</em> (ὑπομονή), traducido como 'paciencia' o 'perseverancia'. Literalmente significa 'permanecer bajo', denotando una resistencia activa y firme bajo presión, no una resignación pasiva. El verbo 'tenga' (<em>echetō</em>, ἐχέτω) está en imperativo presente, indicando una acción continua. La frase 'perfecta su obra' (<em>teleion ergon</em>, τέλειον ἔργον) usa <em>teleion</em>, que implica completitud, madurez y plenitud, no solo perfección moral. El resultado, 'perfectos y cabales' (<em>teleioi kai holoklēroi</em>, τέλειοι καὶ ὁλόκληροι), combina <em>teleioi</em> (maduros) con <em>holoklēroi</em> (íntegros, completos en todas las partes). La frase final 'sin faltar en alguna cosa' (<em>en mēdeni leipomenoi</em>, ἐν μηδενὶ λειπόμενοι) usa el verbo <em>leipō</em>, que significa carecer o estar deficiente.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos judíos dispersos (<em>diaspora</em>) que enfrentaban pruebas y persecución. El contexto inmediato (1:2-3) exhorta a considerar las pruebas como gozo porque producen <em>hupomonē</em>. En el mundo grecorromano, la paciencia era una virtud estoica de resistencia pasiva, pero Santiago la redefine como una disciplina activa que produce madurez. La carta refleja la tradición sapiencial judía, donde la prueba es un medio de purificación y crecimiento (Proverbios, Sabiduría de Salomón). La metáfora de la obra completa sugiere un proceso artesanal: como el alfarero moldea el barro, Dios usa las pruebas para formar un carácter íntegro.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la madurez espiritual no es instantánea sino progresiva. La paciencia no es un fin en sí misma, sino el medio para alcanzar la <em>teleiōsis</em> (perfección/madurez). La integridad (<em>holoklēros</em>) implica que todas las áreas de la vida están alineadas bajo el señorío de Cristo. Teológicamente, Santiago enfatiza la synergia entre la obra de Dios y la respuesta humana: Dios usa las pruebas, pero el creyente debe cooperar permitiendo que la paciencia obre. Esto contrasta con una soteriología puramente pasiva. La meta escatológica es la perfección final, pero la experiencia presente es un proceso de santificación donde el creyente es 'completo' en Cristo, aunque en crecimiento.</p>",
+    "ninos": "🌟 ¡La Paciencia Hace Crecer! 🌟<p>Imagina que estás plantando una semilla de girasol. La pones en la tierra, la riegas y esperas... pero al día siguiente, ¡no ha crecido nada! ¿Te enojas y tiras la tierra? ¡No! Sabes que necesita tiempo, sol y agua para crecer. Así es la paciencia: esperar con confianza mientras Dios trabaja en tu corazón. Cuando algo es difícil, como esperar tu turno o aprender algo nuevo, Dios está ayudándote a ser más fuerte y más bueno. La Biblia dice que si dejas que la paciencia haga su trabajo, te convertirás en una persona 'perfecta y completa', como una flor hermosa que no le falta ningún pétalo. Así que la próxima vez que tengas que esperar, recuerda: ¡la paciencia te hace crecer! Lección: La paciencia nos ayuda a ser mejores personas, como Jesús quiere.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 5:3-5",
+        "tipo": "Temático",
+        "razon": "Ambos pasajes vinculan las pruebas con la producción de paciencia y esperanza, formando un proceso de madurez espiritual."
+      },
+      {
+        "referencia": "Hebreos 12:1-2",
+        "tipo": "Complementario",
+        "razon": "Hebreos también habla de correr con paciencia la carrera, fijando la mirada en Jesús, quien perfecciona nuestra fe."
+      },
+      {
+        "referencia": "Proverbios 4:18",
+        "tipo": "Ilustrativo",
+        "razon": "La senda del justo brilla más hasta ser perfecto, reflejando el crecimiento progresivo hacia la madurez."
+      }
+    ],
+    "prompt_imagen_ninos": "A child planting a sunflower seed in a garden, smiling with anticipation. Sunlight streams through clouds, a small sprout emerging from the soil. Warm colors, gentle lighting, hopeful atmosphere.",
+    "prompt_imagen_normal": "A man kneeling in a barren desert, hands clasped in prayer, face weathered but peaceful. Rays of light breaking through dark clouds, illuminating a small green shoot at his feet. Epic, dramatic, emotional.",
+    "texto_original": "Mas tenga la paciencia perfecta su obra, para que seáis perfectos y cabales, sin faltar en alguna cosa.",
+    "versiculo": "Santiago 1:4"
+  },
+  "5": {
+    "normal": "<h2>La Sabiduría que Dios Da</h2><p>Cuando enfrentas decisiones difíciles, es fácil sentirse inseguro. Santiago nos recuerda que Dios no se burla de nuestras preguntas, sino que las recibe con generosidad. Él quiere darnos sabiduría, esa capacidad de ver la vida desde su perspectiva. No necesitas ser perfecto para acercarte a él; solo necesitas reconocer que te falta. Pídele con fe, confiando en que él responderá. La sabiduría que él da no es solo conocimiento, sino dirección práctica para tu día a día. Así que la próxima vez que no sepas qué hacer, haz una pausa y ora. Dios está listo para guiarte.</p>",
+    "academico": "<h2>Sabiduría Divina: Un Análisis Exegético de Santiago 1:5</h2><h3>Análisis Filológico</h3><p>El término griego para 'sabiduría' es <i>sophia</i> (σοφία), que en el contexto judío-helenístico denota no solo conocimiento intelectual, sino habilidad práctica para vivir conforme a la voluntad de Dios. El verbo 'demándela' (<i>aiteitō</i>, αἰτείτω) está en imperativo presente, indicando una acción continua. 'Zahiere' traduce <i>oneidizontos</i> (ὀνειδίζοντος), participio presente de <i>oneidizō</i>, que significa 'insultar' o 'reprochar'. Dios da 'abundantemente' (<i>haplōs</i>, ἁπλῶς) implica generosidad sin reservas.</p><h3>Contexto Histórico</h3><p>La carta de Santiago se dirige a cristianos judíos de la diáspora (1:1), enfrentando pruebas y tentaciones. En el judaísmo del Segundo Templo, la sabiduría era un don divino asociado con la Torá (Sab 7:7). Santiago contrasta la sabiduría humana, que causa contiendas (3:15), con la que viene de arriba. La promesa de que Dios no zahiere refleja la naturaleza misericordiosa de Dios en contraste con las deidades caprichosas del mundo grecorromano.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la oración por sabiduría es siempre respondida positivamente, pero condicionada a la fe (v. 6). La sabiduría divina capacita al creyente para perseverar en las pruebas (v. 2-4) y vivir en obediencia. La ausencia de reproche en Dios subraya su gracia: incluso cuando fallamos, él no nos humilla por pedir ayuda.</p>",
+    "ninos": "<h2>🌟 ¡Pide Sabiduría a Dios!</h2><p>Imagina que estás en un laberinto y no encuentras la salida. Te sientes perdido y no sabes qué camino tomar. Así nos sentimos a veces cuando tenemos que decidir algo importante. La Biblia dice que si te falta sabiduría, se la pidas a Dios. Él es como un papá amoroso que siempre te escucha y te ayuda. No se enoja ni se ríe de ti por no saber. Al contrario, te da buenas ideas para que elijas bien. Así que cuando no sepas qué hacer, ora y pídele a Dios que te muestre el camino correcto. Él te responderá. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Proverbios 2:6",
+        "tipo": "Temática",
+        "razon": "También habla de que la sabiduría viene de Dios."
+      },
+      {
+        "referencia": "Mateo 7:7-8",
+        "tipo": "Temática",
+        "razon": "Jesús enseña que pedir a Dios es efectivo."
+      },
+      {
+        "referencia": "1 Reyes 3:9-12",
+        "tipo": "Ejemplo bíblico",
+        "razon": "Salomón pidió sabiduría y Dios se la concedió abundantemente."
+      }
+    ],
+    "prompt_imagen_ninos": "A child praying with eyes closed, surrounded by glowing question marks that transform into light bulbs. Warm sunlight streams through a window. The child's face shows peace and hope.",
+    "prompt_imagen_normal": "A man kneeling in prayer, hands open, in a dimly lit room. A shaft of golden light illuminates his face, casting shadows. His expression is earnest and hopeful. Epic, cinematic lighting.",
+    "texto_original": "Y si alguno de vosotros tiene falta de sabiduría, demándela a Dios, el cual da a todos abundantemente, y no zahiere; y le será dada.",
+    "versiculo": "Santiago 1:5"
+  },
+  "6": {
+    "normal": "<h2>Fe firme en medio de la tormenta</h2><p>Imagina que estás en un bote pequeño en medio del océano. Las olas suben y bajan, el viento sopla fuerte, y el bote se mueve de un lado a otro. Así es la vida cuando dudamos. Santiago nos dice que cuando oramos, debemos hacerlo con fe, sin dudar. Dudar es como ser una ola del mar, inestable y llevada por cualquier viento. Pero Dios quiere que seamos como un ancla firme. Él escucha nuestras oraciones cuando confiamos en Él de todo corazón. La fe no significa que todo será fácil, sino que confiamos en que Dios está con nosotros en cada ola. Hoy, cuando ores, recuerda que Dios es más grande que cualquier tormenta. Pídele con fe, sabiendo que Él te sostendrá. No dejes que la duda te mueva; aférrate a la promesa de que Dios es fiel. Practica la fe recordando las veces que Dios ha sido bueno contigo. Él nunca te fallará.</p>",
+    "academico": "<h2>Análisis de Santiago 1:6: La fe sin duda y la estabilidad del creyente</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego <em>aiteō</em> (pedir) en imperativo presente, indicando una acción continua. La frase \"en fe\" (en pistei) denota el medio o la esfera de la petición. El término \"dudando\" traduce <em>diakrinomenos</em>, participio presente medio/pasivo de <em>diakrinō</em>, que significa \"discernir, dudar, vacilar\" (cf. Mat 21:21; Rom 4:20). La duda aquí implica una división interna, una falta de confianza plena. La comparación con la ola del mar (<em>kludōni thalassēs</em>) evoca la imagen de inestabilidad y falta de dirección. El viento (<em>anemō</em>) representa influencias externas que agitan al que duda. Santiago usa una metáfora marítima común en la literatura sapiencial (cf. Is 57:20) para ilustrar la dualidad del corazón humano.</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos de la diáspora que enfrentaban pruebas (1:2-4). La comunidad primitiva luchaba con la persecución y la pobreza. En el contexto del Cercano Oriente Antiguo, el mar era símbolo de caos y peligro (Job 38:8-11; Sal 107:23-30). La imagen de la ola movida por el viento reflejaría la vulnerabilidad de los creyentes ante las circunstancias adversas. Santiago contrapone la sabiduría divina (1:5) a la inestabilidad humana.</p><h3>Implicaciones Teológicas</h3><p>La fe sin duda no implica ausencia de preguntas, sino una confianza radical en la bondad y fidelidad de Dios. La duda, como división interior, impide recibir las promesas divinas (1:7). Teológicamente, el versículo subraya la necesidad de una fe monolítica, que no se deje moldear por las circunstancias. La estabilidad del creyente depende de la certeza en el carácter de Dios. Santiago anticipa la enseñanza de Jesús sobre la fe que mueve montañas (Mt 21:21).</p>",
+    "ninos": "<h2>🌟 ¡No seas como una ola!</h2><p>Imagina que estás en un columpio. Cuando te balanceas suave, es divertido. Pero si alguien te empuja muy fuerte, ¡zas! Te caes. Así es cuando dudamos de Dios. Santiago dice que cuando oramos, debemos creer de verdad, sin dudar. Dudar es como ser una ola del mar que va para arriba y para abajo, ¡qué mareo! Pero Dios quiere que seamos como una roca firme. Cuando le pides algo a Dios, confía en que Él te escucha y te ama. No dejes que las dudas te muevan. Recuerda: Dios siempre cumple sus promesas. Así que la próxima vez que ores, hazlo con fe, como un súper héroe confiado. ¡Dios te ama y te responderá!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 21:21",
+        "tipo": "paralelo temático",
+        "razon": "Jesús enseña sobre la fe sin duda y el poder de mover montañas."
+      },
+      {
+        "referencia": "Hebreos 11:1",
+        "tipo": "definición teológica",
+        "razon": "Define la fe como la certeza de lo que se espera."
+      },
+      {
+        "referencia": "Marcos 11:24",
+        "tipo": "aplicación práctica",
+        "razon": "Promete que todo lo que pidamos en fe será concedido."
+      }
+    ],
+    "prompt_imagen_ninos": "A child standing on a rock in a calm sea, with a gentle wave splashing nearby. The child looks up with a confident smile, hands clasped in prayer. Sunny sky with soft clouds. Bright colors.",
+    "prompt_imagen_normal": "A small boat tossed by stormy waves under dark clouds. A man inside clings to the mast, looking up with desperate faith. Lightning illuminates the scene, highlighting his face of determination and trust.",
+    "texto_original": "Pero pida en fe, no dudando nada: porque el que duda es semejante a la onda de la mar, que es movida del viento, y echada de una parte a otra.",
+    "versiculo": "Santiago 1:6"
+  },
+  "7": {
+    "normal": "<h2>La fe que no duda</h2><p>Este versículo nos recuerda una verdad profunda: la duda puede cerrar la puerta a las bendiciones de Dios. Santiago habla de una persona que ora pero no cree realmente que Dios responderá. Es como un niño que pide un regalo a su padre, pero al mismo tiempo piensa que su padre no se lo dará. ¿Cómo se sentirá el padre? De la misma manera, cuando nos acercamos a Dios con un corazón dividido, dudando de su bondad o poder, limitamos nuestra capacidad de recibir lo que él quiere darnos.</p><p>La aplicación práctica es clara: cuando ores, hazlo con fe. No solo con palabras, sino con la confianza de que Dios te escucha y te responderá según su voluntad. Esto no significa que siempre obtendremos lo que pedimos, sino que debemos confiar en que Dios sabe lo que es mejor. La duda no es solo una falta de fe; es una falta de confianza en el carácter de Dios. Él es bueno, fiel y generoso. ¿Por qué dudar? Hoy, examina tu corazón. ¿Hay áreas donde dudas de la promesa de Dios? Entrégaselas en oración, pidiendo que aumente tu fe. Recuerda: el que duda es como una ola del mar, impulsada por el viento y llevada de un lado a otro. Pero el que confía en el Señor recibirá todo lo que necesita para vivir en su voluntad.</p>",
+    "academico": "<h2>El que duda no recibirá nada</h2><h3>Análisis Filológico</h3><p>El versículo Santiago 1:7 (Santiago 1:7, RVR60) dice: \"No piense, pues, el tal hombre que recibirá cosa alguna del Señor.\" El término griego clave es \"διακρινόμενος\" (diakrinomenos), participio presente medio/pasivo de \"διακρίνω\" (diakrinō), que significa \"dudar\", \"discernir\" o \"estar en conflicto interno\". En el contexto de Santiago 1:6, se refiere a la persona que ora con duda, dividida entre la fe y la incredulidad. El verbo \"λαμβάνω\" (lambanō, \"recibir\") está en futuro de indicativo, indicando certeza de la acción. \"Παρά\" (para, \"de\") seguido de genitivo indica procedencia. \"Κυρίου\" (Kyriou, \"del Señor\") se refiere a Dios, posiblemente a Jesucristo, dado el uso temprano de \"Kyrios\" para Cristo. La negación \"μή\" (mē) con subjuntivo aoristo activo \"οἰέσθω\" (oiesthō, \"piense\") forma una prohibición enfática: \"que no piense\".</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos cristianos en la dispersión (Santiago 1:1). En el contexto del Cercano Oriente Antiguo, la comunidad enfrentaba pruebas (Santiago 1:2-4) y necesitaba sabiduría (Santiago 1:5). La duda era un peligro real, ya que la fe debía ser inquebrantable para soportar la persecución. La carta refleja la tradición sapiencial judía, donde la sabiduría se obtiene mediante la oración confiada. La figura del \"hombre de doble ánimo\" (δίψυχος, dipsuchos, Santiago 1:8) es un concepto único en el Nuevo Testamento, que describe a alguien con lealtad dividida.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la necesidad de una fe sin dudas para recibir respuestas de Dios. No es que Dios sea mezquino, sino que la duda refleja una falta de confianza en su carácter y promesas. Teológicamente, conecta con la enseñanza de Jesús sobre la fe que mueve montañas (Mateo 17:20). Santiago enfatiza que la fe debe ser activa y práctica, no solo intelectual. La duda es incompatible con la verdadera fe. Además, el versículo advierte contra la presunción: no se trata de una fórmula mágica, sino de una relación de confianza. La fe genuina reconoce la soberanía de Dios y se somete a su voluntad, pero confía en su bondad para responder.</p>",
+    "ninos": "🌟 ¡No seas como la veleta! 🌟<p>Imagina que estás en un columpio y pides a tu papá que te empuje. Pero mientras te empuja, piensas: \"¿Me estará empujando de verdad? ¿O me dejará caer?\" ¡Eso sería raro! Tu papá te ama y siempre te empuja bien fuerte. Lo mismo pasa con Dios. Cuando le pides algo, debes creer que te escucha y que te dará lo mejor. Si dudas, es como si no confiaras en él. La Biblia dice que el que duda es como una veleta que gira con el viento: un rato para un lado, otro rato para otro. ¡No seas veleta! Confía en Dios con todo tu corazón. Él siempre cumple sus promesas. Así que la próxima vez que ores, hazlo con fe, como cuando le pides un abrazo a tu mamá: sabes que te lo dará. 😊</p><p><strong>Lección moral:</strong> Confía en Dios sin dudar, porque él siempre responde a los que creen de verdad.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 21:21",
+        "tipo": "Temática",
+        "razon": "Jesús enseña que si tienes fe y no dudas, puedes hacer cosas imposibles, como mover montañas."
+      },
+      {
+        "referencia": "Marcos 11:24",
+        "tipo": "Temática",
+        "razon": "Promete que todo lo que pidas en oración, creyendo que lo has recibido, te será concedido."
+      },
+      {
+        "referencia": "Hebreos 11:6",
+        "tipo": "Temática",
+        "razon": "Sin fe es imposible agradar a Dios, porque quien se acerca a él debe creer que existe y que recompensa a los que le buscan."
+      },
+      {
+        "referencia": "Santiago 1:6-8",
+        "tipo": "Contextual",
+        "razon": "El versículo inmediatamente anterior y posterior desarrolla el tema de la duda y la inestabilidad."
+      }
+    ],
+    "prompt_imagen_ninos": "A child on a swing, looking up at a bright sky with a smiling sun, father gently pushing from behind, child's face full of trust and joy, warm colors, simple and cheerful style.",
+    "prompt_imagen_normal": "A solitary figure kneeling in prayer in a dimly lit room, hands clasped, face reflecting inner conflict and doubt, a faint glow from an unseen source, dramatic shadows, realistic emotional intensity.",
+    "texto_original": "No piense pues el tal hombre que recibirá ninguna cosa del Señor.",
+    "versiculo": "Santiago 1:7"
+  },
+  "8": {
+    "normal": "<h2>El peligro de la doble mente</h2><p>Imagina que estás navegando en un bote pequeño en medio de un lago tranquilo. De repente, el viento comienza a soplar en una dirección, pero tú decides remar hacia la opuesta. El bote se tambalea, no avanza y terminas dando vueltas. Algo similar ocurre cuando tenemos un corazón dividido, cuando decimos creer en Dios pero actuamos como si Él no importara. Santiago nos confronta con la realidad de que la inestabilidad espiritual nos lleva a la ineficacia en todo lo que hacemos.</p><p>El 'hombre de doblado ánimo' es aquel que intenta vivir con un pie en el mundo y otro en el reino de Dios. Quiere seguir a Cristo, pero también disfrutar del pecado; desea la bendición divina, pero no está dispuesto a soltar sus seguridades terrenales. Esta dualidad lo hace incapaz de tomar decisiones firmes, de confiar plenamente en Dios y de experimentar la paz que viene de una fe sencilla.</p><p>La solución no está en esforzarnos más por ser consistentes, sino en rendir nuestra voluntad al Señor. Cuando dejamos de dividir nuestro corazón y elegimos seguirlo de todo corazón, Él nos da la estabilidad que necesitamos. No se trata de perfección, sino de dirección. Hoy, pregúntate: ¿estás remando en dos direcciones? Decide confiar en Dios con todas tus fuerzas y verás cómo tus caminos se enderezan.</p>",
+    "academico": "<h2>La inestabilidad del doble ánimo: Un análisis de Santiago 1:8</h2><h3>Análisis Filológico</h3><p>El término griego traducido como 'hombre de doblado ánimo' es δίψυχος (dipsychos), compuesto por δίς (dis, 'dos veces') y ψυχή (psychē, 'alma, mente'). Literalmente significa 'de dos almas' o 'de doble mente'. Este término es único en el Nuevo Testamento, apareciendo solo en Santiago (1:8; 4:8). Describe a una persona con lealtades divididas, incapaz de comprometerse totalmente con Dios. El adjetivo ἀκατάστατος (akatastatos), traducido como 'inconstante', proviene de κατάστασις (katastasis, 'estabilidad') con el prefijo α- negativo, indicando falta de firmeza o estabilidad. El versículo concluye que tal persona es inestable 'en todos sus caminos' (ἐν πάσαις ταῖς ὁδοῖς αὐτοῦ), usando ὁδός (hodos, 'camino, conducta') para referirse a la totalidad de la vida y acciones.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos judíos dispersos (la diáspora) que enfrentaban pruebas y tentaciones. En el Cercano Oriente Antiguo, la lealtad dividida era un tema común, especialmente entre los judíos que vivían bajo influencia helenística. La presión de asimilarse a la cultura grecorromana podía generar una fe sincrética. Santiago contrasta esta doble mente con la fe genuina que debe pedir a Dios sin dudar (v. 6). El contexto inmediato (vv. 5-8) trata sobre la sabiduría que Dios da generosamente a quien la pide con fe, sin dudar. La duda aquí no es intelectual, sino relacional: implica desconfianza en el carácter de Dios.</p><h3>Implicaciones Teológicas</h3><p>El 'doble ánimo' es un obstáculo para recibir la sabiduría divina y para la estabilidad espiritual. Teológicamente, refleja una falta de integridad (wholeness) que Dios desea en sus hijos. La fe genuina requiere una entrega total; la indecisión y la lealtad dividida son incompatibles con la confianza en Dios. Este versículo llama a la coherencia entre la confesión y la conducta. En el pacto, Dios demanda exclusividad (Éxodo 20:3), y Santiago aplica este principio a la vida diaria. La inestabilidad del doble ánimo contrasta con la firmeza de quien teme al Señor (Salmo 112:6-7). La solución no es meramente humana, sino que viene de la sabiduría de lo alto, que es 'pura, pacífica, amable' (Santiago 3:17).</p>",
+    "ninos": "<h2>🌟 El hombre de dos corazones</h2><p>Había una vez un niño llamado Tomás que quería ser amigo de todos, pero también quería hacer lo que él quisiera. Un día, su mamá le pidió que ordenara su cuarto, pero Tomás pensó: 'Mejor juego un rato más'. Luego, cuando ya era tarde, corrió a ordenar, pero dejó todo a medias. Al final, su cuarto estaba más desordenado que antes, y además no había jugado bien ni había obedecido.</p><p>Así pasa cuando tratamos de seguir a Jesús pero también hacemos lo malo. Es como tener dos corazones: uno que quiere a Dios y otro que quiere hacer lo suyo. La Biblia dice que esa persona es 'inconstante', como un barco que va de un lado a otro sin rumbo fijo. ¡No sabe lo que quiere!</p><p>Pero Dios nos invita a tener un solo corazón, un corazón que confíe en Él. Cuando decides seguir a Jesús de verdad, Él te ayuda a ser firme, como un árbol con raíces profundas. Así, aunque vengan vientos fuertes, no te caerás. 😊</p><p><strong>Lección moral:</strong> No quieras tener dos corazones. Decide amar a Dios con todo tu corazón, y Él te dará paz y estabilidad.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 4:8",
+        "tipo": "paralelo temático",
+        "razon": "Ambos versículos usan el término 'doble ánimo' (dipsychos) y llaman a la purificación del corazón."
+      },
+      {
+        "referencia": "Mateo 6:24",
+        "tipo": "paralelo conceptual",
+        "razon": "Jesús enseña que no se puede servir a dos señores, reflejando la misma idea de lealtad dividida."
+      },
+      {
+        "referencia": "1 Reyes 18:21",
+        "tipo": "paralelo histórico",
+        "razon": "Elías confronta a Israel: '¿Hasta cuándo claudicaréis entre dos pensamientos?' similar a la doble ánimo."
+      },
+      {
+        "referencia": "Salmo 112:6-7",
+        "tipo": "contraste",
+        "razon": "El justo es firme y no teme, contrastando con la inestabilidad del doble ánimo."
+      },
+      {
+        "referencia": "Efesios 4:14",
+        "tipo": "paralelo temático",
+        "razon": "Habla de no ser 'niños fluctuantes' llevados por doctrinas, similar a la inconstancia."
+      }
+    ],
+    "prompt_imagen_ninos": "A young boy standing on a rocking boat in a lake, one foot on land and one on the boat, looking confused, with a stormy sky and calm water, warm sunlight breaking through clouds.",
+    "prompt_imagen_normal": "A man in ancient robes standing on a path that splits in two directions, one leading to a bright city on a hill, the other to a dark valley, his face showing inner turmoil and indecision.",
+    "texto_original": "El hombre de doblado ánimo es inconstante en todos sus caminos.",
+    "versiculo": "Santiago 1:8"
+  },
+  "9": {
+    "normal": "<h2>Gloríate en tu identidad en Cristo</h2><p>Este versículo nos recuerda que nuestra verdadera identidad no está en nuestras circunstancias económicas o sociales, sino en quiénes somos en Cristo. El hermano de baja condición, aquel que es pobre o menospreciado, puede gloriarse en su 'alteza', es decir, en su posición elevada como hijo de Dios. No importa cuán humilde sea tu situación terrenal, en el reino de Dios eres coheredero con Cristo. Esto nos invita a cambiar nuestra perspectiva: no enorgullecernos de riquezas o logros, sino de nuestra herencia espiritual. Aplica esto hoy: si te sientes insignificante o desanimado por tu situación, recuerda que Dios te ha exaltado en Cristo. Tu valor no depende de lo que tienes, sino de quién eres en Él. Vive con la confianza de que eres amado y aceptado, y deja que esa verdad transforme tu actitud hacia los desafíos.</p>",
+    "academico": "<h2>La paradoja de la humildad exaltada: Análisis de Santiago 1:9</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'Καυχάσθω δὲ ὁ ἀδελφὸς ὁ ταπεινὸς ἐν τῷ ὕψει αὐτοῦ' (Kauchásthō de ho adelphós ho tapeinós en tō hýpsei autou). 'Ταπεινός' (tapeinós) significa 'humilde, bajo, de baja condición', refiriéndose a pobreza o posición social baja. 'Ὕψει' (hýpsei) es 'altura, exaltación', en contraste. Santiago usa un imperativo (καυχάσθω) que indica una acción continua: 'que se gloríe' o 'que se enorgullezca'. La paradoja es evidente: el humilde debe jactarse de su exaltación. Esto refleja la enseñanza de Jesús sobre los primeros siendo últimos (Mateo 20:16).</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos cristianos dispersos (diáspora) que enfrentaban pobreza y persecución. En el mundo greco-romano, el honor era un valor supremo; la pobreza traía vergüenza. Santiago invierte esta norma: la verdadera honra viene de Dios, no de la sociedad. La comunidad cristiana primitiva a menudo estaba compuesta por los pobres y marginados (1 Corintios 1:26-29).</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la identidad en Cristo trasciende las jerarquías sociales. La 'alteza' del creyente humilde es su posición como hijo de Dios y heredero del reino (Romanos 8:17). También conecta con la teología de la cruz: la exaltación viene a través de la humillación (Filipenses 2:5-11). Santiago desafía la mentalidad mundana que valora las riquezas, llamando a los creyentes a encontrar su gozo en su estatus espiritual, no material.</p>",
+    "ninos": "<h2>🌟 ¡Eres importante para Dios!</h2><p>Imagina que tienes un amigo que no tiene muchos juguetes o ropa bonita. A veces, otros niños se burlan de él y se siente triste. Pero un día, el rey del país lo invita a su castillo y le dice: 'Tú eres mi hijo especial'. ¡Qué alegría! Eso es lo que Dios hace con nosotros. Aunque otros nos menosprecien, Dios nos dice que somos sus hijos y nos da un lugar de honor en su familia. Así que no importa si tienes poco o mucho, puedes estar feliz porque Dios te ama y te ha hecho muy importante. Cuando te sientas pequeño, recuerda que eres un príncipe o princesa de Dios. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 5:3",
+        "tipo": "Temático",
+        "razon": "Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos. Conexión con la humildad y exaltación."
+      },
+      {
+        "referencia": "Filipenses 2:5-11",
+        "tipo": "Teológico",
+        "razon": "Cristo se humilló y fue exaltado; modelo para el creyente."
+      },
+      {
+        "referencia": "1 Corintios 1:26-29",
+        "tipo": "Contextual",
+        "razon": "Dios escoge lo débil y despreciado para confundir a los poderosos."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child in simple clothes stands on a hill at sunrise, looking up with joy. Golden light shines on them. A crown of light appears above their head. Warm colors, hopeful mood.",
+    "prompt_imagen_normal": "A humble peasant in ancient Judea, wearing torn clothes, kneels in a dusty field. His face is lifted upward, tears of joy, as a beam of divine light illuminates him. Epic, dramatic, realistic.",
+    "texto_original": "El hermano que es de baja suerte, gloríese en su alteza:",
+    "versiculo": "Santiago 1:9"
+  },
+  "10": {
+    "normal": "<h2>La Verdadera Riqueza</h2><p>Hoy, Santiago nos desafía a ver la riqueza desde una perspectiva eterna. El versículo dice: 'Mas el que es rico, en su bajeza; porque él se pasará como la flor de la hierba.' ¿Qué significa esto? En un mundo que valora la acumulación de bienes, Santiago nos recuerda que la riqueza terrenal es temporal. Así como la flor de la hierba se marchita, nuestras posesiones no duran para siempre. El rico debe humillarse, reconociendo que su verdadera seguridad no está en sus cuentas bancarias, sino en Dios. Esta humildad nos libera de la ansiedad por perder lo material y nos enfoca en lo que realmente importa: nuestra relación con Cristo y el servicio a los demás. Aplica esto hoy: revisa tus prioridades. ¿Estás confiando en tus recursos o en el Proveedor? La verdadera riqueza se encuentra en la generosidad y en vivir para el Reino. Que tu corazón se alegre no en lo que tienes, sino en Quien te tiene a Él.</p>",
+    "academico": "<h2>La Paradoja del Rico Humilde: Análisis de Santiago 1:10</h2><h3>Análisis Filológico</h3><p>El versículo usa el término griego 'ταπεινώσει' (tapeinōsei), que significa 'humillación' o 'bajeza'. Este verbo está en voz media, indicando una acción reflexiva: el rico debe humillarse a sí mismo. La frase 'ὡς ἄνθος χόρτου' (hōs anthos chortou) es una metáfora tomada de Isaías 40:6-8, donde la hierba y la flor representan la fragilidad humana. La palabra 'παρελεύσεται' (pareleusetai) es futuro medio de 'parerchomai', 'pasar de largo', enfatizando la transitoriedad. En el contexto del Cercano Oriente Antiguo, la riqueza se asociaba con bendición divina, pero Santiago invierte esta expectativa: el rico debe gloriarse en su humillación, no en su abundancia.</p><h3>Contexto Histórico</h3><p>La epístola de Santiago fue escrita a cristianos judíos dispersos (diáspora), enfrentando persecución y tensiones socioeconómicas. En el siglo I, la riqueza era un signo de estatus, pero también de opresión. Santiago denuncia la parcialidad hacia los ricos (2:1-7) y la opresión de los pobres (5:1-6). Este versículo forma parte de una sección (1:9-11) que contrasta al hermano humilde (pobre) que se gloría en su exaltación, y al rico que se gloría en su humillación. La imagen de la flor que se marchita bajo el sol abrasador refleja el clima árido de Palestina, donde la hierba se seca rápidamente.</p><h3>Implicaciones Teológicas</h3><p>Santiago introduce una escatología realizada: la fugacidad de la vida terrenal exige una perspectiva eterna. La humildad del rico no es solo una virtud moral, sino un reconocimiento de la soberanía de Dios. La riqueza no es inherentemente mala, pero el orgullo y la confianza en ella son peligrosos. Este pasaje anticipa la enseñanza de Jesús sobre las riquezas (Mateo 6:19-21) y la teología de la cruz: el camino del discípulo implica renuncia y humildad. La 'bajeza' del rico es un llamado a la identificación con Cristo, quien se humilló a sí mismo (Filipenses 2:5-8). La comunidad cristiana debe valorar la igualdad y la generosidad, recordando que todos son igualmente dependientes de la gracia.</p>",
+    "ninos": "🌟 ¡La Flor que se Marchita! 🌟<p>Había una vez un niño llamado Tomás que tenía muchos juguetes. Se sentía muy importante porque tenía el balón más nuevo y la bicicleta más brillante. Pero un día, vio una flor hermosa en el jardín. Al día siguiente, la flor se había marchitado y caído. Tomás se puso triste. Su mamá le dijo: 'Así son las cosas que tenemos: bonitas por un tiempo, pero luego se van. Lo importante es tener un corazón agradecido y compartir con los demás.' Tomás entendió que no importa cuántos juguetes tengas, lo que realmente vale es ser amable y generoso. Así que decidió regalar algunos juguetes a niños que no tenían. ¡Y se sintió más feliz que nunca! 🎈 Recuerda: las cosas se acaban, pero el amor de Dios y el compartir duran para siempre. 🌈</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 40:6-8",
+        "tipo": "Referencia directa",
+        "razon": "Santiago cita este pasaje del AT sobre la hierba que se seca y la flor que se marchita."
+      },
+      {
+        "referencia": "Mateo 6:19-21",
+        "tipo": "Temática",
+        "razon": "Jesús enseña a no acumular tesoros en la tierra, sino en el cielo, porque son temporales."
+      },
+      {
+        "referencia": "Filipenses 2:5-8",
+        "tipo": "Teológica",
+        "razon": "La humildad de Cristo como modelo para el creyente, especialmente para los ricos."
+      },
+      {
+        "referencia": "Santiago 5:1-6",
+        "tipo": "Contexto",
+        "razon": "Denuncia de los ricos que acumulan y oprimen, mostrando consecuencias de no humillarse."
+      },
+      {
+        "referencia": "Proverbios 23:4-5",
+        "tipo": "Sabiduría",
+        "razon": "Advertencia de no fatigarse por las riquezas, porque vuelan como águila."
+      }
+    ],
+    "prompt_imagen_ninos": "A child looking at a wilted flower in a sunny garden, toys scattered nearby, expression of wonder and realization, warm sunlight, soft focus.",
+    "prompt_imagen_normal": "A wealthy merchant in ancient robes kneeling in a barren field, holding a withered flower, expression of humility, dramatic sunset light, dust motes floating.",
+    "texto_original": "Mas el que es rico, en su bajeza; porque él se pasará como la flor de la hierba.",
+    "versiculo": "Santiago 1:10"
+  },
+  "11": {
+    "normal": "<h2>La Brevedad de la Vida y la Fidelidad de Dios</h2><p>El versículo de Santiago 1:11 nos recuerda la fragilidad de la vida humana, comparándola con una flor que se marchita bajo el sol ardiente. El sol, símbolo de las pruebas y las riquezas, puede secar la hierba y hacer caer la flor. Así también, el rico, con todas sus posesiones y caminos, se desvanece. Esta imagen nos invita a reflexionar sobre lo efímero de las riquezas y la importancia de poner nuestra confianza en Dios, quien es eterno y fiel. En medio de las dificultades, recordemos que nuestra verdadera seguridad no está en lo material, sino en la relación con nuestro Padre celestial. Él nos sostiene y nos da esperanza más allá de las circunstancias temporales. Que este mensaje nos anime a vivir con humildad, generosidad y fe, sabiendo que nuestra vida está en Sus manos.</p>",
+    "academico": "<h2>Análisis Exegético de Santiago 1:11</h2><h3>Análisis Filológico</h3><p>El texto griego utiliza el verbo <em>anateilō</em> (ἀνατέλλω) para 'salido el sol', que denota el acto de surgir o levantarse, y <em>kauma</em> (καῦμα) para 'ardor', refiriéndose al calor abrasador. La palabra 'hierba' es <em>chortos</em> (χόρτος), que puede significar pasto o forraje, y 'flor' es <em>anthos</em> (ἄνθος). El verbo 'se secó' es <em>xērainō</em> (ξηραίνω), y 'se cayó' es <em>ekpiptō</em> (ἐκπίπτω). La frase 'hermosa apariencia' proviene de <em>euprepeia</em> (εὐπρέπεια), que implica belleza o elegancia. El verbo 'se marchitará' es <em>marainō</em> (μαραίνω), que significa desvanecerse o consumirse. La metáfora del sol y la flor es común en el Antiguo Testamento (Sal 102:11; Is 40:6-8).</p><h3>Contexto Histórico</h3><p>Santiago escribe a la diáspora judía cristiana en el primer siglo, bajo persecución y opresión económica. El sol abrasador evoca el clima del Cercano Oriente, donde el calor extremo seca la vegetación rápidamente. La imagen del rico que se marchita en sus caminos refleja la inestabilidad de la riqueza en una sociedad agraria sujeta a sequías e incertidumbres. Santiago contrasta la gloria efímera del rico con la exaltación del humilde (v. 9-10).</p><h3>Implicaciones Teológicas</h3><p>El versículo subraya la transitoriedad de las posesiones terrenales y la necesidad de poner la fe en Dios, quien es inmutable. La riqueza no garantiza seguridad ni salvación; al contrario, puede ser un obstáculo para la confianza en Dios. Santiago llama a la humildad y a la perseverancia en medio de las pruebas, recordando que la verdadera vida está en la obediencia a la Palabra (v. 22-25).</p>",
+    "ninos": "🌟 <h2>La Flor que se Marchita</h2><p>Imagina una flor hermosa en el jardín. Por la mañana, tiene colores brillantes y un aroma dulce. Pero cuando el sol calienta mucho, la flor se seca, sus pétalos caen y ya no es bonita. Así pasa con las cosas que tenemos, como juguetes o dinero: un día están, y al otro ya no. La Biblia nos dice que no debemos confiar solo en las riquezas, porque son como la flor que se marchita. En cambio, debemos confiar en Dios, que siempre nos cuida. Cuando las cosas difíciles vienen, como el calor del sol, Dios está con nosotros y nos da fuerzas. Recuerda: lo más importante es amar a Dios y a los demás, porque eso nunca se acaba. 🌼</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Salmo 103:15-16",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos pasajes comparan la vida humana con la hierba que se seca."
+      },
+      {
+        "referencia": "Isaías 40:6-8",
+        "tipo": "Cita del Antiguo Testamento",
+        "razon": "Isaías usa la misma metáfora de la hierba seca para mostrar la fugacidad humana."
+      },
+      {
+        "referencia": "Mateo 6:19-21",
+        "tipo": "Enseñanza paralela",
+        "razon": "Jesús enseña a no acumular tesoros en la tierra, que se echan a perder, sino en el cielo."
+      },
+      {
+        "referencia": "1 Pedro 1:24",
+        "tipo": "Referencia directa",
+        "razon": "Pedro cita Isaías 40:6-8, reforzando la idea de la transitoriedad."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright sun with intense rays beats down on a colorful flower in a field. The flower wilts, petals falling off, turning brown. A child watches with a gentle expression, learning about life's changes.",
+    "prompt_imagen_normal": "A scorching sun over a barren field. A once-beautiful flower lies withered on the ground, petals scattered. In the background, a wealthy figure walks away, his shadow long, symbolizing the fleeting nature of riches.",
+    "texto_original": "Porque salido el sol con ardor, la hierba se secó, y su flor se cayó, y pereció su hermosa apariencia: así también se marchitará el rico en todos sus caminos.",
+    "versiculo": "Santiago 1:11"
+  },
+  "12": {
+    "normal": "<h2>La Bendición de la Perseverancia</h2><p>Cuando enfrentamos pruebas, es fácil sentirnos abatidos o preguntarnos por qué Dios permite las dificultades. Sin embargo, Santiago nos invita a ver las pruebas desde una perspectiva diferente: son oportunidades para crecer y madurar espiritualmente. La promesa para aquellos que perseveran bajo la tentación es maravillosa: recibirán la corona de vida, un símbolo de victoria y recompensa eterna. Esta corona no es un premio por ser perfectos, sino un regalo de Dios para quienes le aman y confían en Él a pesar de las circunstancias. En medio de tus luchas, recuerda que Dios no te ha abandonado. Él está contigo, refinando tu carácter y preparándote para algo más grande. La próxima vez que enfrentes una tentación, no te desesperes. En lugar de eso, pídele a Dios sabiduría y fuerza para resistir. Él honrará tu fidelidad y te dará la victoria. La corona de vida te espera; no te rindas.</p>",
+    "academico": "<h2>Exégesis de Santiago 1:12: Perseverancia y Corona de Vida</h2><h3>Análisis Filológico</h3><p>El versículo comienza con μακάριος (makarios), que significa 'bienaventurado' o 'feliz', una declaración de bendición divina. El término ἀνήρ (anēr) se refiere a 'varón' o 'persona', en sentido genérico. El verbo ὑπομένω (hypomenō) significa 'soportar', 'perseverar' o 'permanecer bajo'; implica resistencia activa bajo presión. πειρασμός (peirasmos) puede traducirse como 'tentación' o 'prueba', con una connotación ambivalente: puede ser una prueba externa o una tentación interna al pecado. δόκιμος (dokimos) significa 'aprobado', 'probado' y genuino. La 'corona de vida' (στέφανος τῆς ζωῆς, stephanos tēs zōēs) es una metáfora del premio de la vida eterna; la corona (stephanos) era la guirnalda de victoria en los juegos griegos, mientras que zōē se refiere a la vida divina y eterna. El verbo ἐπηγγείλατο (epēngeilato) indica una promesa divina firme. Finalmente, τοῖς ἀγαπῶσιν αὐτόν (tois agapōsin auton) especifica que la promesa es para los que aman a Dios, enfatizando una relación de amor y lealtad.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos de la diáspora que enfrentaban pruebas y persecuciones. En el contexto del judaísmo del Segundo Templo, la idea de la retribución divina y la recompensa por la fidelidad era prominente. La corona de vida evoca la imagen de la corona de justicia en la literatura apocalíptica judía (cf. Sabiduría 5:16) y también resuena con las coronas de victoria en los juegos helenísticos, familiares para los lectores grecorromanos. La perseverancia bajo prueba se consideraba un medio de purificación y madurez espiritual, reflejando la tradición sapiencial (Proverbios, Job).</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que las pruebas no son un signo del abandono de Dios, sino una oportunidad para demostrar y desarrollar la fe genuina. La corona de vida no es un logro humano, sino un don prometido a quienes aman a Dios, subrayando la gracia. La perseverancia (hypomonē) es una virtud escatológica: mirar hacia la recompensa futura fortalece al creyente en el presente. Además, vincula el amor a Dios con la fidelidad en la prueba, integrando la ética y la devoción. La promesa condicional ('a los que le aman') recuerda que la salvación implica una respuesta humana de amor y obediencia, pero la iniciativa es divina.</p>",
+    "ninos": "🌟 ¡La Corona Especial!<p>Imagina que estás jugando un juego difícil. Te caes, te levantas y sigues intentando. ¡Al final, ganas una corona brillante! La Biblia dice que cuando pasamos por momentos difíciles y seguimos confiando en Jesús, Él nos dará una corona de vida. No es una corona de papel, sino una especial que dura para siempre. Como cuando estudias mucho para un examen y sacas una buena nota, Dios ve tu esfuerzo y te premia. Así que, cuando te sientas tentado a hacer algo malo, recuerda que Dios está contigo y te ayudará. Al final, recibirás una corona preciosa. ¡Sigue adelante!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Apocalipsis 2:10",
+        "tipo": "paralelo",
+        "razon": "También promete la corona de vida a quienes sean fieles hasta la muerte."
+      },
+      {
+        "referencia": "1 Corintios 9:25",
+        "tipo": "paralelo",
+        "razon": "Compara la corona corruptible de los atletas con la corona incorruptible de los creyentes."
+      },
+      {
+        "referencia": "Job 1:21-22",
+        "tipo": "ejemplo",
+        "razon": "Job es un ejemplo de perseverancia bajo prueba sin pecar."
+      },
+      {
+        "referencia": "Mateo 5:10-12",
+        "tipo": "paralelo",
+        "razon": "Jesús pronuncia bienaventuranzas para los perseguidos, similar a Santiago."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child holding a shiny golden crown, standing on a path with stones and flowers, bright sunlight breaking through clouds, warm colors, hopeful expression.",
+    "prompt_imagen_normal": "A weary man kneeling on a rocky path, hands clasped in prayer, a radiant golden crown descending from heaven, dramatic lighting, storm clouds clearing, emotional relief.",
+    "texto_original": "Bienaventurado el varón que sufre la tentación; porque cuando fuere probado, recibirá la corona de vida, que Dios ha prometido a los que le aman.",
+    "versiculo": "Santiago 1:12"
+  },
+  "13": {
+    "normal": "<h2>La Fuente de la Tentación</h2><p>A veces, cuando enfrentamos una tentación, podemos sentirnos tentados a culpar a Dios. \"¿Por qué me pones a prueba?\", pensamos. Pero Santiago nos aclara que Dios no es el autor de la tentación. Él es santo y perfecto, y no puede ser tentado por el mal, ni tienta a nadie. La tentación viene de nuestros propios deseos, no de Dios. Esta verdad nos libera para buscar en Él la fuerza para resistir. Cuando te sientas tentado, recuerda que Dios está de tu lado, listo para ayudarte a vencer. No le eches la culpa, sino corre hacia Él en oración.</p>",
+    "academico": "<h2>Análisis Exegético de Santiago 1:13</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el término griego <em>peirazó</em> (πειράζω) que significa 'probar' o 'tentar'. La frase 'Dios no puede ser tentado' usa <em>apeirastos</em> (ἀπείραστος), un adjetivo que indica 'sin experiencia de mal' o 'incapaz de ser tentado'. El contexto histórico del Cercano Oriente Antiguo muestra que las deidades paganas a menudo eran vistas como caprichosas, pero el Dios de Israel es inmutable y santo. Teológicamente, esto afirma la soberanía y bondad de Dios, separándolo del origen del pecado.</p><h3>Contexto Histórico</h3><p>La epístola de Santiago fue escrita a judíos cristianos dispersos, enfrentando persecución y pruebas. En ese contexto, algunos podrían haber atribuido sus pruebas a Dios, similar a la teología retributiva del Antiguo Testamento. Santiago corrige esto, distinguiendo entre pruebas que fortalecen la fe (1:2-4) y tentaciones que conducen al pecado.</p><h3>Implicaciones Teológicas</h3><p>Este versículo protege la santidad de Dios y establece la responsabilidad humana por el pecado. La tentación no proviene de Dios, sino de la concupiscencia interna (1:14). Esto refuerza la doctrina de la impecabilidad de Cristo y la necesidad de depender de la gracia divina para vencer.</p>",
+    "ninos": "<h2>🌟 ¿Quién nos tienta?</h2><p>Imagina que tienes una galleta justo enfrente de ti, pero mamá te dijo que no la comas antes de cenar. Tu pancito te dice: \"Cómetela, nadie mira\". ¿Eso es Dios tentándote? ¡No! Dios nunca nos pide que hagamos lo malo. Él es como un papá bueno que nos da reglas para cuidarnos. La tentación viene de nuestro propio deseo de hacer lo que queremos. Pero Dios nos ayuda a ser fuertes. Cuando sientas ganas de hacer algo malo, pídele ayuda a Dios. Él siempre te escucha y te da fuerzas para obedecer. Lección: No le eches la culpa a Dios; pídele su ayuda.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 10:13",
+        "tipo": "Complemento",
+        "razon": "Ofrece la promesa de que Dios provee una salida en la tentación."
+      },
+      {
+        "referencia": "Génesis 3:1-6",
+        "tipo": "Contraste",
+        "razon": "Muestra cómo la tentación de Eva vino de la serpiente, no de Dios."
+      },
+      {
+        "referencia": "Mateo 4:1-11",
+        "tipo": "Ejemplo",
+        "razon": "Jesús fue tentado por el diablo, no por Dios, y venció."
+      }
+    ],
+    "prompt_imagen_ninos": "A child looking at a cookie jar with a conflicted expression, an angel on one shoulder and a devil on the other, warm kitchen light, soft colors, cartoon style.",
+    "prompt_imagen_normal": "A person kneeling in prayer, face illuminated by a shaft of light from above, dark shadows around, dramatic chiaroscuro, epic realism, emotional intensity.",
+    "texto_original": "Cuando alguno es tentado, no diga que es tentado de Dios: porque Dios no puede ser tentado de los malos, ni él tienta a alguno:",
+    "versiculo": "Santiago 1:13"
+  },
+  "14": {
+    "normal": "<h2>El Engaño del Deseo Interior</h2><p>Querido hermano, ¿alguna vez te has sentido atrapado por un deseo que sabes que no te conviene? Santiago nos revela la verdad sobre la tentación: no viene de Dios, sino de nuestro propio corazón. Es como un pez que nada tranquilamente hasta que ve el cebo; entonces, atraído por el deseo, se acerca y es atrapado. Así somos nosotros: nuestra propia concupiscencia nos atrae y nos ceba para caer en pecado.</p><p>La tentación no es un ataque externo que no podamos resistir; es un proceso interno que comienza con un pensamiento o deseo. Si lo alimentamos, crece y nos arrastra. Pero hay esperanza: Dios nos ha dado su Espíritu para reconocer el engaño y huir de la tentación. La clave está en estar alerta y llenar nuestra mente con la Palabra de Dios. Cuando el deseo prohibido llama a la puerta, tenemos el poder de no abrirle.</p><p>Hoy, examina tu corazón: ¿qué deseos te están atrayendo lejos de Dios? Confiésalos y pídele al Señor que renueve tu mente. Recuerda que en Cristo tienes la victoria sobre toda tentación. No luches solo; él está contigo.</p>",
+    "academico": "<h2>La Mecánica de la Tentación: Un Análisis de Santiago 1:14</h2><h3>Análisis Filológico</h3><p>El versículo utiliza términos griegos clave: <em>peirazomai</em> (tentado), <em>epithumia</em> (concupiscencia), <em>exelkō</em> (atraído) y <em>deleazō</em> (cebado). <em>Epithumia</em> denota un deseo intenso, a menudo negativo en el NT, que surge del interior. <em>Exelkō</em> es un término de pesca que significa 'arrastrar hacia afuera', sugiriendo cómo el deseo saca a la persona de su lugar seguro. <em>Deleazō</em> también es un término de pesca: 'cebar con un señuelo', indicando el engaño del pecado. La construcción gramatical muestra un proceso: el individuo es tentado <em>cuando</em> es atraído y cebado por su propio deseo, subrayando la responsabilidad personal.</p><h3>Contexto Histórico</h3><p>Santiago escribe a creyentes judíos de la diáspora, enfrentando pruebas y persecuciones. En el Cercano Oriente Antiguo, la pesca era una actividad común, por lo que la metáfora del cebo y el pez era fácilmente comprensible. El contexto más amplio (Sant 1:13-15) contrasta la tentación con las pruebas que Dios permite para madurar la fe. A diferencia de la filosofía griega que a menudo atribuía las pasiones a influencias externas, Santiago enfatiza la fuente interna: la concupiscencia propia.</p><h3>Implicaciones Teológicas</h3><p>Este versículo refuta la idea de que Dios tienta (v.13), afirmando que la tentación surge del deseo humano caído. La progresión (deseo → pecado → muerte) muestra la seriedad del pecado. La teología de Santiago es práctica: la responsabilidad humana es crucial, pero la gracia de Dios provee la salida (1 Cor 10:13). La imagen del 'cebo' recuerda el engaño del pecado, que promete placer pero lleva a la muerte.</p>",
+    "ninos": "<h2>🌟 ¡No Mordas el Cebo!</h2><p>Imagina que eres un pececito nadando feliz en el agua. De repente, ves algo brillante y delicioso: ¡un gusano! Pero cuidado, porque dentro hay un anzuelo escondido. Si muerdes, quedarás atrapado.</p><p>La tentación es así. Cuando sientes muchas ganas de hacer algo que sabes que está mal, es como ver ese cebo. Tu corazón te dice: '¡Cómetelo!', pero Dios te dice: '¡No lo hagas!'. La tentación empieza en tu propio deseo, no viene de Dios.</p><p>¿Qué puedes hacer? Cuando sientas que algo malo te atrae, recuerda que Dios te ama y quiere lo mejor para ti. Él te da fuerzas para decir 'no'. Puedes orar, pedir ayuda a tus papás o pensar en algo bueno. Así no morderás el cebo del pecado.</p><p>Lección: No dejes que tus deseos te engañen. Confía en Dios y él te ayudará a hacer lo correcto.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Gén 3:6",
+        "tipo": "Paralelo temático",
+        "razon": "Muestra el proceso de tentación: Eva vio el fruto (deseo), lo tomó y pecó."
+      },
+      {
+        "referencia": "1 Cor 10:13",
+        "tipo": "Consuelo y promesa",
+        "razon": "Dios provee una salida para no caer en tentación."
+      },
+      {
+        "referencia": "Mat 4:1-11",
+        "tipo": "Ejemplo de resistencia",
+        "razon": "Jesús fue tentado pero resistió usando la Palabra."
+      }
+    ],
+    "prompt_imagen_ninos": "A colorful underwater scene: a small fish is attracted to a shiny worm on a hook. The fish looks curious but wary. Bright coral reef background, sunlight filtering through water.",
+    "prompt_imagen_normal": "A dramatic close-up of a man's face in anguish, his eyes fixed on a glowing object in his hand. Dark shadows surround him, with a faint light suggesting temptation. Realistic, emotional tension.",
+    "texto_original": "Sino que cada uno es tentado, cuando de su propia concupiscencia es atraído, y cebado.",
+    "versiculo": "Santiago 1:14"
+  },
+  "15": {
+    "normal": "<h2>El ciclo del pecado y la muerte</h2><p>Este versículo nos muestra cómo el deseo incorrecto, si no lo controlamos, puede crecer hasta convertirse en pecado, y luego en muerte espiritual. Es como una semilla que, si la dejamos crecer sin cuidado, produce frutos amargos. Pero Dios nos da la salida: podemos arrancar esa semilla desde el principio, confesando nuestros malos deseos y pidiendo ayuda al Espíritu Santo. Así evitamos las consecuencias destructivas. Reflexiona hoy: ¿qué deseos estás alimentando que podrían llevarte por mal camino? Pídele a Dios que te dé la fuerza para cortarlos de raíz.</p>",
+    "academico": "<h2>El proceso del pecado: de la concupiscencia a la muerte</h2><h3>Análisis Filológico</h3><p>El término griego 'epithymia' (ἐπιθυμία) se traduce como 'concupiscencia' o 'deseo intenso'. En el contexto de Santiago, se refiere al deseo desordenado que surge de la naturaleza humana caída. 'Syllambanō' (συλλαμβάνω) significa 'concebir', una metáfora de la gestación. 'Tiktei' (τίκτει) es 'dar a luz' o 'parir'. 'Apoteleistheisa' (ἀποτελεσθεῖσα) indica 'siendo cumplida' o 'llevada a su fin'. La muerte (θάνατος) aquí es tanto física como espiritual, reflejando la separación de Dios.</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos dispersos (la Diáspora), enfrentando pruebas y tentaciones. En el mundo grecorromano, la filosofía estoica enseñaba a controlar las pasiones, pero Santiago va más allá: el pecado no solo es un acto, sino un proceso interno que comienza con el deseo. La metáfora del embarazo y el parto era común en la literatura sapiencial judía (Job 15:35, Salmo 7:14). La muerte como resultado final refleja la teología del Antiguo Testamento: 'el alma que pecare, esa morirá' (Ezequiel 18:20).</p><h3>Implicaciones Teológicas</h3><p>Este versículo es clave en la teología del pecado: no es meramente un acto aislado, sino un proceso progresivo. La tentación no es pecado, pero ceder a ella sí. La 'muerte' resultante no es aniquilación, sino separación eterna de Dios. Sin embargo, Santiago contrasta esto con el 'don perfecto' de Dios (v. 17) y la 'palabra implantada' que puede salvar (v. 21). La solución no es el mero esfuerzo humano, sino la gracia divina que transforma el deseo.</p>",
+    "ninos": "🌟 ¡Cuidado con las malas semillas!<p>Imagina que tienes una semilla de manzana en la mano. Si la plantas y la cuidas, crecerá un árbol hermoso con frutas deliciosas. Pero si plantas una semilla de mala hierba, crecerán espinas que te lastimarán. Así pasa con nuestros deseos: si dejamos crecer el deseo de hacer algo malo, se convierte en pecado, y el pecado trae tristeza y problemas, como una planta venenosa. Pero Dios nos ayuda a arrancar esas malas semillas desde el principio. Cuando sientas ganas de hacer algo que sabes que está mal, pídele a Jesús que te ayude a decir 'no'. Así tu corazón será un jardín hermoso para Dios. 🍎🌿</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 6:23",
+        "tipo": "Contraste",
+        "razon": "Muestra el contraste entre la muerte que produce el pecado y la vida eterna en Cristo."
+      },
+      {
+        "referencia": "Génesis 3:6",
+        "tipo": "Ilustración",
+        "razon": "Eva concibió el deseo, pecó, y trajo muerte al mundo."
+      },
+      {
+        "referencia": "Santiago 1:14-15",
+        "tipo": "Contexto",
+        "razon": "Los versículos anteriores explican el origen de la tentación."
+      }
+    ],
+    "prompt_imagen_ninos": "A child planting a seed, a dark thorny plant grows quickly, the child looks sad, bright sunlight and a gentle hand helping to pull the weed, cartoon style, warm colors.",
+    "prompt_imagen_normal": "A dramatic scene: a dark, thorny vine emerging from a human heart, wrapping around a figure, leading to a skull in the background, epic lighting, realistic style, intense emotions.",
+    "texto_original": "Y la concupiscencia, después que ha concebido, pare el pecado: y el pecado, siendo cumplido, engendra muerte.",
+    "versiculo": "Santiago 1:15"
+  },
+  "16": {
+    "normal": "<h2>No te dejes engañar</h2><p>Este versículo corto pero profundo nos llama a no errar en nuestro entendimiento de quién es Dios. Santiago nos recuerda que toda buena dádiva viene de Él, y que Él nunca cambia. En nuestra vida diaria, es fácil caer en la trampa de pensar que Dios nos tienta o que nos abandona. Pero la verdad es que Él es constante en su amor y bondad. Así que, cuando enfrentes dificultades, recuerda que Dios no es la fuente del mal; más bien, Él te da sabiduría y fortaleza para superarlas. No te dejes engañar por las circunstancias o por voces que distorsionan su carácter. Confía en que Dios es bueno y que siempre actúa para tu bien. Aplica esto hoy: antes de culpar a Dios por algo malo, detente y recuerda que Él es la fuente de todo lo bueno. Busca su guía y verás cómo tu perspectiva cambia.</p>",
+    "academico": "<h2>Análisis Exegético de Santiago 1:16</h2><h3>Análisis Filológico</h3><p>El versículo comienza con el vocativo <em>ἀδελφοί μου ἀγαπητοί</em> (adelphoi mou agapētoi), que significa 'hermanos míos amados', enfatizando el afecto pastoral de Santiago. La advertencia <em>μὴ πλανᾶσθε</em> (mē planasthe) es una prohibición en voz media presente, indicando una acción continua: 'no os dejéis engañar' o 'no erréis'. El verbo <em>πλανάω</em> (planaō) se usa en el NT para describir desviación de la verdad (cf. 1 Jn 1:8). El contexto inmediato (vv. 13-15) trata sobre la tentación: Dios no tienta a nadie, sino que cada uno es tentado por su propio deseo. Este versículo sirve como conclusión: no os engañéis pensando que Dios es responsable del mal.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos judíos dispersos (1:1), probablemente enfrentando pruebas y tentaciones. En el judaísmo del Segundo Templo, existía la creencia de que Dios probaba a los justos (como Abraham), pero también que el mal podía venir de Satanás. Santiago corrige cualquier noción de que Dios tienta al pecado, afirmando su santidad. La advertencia 'no erréis' refleja una preocupación por la teología práctica: los lectores no deben malinterpretar el origen de las pruebas.</p><h3>Implicaciones Teológicas</h3><p>Este versículo reafirma la bondad inmutable de Dios (cf. v. 17). Teológicamente, protege contra el dualismo y la atribución del mal a Dios. También subraya la responsabilidad humana en la tentación, preparando el camino para la exhortación a ser 'hacedores de la palabra' (v. 22). La advertencia es un llamado a la vigilancia doctrinal y moral.</p>",
+    "ninos": "<h2>🌟 ¡No te equivoques!</h2><p>Imagina que tienes un amigo que siempre te da regalos buenos. Un día, alguien te dice: 'Tu amigo te dio un juguete roto'. Pero tú sabes que eso no es cierto, porque tu amigo solo te da cosas buenas. Santiago nos dice lo mismo: Dios es como ese amigo bueno. Él nunca nos da cosas malas. Cuando algo malo pasa, no es culpa de Dios. Así que no te dejes engañar. Recuerda siempre que Dios te ama y te da cosas buenas. La lección es: confía en Dios, porque Él es bueno.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 1:17",
+        "tipo": "Continuación del pensamiento",
+        "razon": "Explica que toda buena dádiva viene de Dios, reforzando la advertencia de no errar en cuanto al origen del bien."
+      },
+      {
+        "referencia": "1 Juan 1:8",
+        "tipo": "Paralelo temático",
+        "razon": "También usa 'engañar' para hablar del pecado y la necesidad de confesar."
+      },
+      {
+        "referencia": "Génesis 3:1-6",
+        "tipo": "Ejemplo bíblico",
+        "razon": "La serpiente engaña a Eva, mostrando cómo el error lleva al pecado."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child holding a gift box with a bright light coming from it, surrounded by simple floating hearts and stars, warm colors, clean background, friendly atmosphere.",
+    "prompt_imagen_normal": "A dramatic scene: a person in distress, looking up to a radiant light breaking through dark clouds, hands open, expression of hope and realization, cinematic lighting, epic realism.",
+    "texto_original": "Amados hermanos míos, no erréis.",
+    "versiculo": "Santiago 1:16"
+  },
+  "17": {
+    "normal": "<h2>El Regalo Perfecto de Dios</h2><p>¿Alguna vez has recibido un regalo que te hizo sentir profundamente amado? Así es cada bendición que viene de Dios. Santiago nos recuerda que todo lo bueno y perfecto en nuestras vidas proviene de Él, el Padre de las luces. A diferencia de las personas o las circunstancias, Dios nunca cambia. Su amor, su bondad y sus promesas son constantes, como el sol que siempre sale, pero sin sombras de variación.</p><p>En un mundo donde todo parece incierto, este versículo nos invita a confiar en la fuente inmutable de todo bien. Cuando enfrentes dificultades, recuerda que Dios ya ha dado el mejor regalo: su amor incondicional. Hoy, haz una pausa para agradecerle por las pequeñas y grandes bendiciones que has recibido. Reconoce que cada una es un reflejo de su carácter perfecto. Y si algo bueno viene a tu vida, recuerda darle la gloria a Él, porque de Él proviene todo don perfecto.</p>",
+    "academico": "<h2>La Inmutabilidad del Dador de Dones Perfectos</h2><h3>Análisis Filológico</h3><p>En Santiago 1:17, el término griego <em>dosis</em> (δόσις) se refiere al acto de dar, mientras que <em>dorema</em> (δώρημα) denota el don mismo. La frase 'de lo alto' (ἄνωθεν) implica origen celestial. 'Padre de las luces' (πατὴρ τῶν φώτων) alude a Dios como creador de los astros (Génesis 1:14-18). El verbo 'descender' (καταβαῖνον) está en presente, indicando una acción continua. La negación 'no hay mudanza' (οὐκ ἔνι παραλλαγὴ) usa un término astronómico para variación estelar, y 'sombra de variación' (τροπῆς ἀποσκίασμα) evoca eclipses o cambios de luz. Esto subraya la inmutabilidad divina en contraste con la creación.</p><h3>Contexto Histórico</h3><p>Santiago escribe a creyentes judíos dispersos (diáspora) enfrentando pruebas. El contexto inmediato (1:13-15) advierte contra atribuir tentaciones a Dios. Aquí, Santiago enfatiza que solo el bien proviene de Dios. La metáfora astronómica habría sido familiar en el mundo grecorromano, donde los astros se asociaban con deidades cambiantes. Al llamar a Dios 'Padre de las luces', Santiago lo distingue de las deidades celestiales paganas, afirmando su constancia.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece la bondad esencial de Dios como fuente de toda dádiva perfecta. Su inmutabilidad (Mal 3:6) garantiza que sus dones no son arbitrarios. La teología de la creación se vincula con la providencia: Dios sostiene y bendice continuamente. Para el creyente, esto implica que las pruebas no provienen de Él (vs. 13), sino que son oportunidades para la fe. La perfección del don apunta escatológicamente a la salvación completa en Cristo.</p>",
+    "ninos": "<h2>🌟 El Regalo que Nunca se Rompe</h2><p>Imagina que tienes un juguete favorito que siempre funciona, no importa cuánto juegues. Así es Dios: siempre bueno. Santiago nos dice que todo lo bueno viene de Dios, como un regalo del cielo. ¿Has visto cómo el sol siempre brilla, aunque a veces se esconda detrás de las nubes? Dios es como el sol, pero mejor: nunca cambia. No se pone de mal humor ni deja de amarte. Cuando recibes un abrazo, una sonrisa o una ayuda, eso es un regalo de Dios. Hoy, agradece a Dios por las cosas buenas que tienes: tu familia, tus amigos, la naturaleza. Y recuerda: el mejor regalo es que Dios te ama siempre, sin cambiar.</p><p><strong>Lección moral:</strong> Dios da solo cosas buenas. Confía en Él porque nunca cambia.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mal 3:6",
+        "tipo": "Profecía",
+        "razon": "Refuerza la inmutabilidad de Dios: 'Porque yo Jehová no cambio'."
+      },
+      {
+        "referencia": "Jn 3:27",
+        "tipo": "Enseñanza",
+        "razon": "Juan el Bautista reconoce que todo don viene del cielo."
+      },
+      {
+        "referencia": "Stg 1:13",
+        "tipo": "Contexto directo",
+        "razon": "Versículo anterior que contrasta: Dios no tienta, solo da bien."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child receiving a glowing gift from a bright light in the sky. Warm colors, soft clouds, joyful expression. Sunlight rays streaming down.",
+    "prompt_imagen_normal": "Epic scene: a radiant beam of light descending from a starry sky onto a humble figure. Dramatic contrast, awe and gratitude on the person's face. Golden hues.",
+    "texto_original": "Toda buena dádiva y todo don perfecto es de lo alto, que desciende del Padre de las luces, en el cual no hay mudanza, ni sombra de variación.",
+    "versiculo": "Santiago 1:17"
+  },
+  "18": {
+    "normal": "<h2>Nacidos de Su Voluntad</h2><p>¿Alguna vez te has preguntado por qué Dios te creó? Santiago 1:18 nos da una respuesta hermosa: Dios, por su propia voluntad, nos ha dado nueva vida a través de la palabra de verdad. No fue por accidente ni porque nos lo mereciéramos; fue un acto deliberado de amor. Él nos quiere como sus hijos, para que seamos las primicias de toda su creación. Las primicias eran lo mejor de la cosecha, ofrecido a Dios como muestra de gratitud. Así que nosotros, los creyentes, somos llamados a ser un anticipo de la nueva creación que Dios está haciendo. Esto nos da un propósito: vivir de manera que reflejemos su amor y verdad. En medio de las dificultades, recuerda que no eres un accidente. Dios te ha engendrado con un propósito: ser parte de su gran plan de redención. Hoy, agradece por la nueva vida que tienes en Cristo y busca ser una primicia viva que honre a Dios en todo lo que haces.</p>",
+    "academico": "<h2>La Voluntad Divina y la Nueva Creación en Santiago 1:18</h2><h3>Análisis Filológico</h3><p>El versículo comienza con 'El, de su voluntad' (griego: βουληθεὶς, bouletheis, participio aoristo pasivo de βούλομαι, boulomai, 'querer, desear, decidir'). Indica una decisión soberana de Dios, no una reacción a mérito humano. 'Nos ha engendrado' (ἀπεκύησεν, apekysen, verbo en aoristo de ἀποκυέω, apokyeō, 'dar a luz, engendrar') se usa metafóricamente para la regeneración espiritual (cf. 1 Pe 1:3,23). 'Por la palabra de verdad' (λόγῳ ἀληθείας, logō alētheias) se refiere al evangelio (cf. Ef 1:13; Col 1:5). 'Primicias' (ἀπαρχήν, aparchēn) es un término del AT (heb. רֵאשִׁית, reshít) que designa la primera porción de la cosecha ofrecida a Dios (Lv 23:10; Dt 26:2). 'Criaturas' (κτισμάτων, ktismatōn) se refiere a toda la creación. La frase 'de sus criaturas' (αὐτοῦ κτισμάτων, autou ktismatōn) indica que los creyentes son las primicias de la nueva creación escatológica.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos de origen judío dispersos (1:1). En el judaísmo del Segundo Templo, la idea de 'primicias' estaba ligada a la ofrenda de los primeros frutos en el Templo. Santiago reinterpreta este concepto: los creyentes son las primicias espirituales de la nueva creación que Dios está inaugurando. La 'palabra de verdad' puede aludir a la tradición sapiencial judía (Pr 22:21; Sal 119:43), pero aquí se identifica con el mensaje evangélico. La voluntad soberana de Dios subraya que la salvación es iniciativa divina, no obra humana.</p><h3>Implicaciones Teológicas</h3><p>El versículo enseña la regeneración como obra de Dios (monergismo) y la instrumentalidad de la Palabra. La identidad del creyente como 'primicias' implica un llamado a la santidad y a ser testigos del reino futuro. Además, conecta la soteriología con la escatología: la nueva creación ya ha comenzado en la comunidad de fe. La referencia a 'criaturas' sugiere una dimensión cósmica: la redención humana es el anticipo de la restauración de toda la creación (Ro 8:19-23).</p>",
+    "ninos": "<h2>🌟 El Regalo Especial de Dios</h2><p>Imagina que es tu cumpleaños y recibes un regalo envuelto con un lazo brillante. Al abrirlo, encuentras un mensaje que dice: 'Te escogí para ser mi hijo especial'. ¡Qué emoción! Así es como Dios nos ve. La Biblia dice que Dios, porque así lo quiso, nos hizo sus hijos por medio de la palabra de verdad. ¿Cómo? Cuando creemos en Jesús, es como si naciéramos de nuevo, pero esta vez en la familia de Dios. Y no solo eso: ¡somos como las primeras frutas de la cosecha! En una huerta, las primeras frutas son las mejores, y se guardan para una ocasión especial. Así que tú eres especial para Dios. Él te creó para que seas parte de su gran familia y para que muestres su amor a los demás. Así que recuerda: eres un regalo de Dios, y Él tiene un plan maravilloso para ti. 🌟</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Pedro 1:23",
+        "tipo": "paralelo temático",
+        "razon": "Ambos versículos hablan de ser engendrados de nuevo por la palabra de Dios."
+      },
+      {
+        "referencia": "Efesios 1:5",
+        "tipo": "complemento doctrinal",
+        "razon": "Explica la predestinación para adopción como hijos por la voluntad de Dios."
+      },
+      {
+        "referencia": "Romanos 8:19-23",
+        "tipo": "desarrollo escatológico",
+        "razon": "Describe la creación esperando la redención, relacionado con las primicias."
+      },
+      {
+        "referencia": "Juan 1:12-13",
+        "tipo": "fundamento bíblico",
+        "razon": "Habla de ser hechos hijos de Dios, no por voluntad humana sino de Dios."
+      },
+      {
+        "referencia": "Deuteronomio 26:2",
+        "tipo": "trasfondo cultural",
+        "razon": "Institución de las primicias en el AT, base del concepto usado por Santiago."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child holding a glowing Bible, surrounded by colorful fruits and flowers, bright sunlight streaming through trees, warm and inviting scene.",
+    "prompt_imagen_normal": "A dramatic sunrise over a vast landscape, first light illuminating a small group of people with hopeful expressions, epic and emotional.",
+    "texto_original": "El, de su voluntad nos ha engendrado por la palabra de verdad, para que seamos primicias de sus criaturas.",
+    "versiculo": "Santiago 1:18"
+  },
+  "19": {
+    "normal": "<h2>El Arte de Escuchar</h2><p>En un mundo lleno de ruido, donde todos quieren tener la última palabra, Santiago nos recuerda la sabiduría de escuchar primero. Ser \"pronto para oír\" no es solo cortesía; es una disciplina espiritual. Cuando escuchamos a Dios en la oración y a los demás con empatía, abrimos espacio para la comprensión y la paz. Hablar menos y pensar antes de responder nos protege de palabras hirientes. La ira, aunque a veces justificada, rara vez produce la justicia de Dios. Hoy, antes de reaccionar, respira hondo, escucha con atención, y deja que la gracia guíe tus palabras.</p>",
+    "academico": "<h2>Análisis Exegético de Santiago 1:19</h2><h3>Análisis Filológico</h3><p>El versículo comienza con \"Por esto\" (griego: ὥστε, hōste), que conecta con el contexto anterior sobre la regeneración por la palabra de verdad. \"Mis amados hermanos\" (ἀδελφοί μου ἀγαπητοί, adelphoi mou agapētoi) refleja un tono pastoral. La triada \"pronto para oír\" (ταχὺς εἰς τὸ ἀκοῦσαι, tachys eis to akousai), \"tardío para hablar\" (βραδὺς εἰς τὸ λαλῆσαι, bradys eis to lalēsai), \"tardío para airarse\" (βραδὺς εἰς ὀργήν, bradys eis orgēn) es un paralelismo sapiencial. El adjetivo ταχὺς (tachys) significa rápido, veloz, mientras que βραδὺς (bradys) denota lentitud, demora. El término ὀργή (orgē) indica ira, cólera, a menudo contrastada con la justicia divina.</p><h3>Contexto Histórico</h3><p>Santiago escribe a cristianos judíos dispersos (diáspora), enfrentando pruebas y tentaciones. La cultura grecorromana valoraba la retórica y la rapidez para hablar, pero Santiago subraya la escucha como virtud. En el judaísmo, la escucha (Shema) es central: \"Oye, Israel\" (Deuteronomio 6:4). La advertencia contra la ira se relaciona con la tradición de Proverbios (14:29; 15:1).</p><h3>Implicaciones Teológicas</h3><p>La escucha activa es esencial para recibir la palabra implantada (v.21). La ira humana no produce la justicia de Dios (v.20), pues la justicia divina requiere mansedumbre y humildad. Este versículo anticipa la enseñanza sobre el control de la lengua (cap. 3).</p>",
+    "ninos": "<h2>🌟 Orejas Grandes, Boca Pequeña</h2><p>Imagina que tienes dos orejas grandes y una boca pequeña. ¿Sabes por qué? ¡Para escuchar mucho y hablar poco! Cuando tu mamá te dice algo, pon atención. Cuando un amigo está triste, escúchalo. Hablar sin pensar es como soltar un globo sin amarrarlo: se va volando y no vuelve. Enojarse rápido es como un volcán que explota. Mejor cuenta hasta diez. Jesús escuchaba a todos. ¿Quieres ser como él? ¡Escucha primero!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Proverbios 10:19",
+        "tipo": "Paralelo",
+        "razon": "Ambos versículos relacionan el hablar mucho con el pecado y la necesidad de controlar la lengua."
+      },
+      {
+        "referencia": "Eclesiastés 3:7",
+        "tipo": "Contraste",
+        "razon": "Tiempo de callar y tiempo de hablar; aquí se enfatiza el momento adecuado."
+      },
+      {
+        "referencia": "Santiago 3:2",
+        "tipo": "Temático",
+        "razon": "Expande la idea de que quien no ofende en palabra es perfecto."
+      }
+    ],
+    "prompt_imagen_ninos": "Two cartoon children with oversized ears and tiny mouths, one listening intently to a teacher, the other with a zipper on lips, bright classroom, warm sunlight, playful colors.",
+    "prompt_imagen_normal": "A dramatic scene of a man with his hand over his mouth, eyes wide, listening to a storm outside; dimly lit room, biblical-era clothing, intense emotion.",
+    "texto_original": "Por esto, mis amados hermanos, todo hombre sea pronto para oir, tardío para hablar, tardío para airarse:",
+    "versiculo": "Santiago 1:19"
+  },
+  "20": {
+    "normal": "<h2>El Fruto de la Mansedumbre</h2><p>Cuando sentimos ira, a menudo creemos que estamos defendiendo la justicia. Pero Santiago nos recuerda que la ira humana, por más justificada que parezca, no produce la justicia de Dios. Es como un jardinero que, frustrado porque una planta no crece rápido, la arranca de raíz. Su enojo no ayuda a la planta; al contrario, la destruye. De igual manera, nuestra ira puede dañar relaciones, cerrar puertas al diálogo y alejarnos de la voluntad de Dios. La justicia de Dios no se logra con explosiones de enojo, sino con paciencia, amor y sabiduría. Cuando nos sentimos tentados a reaccionar con ira, podemos hacer una pausa, respirar y preguntarle a Dios: '¿Cómo quieres que responda en esta situación?' Él nos dará la calma necesaria para actuar con justicia y gracia. Reflexiona hoy: ¿Hay alguna área de tu vida donde la ira esté reemplazando la mansedumbre que Dios desea? Pídele que transforme tu corazón y te ayude a ser un instrumento de su paz.</p>",
+    "academico": "<h2>La Ira Humana y la Justicia Divina: Un Análisis Exegético de Santiago 1:20</h2><h3>Análisis Filológico</h3><p>El término griego clave es 'ὀργὴ' (orgē), que significa 'ira' o 'enojo', y se refiere a una emoción intensa y duradera, a diferencia de 'θυμός' (thymos), que denota un arrebato pasajero. El verbo 'ἐργάζεται' (ergazetai) significa 'obrar', 'producir' o 'llevar a cabo', y está en presente activo, indicando una acción continua. 'Δικαιοσύνην' (dikaiosynēn) es 'justicia', un término clave en el pensamiento bíblico que implica conformidad con el estándar de Dios. La frase 'οὐκ ἐργάζεται' (ouk ergazetai) es una negación enfática: la ira humana no produce, ni puede producir, la justicia de Dios. La construcción preposicional 'θεοῦ' (Theou) es un genitivo de posesión o fuente: la justicia que pertenece a Dios o que proviene de Él.</p><h3>Contexto Histórico</h3><p>La epístola de Santiago fue escrita a cristianos de la diáspora judía que enfrentaban persecución y tensiones sociales. En el contexto del Cercano Oriente Antiguo, la ira era a menudo vista como una respuesta natural a la injusticia, pero Santiago la contrasta con la 'mansedumbre' (prautēs) mencionada en el versículo 21. La comunidad cristiana primitiva, influenciada por la enseñanza de Jesús sobre el amor a los enemigos (Mateo 5:44) y la enseñanza del Antiguo Testamento sobre el control de la ira (Proverbios 14:29), entendía que la ira humana, incluso cuando parecía justa, podía corromperse en pecado. El contexto inmediato (Santiago 1:19-21) exhorta a ser 'prontos para oír, tardos para hablar, tardos para airarse', estableciendo un marco ético para la conducta cristiana.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la incapacidad de la ira humana para lograr los propósitos rectos de Dios. La justicia divina no es un producto de la emoción humana, sino de la acción de Dios en el creyente. Teológicamente, esto apunta a la necesidad de la gracia y el Espíritu Santo para producir un carácter que refleje la justicia de Dios. También advierte contra la confusión entre celo religioso y verdadera justicia; la historia muestra cómo la ira religiosa ha llevado a persecuciones y divisiones. Santiago nos llama a una justicia que nace de la fe, la humildad y la obediencia, no de la reacción emocional.</p>",
+    "ninos": "<h2>🌟 Cuando el Enojo No Ayuda</h2><p>Imagina que estás construyendo una torre de bloques muy alta. De repente, tu hermanito la tumba sin querer. ¡Qué fastidio! Tu cara se pone roja y sientes ganas de gritar. Pero si gritas y empujas, la torre no se arregla, ¿verdad? Más bien, todos se ponen tristes. La Biblia dice que el enojo de las personas no ayuda a hacer lo que Dios quiere. Es como cuando tienes un juguete atorado: si te enojas y lo jalas fuerte, se puede romper. Mejor respira hondo, pide ayuda y vuelve a construir la torre con calma. Así haces lo bueno, como Dios quiere. Recuerda: cuando estés enojado, cuenta hasta diez y pídele a Dios que te ayude a ser paciente. ¡Así todos serán felices!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Proverbios 14:29",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos versículos relacionan la ira con la falta de entendimiento y contrastan con la paciencia."
+      },
+      {
+        "referencia": "Efesios 4:26-27",
+        "tipo": "Complemento",
+        "razon": "Pablo permite la ira pero advierte contra el pecado, ampliando la enseñanza de Santiago sobre el control de la ira."
+      },
+      {
+        "referencia": "Mateo 5:22",
+        "tipo": "Contraste",
+        "razon": "Jesús equipara la ira con el asesinato, mostrando la gravedad de la ira no controlada."
+      }
+    ],
+    "prompt_imagen_ninos": "A child's hand releasing a red balloon labeled 'ANGER' into the sky, while another hand holds a green plant labeled 'PATIENCE' growing from soil, bright sunlight, cheerful colors.",
+    "prompt_imagen_normal": "A man in ancient robes, face contorted in anger, clenching his fist, standing in a barren landscape under stormy skies, while a faint glow of divine light illuminates a path of peace in the distance.",
+    "texto_original": "Porque la ira del hombre no obra la justicia de Dios.",
+    "versiculo": "Santiago 1:20"
+  },
+  "21": {
+    "normal": "<h2>Dejando lo que estorba</h2><p>La vida cristiana a menudo se compara con una carrera o un viaje. En Santiago 1:21, el apóstol nos insta a despojarnos de todo aquello que nos impide crecer espiritualmente. La 'inmundicia' y la 'superfluidad de malicia' son como cargas innecesarias que llevamos: malos hábitos, resentimientos, orgullo, o distracciones que nos alejan de Dios. Pero el versículo no se queda solo en lo negativo; nos llama a recibir con mansedumbre la palabra que ha sido sembrada en nuestros corazones. Esa palabra, la Palabra de Dios, tiene el poder de salvarnos, de transformarnos desde adentro.</p><p>Recibir con mansedumbre implica una actitud humilde y receptiva, como un niño que aprende de su padre. No se trata de un conocimiento intelectual, sino de una aceptación profunda que cambia nuestra manera de vivir. ¿Qué 'inmundicia' necesitas dejar hoy? Quizás es una crítica constante hacia los demás, o una adicción al trabajo que te roba tiempo con Dios. La invitación es clara: suelta lo que te pesa, abre tu corazón con humildad, y deja que la Palabra obre en ti. No es un esfuerzo humano, sino un rendirse al poder transformador de Dios. Hoy, toma un momento para examinar tu vida: ¿qué estás cargando que no te deja correr libremente hacia Jesús?</p>",
+    "academico": "<h2>La Palabra Ingerida: Exégesis de Santiago 1:21</h2><h3>Análisis Filológico</h3><p>El versículo comienza con 'διὸ' (dio, 'por lo cual'), conectando con la exhortación anterior sobre la ira humana que no produce justicia divina. El término 'ῥυπαρίαν' (rhyparían, 'inmundicia') se refiere a suciedad moral, pero también puede aludir a vestiduras sucias (cf. Zac 3:3-4). 'Περισσείαν κακίας' (perisseían kakías, 'superfluidad de malicia') denota exceso de maldad, una acumulación de actitudes pecaminosas. El verbo 'ἀποθέμενοι' (apothemenoi, 'dejando') es un participio aoristo medio que implica despojarse de algo como si fuera una prenda (metáfora común en el NT, cf. Col 3:8). La palabra 'ἔμφυτον' (emphylon, 'ingerida') es clave: significa 'implantada' o 'innata', sugiriendo que la palabra ya ha sido sembrada en el creyente (cf. la parábola del sembrador). El vocablo 'πραΰτητι' (praÿtēti, 'mansedumbre') denota una actitud humilde y dócil, opuesta a la ira del versículo 20. Finalmente, 'σῶσαι τὰς ψυχὰς ὑμῶν' (sōsai tas psychas hymōn, 'salvar vuestras almas') apunta a la salvación escatológica, pero también a la transformación presente.</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos cristianos de la diáspora (1:1), enfrentando pruebas y tentaciones. La carta refleja un contexto de sabiduría judía helenística, con fuertes paralelos con la literatura sapiencial (Proverbios, Eclesiástico). La metáfora de la palabra implantada puede relacionarse con la enseñanza rabínica de la Torá como semilla que da fruto. La 'mansedumbre' era una virtud altamente valorada en la ética judía y griega, asociada con la capacidad de aprender y someterse a la autoridad divina.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la necesidad de una respuesta activa y pasiva: dejar el pecado y recibir la Palabra. La obra salvífica no es solo un evento pasado, sino un proceso continuo (salvación progresiva). La 'palabra ingerida' subraya la iniciativa divina en la regeneración (cf. 1 Pe 1:23), mientras que la recepción humana requiere humildad. La conexión con la ira humana (v.20) muestra que la justicia de Dios se manifiesta no en la violencia, sino en la mansedumbre que acoge la verdad.</p>",
+    "ninos": "<h2>🌟 Quítate la ropa sucia</h2><p>Imagina que tienes un abrigo muy sucio, lleno de barro y manchas. Si tratas de ponerte una camisa limpia encima, la camisa también se ensucia, ¿verdad? Así es con nuestro corazón. A veces tenemos cosas malas adentro: enojos, mentiras, o no querer compartir. Eso es como la ropa sucia. Santiago nos dice: '¡Quítate esa ropa sucia!'. Luego, con un corazón tranquilo y humilde (como cuando escuchas a tu mamá o papá), recibe la palabra de Dios, que es como una semilla especial que Dios pone en ti. Esa semilla crece y te ayuda a ser mejor persona, a ser feliz y a ayudar a otros. ¿Qué ropa sucia necesitas quitarte hoy? Tal vez es no hacer caso a tus padres, o pelear con tu hermano. Pídele a Dios que te ayude a ser manso, y abre tu corazón para que su palabra te cambie. Así tu alma estará sana y feliz.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 4:22-24",
+        "tipo": "Temático",
+        "razon": "Ambos pasajes usan la metáfora de despojarse del viejo hombre y vestirse del nuevo."
+      },
+      {
+        "referencia": "1 Pedro 2:1-2",
+        "tipo": "Temático",
+        "razon": "Exhortación similar a dejar la malicia y desear la leche espiritual."
+      },
+      {
+        "referencia": "Mateo 11:29",
+        "tipo": "Conceptual",
+        "razon": "Jesús invita a aprender de Él, que es manso y humilde de corazón."
+      }
+    ],
+    "prompt_imagen_ninos": "A child taking off a muddy coat, smiling, with a gentle light around. In the background, a seed sprouts from a heart-shaped soil. Warm colors, soft shadows.",
+    "prompt_imagen_normal": "A dramatic scene: a person in torn, dirty clothes shedding them, reaching toward a radiant light. Their face shows relief and hope. Dark background, golden light breaking through.",
+    "texto_original": "Por lo cual, dejando toda inmundicia y superfluidad de malicia, recibid con mansedumbre la palabra ingerida, la cual puede hacer salvas vuestras almas.",
+    "versiculo": "Santiago 1:21"
+  },
+  "22": {
+    "normal": "<h2>Obediencia que Transforma</h2><p>La Palabra de Dios no es un simple manual de instrucciones que leemos y archivamos. Es una semilla viva que debe echar raíces en nuestro corazón y dar fruto en nuestras acciones. Santiago nos confronta con un peligro sutil: escuchar sin poner en práctica. Es fácil engañarnos, pensando que el conocimiento nos hace espirituales, cuando en realidad solo nos hace orgullosos.</p><p>Imagina a un médico que estudia todos los tratamientos para una enfermedad, pero nunca los receta a sus pacientes. ¿De qué sirve su ciencia? Así somos nosotros cuando oímos la Palabra y no la obedecemos. La fe no es un sentimiento, es una respuesta activa. Cada mandato de Dios es una oportunidad para demostrarle que confiamos en Él.</p><p>¿Hay algún área de tu vida donde estés escuchando pero no actuando? Quizás es perdonar a alguien, dejar un hábito, o servir en tu iglesia. No te conformes con ser un oyente. Pídele a Dios que te dé valor para ser hacedor. La obediencia no es perfecta, pero es el camino de la bendición. Hoy, elige una verdad de la Escritura y ponla en práctica. Verás cómo tu fe cobra vida.</p>",
+    "academico": "<h2>La Imperativa de la Obediencia: Un Análisis Exegético de Santiago 1:22</h2><h3>Análisis Filológico</h3><p>El versículo comienza con el imperativo γίνεσθε (ginesthe), 'sed' o 'llegaos a ser', indicando un proceso continuo de transformación. El término 'hacedores' traduce ποιηταί (poiētai), que en el griego helenístico se refiere a alguien que realiza una acción, no solo a un poeta. La frase 'oidores' es ἀκροαταί (akroatai), que denota oyentes pasivos, en contraste con los que actúan. El verbo 'engañándoos' es παραλογιζόμενοι (paralogizomenoi), que implica un razonamiento falso o autoengaño. La construcción enfatiza que la mera audición sin práctica conduce a un autoengaño peligroso.</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos cristianos dispersos (1:1), probablemente en un contexto de persecución y pruebas. En el judaísmo del Segundo Templo, la Torá era leída en las sinagogas, pero existía el riesgo de formalismo. Santiago confronta una fe que se reduce a rituales sin ética. La carta refleja la tradición sapiencial judía, donde la sabiduría se demuestra en la conducta. El énfasis en ser 'hacedores' resuena con la enseñanza de Jesús en Mateo 7:24-27 sobre construir sobre la roca.</p><h3>Implicaciones Teológicas</h3><p>Este versículo es central para la teología de Santiago: la fe sin obras está muerta (2:17). No contradice la justificación por fe (Romanos 3:28), sino que muestra que la fe genuina produce obras. El autoengaño mencionado es una advertencia contra una ortodoxia sin ortopraxia. La obediencia a la Palabra es la evidencia de la regeneración. Además, Santiago vincula la audición con la acción, formando un ciclo de crecimiento espiritual. La aplicación práctica incluye controlar la lengua, cuidar a los necesitados y mantenerse sin mancha del mundo (1:26-27).</p>",
+    "ninos": "🌟 ¡Haz lo que Dios Dice! 🌟\n\nImagina que tu mamá te dice: \"Recoge tus juguetes\". Si solo asientes con la cabeza y sigues jugando, ¿de verdad la obedeciste? ¡No! Hacer lo que ella dice es lo que cuenta.\n\nLa Biblia es como una carta de Dios para ti. Cuando la lees o la escuchas en la iglesia, Dios te está dando instrucciones. Pero si solo escuchas y no haces nada, es como si recibieras un regalo y lo dejaras sin abrir. ¡Qué triste!\n\nSantiago nos dice: \"No solo escuchen, ¡hagan!\" Si Dios dice que seas amable, sé amable. Si dice que compartas, comparte. Si dice que perdones, perdona. Así demuestras que amas a Dios de verdad.\n\nPiensa en un superhéroe: no solo escucha el plan, ¡lo ejecuta! Tú puedes ser un superhéroe de Dios cuando pones en práctica lo que aprendes. La próxima vez que oigas una historia de la Biblia, pregúntate: \"¿Cómo puedo hacer esto hoy?\"\n\n🎯 Lección: Obedecer a Dios es mejor que solo escuchar. ¡Sé un hacedor!",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:24-27",
+        "tipo": "Paralelo",
+        "razon": "Jesús enseña la misma verdad sobre construir sobre la roca al poner en práctica sus palabras."
+      },
+      {
+        "referencia": "Santiago 2:14-17",
+        "tipo": "Desarrollo temático",
+        "razon": "Expande el concepto de fe sin obras como muerta, conectando directamente con ser hacedores."
+      },
+      {
+        "referencia": "Romanos 2:13",
+        "tipo": "Contraste",
+        "razon": "Pablo también contrasta oidores y hacedores de la ley, mostrando la coherencia bíblica."
+      },
+      {
+        "referencia": "Ezequiel 33:30-32",
+        "tipo": "Trasfondo del Antiguo Testamento",
+        "razon": "Dios denuncia a quienes oyen pero no obedecen, similar al autoengaño que Santiago menciona."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful child helping a friend pick up scattered toys in a bright room, sunlight streaming through window, warm colors, action of sharing, smiling faces.",
+    "prompt_imagen_normal": "A dramatic scene of a person kneeling before an open Bible, hands reaching out as if to act, light breaking through darkness, expression of determination and surrender, cinematic lighting.",
+    "texto_original": "Mas sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.",
+    "versiculo": "Santiago 1:22"
+  },
+  "23": {
+    "normal": "<h2>El Espejo de la Palabra</h2><p>Imagina que te miras en un espejo y ves una mancha en tu rostro. Si te alejas y olvidas lo que viste, la mancha sigue allí. Así es con la Palabra de Dios: nos muestra quiénes somos realmente y qué necesita cambiar en nosotros. Pero si solo escuchamos y no actuamos, es como si nos alejáramos del espejo y siguiéramos igual. Santiago nos desafía a ser hacedores de la palabra, no solo oidores. La fe no es solo conocimiento; es acción. ¿Hay algo que Dios te haya mostrado hoy y aún no has puesto en práctica? Tal vez perdonar a alguien, ser más generoso o dejar un mal hábito. No te conformes con mirar; da el paso para vivir conforme a lo que ves. La bendición está en hacer, no solo en oír.</p>",
+    "academico": "<h2>Análisis Exegético de Santiago 1:23</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>katanoeo</em> (κατανοέω), traducido como \"considera\" o \"contempla atentamente\". Implica una observación minuciosa, no superficial. <em>Esoptron</em> (ἔσοπτρον) significa \"espejo\", que en el mundo antiguo era de metal pulido, dando un reflejo imperfecto. <em>Prosopon</em> (πρόσωπον) es \"rostro\" o \"apariencia exterior\". La frase \"su rostro natural\" literalmente es \"el rostro de su nacimiento\" (to prosopon tes geneseos), sugiriendo la identidad esencial. El versículo contrasta el mero oír (<em>akroates</em>) con el hacer (<em>poietes</em>).</p><h3>Contexto Histórico</h3><p>La carta de Santiago se dirige a judíos cristianos de la diáspora (1:1). En el judaísmo del Segundo Templo, la Torá era comparada con un espejo (Sabiduría 7:26). La metáfora del espejo también aparece en la literatura grecorromana como símbolo de autoconocimiento. Santiago usa esta imagen común para enseñar que la Palabra revela el carácter moral, pero exige una respuesta activa. El énfasis en la práctica refleja la tradición sapiencial judía, donde la sabiduría se demuestra en obras.</p><h3>Implicaciones Teológicas</h3><p>El pasaje subraya la inseparabilidad entre fe y obras. No es una justificación por obras, sino una fe que se evidencia en obediencia. La Palabra es un espejo que confronta al creyente con su verdadera condición, invitándolo a la transformación. Ignorarla es autoengaño (v.22). La teología de Santiago complementa a Pablo: la fe genuina produce frutos. Este versículo también resalta la responsabilidad humana: no basta con la iluminación intelectual; se requiere acción consecuente.</p>",
+    "ninos": "🌟 <h2>El Espejo Mágico</h2><p>Había una vez un niño llamado Tomás. Un día, encontró un espejo mágico que mostraba lo que él necesitaba cambiar. Vio que tenía una mancha de chocolate en la cara. Pero en lugar de limpiarse, se fue a jugar. ¡La mancha seguía allí! La Biblia es como ese espejo: nos muestra cómo podemos ser mejores. Si solo escuchamos pero no hacemos caso, es como no limpiarse la mancha. Dios quiere que no solo oigamos sus palabras, ¡sino que las pongamos en práctica! Así que cuando aprendas algo de la Biblia, como ser amable o compartir, ¡hazlo! Así brillarás como un espejo limpio. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:24-27",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos pasajes contrastan al que oye y hace con el que oye y no hace, usando la metáfora de la construcción sobre roca o arena."
+      },
+      {
+        "referencia": "Lucas 6:46-49",
+        "tipo": "Paralelo sinóptico",
+        "razon": "Jesús enseña la misma lección sobre llamarlo 'Señor' pero no hacer lo que dice, comparando al que obedece con un hombre que cimenta su casa sobre la roca."
+      },
+      {
+        "referencia": "Romanos 2:13",
+        "tipo": "Contraste teológico",
+        "razon": "Pablo afirma que no son los oidores de la ley los justos ante Dios, sino los hacedores, reforzando la idea de Santiago sobre la obediencia práctica."
+      }
+    ],
+    "prompt_imagen_ninos": "A boy looking into a shiny metal mirror, sees a chocolate smudge on his cheek, but then walks away to play, leaving the smudge, warm sunlight, cozy room.",
+    "prompt_imagen_normal": "A man staring intently into an ancient bronze mirror, his reflection showing a flaw on his face, dramatic lighting, contemplative mood, realistic style.",
+    "texto_original": "Porque si alguno oye la palabra, y no la pone por obra, este tal es semejante al hombre que considera en un espejo su rostro natural.",
+    "versiculo": "Santiago 1:23"
+  },
+  "24": {
+    "normal": "<h2>El espejo que olvida</h2><p>Imagina que te miras en un espejo, ves tu rostro despeinado, y al instante te das la vuelta y olvidas cómo eras. Así describe Santiago a quien oye la Palabra de Dios pero no la pone en práctica. Es fácil escuchar un sermón el domingo, sentirnos inspirados, y al llegar el lunes, ya hemos olvidado lo que Dios nos dijo. La fe no es solo información; es transformación. Santiago nos reta a ser hacedores de la palabra, no solo oidores. ¿Qué has escuchado de Dios esta semana que necesitas aplicar hoy? Tal vez perdonar a alguien, ser generoso, o confiar en medio del miedo. No te vayas del espejo espiritual sin actuar. Toma un momento para escribir un compromiso concreto basado en lo que Dios te ha mostrado. La bendición no está en saber la verdad, sino en vivirla.</p>",
+    "academico": "<h2>El espejo de la Palabra: análisis de Santiago 1:24</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego <em>katanoeō</em> (κατανοέω) para 'considerarse a sí mismo', que implica una observación atenta y deliberada. El término <em>apelēlythen</em> (ἀπελήλυθεν) indica una partida definitiva, y <em>epelethato</em> (ἐπελάθετο) expresa un olvido completo. La construcción enfatiza la desconexión entre la percepción momentánea y la memoria duradera. En el contexto del Cercano Oriente Antiguo, los espejos eran de metal pulido, dando una imagen imperfecta; así, la Palabra revela nuestra condición real, pero si no actuamos, la imagen se desvanece. Teológicamente, Santiago contrasta la fe estéril con la fe activa: la Palabra no es solo para admirarse, sino para obedecerse. La omisión del artículo definido en 'espejo' sugiere cualquier espejo, universalizando la metáfora.</p><h3>Contexto Histórico</h3><p>La carta de Santiago, dirigida a la diáspora judía, refleja la tradición sapiencial judía donde la sabiduría se demuestra en la práctica. El espejo era un objeto común en hogares romanos, usado por mujeres para arreglarse. Santiago invierte esta imagen: el espejo de la Palabra revela imperfecciones morales, no físicas. La inmediatez del olvido ('luego') subraya la fragilidad humana ante el autoengaño.</p><h3>Implicaciones Teológicas</h3><p>Este versículo advierte contra la religión superficial. La fe genuina requiere memoria activa: recordar lo que Dios dice y vivirlo. La omisión de acción no es solo debilidad, sino pecado de omisión. La Palabra, como espejo, nos confronta para cambiarnos, no solo informarnos.</p>",
+    "ninos": "<h2>🌟 El espejo que se olvida</h2><p>Imagina que te levantas, te miras al espejo y ves que tienes el pelo todo loco 🦁. Pero luego te vas a jugar y ¡olvidas que tienes el pelo así! Tus amigos te ven y se ríen. Así pasa cuando escuchamos lo que Dios dice en la Biblia, pero no lo hacemos. Es como mirarse al espejo y olvidar lo que vimos. Dios nos da su Palabra para ayudarnos a ser mejores, como un espejo que nos muestra cómo debemos amar, compartir y perdonar. Pero si solo oímos y no obedecemos, es como si nunca nos hubiéramos mirado. La próxima vez que escuches una historia de la Biblia, pregúntate: ¿cómo puedo hacer lo que dice hoy? Así serás como alguien que se mira al espejo y se peina bien antes de salir. 🪞✨</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:26",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos textos comparan al que oye y no obedece con un necio que olvida la enseñanza."
+      },
+      {
+        "referencia": "Santiago 1:22",
+        "tipo": "Contexto inmediato",
+        "razon": "Versículo anterior que establece el contraste entre ser hacedor y solo oidor."
+      },
+      {
+        "referencia": "Lucas 11:28",
+        "tipo": "Paralelo temático",
+        "razon": "Jesús bendice a quienes oyen la palabra de Dios y la guardan."
+      }
+    ],
+    "prompt_imagen_ninos": "A child looks into a mirror, sees messy hair, then turns away to play with toys, forgetting the mirror. Bright room, toys scattered, mirror reflects sunlight.",
+    "prompt_imagen_normal": "A man in ancient attire gazes into a polished metal mirror, then walks away into a dusty street, his reflection fading. Dramatic lighting, somber expression, realistic ancient setting.",
+    "texto_original": "Porque él se consideró a sí mismo, y se fue, y luego se olvidó qué tal era.",
+    "versiculo": "Santiago 1:24"
+  },
+  "25": {
+    "normal": "<h2>La Libertad de la Obediencia</h2><p>¿Alguna vez has mirado un espejo y luego te has ido olvidando de lo que viste? Santiago nos invita a no ser así con la Palabra de Dios. Nos reta a ser más que oyentes: a ser hacedores. El versículo de hoy nos habla de una \"perfecta ley, que es la de la libertad\". Suena contradictorio, ¿verdad? ¿Cómo puede la ley traer libertad? Pero piensa en esto: las reglas de un juego no te aprisionan, te permiten jugar bien. Del mismo modo, la ley de Dios nos muestra el camino para vivir en plenitud. Cuando la miramos atentamente y perseveramos en ella, no como un deber pesado, sino como una guía amorosa, experimentamos una libertad verdadera: la libertad de ser quienes fuimos creados para ser. El versículo promete bendición no solo por escuchar, sino por hacer. Es la diferencia entre saber que el ejercicio es bueno y realmente hacerlo. Hoy, elige ser un hacedor. Elige la libertad que viene de vivir según el diseño de Dios.</p>",
+    "academico": "<h2>La Ley Perfecta de la Libertad: Un Análisis Exegético de Santiago 1:25</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el término griego <em>παρακύψας</em> (parakypsas), que significa \"inclinarse para mirar atentamente\", sugiriendo una inspección minuciosa, como quien se asoma a un pozo para ver el reflejo. La \"ley perfecta\" (<em>νόμον τέλειον</em>, nomon teleion) contrasta con la ley mosaica, enfatizando su carácter completo y consumado en Cristo. La frase \"ley de la libertad\" (<em>νόμον τῆς ἐλευθερίας</em>, nomon tēs eleutherias) es una paradoja que refleja la enseñanza paulina de que la gracia libera para obedecer desde el corazón (Romanos 6:14). El término <em>ἀκροατὴς ἐπιλησμονῆς</em> (akroatēs epilēsmonēs, \"oidor olvidadizo\") describe a quien oye pero no retiene, mientras que <em>ποιητὴς ἔργου</em> (poiētēs ergou, \"hacedor de la obra\") indica una acción continua. La palabra <em>μακάριος</em> (makarios, \"bienaventurado\") evoca las bienaventuranzas de Jesús, señalando una felicidad profunda y duradera.</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos cristianos dispersos (1:1), enfrentando pruebas y tentaciones. En el contexto del Cercano Oriente Antiguo, la \"ley\" se entendía como la Torá, pero Santiago la reinterpreta a la luz de Cristo. La imagen de mirarse en un espejo (vv. 23-24) refleja la práctica judía de la autoexaminación ante la Palabra. La insistencia en ser \"hacedor\" (v. 22) responde a una tendencia a separar fe y obras, quizás influenciada por un malentendido de la gracia. El énfasis en la perseverancia (<em>παραμείνας</em>, parameinas) conecta con la literatura sapiencial, donde la obediencia trae bendición (Proverbios 29:18).</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya que la salvación por gracia produce una obediencia gozosa. La \"ley perfecta\" es el evangelio mismo, que libera del pecado y capacita para vivir en justicia. La bendición no es por mérito, sino por la transformación que ocurre al vivir conforme a la Palabra. Santiago rechaza el antinomianismo, afirmando que la fe genuina se manifiesta en obras. La libertad cristiana no es licencia para pecar, sino poder para obedecer. Este pasaje desafía a la iglesia a integrar la escucha y la práctica, evitando un cristianismo nominal.</p>",
+    "ninos": "<h2>🌟 El Espejo Mágico de Dios</h2><p>Imagina que tienes un espejo mágico que te muestra cómo ser la mejor versión de ti mismo. Cada mañana lo miras y ves un niño valiente, amable y obediente. Pero luego sales a jugar y te olvidas de todo lo que viste. ¡Qué triste! El versículo de hoy dice que la Biblia es como ese espejo. Nos muestra cómo vivir felices y libres. Pero si solo la escuchamos y no hacemos lo que dice, somos como alguien que se mira en el espejo y luego se va y se olvida de su propio rostro. 🪞 En cambio, si miramos la Palabra de Dios con atención y la ponemos en práctica, seremos muy felices. Es como cuando aprendes una receta: no basta con leerla, tienes que cocinar para disfrutar el pastel. 🍰 Así que hoy, elige ser un \"hacedor\": ayuda a tu mamá, comparte tus juguetes, di la verdad. ¡Esa es la libertad de Dios!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 8:31-32",
+        "tipo": "paralelo temático",
+        "razon": "Jesús enseña que permanecer en su palabra trae libertad, conectando con la 'ley de la libertad' de Santiago."
+      },
+      {
+        "referencia": "Romanos 8:2",
+        "tipo": "paralelo doctrinal",
+        "razon": "Pablo habla de la 'ley del Espíritu de vida' que libera, en línea con la ley perfecta que da libertad."
+      },
+      {
+        "referencia": "Mateo 7:24-27",
+        "tipo": "paralelo de enseñanza",
+        "razon": "Jesús compara al que oye y hace con un hombre sabio que edifica sobre la roca, similar al hacedor bendecido."
+      }
+    ],
+    "prompt_imagen_ninos": "A child looking into a magical mirror, seeing a radiant version of themselves helping others, surrounded by warm light and toys, in a cozy bedroom with a Bible open.",
+    "prompt_imagen_normal": "A dramatic scene of a person intently looking into an ancient mirror, with a glowing scroll beside them, reflecting a transformed life, in a dimly lit room with epic lighting.",
+    "texto_original": "Mas el que hubiere mirado atentamente en la perfecta ley, que es la de la libertad, y perseverado en ella, no siendo oidor olvidadizo, sino hacedor de la obra, este tal será bienaventurado en su hecho.",
+    "versiculo": "Santiago 1:25"
+  },
+  "26": {
+    "normal": "<h2>La religión que Dios valora</h2><p>¿Alguna vez has conocido a alguien que habla mucho de su fe, pero sus palabras hieren? Santiago nos desafía a examinar la autenticidad de nuestra devoción. Ser religioso no se trata solo de lo que decimos creer, sino de cómo controlamos lo que decimos. La lengua tiene un poder inmenso: puede construir o destruir, sanar o herir. Si decimos amar a Dios pero no refrenamos nuestra lengua, nuestra religión es vacía. Es como un auto con un motor potente pero sin frenos: parece impresionante, pero es peligroso. La verdadera espiritualidad se demuestra en el autocontrol, especialmente en nuestras palabras. Piensa en tus conversaciones de esta semana: ¿has usado tu lengua para bendecir o para maldecir? ¿Has hablado con amabilidad, incluso cuando estabas molesto? Santiago nos llama a una fe práctica, que se ve en cómo tratamos a los demás. No se trata de perfección, sino de honestidad. Pídele a Dios que te ayude a ser lento para hablar y rápido para escuchar. Que tu religión no sea solo palabras, sino una vida transformada por el amor de Cristo.</p>",
+    "academico": "<h2>El peligro de una religiosidad sin dominio propio</h2><h3>Análisis Filológico</h3><p>El término griego para 'religioso' es <em>thrēskos</em> (θρησκός), que aparece solo aquí en el NT, y se refiere a la observancia externa del culto. 'Refrenar' es <em>chalinagōgeō</em> (χαλιναγωγέω), un verbo compuesto de <em>chalinos</em> (freno de caballo) y <em>agō</em> (conducir), sugiriendo control activo. 'Engañando' traduce <em>apataō</em> (ἀπατάω), indicar autoengaño. 'Vana' es <em>mataios</em> (μάταιος), que significa vacío, sin sustancia. La construcción enfatiza que la falta de control verbal invalida la piedad profesada.</p><h3>Contexto Histórico</h3><p>Santiago escribe a judíos cristianos dispersos, inmersos en una cultura helenística que valoraba la retórica. La lengua era símbolo de sabiduría, pero Santiago advierte contra una elocuencia vacía. En el judaísmo del Segundo Templo, la religión incluía rituales y ética; Santiago conecta ambas, criticando una piedad que no transforma el carácter. La imagen del freno de caballo era común en la filosofía estoica para ilustrar el autocontrol.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya que la verdadera religión no es meramente cognitiva o ritual, sino práctica y ética. La fe sin obras está muerta (2:17), y aquí las obras incluyen el dominio de la lengua. El autoengaño es un peligro real: podemos creernos espirituales mientras descuidamos el fruto del Espíritu. La vanidad de la religión sin control verbal recuerda las advertencias de Jesús contra los fariseos (Mateo 15:8-9). La gracia no elimina la responsabilidad; más bien, capacita para una vida santa.</p>",
+    "ninos": "<h2>🌟 El poder de las palabras</h2><p>Imagina que tienes un superpoder: cada palabra que dices puede ser una flor o una espina. ¿Cuál prefieres? La Biblia dice que si decimos que amamos a Dios pero decimos cosas malas, nuestra religión no sirve. Es como tener un juguete roto: parece bonito, pero no funciona. Dios quiere que nuestras palabras ayuden a otros, no que lastimen. La próxima vez que quieras decir algo enojado, respira hondo y pídele a Dios que te ayude a hablar con amor. Así tu fe será de verdad.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 3:2-12",
+        "tipo": "Desarrollo temático",
+        "razon": "Expande el tema del control de la lengua y sus consecuencias."
+      },
+      {
+        "referencia": "Mateo 12:34-37",
+        "tipo": "Paralelo temático",
+        "razon": "Jesús enseña que de la abundancia del corazón habla la boca, y seremos juzgados por nuestras palabras."
+      },
+      {
+        "referencia": "Efesios 4:29",
+        "tipo": "Aplicación práctica",
+        "razon": "Instrucción sobre edificar con palabras, en contraste con la lengua sin refrenar."
+      }
+    ],
+    "prompt_imagen_ninos": "A child holding their tongue with both hands, looking thoughtful, surrounded by speech bubbles with flowers and hearts on one side and thorns on the other, warm sunlight, playful style.",
+    "prompt_imagen_normal": "A person in ancient attire, hand over mouth, eyes wide with regret, standing in a dimly lit room with scrolls and an oil lamp, dramatic shadows, sense of introspection and conviction.",
+    "texto_original": "Si alguno piensa ser religioso entre vosotros, y no refrena su lengua, sino engañando su corazón, la religión del tal es vana.",
+    "versiculo": "Santiago 1:26"
+  },
+  "27": {
+    "normal": "<h2>Fe en Acción</h2><p>La religión verdadera no se encuentra en rituales vacíos o apariencias externas, sino en el amor práctico hacia los necesitados y en una vida apartada del pecado. Santiago nos recuerda que Dios, nuestro Padre, se preocupa profundamente por los huérfanos y las viudas, aquellos que en la sociedad antigua eran los más vulnerables. Visitar a los huérfanos y las viudas en sus tribulaciones significa involucrarnos activamente en sus vidas, ofreciendo apoyo emocional, material y espiritual. No se trata solo de una visita ocasional, sino de un compromiso constante con los que sufren. Además, guardarse sin mancha del mundo implica vivir de manera que refleje la pureza de Cristo, evitando la corrupción moral y las injusticias que nos rodean. ¿Cómo podemos aplicar esto hoy? Podemos empezar por identificar a los necesitados en nuestra comunidad: el vecino anciano, el niño de padres ausentes, el compañero de trabajo en crisis. Ofrecer nuestro tiempo, recursos y oraciones. También debemos examinar nuestras vidas para eliminar cualquier actitud o hábito que nos contamine espiritualmente. La fe genuina se demuestra en acción y santidad. Que este versículo nos desafíe a ser cristianos prácticos, no solo de palabra.</p>",
+    "academico": "<h2>La Religión Pura: Un Análisis Exegético de Santiago 1:27</h2><h3>Análisis Filológico</h3><p>El término griego <em>thrēskeia</em> (θρησκεία) se traduce como 'religión' y se refiere al culto externo o práctica religiosa. <em>Katharos</em> (καθαρός) significa 'puro', sin mezcla, y <em>amiantos</em> (ἀμίαντος) 'sin mancha', usado en contextos de pureza ritual. El verbo <em>episkeptomai</em> (ἐπισκέπτομαι) traducido 'visitar' implica cuidado supervisión, no solo una visita casual. <em>Thlipsis</em> (θλῖψις) 'tribulación' se refiere a presión o aflicción. La frase 'guardarse sin mancha del mundo' usa <em>aspilos</em> (ἄσπιλος) 'sin mancha' y <em>kosmos</em> (κόσμος) refiriéndose al orden mundial caído.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano y judío del primer siglo, los huérfanos y las viudas eran especialmente vulnerables, sin protección legal ni apoyo familiar. La comunidad cristiana primitiva, siguiendo el ejemplo de Jesús, enfatizaba el cuidado de estos grupos (Hechos 6:1-6). Santiago, escrito probablemente desde Jerusalén, refleja una tradición judía donde la verdadera piedad se demuestra en actos de justicia social (Isaías 1:17). La pureza ritual era importante, pero Santiago la redefine en términos éticos: la pureza verdadera es la que se aparta de la corrupción del mundo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo desafía cualquier noción de religión meramente interior o doctrinal. La fe sin obras está muerta (Santiago 2:17). La 'religión pura' integra el amor a Dios y al prójimo, reflejando el carácter del Padre que cuida a los indefensos. Además, 'guardarse sin mancha del mundo' implica una tensión entre vivir en el mundo pero no ser del mundo (Juan 17:14-16). La santidad no es separación física, sino pureza moral en medio de una sociedad caída. Este llamado es tanto individual como comunitario: la iglesia debe ser un refugio para los marginados.</p>",
+    "ninos": "🌟 <h2>La Religión que le Gusta a Dios</h2><p>Imagina que tienes un amigo que siempre está solo. Nadie juega con él en el recreo y a veces no tiene qué comer. Un día, decides sentarte con él, compartir tu almuerzo y jugar juntos. ¡Eso le alegra el corazón! Dios dice que eso es la religión verdadera: ayudar a los que están solos o tristes, como los niños sin papás o las abuelitas que viven solas. También es importante no hacer cosas malas, como mentir o pelear. Así como cuidas tu ropa para que no se ensucie, cuidas tu corazón para que no se manche con el pecado. La lección es: ama a Dios ayudando a los demás y portándote bien. ¡Así haces feliz a Dios!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 1:17",
+        "tipo": "Antiguo Testamento",
+        "razon": "Llama a aprender a hacer el bien, buscar la justicia y defender al huérfano y a la viuda."
+      },
+      {
+        "referencia": "Mateo 25:35-40",
+        "tipo": "Evangelios",
+        "razon": "Jesús identifica el servicio a los necesitados como servicio a Él mismo."
+      },
+      {
+        "referencia": "1 Juan 5:3",
+        "tipo": "Epístola",
+        "razon": "El amor a Dios se demuestra guardando sus mandamientos, que incluyen el amor al prójimo."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful child sharing lunch with a sad orphan on a school playground, warm sunlight, colorful background, friendly atmosphere, simple and heartwarming scene.",
+    "prompt_imagen_normal": "A dramatic scene of a humble Christian visiting a widow and orphan in a dimly lit room, offering comfort, with a warm glow highlighting their faces, conveying compassion and hope.",
+    "texto_original": "La religión pura y sin mácula delante de Dios y Padre es esta: Visitar los huérfanos y las viudas en sus tribulaciones, y guardarse sin mancha de este mundo.",
+    "versiculo": "Santiago 1:27"
+  }
+}

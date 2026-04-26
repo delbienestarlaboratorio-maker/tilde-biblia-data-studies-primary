@@ -1,0 +1,734 @@
+{
+  "1": {
+    "normal": "<h2>Un Nuevo Comienzo</h2><p>Imagina que todo lo malo, el dolor, la tristeza y el pecado desaparecen por completo. Eso es lo que Dios promete en Apocalipsis 21:1: un cielo nuevo y una tierra nueva. El mar, que a menudo simboliza caos y separación en la Biblia, ya no existe. Esto significa que no habrá más barreras entre Dios y nosotros. Es como si Dios hiciera una limpieza total para darnos un hogar perfecto, donde podamos vivir con Él para siempre. Hoy, podemos aplicar esto recordando que, aunque vivamos en un mundo imperfecto, tenemos la esperanza de que Dios renovará todas las cosas. Podemos dejar atrás el peso de nuestros errores y confiar en que Él nos da un nuevo comienzo cada día. ¿Hay algo de tu pasado que necesites dejar en las manos de Dios? Él está listo para hacer nuevas todas las cosas.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:1</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν· ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθαν, καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι.</em> La palabra <em>καινός</em> (kainos) significa 'nuevo en calidad o naturaleza', no simplemente 'nuevo en tiempo' (νέος, neos). Implica una renovación radical. <em>ἀπῆλθαν</em> (apêlthan) es un aoristo indicativo, indicando una acción completada: 'se fueron'. La frase <em>καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι</em> (kai hê thalassa ouk estin eti) señala la desaparición del mar, que en el pensamiento hebreo representaba el caos primigenio (tehom).</p><h3>Contexto Histórico</h3><p>En el Antiguo Cercano Oriente, el mar era visto como una fuerza caótica y peligrosa. En la mitología cananea, el dios Yam (mar) era un adversario de Baal. En el Antiguo Testamento, el mar se asocia con el Leviatán y las fuerzas del mal (Sal 74:13-14; Is 27:1). Juan, escribiendo a comunidades perseguidas, ofrece la esperanza de un nuevo orden cósmico donde el caos es eliminado. Este versículo también refleja la promesa de Isaías 65:17: 'Porque he aquí que yo crearé nuevos cielos y nueva tierra'.</p><h3>Implicaciones Teológicas</h3><p>La desaparición del mar simboliza la erradicación de todo lo que se opone a Dios. Teológicamente, apunta a la escatología realizada: la nueva creación no es una mera restauración, sino una transformación completa. Esto implica que la redención no solo afecta a la humanidad, sino a todo el cosmos (Ro 8:19-22). La ausencia de separación (el mar) sugiere una comunión perfecta entre Dios y su pueblo.</p>",
+    "ninos": "<h2>🌟 ¡Un Mundo Nuevo y Brillante!</h2><p>Imagina que tu cuarto favorito se vuelve aún más bonito, con colores más vivos y sin ningún juguete roto. ¡Así será el mundo nuevo que Dios va a hacer! En la Biblia, Juan vio un cielo nuevo y una tierra nueva. ¿Sabes qué más? ¡El mar ya no estaba! ¿Por qué? Porque a veces el mar puede ser peligroso y separar a las personas. En el nuevo mundo, no habrá nada que nos separe de Dios. Todo será perfecto. Es como cuando limpias tu habitación y todo está en orden. Dios quiere darnos un lugar donde siempre estemos felices y seguros. La lección es: aunque ahora haya cosas tristes, Dios nos promete un futuro maravilloso. ¡Podemos confiar en Él!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 65:17",
+        "tipo": "Profecía paralela",
+        "razon": "Isaías profetiza cielos nuevos y tierra nueva, que Juan ve cumplidos en Apocalipsis."
+      },
+      {
+        "referencia": "2 Pedro 3:13",
+        "tipo": "Doctrinal",
+        "razon": "Pedro habla de la esperanza de nuevos cielos y nueva tierra, donde mora la justicia."
+      },
+      {
+        "referencia": "Apocalipsis 21:4",
+        "tipo": "Continuidad temática",
+        "razon": "El versículo siguiente describe la ausencia de muerte, llanto ni dolor, conectando con la nueva creación."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, colorful new world with fluffy clouds and green hills. No ocean. Happy children playing with animals under a rainbow. Warm sunlight.",
+    "prompt_imagen_normal": "Epic cosmic scene: a vast new heaven and earth, glowing with golden light. Old world fading away. No sea. Serene, majestic, hope-filled atmosphere.",
+    "texto_original": "Y VI un cielo nuevo, y una tierra nueva: porque el primer cielo y la primera tierra se fueron, y el mar ya no es.",
+    "versiculo": "Apocalipsis 21:1"
+  },
+  "2": {
+    "normal": "<h2>La Ciudad Santa: Nuestro Hogar Eterno</h2><p>Imagina un lugar donde no hay dolor, tristeza ni lágrimas. Un lugar donde la paz y el amor reinan para siempre. Eso es exactamente lo que Juan vio en esta visión: la nueva Jerusalén descendiendo del cielo, preparada como una novia para su esposo. Dios mismo es el arquitecto de esta ciudad, y Él la ha diseñado con amor y detalle. Para nosotros, los creyentes, esta promesa es un ancla de esperanza en medio de las tormentas de la vida. Nos recuerda que nuestro destino final no es la muerte, sino la vida eterna en la presencia de Dios. Hoy, mientras enfrentas desafíos, recuerda que esta ciudad te espera. Vive con la certeza de que Dios está preparando un lugar para ti, y que cada acto de fe y amor aquí en la tierra es un ladrillo más en esa ciudad celestial. No te desanimes; tu futuro es brillante y seguro en las manos de Dios.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:2</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"καὶ τὴν πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ, ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς.\" Palabras clave: \"καινήν\" (kainēn) significa \"nueva\" en sentido cualitativo, no meramente cronológico; \"καταβαίνουσαν\" (katabainousan) indica un descenso activo, sugiriendo iniciativa divina; \"ἡτοιμασμένην\" (hētoimasmenēn) implica preparación cuidadosa. La metáfora nupcial (νύμφην, nymphēn) conecta con el AT donde Israel es la esposa de Dios (Oseas 2:19-20).</p><h3>Contexto Histórico</h3><p>En el contexto del Cercano Oriente Antiguo, las ciudades eran centros de poder y seguridad. La imagen de una ciudad descendiendo del cielo contrasta con las ciudades terrenales, a menudo corruptas. Para los cristianos perseguidos del siglo I, esta visión ofrecía esperanza de un reino divino que reemplazaría el Imperio Romano. La referencia a \"Jerusalén nueva\" también evoca la esperanza judía de una Jerusalén restaurada (Isaías 65:17-19).</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, este versículo subraya la iniciativa soberana de Dios en la redención: la ciudad desciende de Él, no es construida por humanos. La imagen de la novia resalta la relación íntima entre Cristo y su Iglesia (Efesios 5:25-27). La \"novedad\" (καινήν) apunta a una creación transformada, no solo reparada. Este pasaje es fundamental para la escatología cristiana, afirmando que la meta de la historia no es la aniquilación, sino la renovación y la comunión eterna con Dios.</p>",
+    "ninos": "<h2>🌟 La Ciudad Más Hermosa del Cielo</h2><p>Imagina que estás pintando el dibujo más bonito de tu vida, y de repente, ¡el dibujo cobra vida! Algo así vio Juan. Una ciudad preciosa, brillante como una joya, bajando del cielo. Era como una novia vestida con su mejor traje el día de su boda. Dios había preparado esa ciudad con mucho amor para todas las personas que lo aman. ¿Sabes qué significa eso? Que Dios tiene un lugar especial para ti, donde no habrá peleas, ni enfermedades, ni tristeza. Solo alegría y paz. Así que cuando te sientas solo o asustado, recuerda: Dios está preparando un hogar perfecto para ti. Y lo mejor es que no tienes que hacer nada para ganártelo, solo confiar en Jesús. ¡Qué bueno es Dios! 🎉</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 65:17",
+        "tipo": "Profecía",
+        "razon": "Describe la creación de nuevos cielos y nueva tierra, paralelo a la nueva Jerusalén."
+      },
+      {
+        "referencia": "Apocalipsis 21:9-10",
+        "tipo": "Continuidad",
+        "razon": "Amplía la visión de la novia, la esposa del Cordero."
+      },
+      {
+        "referencia": "Efesios 5:25-27",
+        "tipo": "Teológico",
+        "razon": "Explica la metáfora nupcial de Cristo y la Iglesia."
+      },
+      {
+        "referencia": "Hebreos 11:10",
+        "tipo": "Temático",
+        "razon": "Habla de la ciudad con fundamentos, cuyo arquitecto es Dios."
+      },
+      {
+        "referencia": "Apocalipsis 3:12",
+        "tipo": "Promesa",
+        "razon": "Promete al vencedor ser columna en el templo de Dios y llevar el nombre de la nueva Jerusalén."
+      }
+    ],
+    "prompt_imagen_ninos": "A glowing golden city descends from fluffy white clouds, surrounded by bright light. Streets of gold, walls of jewels. Angels and children with smiling faces look up in awe.",
+    "prompt_imagen_normal": "A majestic, radiant city descending from heaven amidst clouds of glory. The city glows with divine light, adorned like a bride. Emotional awe and hope on faces below.",
+    "texto_original": "Y yo Juan vi la santa ciudad, Jerusalem nueva, que descendía del cielo, de Dios, dispuesta como una esposa ataviada para su marido.",
+    "versiculo": "Apocalipsis 21:2"
+  },
+  "3": {
+    "normal": "<h2>Dios con nosotros, siempre</h2><p>Imagina un hogar donde nunca te sientes solo, donde siempre hay alguien que te ama y te cuida. Eso es lo que Dios promete en este versículo: Él mismo será nuestro Dios, y vivirá con nosotros. No es una promesa lejana; es para hoy. Cuando oras, cuando lees la Biblia, cuando sientes paz en medio del caos, Dios está ahí. Él quiere ser tu refugio, tu guía, tu amigo. ¿Cómo puedes experimentar esto? Dedica unos minutos cada día a estar en silencio con Él, agradeciéndole por su presencia. Verás cómo cambia tu perspectiva.</p>",
+    "academico": "<h2>La morada divina entre los hombres: Análisis de Apocalipsis 21:3</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>skēnē</em> (σκηνή), traducido como 'tabernáculo'. En la LXX, <em>skēnē</em> traduce el hebreo <em>mishkán</em> (מִשְׁכָּן), la tienda del encuentro en el desierto. El verbo <em>skēnoō</em> (σκηνόω) significa 'plantar la tienda', evocando la presencia divina tangible (Shekiná). La frase 'con ellos' (μετ᾿ αὐτῶν) enfatiza la comunión íntima. 'Pueblo' (λαός) y 'Dios' (Θεός) reflejan la fórmula aliancista del AT (p. ej., Ex 6:7).</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, los dioses habitaban en templos como casas terrenales. Aquí, Juan invierte la imagen: Dios no solo reside en un templo, sino que su tienda está entre los hombres, eliminando la separación. Esto contrasta con la teología del Segundo Templo, donde la presencia divina se asociaba al Templo de Jerusalén. La escena escatológica cumple las promesas proféticas de Ezequiel 37:27 y Zacarías 2:10.</p><h3>Implicaciones Teológicas</h3><p>Este versículo anuncia la consumación de la alianza: Dios habita permanentemente con su pueblo, sin mediación. La muerte y resurrección de Cristo hacen posible esta intimidad. La 'nueva creación' no es solo un lugar, sino una relación restaurada. Para la teología cristiana, esto anticipa la vida eterna como comunión perfecta con Dios, donde el velo del templo se rasga definitivamente.</p>",
+    "ninos": "<h2>🌟 ¡Dios vive con nosotros!</h2><p>Imagina que tu mejor amigo se muda a tu casa. ¡Qué divertido! Jugarían juntos, comerían juntos, y nunca estarías solo. Eso es lo que Dios promete: Él quiere vivir contigo para siempre. No lo ves con tus ojos, pero lo sientes en tu corazón cuando eres bueno, cuando ayudas a otros, o cuando le dices 'gracias'. Dios te ama tanto que quiere estar siempre a tu lado. Así que no tengas miedo, porque nunca estás solo. ¡Dios es tu amigo para siempre!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Éxodo 25:8",
+        "tipo": "Precursor tipológico",
+        "razon": "El tabernáculo en el desierto es una sombra de la morada definitiva de Dios entre los hombres."
+      },
+      {
+        "referencia": "Ezequiel 37:27",
+        "tipo": "Profecía cumplida",
+        "razon": "Ezequiel profetiza que Dios pondrá su santuario en medio de Israel para siempre."
+      },
+      {
+        "referencia": "Juan 1:14",
+        "tipo": "Cumplimiento cristológico",
+        "razon": "El Verbo se hizo carne y 'puso su tienda' entre nosotros, anticipando la morada eterna."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, colorful scene of a giant friendly tent in a lush green meadow, with smiling children and animals gathered around. Warm sunlight streams through the tent opening, casting a golden glow. The tent glows softly from within, symbolizing God's presence.",
+    "prompt_imagen_normal": "Epic cinematic shot of a vast heavenly city descending from golden clouds, with a radiant temple-tent at its center. Beams of light illuminate a diverse crowd of people looking up in awe and joy. The atmosphere is majestic and hopeful.",
+    "texto_original": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y morará con ellos; y ellos serán su pueblo, y el mismo Dios será su Dios con ellos.",
+    "versiculo": "Apocalipsis 21:3"
+  },
+  "4": {
+    "normal": "<h2>El Fin del Dolor</h2><p>Imagina un día donde no haya más lágrimas. Dios mismo las enjugará de tus ojos. La muerte, el llanto, el clamor y el dolor desaparecerán para siempre. Todo lo malo que has vivido será reemplazado por la paz perfecta de Dios. Este versículo nos recuerda que, aunque ahora enfrentemos sufrimiento, hay una esperanza segura: Dios restaurará todas las cosas. ¿Cómo puedes vivir hoy con esa esperanza? Quizás perdonando, confiando en que Dios ve tu dolor, o compartiendo esta promesa con alguien que sufre. No estás solo; el futuro es brillante.</p>",
+    "academico": "<h2>La Esperanza Escatológica en Apocalipsis 21:4</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"καὶ ἐξαλείψει ὁ θεὸς πᾶν δάκρυον ἀπὸ τῶν ὀφθαλμῶν αὐτῶν\" (kai exaleipsei ho theos pan dakryon apo ton ophthalmon autōn). El verbo \"ἐξαλείψει\" (exaleipsei) significa \"limpiar\" o \"borrar\", sugiriendo una eliminación completa. \"Δάκρυον\" (dakryon) es \"lágrima\", y \"ὀφθαλμῶν\" (ophthalmon) es \"ojos\". La frase enfatiza la acción divina de consolar. \"Θάνατος\" (thanatos) es \"muerte\", y \"οὐκ ἔσται ἔτι\" (ouk estai eti) indica que la muerte cesará. \"Πένθος\" (penthos) es \"llanto\", \"κραυγή\" (kraugē) es \"clamor\", y \"πόνος\" (ponos) es \"dolor\". \"Τὰ πρῶτα\" (ta prōta) son \"las primeras cosas\", que \"ἀπῆλθαν\" (apēlthan) \"han pasado\".</p><h3>Contexto Histórico</h3><p>Apocalipsis fue escrito por Juan en Patmos (c. 95 d.C.) durante la persecución de Domiciano. Los cristianos sufrían opresión y muerte. Este versículo ofrece consuelo escatológico: el nuevo cielo y nueva tierra (21:1) traerán restauración total. La imagen de Dios enjugando lágrimas recuerda Isaías 25:8 (\"Enjugará Jehová la lágrima de todos los rostros\").</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, el versículo afirma la soberanía de Dios sobre el mal y el sufrimiento. La muerte, consecuencia del pecado (Romanos 6:23), será abolida. Esto apunta a la victoria final de Cristo (1 Corintios 15:54-55). La promesa de \"no más dolor\" sostiene la esperanza cristiana en medio de la aflicción presente.</p>",
+    "ninos": "<h2>🌟 Dios Seca Tus Lágrimas</h2><p>Imagina que tienes un raspón en la rodilla y lloras. Tu mamá te abraza y te limpia las lágrimas. ¡Qué alivio! Dios promete que un día hará eso con todas tus tristezas. No habrá más muerte, ni llanto, ni dolor. Todo lo malo se irá. Es como cuando termina un día de lluvia y sale el sol. Dios quiere que sepas que, aunque ahora a veces estés triste, Él tiene un plan feliz para siempre. Así que cuando veas a alguien llorar, puedes recordarle que Dios promete secar todas las lágrimas. ¡Eso es amor de verdad!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 25:8",
+        "tipo": "Profecía cumplida",
+        "razon": "Isaías profetiza que Dios enjugará las lágrimas, y Apocalipsis 21:4 lo cumple."
+      },
+      {
+        "referencia": "Apocalipsis 7:17",
+        "tipo": "Paralelo temático",
+        "razon": "También describe a Dios enjugando lágrimas y guiando a fuentes de agua."
+      },
+      {
+        "referencia": "1 Corintios 15:54-55",
+        "tipo": "Base teológica",
+        "razon": "Pablo declara que la muerte es vencida, conectando con la ausencia de muerte en Apocalipsis 21:4."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child with tears being wiped by a giant, warm hand from above. Bright sunlight breaks through clouds. Green meadow, flowers, rainbow. Calm, hopeful atmosphere.",
+    "prompt_imagen_normal": "Epic scene: God's hand gently wiping tears from a weeping person's face. Golden light, celestial clouds, new Jerusalem in background. Deep emotion, peace, hope.",
+    "texto_original": "Y limpiará Dios toda lágrima de los ojos de ellos; y la muerte no será más; y no habrá más llanto, ni clamor, ni dolor: porque las primeras cosas son pasadas.",
+    "versiculo": "Apocalipsis 21:4"
+  },
+  "5": {
+    "normal": "<h2>Renovación Total</h2><p>En Apocalipsis 21:5, Dios mismo declara desde su trono: 'He aquí, yo hago nuevas todas las cosas'. Esta promesa no es solo para el futuro, sino que tiene un eco en nuestro presente. ¿Cuántas veces nos sentimos atrapados en viejos patrones, en heridas que parecen imborrables? Dios nos dice que Él es especialista en hacer nuevo lo que está gastado. No se trata de un simple parche, sino de una transformación completa. Así como un artista restaura una obra maestra, Dios toma nuestras vidas y las renueva desde adentro. Esta palabra es 'fiel y verdadera', es decir, podemos confiar plenamente en ella. Hoy, te invito a entregarle a Dios esa área de tu vida que sientes que necesita un cambio radical. Permítele que haga nuevas todas las cosas. No es un proceso instantáneo, pero cada día Él está obrando. Vive con la esperanza de que lo mejor está por venir, porque el que promete es fiel.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:5</h2><h3>Análisis Filológico</h3><p>El texto griego dice: Καὶ εἶπεν ὁ καθήμενος ἐπὶ τῷ θρόνῳ· Ἰδοὺ καινὰ ποιῶ πάντα. La palabra clave es 'καινά' (kainá), que significa 'nuevo' en el sentido de cualitativamente nuevo, no simplemente reciente (νέος). Implica una renovación esencial. El verbo 'ποιῶ' (poió) está en presente activo, indicando una acción continua: 'estoy haciendo'. La frase 'Ἰδοὺ' (idou) es una interjección que llama la atención: 'He aquí'. La segunda parte: 'γράψον, ὅτι οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί εἰσιν' (grápson, hóti houtoi hoi lógoi pistoi kaì alēthinoí eisin). 'πιστοί' (pistoí) significa 'fieles, dignos de confianza'; 'ἀληθινοί' (alēthinoí) significa 'verdaderos, genuinos'. La orden 'γράψον' (grápson) es un aoristo imperativo: 'escribe', indicando una acción puntual y definitiva.</p><h3>Contexto Histórico</h3><p>Apocalipsis fue escrito por Juan en Patmos hacia finales del siglo I d.C., durante la persecución de Domiciano. El contexto es la visión de un cielo nuevo y una tierra nueva (Ap 21:1). El que habla es Dios mismo, entronizado como soberano. La declaración 'hago nuevas todas las cosas' responde a la esperanza judía de un nuevo éxodo y una nueva creación (Isaías 43:19; 65:17). En el ambiente del Cercano Oriente Antiguo, los reyes solían proclamar 'nuevas cosas' al inicio de su reinado; aquí, Dios anuncia su reinado definitivo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la soberanía de Dios sobre la historia y su poder para transformar radicalmente la creación. No es una mera restauración, sino una novedad cualitativa. La fidelidad y verdad de las palabras divinas aseguran la certeza de la promesa. Para la teología cristiana, esto apunta a la consumación del plan de salvación en Cristo, donde la creación es liberada de la corrupción (Romanos 8:21). Invita a la iglesia a vivir en esperanza activa, confiando en que Dios está obrando incluso ahora.</p>",
+    "ninos": "🌟 ¡Dios Hace Todo Nuevo! 🌟\n\nImagina que tienes un juguete viejo y roto. Ya no funciona, tiene rayones y está sucio. Pero tu papá lo toma, lo arregla, lo pinta y ¡parece nuevo otra vez! Así es Dios. En la Biblia, Él dice desde su trono: 'Yo hago nuevas todas las cosas'. ¿Sabes qué significa? Que Dios puede cambiar tu corazón cuando te sientes triste, enojado o solito. Como cuando cambias un dibujo feo por uno hermoso. Dios nos promete que un día hará todo perfecto: sin llanto, sin dolor. Pero también hoy, si le pides ayuda, Él puede hacer nuevo tu día. ¡Así que no tengas miedo! Dios siempre cumple lo que dice. Recuerda: con Dios, siempre hay una nueva oportunidad. 🙌✨",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 43:19",
+        "tipo": "Profecía",
+        "razon": "Dios promete hacer algo nuevo, paralelo a Apocalipsis 21:5."
+      },
+      {
+        "referencia": "2 Corintios 5:17",
+        "tipo": "Aplicación neotestamentaria",
+        "razon": "En Cristo, somos nuevas criaturas; eco de la renovación divina."
+      },
+      {
+        "referencia": "Apocalipsis 21:1",
+        "tipo": "Contexto inmediato",
+        "razon": "El cielo nuevo y la tierra nueva preparan la declaración de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, colorful scene of a smiling king sitting on a golden throne in heaven. He holds a paintbrush, and around him, broken toys, wilted flowers, and sad faces transform into new, shiny versions. Warm light shines from the throne.",
+    "prompt_imagen_normal": "A majestic, epic scene of God seated on a radiant throne in a heavenly realm. His hand is extended, and from it emanates a brilliant light that touches a broken, dark world, transforming it into a vibrant, renewed creation. Emotions of awe and hope.",
+    "texto_original": "Y el que estaba sentado en el trono dijo: He aquí, yo hago nuevas todas las cosas. Y me dijo: Escribe; porque estas palabras son fieles y verdaderas.",
+    "versiculo": "Apocalipsis 21:5"
+  },
+  "6": {
+    "normal": "<h2>El Agua de Vida para el Sediento</h2><p>¿Alguna vez has sentido una sed profunda que no se calma con agua? Jesús usa esta imagen para hablarnos de una necesidad espiritual: el anhelo de propósito, paz y amor eterno. En Apocalipsis 21:6, Dios declara: 'Hecho está'. Es una palabra final, como cuando terminas un proyecto importante. Él es el Alpha y Omega, el principio y el fin de toda la historia. Y luego hace una promesa asombrosa: al que tenga sed, le dará gratis del agua de la vida. No hay que comprarla ni merecerla; solo reconocer nuestra necesidad y venir a Él. Esta agua simboliza la vida eterna y la plenitud en Dios. En nuestra vida diaria, podemos experimentar esta 'sed' cuando nos sentimos vacíos, estresados o solos. La invitación es venir a Jesús, quien nos ofrece descanso y satisfacción verdadera. ¿Por qué no tomas un momento hoy para decirle: 'Señor, tengo sed de Ti'? Él promete responder generosamente.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:6</h2><h3>Análisis Filológico</h3><p>El versículo contiene el verbo γέγοναν (gégonan) en perfecto, que enfatiza la acción completada con efectos duraderos: 'Ha sido hecho' o 'está consumado'. El título 'Alpha y Omega' (τὸ Ἄλφα καὶ τὸ Ὦ) es un merismo que abarca la totalidad; en el contexto del Apocalipsis, subraya la soberanía de Dios sobre la historia. La frase 'al que tiene sed' (τῷ διψῶντι) usa un participio presente, indicando una condición continua. 'Fuente de agua de vida' (πηγὴ ὕδατος ζωῆς) evoca el Paraíso (Génesis 2:10) y la escatología judía (Ezequiel 47). El adverbio 'gratuitamente' (δωρεάν) resalta la gracia inmerecida.</p><h3>Contexto Histórico</h3><p>Escrito hacia finales del siglo I d.C., el Apocalipsis aborda la persecución bajo Domiciano. La imagen del agua viva era familiar en el mundo grecorromano y judío: los baños rituales, las fuentes en los templos y la tradición del agua en la Fiesta de los Tabernáculos. El 'Hecho está' resuena con el 'Consumado es' de Juan 19:30, conectando la cruz con la consumación final.</p><h3>Implicaciones Teológicas</h3><p>El versículo afirma la soberanía divina y la gratuidad de la salvación. Jesús es el dador del agua viva (Juan 4:10, 7:37-39). La promesa es para todos los que reconocen su necesidad espiritual, sin distinción. La fuente indica una provisión inagotable, apuntando a la vida eterna en la Nueva Creación.</p>",
+    "ninos": "🌟 ¡Agua Fresca para tu Corazón!<p>Imagina que estás en un día muy caluroso de verano, jugando sin parar. De repente, tienes mucha sed, pero no hay agua cerca. Te sientes seco y cansado. Así se siente nuestro corazón cuando estamos lejos de Dios. En Apocalipsis 21:6, Jesús dice: '¡Hecho está! Yo soy el principio y el final. Al que tenga sed, le daré agua de la vida, sin costo alguno'. Es como si Jesús tuviera una fuente mágica que nunca se acaba. Y no necesitas dinero ni ser perfecto para beber de ella. Solo necesitas tener sed de Él. Cuando le dices: 'Jesús, te necesito', Él te llena de amor, paz y alegría. Así que, si alguna vez te sientes vacío o triste, recuerda que Jesús te invita a tomar de su agua gratis. ¡Es el mejor regalo!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 4:13-14",
+        "tipo": "Cumplimiento profético",
+        "razon": "Jesús ofrece agua viva que sacia la sed espiritual para siempre."
+      },
+      {
+        "referencia": "Isaías 55:1",
+        "tipo": "Paralelo temático",
+        "razon": "Invitación gratuita a los sedientos a venir por agua."
+      },
+      {
+        "referencia": "Apocalipsis 22:17",
+        "tipo": "Continuidad temática",
+        "razon": "El Espíritu y la esposa invitan a tomar del agua de vida."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child drinking from a sparkling fountain in a sunny meadow, surrounded by colorful flowers and butterflies, warm golden light, playful and inviting scene.",
+    "prompt_imagen_normal": "A majestic throne room, God's hand offering a crystal cup of water to a kneeling figure, dramatic lighting, awe and reverence, epic and divine atmosphere.",
+    "texto_original": "Y díjome: Hecho es. Yo soy Alpha y Omega, el principio y el fin. Al que tuviere sed, yo le daré de la fuente del agua de vida gratuitamente.",
+    "versiculo": "Apocalipsis 21:6"
+  },
+  "7": {
+    "normal": "<h2>La Promesa del Vencedor</h2><p>Este versículo es como una luz al final del túnel para todo creyente. Dios nos promete que, si perseveramos en la fe, heredaremos todas las cosas. No se trata de riquezas terrenales, sino de una herencia eterna: ser hijos de Dios y tener una relación íntima con Él. En medio de las luchas diarias, esta promesa nos da esperanza. Cada vez que enfrentamos tentaciones o pruebas, recordemos que no estamos solos; Dios nos llama a vencer, no con nuestras fuerzas, sino confiando en Su poder. Aplica esto hoy: cuando te sientas desanimado, repite esta promesa. Dios no solo te promete un futuro glorioso, sino que ya te ve como Su hijo. Vive con la certeza de que eres heredero de Dios y coheredero con Cristo.</p>",
+    "academico": "<h2>Exégesis de Apocalipsis 21:7</h2><h3>Análisis Filológico</h3><p>El término griego 'νικῶν' (nikōn, 'el que vence') es un participio presente activo, indicando una acción continua: el que persevera en la victoria. 'Κληρονομήσει' (klēronomēsei, 'heredará') está en futuro, apuntando a una recompensa escatológica. La frase 'ἔσομαι αὐτῷ Θεός' (esomai autō Theos, 'yo seré su Dios') eco del pacto del Sinaí (Éxodo 6:7). 'Υἱός' (huios, 'hijo') denota filiación adoptiva, un estatus legal en el mundo grecorromano.</p><h3>Contexto Histórico</h3><p>Escrito hacia finales del siglo I d.C., en un contexto de persecución bajo Domiciano. La promesa de 'heredar todas las cosas' contrasta con la pérdida de propiedades que sufrían los cristianos. La metáfora de la herencia se arraiga en el Antiguo Testamento, donde Israel es el hijo primogénito de Dios.</p><h3>Implicaciones Teológicas</h3><p>Este versículo resume la teología de la perseverancia: la salvación no es solo un evento, sino un proceso que culmina en la glorificación. La filiación divina implica una relación personal y eterna. También refuerza la esperanza del nuevo cielo y nueva tierra, donde los redimidos reinan con Cristo.</p>",
+    "ninos": "<h2>🌟 El Gran Premio de Dios</h2><p>Imagina que estás en una carrera de obstáculos. A veces hay vallas, lodo o curvas difíciles. Pero al final, hay un premio enorme: un castillo lleno de tesoros y un abrazo del Rey. ¡Eso es lo que Dios promete! Si no te rindes y sigues a Jesús, Dios te dará todo lo bueno. Y lo mejor: te llamará su hijo o hija. Así que cuando tengas miedo o te sientas débil, recuerda que Dios está contigo. Él te ayuda a vencer. La lección: Nunca te rindas, porque Dios tiene un premio especial para ti.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 8:17",
+        "tipo": "Temática",
+        "razon": "Ambos versículos hablan de la herencia de los creyentes como hijos de Dios."
+      },
+      {
+        "referencia": "1 Juan 5:4-5",
+        "tipo": "Explicativa",
+        "razon": "Define qué significa vencer: la fe en Cristo."
+      },
+      {
+        "referencia": "Apocalipsis 2:7",
+        "tipo": "Paralela",
+        "razon": "Promesa similar al vencedor en las cartas a las iglesias."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child standing on a hilltop at sunrise, holding a golden crown, with a castle in the distance, surrounded by friendly animals, bright colors, soft light.",
+    "prompt_imagen_normal": "A majestic throne room, a radiant figure of Christ embracing a kneeling person, golden light streaming, epic scale, emotional moment, hyper-realistic.",
+    "texto_original": "El que venciere, poseerá todas las cosas; y yo seré su Dios, y él será mi hijo.",
+    "versiculo": "Apocalipsis 21:7"
+  },
+  "8": {
+    "normal": "<h2>El Lago de Fuego: Una Advertencia de Amor</h2><p>Amado hermano, este versículo es como una señal de tráfico en el camino de la vida. Dios no nos asusta, sino que nos advierte con amor. Imagina que estás conduciendo hacia un abismo; alguien que te ama pondría una barrera. Así es este texto: una advertencia para que desviemos nuestro camino.</p><p>La lista de pecados es seria: temerosos (cobardes en la fe), incrédulos, abominables, homicidas, fornicarios, hechiceros, idólatras y mentirosos. Pero no es una lista para juzgar a otros, sino un espejo para nuestro corazón. Todos hemos fallado en algún punto. La pregunta es: ¿estamos arrepentidos? ¿Buscamos a Jesús?</p><p>La 'muerte segunda' es la separación eterna de Dios. Pero gracias a Cristo, hay esperanza. Él tomó nuestro castigo en la cruz. Hoy, puedes confesar tus pecados, recibir su perdón y caminar en libertad. No temas, confía en Él. Vive en la luz, no en la mentira. El amor de Dios te llama a cambiar.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:8</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"τοῖς δειλοῖς καὶ ἀπίστοις καὶ ἐβδελυγμένοις καὶ φονεῦσιν καὶ πόρνοις καὶ φαρμάκοις καὶ εἰδωλολάτραις καὶ πᾶσιν τοῖς ψευδέσιν\" (tois deilois kai apistois kai ebdelugmenois kai phoneusin kai pornois kai pharmakois kai eidololatrais kai pasin tois pseudesin). Destaca \"δειλοῖς\" (deilois, cobardes) y \"ἀπίστοις\" (apistois, incrédulos), términos que implican falta de fe y valentía. \"Φαρμάκοις\" (pharmakois) se refiere a hechiceros, literalmente 'fabricantes de drogas', asociado con prácticas ocultas. La frase \"ἡ μερὶς αὐτῶν\" (hē meris autōn, su parte) indica una porción asignada, como herencia. \"Λίμνῃ τοῦ πυρὸς\" (limnē tou pyros, lago de fuego) es un término único en Apocalipsis, simbolizando juicio final.</p><h3>Contexto Histórico</h3><p>Escrito por Juan en Patmos (c. 95 d.C.), Apocalipsis usa imaginería del Antiguo Testamento (Isaías 66:24, lago de fuego). La lista de vicios refleja catálogos morales grecorromanos y judíos. Los 'temerosos' podrían aludir a cristianos que apostataron bajo persecución (Plinio el Joven, Epístolas 10.96). La mención de 'hechiceros' (pharmakoi) refleja la condena de prácticas mágicas en el imperio.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la santidad de Dios y la realidad del juicio. La 'muerte segunda' contrasta con la vida eterna (v. 7). La lista incluye pecados de acción y actitud, mostrando que la fe genuina transforma el carácter. Teológicamente, reafirma la necesidad de perseverancia (cf. Hebreos 10:39) y la gracia que capacita para vencer.</p>",
+    "ninos": "🌟 ¡Cuidado con el Lago de Fuego!\n\nImagina que estás jugando y ves un letrero que dice: \"¡Peligro! No te acerques\". Dios nos pone letreros así en la Biblia para protegernos. Aquí habla de personas que hacen cosas malas: los que mienten, los que pelean, los que adoran ídolos (como estatuas) en vez de a Dios, y los que no confían en Él. Dice que terminarán en un lago de fuego, que es como una separación triste de Dios para siempre. Pero no te asustes: Jesús vino a salvarnos. Si le pides perdón y le sigues, Él te ayuda a ser bueno. Así que elige siempre la verdad y el amor. ¡Dios te quiere mucho! 😊",
+    "recomendaciones": [
+      {
+        "referencia": "Apocalipsis 20:14-15",
+        "tipo": "Paralelo directo",
+        "razon": "Ambos versículos mencionan el lago de fuego como muerte segunda y juicio final."
+      },
+      {
+        "referencia": "Mateo 25:41",
+        "tipo": "Temático",
+        "razon": "Jesús habla del fuego eterno preparado para el diablo y sus ángeles, similar al lago de fuego."
+      },
+      {
+        "referencia": "Efesios 5:5",
+        "tipo": "Lista de pecados",
+        "razon": "Pablo lista pecados como fornicación e idolatría que excluyen del reino de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A colorful cartoon scene of a fiery lake with warning signs, and children playing safely at a distance, with angels smiling and pointing to Jesus on a cross.",
+    "prompt_imagen_normal": "Epic dramatic scene of a lake of fire with flames and smoke, surrounded by dark clouds, with a sense of judgment and despair, but with a faint cross glowing in the distance.",
+    "texto_original": "Mas a los temerosos é incrédulos, a los abominables y homicidas, a los fornicarios y hechiceros, y a los idólatras, y a todos los mentirosos, su parte será en el lago ardiendo con fuego y azufre, que es la muerte segunda.",
+    "versiculo": "Apocalipsis 21:8"
+  },
+  "9": {
+    "normal": "<h2>El Privilegio de Ser Invitado</h2><p>Imagina que recibes una invitación para la boda más importante de la historia. El novio es el Cordero de Dios, y la novia es la Iglesia. En Apocalipsis 21:9, un ángel invita a Juan a ver a la esposa del Cordero. Esta no es una boda común; es la unión perfecta entre Cristo y su pueblo. Así como el ángel usó una copa para mostrar juicios, ahora usa esa misma copa para mostrar la gracia final: la novia preparada. ¿Qué significa esto para ti? Que Dios te ha preparado un lugar en esa boda. No por tus méritos, sino por su amor. Hoy, puedes vivir con la seguridad de que eres parte de esta historia. Cuando enfrentes dificultades, recuerda que el final no es el juicio, sino la boda. Dios te invita a acercarte, a contemplar su amor y a preparar tu corazón para ese día. Vive cada día como una preparación para ese encuentro.</p>",
+    "academico": "<h2>La Revelación de la Esposa del Cordero</h2><h3>Análisis Filológico</h3><p>El versículo presenta términos griegos clave: 'ἀγγέλων' (ángeles), 'φιάλας' (copas), 'πληγῶν' (plagas), 'νύμφην' (novia/esposa), 'γυναῖκα' (mujer), 'ἀρνίου' (Cordero). La frase 'τῶν ἑπτὰ ἀγγέλων τῶν ἐχόντων τὰς ἑπτὰ φιάλας' (uno de los siete ángeles que tenían las siete copas) conecta el juicio (copas de las plagas) con la revelación de la novia. 'Νύμφη' se refiere a la esposa prometida, mientras que 'γυνή' enfatiza la consumación del matrimonio. La expresión 'ἡ γυνὴ τοῦ ἀρνίου' (la mujer del Cordero) es única en el Apocalipsis, simbolizando la unión escatológica de Cristo con su Iglesia.</p><h3>Contexto Histórico</h3><p>En el contexto del Cercano Oriente Antiguo, las bodas eran eventos comunitarios de varios días. La novia se preparaba con vestiduras especiales y joyas. Aquí, la 'esposa' representa a la Iglesia purificada por la sangre del Cordero. Las 'siete postreras plagas' recuerdan las plagas de Egipto, pero ahora el juicio da paso a la redención. El ángel que ejecuta juicios se convierte en heraldo de la gracia.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la tensión entre juicio y salvación. Las copas de ira revelan la necesidad de redención, y la novia muestra el cumplimiento del pacto. La Iglesia no es solo una comunidad, sino la destinataria del amor eterno de Dios. La imagen de la boda apunta a la intimidad y fidelidad divina. Teológicamente, este pasaje ofrece esperanza escatológica: el sufrimiento presente es temporal, y la unión con Cristo es eterna.</p>",
+    "ninos": "<h2>🌟 La Novia Más Especial</h2><p>Imagina que estás en una boda. La novia lleva un vestido hermoso y todos están felices. En la Biblia, Dios nos cuenta que Jesús es como el novio, y todos los que lo aman son como la novia. Un ángel le mostró a Juan a esta novia tan especial. ¿Sabes quién es? ¡Somos nosotros! Cuando amamos a Jesús, somos parte de su familia. La boda será en el cielo, y todos estaremos juntos para siempre. Así como te preparas para una fiesta, Dios te prepara un lugar. Recuerda: Jesús te ama mucho y quiere que estés con Él. Lección moral: Dios siempre cumple sus promesas y nos invita a su gran fiesta.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 5:25-27",
+        "tipo": "Temática",
+        "razon": "Describe a Cristo amando a la Iglesia y presentándola como esposa sin mancha."
+      },
+      {
+        "referencia": "Apocalipsis 19:7-9",
+        "tipo": "Continuidad",
+        "razon": "La boda del Cordero es anunciada, conectando con la revelación de la esposa."
+      },
+      {
+        "referencia": "Isaías 61:10",
+        "tipo": "Profética",
+        "razon": "La alegría del novio y la novia, simbolizando la salvación."
+      },
+      {
+        "referencia": "Mateo 22:2-14",
+        "tipo": "Paralelo",
+        "razon": "Parábola de las bodas reales, invitación y preparación."
+      },
+      {
+        "referencia": "Apocalipsis 21:2",
+        "tipo": "Contextual",
+        "razon": "La nueva Jerusalén como esposa preparada para su esposo."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright scene with an angel pointing to a bride in white dress, smiling. Children watching, colorful flowers, peaceful sky. Warm light.",
+    "prompt_imagen_normal": "Epic biblical scene: a majestic angel with a golden cup points to a radiant bride descending from heaven, dressed in white and gold. Dramatic clouds, divine light, awe-inspiring.",
+    "texto_original": "Y vino a mí uno de los siete ángeles que tenían las siete copas llenas de las siete postreras plagas, y habló conmigo, diciendo: Ven acá, yo te mostraré la esposa, mujer del Cordero.",
+    "versiculo": "Apocalipsis 21:9"
+  },
+  "10": {
+    "normal": "<h2>La Ciudad Santa Desciende</h2><p>En Apocalipsis 21:10, Juan es llevado en el Espíritu a un monte alto y ve la nueva Jerusalén descender del cielo. Esta visión nos recuerda que nuestro hogar eterno no es fabricado por manos humanas, sino que viene de Dios. A veces nos aferramos tanto a lo terrenal que olvidamos que estamos de paso. La ciudad santa representa la esperanza de un futuro donde Dios morará con nosotros, enjugará toda lágrima y no habrá más muerte. Hoy, en medio de tus luchas, levanta la mirada: tu destino seguro está en las manos de Dios. Vive con la certeza de que lo mejor está por venir, y deja que esa esperanza transforme tu presente.</p>",
+    "academico": "<h2>La Nueva Jerusalén: Visión Escatológica y Teología del Reino</h2><h3>Análisis Filológico</h3><p>El término griego <em>pneumati</em> (πνεύματι) indica que Juan fue transportado en el Espíritu, un estado de revelación profética. La frase <em>oros megan kai hypsēlon</em> (ὄρος μέγαν καὶ ὑψηλόν) evoca la teofanía del Sinaí (Éxodo 19) y la montaña de Sión. <em>Hierousalēm</em> (Ἰερουσαλήμ) es la transliteración del hebreo <em>Yerushalayim</em>, y el adjetivo <em>hagian</em> (ἁγίαν) subraya su consagración. El verbo <em>katabainousan</em> (καταβαίνουσαν) indica un descenso activo, no pasivo, destacando la iniciativa divina.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, las ciudades eran centros de poder y religión. Jerusalén, destruida en el 70 d.C., era un símbolo de esperanza para el judaísmo. Juan, exiliado en Patmos, contrasta la Jerusalén terrenal (corrupta) con la celestial (perfecta). La imagen de la ciudad descendiendo refleja la creencia apocalíptica de un nuevo orden divino que reemplaza los imperios humanos.</p><h3>Implicaciones Teológicas</h3><p>La Nueva Jerusalén encarna la consumación del pacto: Dios habita con su pueblo (21:3). La montaña alta simboliza revelación y autoridad. La ciudad santa es el cumplimiento de las promesas proféticas (Isaías 2:2-3; Ezequiel 40-48). Teológicamente, enfatiza la gracia: la salvación no es ascenso humano, sino descenso divino. La escena invita a la iglesia a vivir en esperanza activa, anticipando la restauración final.</p>",
+    "ninos": "<h2>🌟 La Ciudad que Bajó del Cielo</h2><p>Imagina que estás en la cima de una montaña muy alta. De repente, ves una ciudad brillante que baja del cielo, como un globo enorme y hermoso. ¡Es la ciudad de Dios! Es más bonita que cualquier castillo de arena o casa de muñecas. Dios la hizo para que vivamos con Él para siempre. Allí no hay oscuridad, ni tristeza, ni peleas. Solo amor y alegría. Así como cuando abrazas a tu mamá o papá y te sientes seguro, así será vivir con Dios. La lección es: aunque a veces tengamos miedo o estemos solos, Dios nos prepara un lugar maravilloso. Confía en Él y sé bueno con los demás, porque un día todos estaremos juntos en esa ciudad feliz. 🏰✨</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Ezequiel 40:2",
+        "tipo": "Paralelo profético",
+        "razon": "Ezequiel también es llevado a un monte alto para ver la ciudad ideal."
+      },
+      {
+        "referencia": "Apocalipsis 21:2",
+        "tipo": "Precedente cercano",
+        "razon": "Describe la misma visión de la nueva Jerusalén descendiendo."
+      },
+      {
+        "referencia": "Isaías 2:2-3",
+        "tipo": "Cumplimiento profético",
+        "razon": "La montaña de la casa de Dios como centro de enseñanza."
+      },
+      {
+        "referencia": "Hebreos 12:22",
+        "tipo": "Temática",
+        "razon": "La Jerusalén celestial como la ciudad del Dios vivo."
+      }
+    ],
+    "prompt_imagen_ninos": "A glowing golden city descending from a bright sky onto a green mountain peak, surrounded by fluffy clouds, with a smiling child looking up in wonder, warm sunlight.",
+    "prompt_imagen_normal": "A massive, radiant city of gold and jewels descending from stormy heavens onto a rugged mountain, divine light piercing clouds, awe and hope on a lone figure's face.",
+    "texto_original": "Y llevóme en Espíritu a un grande y alto monte, y me mostró la grande ciudad santa de Jerusalem, que descendía del cielo de Dios,",
+    "versiculo": "Apocalipsis 21:10"
+  },
+  "11": {
+    "normal": "<h2>La Luz de Dios en Nosotros</h2><p>El versículo describe la gloria de Dios como una luz brillante y preciosa, como un jaspe cristalino. Esta luz no solo ilumina la Nueva Jerusalén, sino que también simboliza la pureza y la santidad de Dios. Para nosotros hoy, esta imagen nos recuerda que Dios nos llama a reflejar su luz en un mundo oscuro. Así como una joya preciosa atrae la atención, nuestra vida debe brillar con el amor y la verdad de Cristo. ¿Hay áreas en tu vida donde necesitas dejar que la luz de Dios brille más? Tal vez en tus palabras, tus acciones o tus pensamientos. Pídele a Dios que te ayude a ser un reflejo de su gloria, para que otros puedan verlo a través de ti.</p>",
+    "academico": "<h2>La Gloria Radiante: Análisis de Apocalipsis 21:11</h2><h3>Análisis Filológico</h3><p>El término griego φωστήρ (phōstēr) traducido como 'claridad' denota un cuerpo luminoso o fuente de luz. La palabra δόξα (doxa) para 'gloria' implica esplendor divino. La piedra ἴασπις (iaspis) es jaspe, una gema translúcida. El versículo usa una estructura comparativa: 'ὅμοιος' (homoios) que significa 'semejante'. La descripción enfatiza la transparencia y pureza de la luz divina.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, las piedras preciosas simbolizaban riqueza y poder divino. El jaspe, conocido en Egipto y Mesopotamia, era asociado con la protección. La imagen de la Nueva Jerusalén como una ciudad de gemas refleja la perfección del reino de Dios, contrastando con las ciudades terrenales corruptas.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la inmanencia de Dios: su gloria llena la ciudad. La ausencia de un templo (v.22) indica que Dios mismo es la luz. La transparencia del jaspe sugiere que nada oculta la presencia divina. Teológicamente, apunta a la esperanza escatológica donde los creyentes participan de la gloria de Dios.</p>",
+    "ninos": "<h2>🌟 La Ciudad Brillante</h2><p>Imagina una ciudad hecha de piedras preciosas que brillan como el sol. ¡Esa es la Nueva Jerusalén! La luz de Dios es tan hermosa que parece un diamante gigante. Cuando jugamos con amigos, podemos compartir esa luz siendo amables y ayudando a otros. Recuerda: así como una joya brilla, tú puedes brillar con el amor de Dios. ¡Haz hoy algo bueno para que otros vean la luz de Jesús en ti!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Ezequiel 1:27-28",
+        "tipo": "Temática",
+        "razon": "Describe la gloria de Dios como fuego resplandeciente y arcoíris"
+      },
+      {
+        "referencia": "Apocalipsis 4:3",
+        "tipo": "Temática",
+        "razon": "Menciona al que está sentado en el trono con aspecto de jaspe"
+      },
+      {
+        "referencia": "2 Corintios 4:6",
+        "tipo": "Doctrinal",
+        "razon": "Relaciona la luz de Dios con la iluminación del corazón"
+      }
+    ],
+    "prompt_imagen_ninos": "A glowing city made of colorful jewels, with bright light streaming from a central throne. Children playing happily in the streets, smiling and helping each other. Warm sunlight, joyful atmosphere.",
+    "prompt_imagen_normal": "A majestic golden city descending from heaven, bathed in intense radiant light. A crystal-like stone glowing with divine brilliance, illuminating the scene. Epic scale, awe-inspiring emotion.",
+    "texto_original": "Teniendo la claridad de Dios: y su luz era semejante a una piedra preciosísima, como piedra de jaspe, resplandeciente como cristal.",
+    "versiculo": "Apocalipsis 21:11"
+  },
+  "12": {
+    "normal": "<h2>La Puerta Abierta de Dios</h2><p>Imagina una ciudad con un muro tan alto y fuerte que nada malo puede entrar. Así es la Nueva Jerusalén, el hogar que Dios prepara para nosotros. En ese muro hay doce puertas, y en cada puerta hay un ángel. ¿Sabes qué significa esto? Que Dios nos cuida y nos da la bienvenida. Las puertas están abiertas para todos los que confían en Jesús. Los nombres escritos son los de las doce tribus de Israel, recordándonos que Dios siempre cumple sus promesas a su pueblo. Hoy, puedes estar seguro de que Dios tiene un lugar para ti. Así como esas puertas están abiertas, su amor está disponible para ti. Entra por esa puerta con fe, sabiendo que él te recibe con brazos abiertos. Vive con la esperanza de que un día estarás en esa ciudad, donde no hay dolor ni tristeza, solo la presencia de Dios.</p>",
+    "academico": "<h2>La Muralla y las Puertas de la Nueva Jerusalén</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>kai eichen teichos mega kai hupsēlon, echōn pōlōnas dōdeka, kai epi tois pōlōsin angelous dōdeka, kai onomata epigegrammena, ha estin tōn dōdeka phulōn uiōn Israēl</em>. La palabra <em>teichos</em> (muro) denota una muralla defensiva, mientras que <em>pōlōn</em> (puerta) se refiere a la entrada monumental. El número doce es simbólico de la totalidad del pueblo de Dios. Los ángeles guardianes reflejan la protección divina. Los nombres de las tribus de Israel conectan la iglesia con el Antiguo Pacto, mostrando la continuidad del plan redentor.</p><h3>Contexto Histórico</h3><p>En el mundo antiguo, las murallas eran esenciales para la seguridad de una ciudad. Las doce puertas corresponden a las doce tribus, evocando el campamento de Israel en el desierto (Números 2). Además, la mención de ángeles como centinelas recuerda las tradiciones judías de ángeles guardianes. La Nueva Jerusalén es la culminación de las promesas del Antiguo Testamento, donde Dios habita con su pueblo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la seguridad y la identidad del pueblo redimido. Las puertas abiertas indican acceso perpetuo a la presencia de Dios. Los nombres de las tribus subrayan la inclusión de todo Israel (tipológicamente, la iglesia) en la salvación. La visión escatológica ofrece esperanza: Dios completa su obra, y su pueblo es protegido y bienvenido para siempre.</p>",
+    "ninos": "🌟 ¡La Ciudad con Puertas de Colores!<p>Imagina una ciudad con un muro tan alto que toca las nubes. Tiene doce puertas enormes, y en cada puerta hay un ángel sonriente. ¡Es como un parque de diversiones gigante! Los nombres de las doce tribus de Israel están escritos en las puertas, como cuando pones tu nombre en tu mochila para que no se pierda. Dios quiere que todos sus hijos entren por esas puertas. Es como cuando llegas a tu casa y mamá te abre la puerta con una sonrisa. Así es Dios: siempre listo para recibirte. La lección es: Dios tiene un lugar especial para ti, y siempre puedes entrar si confías en él. ¡No tengas miedo, porque él te cuida!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Ezequiel 48:31-34",
+        "tipo": "Profecía",
+        "razon": "Visión de las puertas de la Nueva Jerusalén con los nombres de las tribus de Israel."
+      },
+      {
+        "referencia": "Apocalipsis 21:10-14",
+        "tipo": "Contexto",
+        "razon": "Descripción completa de la Nueva Jerusalén, incluyendo los cimientos con los nombres de los apóstoles."
+      },
+      {
+        "referencia": "Gálatas 3:28-29",
+        "tipo": "Teológico",
+        "razon": "Explica que los creyentes son herederos de las promesas hechas a Abraham, conectando con las tribus."
+      }
+    ],
+    "prompt_imagen_ninos": "A massive wall with 12 colorful gates, each guarded by a smiling angel. Children from different nations walk towards the gates. Bright sunshine, golden light, joyful atmosphere.",
+    "prompt_imagen_normal": "Epic panoramic view of a colossal white stone wall with 12 magnificent gates. Angels stand guard at each gate. Names of the 12 tribes inscribed above. Dramatic clouds and divine light shining through.",
+    "texto_original": "Y tenía un muro grande y alto con doce puertas; y en las puertas, doce ángeles, y nombres escritos, que son los de las doce tribus de los hijos de Israel.",
+    "versiculo": "Apocalipsis 21:12"
+  },
+  "13": {
+    "normal": "<h2>Puertas Abiertas en Todas las Direcciones</h2><p>Imagina una ciudad con doce puertas, tres en cada punto cardinal: oriente, norte, sur y poniente. En Apocalipsis 21:13, Juan describe la Nueva Jerusalén como un lugar de acceso total. No importa de dónde vengas o hacia dónde te dirijas, siempre hay una entrada. Esto nos recuerda que Dios no tiene favoritismos ni barreras. Su amor está disponible para todos, sin importar nuestra procedencia, cultura o pasado. En nuestra vida diaria, a veces sentimos que ciertas puertas se cierran: oportunidades, relaciones, o incluso nuestro propio corazón. Pero este versículo nos invita a confiar en que Dios siempre tiene una puerta abierta para nosotros. Quizás hoy necesitas recordar que no estás atrapado; hay una salida, una nueva oportunidad, un camino hacia la esperanza. Aplica esto: ¿Hay alguna área de tu vida donde te sientas cerrado? Ora pidiendo a Dios que te muestre la puerta que Él ha abierto. Y así como la ciudad tiene puertas en todas direcciones, extiende ese mismo acceso a los demás: sé una persona acogedora, sin prejuicios, que refleje la gracia de Dios.</p>",
+    "academico": "<h2>La Simbología de las Puertas en la Nueva Jerusalén</h2><h3>Análisis Filológico</h3><p>El versículo utiliza los términos griegos πυλῶνες (pylōnes, puertas) y ἀνατολῆς (anatolēs, oriente), βορρᾶ (borrha, norte), νότου (notou, sur), δυσμῶν (dysmōn, occidente). La repetición de τρεῖς (treis, tres) enfatiza la totalidad. En hebreo, las direcciones tienen connotaciones teológicas: el oriente (קֶדֶם, qedem) a menudo asociado con el Edén y la presencia divina; el norte (צָפוֹן, tsafón) con el monte Sión; el sur (נֶגֶב, negev) con la tierra seca pero bendecida; y el occidente (יָם, yam) con el mar, a veces símbolo de juicio. Las doce puertas (tres por cada lado) representan a las doce tribus de Israel (Apocalipsis 21:12), indicando la continuidad del pacto con el pueblo de Dios.</p><h3>Contexto Histórico</h3><p>En el mundo antiguo, las puertas de una ciudad eran cruciales para la defensa y el comercio. La descripción de puertas en cada dirección sugiere una ciudad abierta y accesible, en contraste con las ciudades fortificadas de la época. La Nueva Jerusalén, sin embargo, tiene puertas que nunca se cierran (Apocalipsis 21:25), simbolizando seguridad perpetua y hospitalidad divina. La disposición cuadrangular refleja la estructura del campamento israelita en el desierto (Números 2) y la visión de Ezequiel (Ezequiel 48:30-35), donde la ciudad santa tiene puertas con nombres de las tribus.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la universalidad del evangelio: la salvación está disponible para todos los pueblos, representados por los cuatro puntos cardinales. Las puertas abiertas indican que no hay exclusión ni discriminación en el reino de Dios. Además, la presencia de doce puertas (tres por lado) apunta a la plenitud del pueblo de Dios (doce tribus) y a la perfección divina (tres). Teológicamente, la Nueva Jerusalén es el cumplimiento de las promesas de restauración y comunión con Dios, donde el acceso a Su presencia es total y sin obstáculos.</p>",
+    "ninos": "<h2>🌟 La Ciudad con Muchas Puertas</h2><p>Imagina una ciudad gigante y hermosa, como un castillo de cuento de hadas, pero mejor. En Apocalipsis 21:13, leemos que esta ciudad tiene ¡doce puertas! Tres puertas en el este, tres en el norte, tres en el sur y tres en el oeste. Es como si Dios dijera: '¡Bienvenidos todos! No importa de dónde vengas, siempre hay una puerta para ti'. Piensa en tu escuela: hay varias entradas, ¿verdad? Algunos niños entran por la puerta principal, otros por la de atrás. Así es la ciudad de Dios: siempre hay una entrada para cada persona. Si alguna vez te sientes solo o dejado fuera, recuerda que en el cielo hay una puerta con tu nombre. Y mientras tanto, tú también puedes ser como esas puertas: abierto y amable con todos, sin importar cómo sean. La lección es: Dios nos recibe a todos, y nosotros debemos recibir a los demás con amor. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Ezequiel 48:30-35",
+        "tipo": "Paralelo profético",
+        "razon": "Ezequiel describe la Nueva Jerusalén con puertas que llevan los nombres de las tribus, similar a Apocalipsis 21:13."
+      },
+      {
+        "referencia": "Apocalipsis 21:12",
+        "tipo": "Contexto inmediato",
+        "razon": "Describe las doce puertas con los nombres de las doce tribus, conectando directamente con el versículo 13."
+      },
+      {
+        "referencia": "Gálatas 3:28",
+        "tipo": "Temática",
+        "razon": "Habla de la unidad en Cristo sin distinción, reflejando la accesibilidad universal de las puertas."
+      },
+      {
+        "referencia": "Juan 10:9",
+        "tipo": "Tipológico",
+        "razon": "Jesús dice 'Yo soy la puerta', conectando la imagen de las puertas con Cristo como acceso a la salvación."
+      }
+    ],
+    "prompt_imagen_ninos": "A giant golden city with twelve glowing gates, three on each side. Children from all over the world happily walking through different gates. Bright sunlight, colorful flags, and smiling faces.",
+    "prompt_imagen_normal": "Epic aerial view of the New Jerusalem at dawn. Massive golden gates on each side, radiant light, and diverse people streaming in. Dramatic clouds and awe-inspiring atmosphere.",
+    "texto_original": "Al oriente tres puertas; al norte tres puertas; al mediodiá tres puertas; al poniente tres puertas.",
+    "versiculo": "Apocalipsis 21:13"
+  },
+  "14": {
+    "normal": "<h2>Fundamentos Firmes</h2><p>Imagina una ciudad con muros enormes, pero no cualquier muro: sus cimientos llevan nombres. Doce nombres, los de los apóstoles del Cordero. Esto nos recuerda que nuestra fe no es una idea suelta, sino que está construida sobre personas reales que vivieron, enseñaron y murieron por Jesús. Así como esos doce fundamentos sostienen la ciudad celestial, los apóstoles sostienen la verdad del evangelio para nosotros hoy. ¿En qué estás construyendo tu vida? ¿Sobre opiniones cambiantes o sobre la roca firme de la enseñanza apostólica? Tómate un momento para agradecer por aquellos que te han transmitido la fe, y decide edificar tu día sobre la Palabra que ellos nos legaron.</p>",
+    "academico": "<h2>Los Doce Fundamentos: Una Visión de la Iglesia Apostólica</h2><h3>Análisis Filológico</h3><p>El término griego para 'fundamentos' es <i>themelioi</i> (θεμέλιοι), que denota bases estructurales. 'Doce' (<i>dōdeka</i>, δώδεκα) aparece tres veces, enfatizando la totalidad y el orden. 'Apóstoles del Cordero' (<i>apostoloi tou arniou</i>, ἀπόστολοι τοῦ ἀρνίου) vincula el ministerio apostólico con la obra redentora de Cristo. La frase 'en ellos' (<i>ep' autois</i>, ἐπʼ αὐτοῖς) indica inscripción o grabado, sugiriendo permanencia y honor.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, los nombres de fundadores se grababan en piedras angulares de ciudades o templos. Aquí, Juan adapta esta práctica a la Nueva Jerusalén, presentando a los apóstoles como fundadores espirituales. El número doce evoca las doce tribus de Israel, mostrando continuidad y cumplimiento en la iglesia.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la autoridad apostólica como base de la iglesia (Ef 2:20). Los apóstoles son testigos autorizados de la resurrección y transmisores de la revelación divina. La mención del 'Cordero' asegura que su autoridad deriva de Cristo. La imagen escatológica ofrece esperanza: la iglesia, fundada sobre los apóstoles, tendrá un lugar eterno en la ciudad de Dios.</p>",
+    "ninos": "<h2>🌟 Los Cimientos Especiales</h2><p>Imagina que estás construyendo un castillo de bloques. Si pones los bloques sobre arena, se caerán. Pero si los pones sobre una base firme, ¡se mantendrán en pie! En el libro de Apocalipsis, Dios muestra una ciudad preciosa con muros que tienen doce piedras especiales en la base. En cada piedra está escrito el nombre de un amigo de Jesús: los apóstoles. Ellos fueron como los primeros bloques de la iglesia. Así como tu casa necesita buenos cimientos, nuestra fe está construida sobre las enseñanzas de estos hombres que conocieron a Jesús. Lección: Siempre podemos confiar en lo que los apóstoles nos enseñaron en la Biblia, porque ellos estuvieron con Jesús.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 2:19-20",
+        "tipo": "tema compartido",
+        "razon": "Pablo describe a la iglesia edificada sobre el fundamento de los apóstoles y profetas, siendo Cristo la piedra angular."
+      },
+      {
+        "referencia": "Mateo 16:18",
+        "tipo": "conexión tipológica",
+        "razon": "Jesús promete edificar su iglesia sobre Pedro (petros), relacionado con el concepto de fundamento."
+      },
+      {
+        "referencia": "Apocalipsis 21:10-14",
+        "tipo": "contexto inmediato",
+        "razon": "El versículo 14 es parte de la descripción de la Nueva Jerusalén, que incluye los doce fundamentos con nombres de apóstoles."
+      }
+    ],
+    "prompt_imagen_ninos": "A large wall with twelve colorful foundation stones, each engraved with a name. Bright light shines from above. Friendly, cartoonish style.",
+    "prompt_imagen_normal": "Epic view of the New Jerusalem's wall with twelve massive stone foundations, each inscribed with a name. Dramatic lighting, golden glow, sense of divine majesty.",
+    "texto_original": "Y el muro de la ciudad tenía doce fundamentos, y en ellos los doce nombres de los doce apóstoles del Cordero.",
+    "versiculo": "Apocalipsis 21:14"
+  },
+  "15": {
+    "normal": "<h2>La Medida de Dios</h2><p>En Apocalipsis 21:15, Juan ve a un ángel con una caña de oro para medir la ciudad celestial. Esta imagen nos recuerda que Dios es un Dios de orden y precisión. No es un Dios de caos, sino que todo lo hace con propósito y medida. En nuestra vida diaria, a menudo sentimos que todo está fuera de control: el trabajo, la familia, las finanzas. Pero este versículo nos invita a confiar en que Dios tiene un plan perfecto para nosotros. Así como el ángel mide la ciudad, Dios mide nuestras circunstancias y sabe exactamente lo que necesitamos. La caña de oro simboliza el valor incalculable de la ciudad de Dios, pero también el valor que Él nos da a nosotros. Hoy, tómate un momento para reflexionar: ¿estás permitiendo que Dios ponga orden en tu vida? ¿Confías en que Él mide cada situación con amor y sabiduría? Permítele que sea tu guía y tu medida.</p>",
+    "academico": "<h2>Análisis Filológico y Teológico de Apocalipsis 21:15</h2><h3>Análisis Filológico</h3><p>El versículo dice: \"Y el que hablaba conmigo, tenía una medida de una caña de oro para medir la ciudad, y sus puertas, y su muro.\" El término griego para \"caña\" es κάλαμος (kalamos), que puede referirse a una vara de medir o una caña de escribir. En el AT, la vara de medir aparece en Ezequiel 40:3, donde un hombre con un cordel de lino y una caña de medir examina el templo. El uso de \"oro\" (χρυσοῦς, chrysous) subraya el valor y la santidad de la ciudad. El verbo \"medir\" (μετρέω, metreo) implica una acción precisa que establece límites y proporciones. En el contexto apocalíptico, la medida no es solo física, sino que simboliza la perfección y el orden divino. La ciudad, las puertas y el muro representan la totalidad del espacio sagrado, indicando que todo está bajo el control de Dios.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, medir una ciudad era un acto de fundación o conquista. Los reyes medían los límites de las ciudades para afirmar su autoridad. En la literatura apocalíptica judía, como 1 Enoc, se describe la medición del cielo y la tierra como parte del juicio divino. Juan, escribiendo a iglesias perseguidas, ofrece esperanza: la Nueva Jerusalén es medida por Dios mismo, indicando que es segura y perfecta. La caña de oro contrasta con las medidas humanas, que son corruptibles. Además, el oro apunta al lujo del templo y del tabernáculo, sugiriendo que la ciudad es el nuevo templo de Dios.</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, este versículo enfatiza la soberanía de Dios sobre la creación. La medición indica que la ciudad tiene dimensiones perfectas (ver 21:16), simbolizando la plenitud y la comunión con Dios. Para el creyente, es una promesa de que Dios tiene un lugar preparado, medido con precisión para cada uno (Juan 14:2). También implica que Dios es un Dios de orden, no de caos. La caña de oro recuerda el valor del sacrificio de Cristo, que hace posible la entrada a la ciudad. En la vida cristiana, esto nos llama a vivir con propósito, sabiendo que nuestras vidas están medidas por la gracia de Dios.</p>",
+    "ninos": "🌟 <h2>La Caña de Oro de Dios</h2><p>Imagina que tienes una regla mágica de oro. Con ella puedes medir todo: tu cuarto, tu casa, hasta el cielo. En Apocalipsis, un ángel usó una caña de oro para medir la ciudad de Dios. ¿Por qué? ¡Porque Dios quiere que todo sea perfecto! Así como tú mides tus bloques para que la torre no se caiga, Dios mide su ciudad para que sea segura y hermosa. La caña de oro nos enseña que Dios cuida cada detalle. ¿Sabes qué? También te cuida a ti. Él sabe cuánto mides, cuánto creces, y te ama tal como eres. Así que no te preocupes si algo no sale bien. Dios tiene una medida especial para ti: ¡amor! Recuerda: Dios es como un constructor que mide todo con cuidado para que tú estés feliz y seguro en su casa.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Ezequiel 40:3",
+        "tipo": "paralelo",
+        "razon": "También describe a un hombre con una caña de medir el templo, similar a la imagen de Apocalipsis."
+      },
+      {
+        "referencia": "Apocalipsis 21:16",
+        "tipo": "secuencia",
+        "razon": "Continúa describiendo las medidas de la ciudad, dando contexto a la medición."
+      },
+      {
+        "referencia": "Zacarías 2:1-2",
+        "tipo": "paralelo",
+        "razon": "Un ángel mide Jerusalén, mostrando la tradición profética de medir la ciudad de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A glowing golden measuring rod held by an angel's hand, with a child-like city of gold and jewels in the background, bright sunlight, warm colors, sense of wonder.",
+    "prompt_imagen_normal": "A majestic angel holding a golden reed, measuring the towering walls of a radiant celestial city, dramatic lighting, epic scale, awe and reverence in the scene.",
+    "texto_original": "Y el que hablaba conmigo, tenía una medida de una caña de oro para medir la ciudad, y sus puertas, y su muro.",
+    "versiculo": "Apocalipsis 21:15"
+  },
+  "16": {
+    "normal": "<h2>La Ciudad de la Medida Perfecta</h2><p>Imagina una ciudad tan perfecta que sus dimensiones son iguales: largura, anchura y altura. En Apocalipsis 21:16, Juan describe la Nueva Jerusalén como un cubo perfecto, midiendo 12,000 estadios (aproximadamente 2,200 kilómetros). Esto no es solo un detalle arquitectónico; es una declaración teológica. La perfección de la ciudad refleja la perfección de Dios y su plan redentor. Para nosotros hoy, este versículo nos recuerda que Dios tiene un lugar preparado para nosotros, un lugar de plenitud y seguridad. En medio de un mundo caótico, podemos aferrarnos a la esperanza de que Dios está construyendo algo hermoso y eterno. Pregúntate: ¿Estás viviendo con la mirada puesta en esa ciudad eterna? ¿O estás demasiado ocupado con las cosas pasajeras de este mundo? Que esta visión te anime a buscar primero el reino de Dios, sabiendo que Él tiene un plan perfecto para tu vida.</p>",
+    "academico": "<h2>La Medida de la Nueva Jerusalén: Un Análisis Filológico y Teológico</h2><h3>Análisis Filológico</h3><p>El término griego para 'medir' es <em>metreō</em> (μετρέω), que implica una acción deliberada de determinar dimensiones. La palabra 'caña' es <em>kalamos</em> (κάλαμος), una vara de medir de aproximadamente 3 metros. 'Estadio' (<em>stadion</em>, στάδιον) era una unidad de longitud de unos 185 metros. Así, 12,000 estadios equivalen a unos 2,220 kilómetros. La forma cúbica de la ciudad (igualdad de largura, anchura y altura) evoca el Lugar Santísimo del tabernáculo y del templo, que también era un cubo perfecto (1 Reyes 6:20). Esto sugiere que toda la ciudad es un santuario, la morada misma de Dios.</p><h3>Contexto Histórico</h3><p>En el mundo antiguo, las ciudades amuralladas eran símbolos de poder y seguridad. La Nueva Jerusalén, sin embargo, no necesita murallas defensivas porque Dios mismo es su protección. La medida de 12,000 estadios, múltiplo de 12 (número de las tribus de Israel y de los apóstoles), indica la totalidad del pueblo de Dios. La forma cúbica también recuerda el cubo de la 'piedra angular' en la arquitectura antigua, simbolizando la perfección y la estabilidad.</p><h3>Implicaciones Teológicas</h3><p>La igualdad de las dimensiones sugiere que en la Nueva Jerusalén no hay jerarquías espaciales; todos los redimidos tienen igual acceso a la presencia de Dios. Además, la ciudad es un espacio sagrado sin división entre lo secular y lo santo. Teológicamente, esto apunta a la restauración de la creación: el cielo y la tierra se unen en un nuevo orden donde Dios habita con su pueblo. La perfección de la medida también contrasta con la imperfección del mundo caído, ofreciendo esperanza escatológica.</p>",
+    "ninos": "🌟 ¡Una Ciudad Muy Especial! 🌟<p>Imagina que estás construyendo una ciudad con bloques. ¡Pero no una ciudad cualquiera! En la Biblia, Juan vio una ciudad que era como un cubo gigante: ¡tan alta como ancha y tan larga como alta! Medía 12,000 estadios, que es más grande que cualquier ciudad que conozcas. ¿Sabes qué significa eso? Que Dios está preparando un lugar perfecto para nosotros, donde todo es justo y hermoso. Es como cuando haces una torre de bloques y tratas de que quede derecha; Dios hace que todo sea perfecto. La lección es: no te preocupes por las cosas que no son perfectas ahora, porque Dios tiene un plan perfecto para ti. ¡Confía en Él!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Reyes 6:20",
+        "tipo": "Tipo",
+        "razon": "El Lugar Santísimo del templo de Salomón era un cubo perfecto, prefigurando la Nueva Jerusalén como santuario divino."
+      },
+      {
+        "referencia": "Ezequiel 48:30-35",
+        "tipo": "Profecía",
+        "razon": "Ezequiel describe la ciudad santa con medidas simbólicas, similar a la visión de Juan."
+      },
+      {
+        "referencia": "Apocalipsis 21:10-14",
+        "tipo": "Contexto",
+        "razon": "Versículos anteriores describen la ciudad con doce puertas y fundamentos, estableciendo el marco de la medición."
+      }
+    ],
+    "prompt_imagen_ninos": "A giant cube-shaped city made of gold and jewels, with children playing in bright streets, smiling angels flying above, warm sunlight, colorful gardens, friendly animals.",
+    "prompt_imagen_normal": "Epic cinematic view of a massive cubic city descending from heaven, golden light, intricate architecture, angels hovering, awe-inspired human figures looking up, dramatic clouds.",
+    "texto_original": "Y la ciudad está situada y puesta en cuadro, y su largura es tanta como su anchura: y él midió la ciudad con la caña, doce mil estadios: la largura y la altura y la anchura de ella son iguales.",
+    "versiculo": "Apocalipsis 21:16"
+  },
+  "17": {
+    "normal": "<h2>La Medida de la Gracia</h2><p>En Apocalipsis 21:17, Juan describe la muralla de la Nueva Jerusalén: 144 codos de altura. Esta medida, aunque específica, no es tanto sobre dimensiones físicas sino sobre la perfección divina (12 x 12). Para nosotros hoy, este muro representa la protección y seguridad que Dios provee. No es una barrera para excluir, sino un límite santo que nos guarda. En nuestra vida diaria, a menudo enfrentamos miedos e inseguridades. Pero así como la muralla protege la ciudad, Dios nos rodea con su amor y poder. Cuando te sientas vulnerable, recuerda que estás seguro en Cristo. Él es nuestro refugio eterno. Practica la gratitud por esa protección y confía en que Él cuida de ti.</p>",
+    "academico": "<h2>La Muralla de la Jerusalén Celestial: Medida y Significado</h2><h3>Análisis Filológico</h3><p>El término griego para 'codos' es πηχῶν (pēchōn), medida de longitud desde el codo hasta la punta de los dedos (~45 cm). La frase 'medida de hombre, la cual es del ángel' (μέτρον ἀνθρώπου, ὅ ἐστιν ἀγγέλου) indica que la medida es humana pero también angélica, sugiriendo una escala comprensible pero divina. El número 144 (12x12) simboliza plenitud del pueblo de Dios (12 tribus + 12 apóstoles).</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, las murallas eran símbolo de poder y protección. La Nueva Jerusalén contrasta con Babilonia, cuyos muros eran de orgullo humano. Aquí, la muralla es de jaspe (v.18), reflejando la gloria de Dios.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la seguridad eterna de los redimidos. La medida precisa muestra el orden divino en el nuevo cielo y tierra. La inclusión de 'medida de hombre' subraya que la salvación es accesible a la humanidad a través de Cristo.</p>",
+    "ninos": "<h2>🌟 El Muro Gigante de la Ciudad de Dios</h2><p>Imagina una ciudad con un muro tan alto que no puedes ver la cima. ¡Esa es la Nueva Jerusalén! Mide 144 codos, que es como 64 metros. ¿Sabes qué significa? Que Dios nos protege como un papá fuerte. Cuando tengas miedo, recuerda que Dios es tu muro. Él te cuida siempre. Lección: Confía en Dios, Él te protege como un muro gigante.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Ezequiel 40:5",
+        "tipo": "Profecía",
+        "razon": "Visión del templo con medidas angélicas, similar a la medición de la ciudad."
+      },
+      {
+        "referencia": "Apocalipsis 21:15-16",
+        "tipo": "Contexto",
+        "razon": "Describe la medición de la ciudad y sus dimensiones."
+      },
+      {
+        "referencia": "Zacarías 2:1-5",
+        "tipo": "Profecía",
+        "razon": "Visión de un hombre midiendo Jerusalén, promesa de protección divina."
+      }
+    ],
+    "prompt_imagen_ninos": "A giant golden wall stretching high into bright clouds. Small angel with measuring rod smiles. Child looks up in wonder. Warm sunlight, colorful gems on wall. Joyful, safe feeling.",
+    "prompt_imagen_normal": "Epic scene: massive jasper wall of New Jerusalem, glowing with divine light. Angel measures with golden reed. Dramatic clouds, awe-inspiring scale. Emotion of reverence and security.",
+    "texto_original": "Y midió su muro, ciento cuarenta y cuatro codos, de medida de hombre, la cual es del ángel.",
+    "versiculo": "Apocalipsis 21:17"
+  },
+  "18": {
+    "normal": "<h2>La Belleza de la Santidad</h2><p>Imagina una ciudad tan pura que sus calles son de oro transparente como vidrio. Así describe Apocalipsis 21:18 la Nueva Jerusalén. Pero este oro no es solo material; simboliza la santidad de Dios y su presencia perfecta. El muro de jaspe nos habla de protección y firmeza, mientras que el oro transparente sugiere que en el cielo no hay nada oculto, todo es genuino. Para nosotros hoy, este versículo nos invita a anhelar esa pureza en nuestras vidas. ¿Estamos permitiendo que Dios refine nuestro carácter, como el oro en el fuego? La transparencia del oro nos recuerda que ante Dios no podemos esconder nada; él ve nuestro corazón. Así que vivamos con integridad, buscando ser transparentes en nuestras relaciones y sinceros en nuestra fe. Que la esperanza de esa ciudad santa nos motive a caminar en luz, reflejando aquí un poco del brillo del cielo.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:18</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el término griego <em>katharos</em> (καθαρός) para 'limpio', que implica pureza ritual y moral. El 'oro puro' (<em>chrusion katharon</em>) contrasta con el oro terrenal, a menudo aleado. La comparación con 'vidrio limpio' (<em>hualos katharos</em>) sugiere transparencia absoluta, una cualidad divina. El 'jaspe' (<em>iaspis</em>) probablemente se refiere al diamante o una piedra traslúcida, no al jaspe opaco moderno. Filológicamente, Juan enfatiza la naturaleza inmaculada y celestial de la Nueva Jerusalén.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, las ciudades amuralladas simbolizaban seguridad y poder. El oro y las piedras preciosas eran asociados con la realeza y lo divino. Para los cristianos del primer siglo perseguidos por el Imperio Romano, esta visión ofrecía esperanza de un reino eterno y perfecto, contrastando con la opresión terrenal. La transparencia del oro también podría aludir a la gloria de Dios que todo lo impregna, sin necesidad de templo (Ap 21:22).</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, la descripción subraya la santidad de Dios y la redención completa de su pueblo. El oro puro y transparente simboliza la naturaleza divina y la pureza de los redimidos. El muro de jaspe indica que la salvación es segura e inexpugnable. Este versículo anticipa la consumación del plan de Dios donde lo material es transformado por lo espiritual, y la creación misma participa de la gloria de Dios.</p>",
+    "ninos": "<h2>🌟 La Ciudad de Oro Brillante</h2><p>Imagina una ciudad hecha de oro, ¡pero no cualquier oro! Es tan puro que parece vidrio, y puedes ver a través de él. Los muros son de una piedra preciosa llamada jaspe, que brilla como un diamante. Así es la Nueva Jerusalén, la ciudad que Dios preparó para sus hijos. Es como si Dios hubiera usado sus mejores materiales para construir un lugar perfecto, donde no hay tristeza ni maldad. ¿Sabes qué? Así como el oro transparente no esconde nada, en el cielo todos seremos sinceros y amables. Podemos empezar a ser así desde ahora: siendo honestos con nuestros amigos y familiares. La lección es: Dios quiere que seamos puros por dentro, como ese oro brillante. ¡Vamos a practicar la honestidad hoy!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Apocalipsis 21:19-21",
+        "tipo": "Continuidad",
+        "razon": "Describe los cimientos de la ciudad con piedras preciosas."
+      },
+      {
+        "referencia": "Apocalipsis 21:11",
+        "tipo": "Paralelismo",
+        "razon": "Menciona el resplandor de la ciudad similar a una piedra preciosa."
+      },
+      {
+        "referencia": "Isaías 54:11-12",
+        "tipo": "Profecía",
+        "razon": "Profetiza una Nueva Jerusalén adornada con piedras preciosas."
+      }
+    ],
+    "prompt_imagen_ninos": "A child standing in awe before a massive golden city wall that is transparent like glass, with a bright glowing light inside, smiling, cartoon style, vibrant colors.",
+    "prompt_imagen_normal": "Epic wide shot of the New Jerusalem descending from heaven, walls of jasper glowing, streets of transparent gold, divine light radiating, dramatic clouds, awe-inspiring, photorealistic.",
+    "texto_original": "Y el material de su muro era de jaspe: mas la ciudad era de oro puro, semejante al vidrio limpio.",
+    "versiculo": "Apocalipsis 21:18"
+  },
+  "19": {
+    "normal": "<h2>El fundamento de nuestra fe</h2><p>En Apocalipsis 21, Juan describe la Nueva Jerusalén que desciende del cielo, una ciudad de belleza incomparable. Los fundamentos de sus muros están adornados con piedras preciosas, cada una única y valiosa. Esto nos recuerda que nuestra fe no se basa en algo frágil, sino en un fundamento sólido y hermoso: Jesucristo mismo. Así como cada piedra contribuye a la gloria de la ciudad, cada creyente es una parte esencial del plan de Dios. En tu vida diaria, ¿estás construyendo sobre el fundamento correcto? Cuando enfrentes pruebas, recuerda que Dios te ha puesto sobre la Roca firme. Deja que Su Palabra sea tu guía, y verás cómo tu fe se vuelve más preciosa que cualquier gema.</p>",
+    "academico": "<h2>Análisis exegético de Apocalipsis 21:19</h2><h3>Análisis Filológico</h3><p>El texto griego utiliza τίμιος λίθος (timios lithos, 'piedra preciosa') para describir los fundamentos. La palabra jaspe proviene de ἴασπις (iaspis), una piedra translúcida; zafiro de σάπφειρος (sappheiros); calcedonia de χαλκηδών (chalkedon); y esmeralda de σμάραγδος (smaragdos). Estas piedras evocan las del pectoral del sumo sacerdote (Éxodo 28:17-20) y las del Edén (Ezequiel 28:13), conectando la Nueva Jerusalén con el paraíso perdido y el sacerdocio celestial.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente antiguo, las piedras preciosas simbolizaban riqueza, poder y divinidad. Las listas de gemas en textos ugaríticos y babilónicos reflejan la creencia en su origen celestial. Juan, escribiendo a iglesias perseguidas bajo el Imperio Romano, contrasta la opulencia efímera de Roma con la gloria eterna de la ciudad de Dios. Los doce fundamentos corresponden a los doce apóstoles (21:14), indicando que la iglesia está edificada sobre su testimonio.</p><h3>Implicaciones Teológicas</h3><p>La descripción enfatiza la santidad y perfección de la morada de Dios. Cada piedra, con su color y brillo único, refleja diferentes aspectos de la gloria divina. La variedad de gemas sugiere la diversidad dentro de la unidad del pueblo de Dios. Teológicamente, este versículo apunta a la restauración de la creación, donde la belleza y el valor intrínseco de cada elemento redimido se manifiestan plenamente.</p>",
+    "ninos": "<h2>🌟 Las piedras brillantes de la ciudad de Dios</h2><p>Imagina una ciudad enorme, más grande que cualquier cosa que hayas visto. Sus muros son tan altos que tocan las nubes, ¡y sus bases están hechas de piedras que brillan como tesoros! La primera piedra es verde como un bosque, la segunda azul como el cielo, la tercera es como un arcoíris, y la cuarta verde brillante como una hoja nueva. Estas piedras son como los cimientos de una casa: todo lo demás se sostiene sobre ellas. En el cielo, Dios nos muestra que su amor es fuerte y hermoso. Así como cada piedra es especial, tú también eres especial para Dios. Él te ha puesto en su familia para siempre. ¿No es genial saber que perteneces a un lugar tan maravilloso? ¡Sonríe, porque Dios te ama mucho! 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Éxodo 28:17-20",
+        "tipo": "paralelo tipológico",
+        "razon": "El pectoral del sumo sacerdote también tenía doce piedras preciosas, conectando el sacerdocio levítico con la Nueva Jerusalén."
+      },
+      {
+        "referencia": "Ezequiel 28:13",
+        "tipo": "paralelo profético",
+        "razon": "El Edén descrito con piedras preciosas prefigura la restauración del paraíso en la Nueva Jerusalén."
+      },
+      {
+        "referencia": "Apocalipsis 21:14",
+        "tipo": "contextual",
+        "razon": "Los doce fundamentos corresponden a los doce apóstoles, mostrando que la iglesia está edificada sobre su testimonio."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child looking up at a giant wall with colorful gemstone foundations: green jasper, blue sapphire, rainbow chalcedony, bright emerald. Warm sunlight, smiling faces, whimsical clouds.",
+    "prompt_imagen_normal": "Epic shot of the New Jerusalem's wall foundation: four massive precious stones (jasper, sapphire, chalcedony, emerald) glowing under golden light. Dramatic clouds, sense of divine glory, awe-inspiring scale.",
+    "texto_original": "Y los fundamentos del muro de la ciudad estaban adornados de toda piedra preciosa. El primer fundamento era jaspe; el segundo, zafiro; el tercero, calcedonia; el cuarto, esmeralda;",
+    "versiculo": "Apocalipsis 21:19"
+  },
+  "20": {
+    "normal": "<h2>Los Cimientos de la Esperanza</h2><p>En Apocalipsis 21, Juan describe la Nueva Jerusalén que desciende del cielo, adornada con piedras preciosas que forman sus cimientos. Cada piedra representa una verdad sólida sobre Dios y su reino. El versículo 20 enumera doce gemas: sardónica, sardio, crisólito, berilo, topacio, crisopraso, jacinto y amatista. Estas piedras no solo son hermosas, sino que simbolizan la gloria, la diversidad y la perfección de la obra de Dios. Así como un joyero elige cuidadosamente cada gema, Dios ha diseñado un lugar eterno para nosotros, lleno de belleza y significado. En medio de las pruebas de la vida, recordemos que nuestro futuro está asegurado en Cristo. La esperanza del cielo no es una fantasía, sino una realidad que transforma nuestra manera de vivir hoy. Podemos enfrentar las dificultades con fe, sabiendo que hay un hogar preparado para nosotros, más valioso que cualquier tesoro terrenal. Que esta verdad nos anime a vivir con gratitud y a compartir esta esperanza con otros.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:20</h2><h3>Análisis Filológico</h3><p>El texto griego lista doce piedras preciosas: σαρδόνυξ (sardónix), σάρδιον (sardio), χρυσόλιθος (crisólito), βήρυλλος (berilo), τοπάζιον (topacio), χρυσόπρασος (crisopraso), ὑάκινθος (jacinto), ἀμέθυστος (amatista). Estas piedras aparecen también en el pectoral del sumo sacerdote (Éxodo 28:17-20) y en la descripción de la Nueva Jerusalén en Isaías 54:11-12. La correspondencia entre las doce tribus de Israel y los doce apóstoles sugiere un simbolismo eclesiológico: la Iglesia fundamentada en el testimonio apostólico. El término \"θεμέλιοι\" (cimientos) indica una base sólida, contrastando con la inestabilidad del pecado.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, las piedras preciosas eran símbolo de realeza y divinidad. Las minas de topacio en Etiopía y de amatista en Egipto eran conocidas. La lista refleja el comercio de gemas en el mundo grecorromano. Apocalipsis fue escrito en un contexto de persecución, por lo que la imagen de una ciudad con cimientos de gemas ofrecía esperanza de un reino indestructible. La numerología (12 cimientos) conecta con las 12 tribus y los 12 apóstoles, unificando el Antiguo y Nuevo Testamento.</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, las piedras preciosas apuntan a la gloria de Dios y la perfección de su creación redimida. Cada piedra tiene propiedades únicas (dureza, brillo, color), sugiriendo la diversidad y unidad de los creyentes. La Nueva Jerusalén no es solo un lugar físico, sino la morada de Dios con su pueblo. La belleza de los cimientos nos recuerda que la salvación es obra de Dios, no humana. Además, la transparencia de algunas piedras (como el berilo) simboliza la pureza y la luz divina que ilumina la ciudad. En resumen, el versículo enfatiza la seguridad, la belleza y la plenitud del plan redentor de Dios.</p>",
+    "ninos": "🌟 ¡Las Piedras Preciosas de la Ciudad de Dios! 🌟\n\nImagina que estás construyendo una casa de juguete con bloques de colores. ¡Qué divertido! Ahora imagina que Dios está construyendo una ciudad enorme y hermosa, ¡y sus bloques son piedras preciosas! En Apocalipsis 21:20, Dios nos muestra los cimientos de esa ciudad: son como un arcoíris de gemas brillantes: sardónica, sardio, crisólito, berilo, topacio, crisopraso, jacinto y amatista. ¡Cada piedra es diferente y especial! Así como tú tienes amigos con talentos distintos, en el cielo todos somos importantes y únicos para Dios. La ciudad de Dios es tan segura y fuerte que nada malo puede entrar. ¿Sabes qué? Tú puedes ser parte de esa ciudad si amas a Jesús. Así que recuerda: Dios te creó especial, y tiene un lugar hermoso preparado para ti. ¡Comparte esa alegría con otros!",
+    "recomendaciones": [
+      {
+        "referencia": "Éxodo 28:17-20",
+        "tipo": "Paralelo",
+        "razon": "Lista similar de piedras en el pectoral del sumo sacerdote, conectando el AT con la Nueva Jerusalén."
+      },
+      {
+        "referencia": "Isaías 54:11-12",
+        "tipo": "Profecía",
+        "razon": "Descripción profética de la Nueva Jerusalén con piedras preciosas como cimientos."
+      },
+      {
+        "referencia": "Apocalipsis 21:14",
+        "tipo": "Contexto",
+        "razon": "Los doce cimientos tienen los nombres de los doce apóstoles, relacionado con las piedras."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child building a colorful castle with giant gemstone blocks shaped like sardonyx, topaz, amethyst, glowing under a bright rainbow sky, surrounded by friendly animals.",
+    "prompt_imagen_normal": "Epic cinematic view of the New Jerusalem descending from heaven, its twelve foundations made of massive, luminous gemstones, each a different color, radiating divine light, with clouds and angels.",
+    "texto_original": "El quinto, sardónica; el sexto, sardio; el séptimo, crisólito; el octavo, berilo; el nono, topacio; el décimo, crisopraso; el undécimo, jacinto; el duodécimo, amatista.",
+    "versiculo": "Apocalipsis 21:20"
+  },
+  "21": {
+    "normal": "<h2>Puertas de Perla: Acceso a la Gloria</h2><p>Imagina una ciudad cuyas puertas no son de madera ni de hierro, sino de perlas gigantes. Cada puerta, una sola perla. Este detalle del Apocalipsis nos habla de la belleza y el valor incomparable del cielo. Las perlas se forman por la irritación de un grano de arena en una ostra; así, la iglesia ha sido formada por las pruebas y el sufrimiento, pero Dios la transforma en algo precioso. La plaza de la ciudad es de oro puro, transparente como el vidrio. Esto simboliza la pureza y la transparencia que reinarán en la nueva Jerusalén. No habrá engaño, ni pecado, ni sombra. Todo será perfecto y claro. Para nosotros hoy, este versículo nos recuerda que nuestro destino no es este mundo caído. Somos peregrinos camino a una ciudad donde la belleza y la pureza son absolutas. En medio de las dificultades, podemos aferrarnos a la esperanza de que Dios nos prepara un lugar de esplendor. Practica la transparencia en tus relaciones: sé honesto, perdona, y busca la pureza de corazón. Así reflejarás un poco de esa gloria futura.</p>",
+    "academico": "<h2>La Nueva Jerusalén: Perlas y Oro Transparente</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <i>kai hoi dōdeka pylōnes dōdeka margaritai</i> (καὶ οἱ δώδεκα πυλῶνες δώδεκα μαργαρίται). La palabra <i>margaritēs</i> (μαργαρίτης) se refiere a una perla, y aquí se enfatiza que cada puerta era una sola perla (<i>ana heis hekastos tōn pylōnōn ēn ex henos margaritou</i>). La plaza (<i>plateia</i>) de la ciudad es de oro puro (<i>chrysion katharon</i>) como vidrio transparente (<i>hyalos diaphanēs</i>). El oro transparente es una paradoja, pues el oro no es transparente; pero Juan usa una metáfora para describir una pureza absoluta y una claridad espiritual.</p><h3>Contexto Histórico</h3><p>En el mundo antiguo, las perlas eran extremadamente valiosas, provenientes del Golfo Pérsico y del Mar Rojo. Representaban riqueza y estatus. Las doce puertas aluden a las doce tribus de Israel y a los doce apóstoles, simbolizando la continuidad entre el Antiguo y el Nuevo Pacto. La imagen de una ciudad con puertas de perla y calles de oro refleja las expectativas judías de una Jerusalén restaurada y glorificada, pero aquí se universaliza.</p><h3>Implicaciones Teológicas</h3><p>La perla única por puerta sugiere que la entrada al cielo es exclusiva y preciosa, lograda por Cristo. El oro transparente indica que en la nueva creación no hay opacidad ni pecado; todo es visible a la luz de Dios. Esta visión consuela a los perseguidos y llama a la perseverancia.</p>",
+    "ninos": "🌟 ¡Puertas de Perlas y Calles de Oro! 🌟\n\nImagina que llegas a una ciudad donde las puertas no son de madera, ¡sino de perlas gigantes! Cada puerta es una perla enorme y brillante, como las que a veces ves en los collares de mamá. Y el piso de la calle no es cemento ni asfalto, ¡es de oro puro! Pero no es oro opaco, sino transparente como el vidrio. Puedes ver a través de él, como si caminaras sobre un cristal dorado. \n\n¿Sabes qué significa esto? Que el cielo es el lugar más hermoso y valioso que existe. Dios lo preparó para nosotros. Es como cuando guardas tu juguete favorito en una caja especial: Dios nos tiene preparado un lugar súper especial. \n\nLección: Nunca olvides que Dios te ama tanto que te preparó una ciudad increíble. Mientras tanto, sé bueno y comparte con los demás, porque así brillas como una perlita en la tierra. 😊",
+    "recomendaciones": [
+      {
+        "referencia": "Apocalipsis 21:18-21",
+        "tipo": "Contexto inmediato",
+        "razon": "Describe los materiales de la ciudad, incluyendo el jaspe y el oro."
+      },
+      {
+        "referencia": "Mateo 13:45-46",
+        "tipo": "Parábola",
+        "razon": "La perla de gran precio, simbolizando el reino de los cielos."
+      },
+      {
+        "referencia": "Isaías 54:11-12",
+        "tipo": "Profecía del AT",
+        "razon": "Visión de una Jerusalén restaurada con piedras preciosas."
+      }
+    ],
+    "prompt_imagen_ninos": "A giant pearl gateway in a golden city, streets of transparent gold, children playing, bright sunlight, colorful flowers, smiling faces, warm and inviting.",
+    "prompt_imagen_normal": "Massive single pearl gates in a celestial city, streets of transparent gold, divine light streaming, awe-inspiring, epic realism, dramatic clouds, sense of holiness.",
+    "texto_original": "Y las doce puertas eran doce perlas, en cada una, una; cada puerta era de una perla. Y la plaza de la ciudad era de oro puro como vidrio trasparente.",
+    "versiculo": "Apocalipsis 21:21"
+  },
+  "22": {
+    "normal": "<h2>Dios es nuestro templo</h2><p>En Apocalipsis 21:22, Juan nos revela una verdad asombrosa: en la nueva Jerusalén no hay templo, porque el Señor Dios Todopoderoso y el Cordero son su templo. Para los primeros lectores, acostumbrados al templo de Jerusalén como centro de adoración, esta declaración era revolucionaria. El templo era el lugar donde Dios habitaba, pero ahora, en la nueva creación, Dios mismo está presente de manera directa y accesible para todos. Esto nos recuerda que, aunque hoy podemos sentir que necesitamos un lugar sagrado para encontrarnos con Dios, en realidad Él habita en nosotros por medio del Espíritu Santo. Nuestro cuerpo es templo del Espíritu (1 Corintios 6:19). Podemos adorar a Dios en cualquier momento y lugar, porque Él está siempre con nosotros. Esta verdad nos invita a vivir con la conciencia constante de su presencia, a buscar su rostro en la oración y a confiar en que su amor nos envuelve. Que esta promesa nos llene de esperanza y nos motive a cultivar una relación íntima con nuestro Dios, quien es nuestro refugio y fortaleza.</p>",
+    "academico": "<h2>El Templo Escatológico: La Presencia Divina sin Mediación</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>καὶ ναὸν οὐκ εἶδον ἐν αὐτῇ· ὁ γὰρ κύριος ὁ θεὸς ὁ παντοκράτωρ ναὸς αὐτῆς ἐστιν, καὶ τὸ ἀρνίον</em>. La palabra <em>ναός</em> (naos) se refiere al santuario interior, la morada de Dios. La ausencia de templo subraya que la presencia divina es inmediata. <em>Παντοκράτωρ</em> (pantokrator) significa 'todopoderoso', enfatizando la soberanía de Dios. La frase <em>καὶ τὸ ἀρνίον</em> ('y el Cordero') asocia a Cristo con el Padre como centro de adoración.</p><h3>Contexto Histórico</h3><p>En el judaísmo del Segundo Templo, el templo de Jerusalén era el único lugar legítimo de sacrificio y adoración. Su destrucción en el año 70 d.C. fue un trauma teológico. Apocalipsis, escrito hacia finales del siglo I, reinterpreta la esperanza del templo escatológico (Ezequiel 40-48) al afirmar que la nueva Jerusalén no necesita un templo físico porque Dios mismo habita allí. Esto refleja una teología de la presencia divina directa, superando las limitaciones del culto sacrificial.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que en la consumación del reino, la mediación del templo ya no es necesaria. La comunión con Dios es perfecta y sin intermediarios. También subraya la divinidad de Cristo al ser mencionado junto al Padre como 'templo'. Para la iglesia, esto anticipa la adoración eterna y la plenitud de la presencia de Dios, motivando una vida de santidad y esperanza.</p>",
+    "ninos": "🌟 ¡Dios es nuestro mejor amigo!<p>Imagina que estás en un lugar súper especial, donde todo es hermoso y brillante. En ese lugar, no hay una iglesia ni un templo, porque Dios mismo está allí, ¡y Él es como una casa gigante que nos abraza! En Apocalipsis, Juan nos cuenta que en el cielo nuevo, Dios y Jesús (el Cordero) son el templo. Eso significa que siempre podemos estar con ellos, sin necesidad de un edificio. Así como cuando estás con tu mamá o papá, te sientes seguro y feliz, así estaremos con Dios para siempre. 🏠✨ Este versículo nos enseña que lo más importante no es un lugar, sino estar cerca de Dios. Así que, aunque ahora vamos a la iglesia, podemos hablar con Dios en cualquier momento: en casa, en el parque o en la escuela. Él siempre nos escucha. Recuerda: Dios es nuestro hogar eterno. ❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 3:16",
+        "tipo": "Paralelo temático",
+        "razon": "Pablo dice que somos templo de Dios, conectando la morada divina con los creyentes."
+      },
+      {
+        "referencia": "Ezequiel 40-48",
+        "tipo": "Trasfondo profético",
+        "razon": "La visión del templo escatológico que Apocalipsis reinterpreta."
+      },
+      {
+        "referencia": "Hebreos 9:11-12",
+        "tipo": "Cumplimiento tipológico",
+        "razon": "Cristo entra en el santuario celestial, haciendo obsoleto el templo terrenal."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, joyful scene of a child standing in a golden, open space with radiant light streaming from above. No temple building, just warm glowing presence. Child looks up with wonder, surrounded by soft clouds and gentle animals. Warm lighting.",
+    "prompt_imagen_normal": "Epic panoramic view of the New Jerusalem descending from heaven, with no temple structure. A brilliant, luminous presence of God and the Lamb radiates from the center, casting golden light over a multitude of worshippers in white robes. Dramatic, awe-inspiring.",
+    "texto_original": "Y no vi en ella templo; porque el Señor Dios Todopoderoso es el templo de ella, y el Cordero.",
+    "versiculo": "Apocalipsis 21:22"
+  },
+  "23": {
+    "normal": "<h2>La Luz que Nunca se Apaga</h2><p>Imagina un lugar donde no hay necesidad de sol ni de luna. Suena extraño, ¿verdad? Pero en Apocalipsis 21:23, Juan nos describe la Nueva Jerusalén, una ciudad llena de la gloria de Dios. Allí, la luz no viene de astros creados, sino directamente de Dios y del Cordero, Jesucristo. Esto nos recuerda que en la presencia de Dios, todo lo que necesitamos está cubierto. No necesitamos buscar luz en otras fuentes porque Él es suficiente.</p><p>En nuestra vida diaria, a veces buscamos luz en cosas temporales: el éxito, el dinero, las relaciones. Pero estas luces se apagan. La luz de Dios es eterna y constante. Hoy, te invito a reflexionar: ¿estás buscando tu luz en Dios o en otras cosas? Permítele ser tu lumbrera, guiando tus pasos y llenando tu corazón de paz. Cuando enfrentes momentos oscuros, recuerda que la claridad de Dios te ilumina y que el Cordero es tu lumbrera.</p>",
+    "academico": "<h2>La Teofanía Lumínica en la Escatología Apocalíptica</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <i>καὶ ἡ πόλις οὐ χρείαν ἔχει τοῦ ἡλίου οὐδὲ τῆς σελήνης, ἵνα φαίνωσιν αὐτῇ· ἡ γὰρ δόξα τοῦ θεοῦ ἐφώτισεν αὐτήν, καὶ ὁ λύχνος αὐτῆς τὸ ἀρνίον</i>. El término <i>δόξα</i> (gloria) denota la presencia manifiesta de Dios, y <i>λύχνος</i> (lámpara) se refiere al Cordero como fuente de luz. La frase <i>οὐ χρείαν ἔχει</i> indica ausencia de necesidad, subrayando la suficiencia divina.</p><h3>Contexto Histórico</h3><p>En el mundo grecorromano, el culto al sol era prominente. El emperador era considerado <i>Sol Invictus</i>. Juan contrarresta esto declarando que la verdadera luz no es astral ni imperial, sino divina. Además, en el Antiguo Testamento, Isaías 60:19-20 profetiza que Dios será la luz perpetua de Jerusalén. Apocalipsis 21:23 cumple esta profecía en un contexto escatológico.</p><h3>Implicaciones Teológicas</h3><p>Este versículo afirma la trascendencia de Dios sobre la creación. La luz natural es un reflejo de la luz divina, pero en la nueva creación, la fuente directa es Dios. El Cordero como <i>λύχνος</i> enfatiza su papel mediador y redentor. La ausencia de noche (v.25) simboliza la eliminación del mal y el sufrimiento. Teológicamente, apunta a la comunión perfecta con Dios, donde Él es todo en todos.</p>",
+    "ninos": "<h2>🌟 La Ciudad Sin Sol</h2><p>¿Te imaginas un lugar donde no hay sol ni luna, pero todo es brillante? ¡Pues así es la Nueva Jerusalén! Allí no necesitan el sol porque Dios mismo es la luz. Y el Cordero, que es Jesús, es como una lámpara que nunca se apaga.</p><p>Es como cuando estás en tu cuarto oscuro y mamá enciende la luz: todo se ve bonito. En el cielo, la luz de Dios lo hace todo hermoso y feliz. No hay miedo ni tristeza, solo alegría.</p><p>Lección: Así como la luz nos ayuda a ver, Dios nos ayuda a vivir bien. Siempre puedes confiar en Él, porque su luz nunca se apaga. 🌟</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 60:19-20",
+        "tipo": "Profecía cumplida",
+        "razon": "Isaías profetiza que Dios será la luz perpetua de Jerusalén, lo cual se cumple en Apocalipsis 21:23."
+      },
+      {
+        "referencia": "Juan 8:12",
+        "tipo": "Tipología",
+        "razon": "Jesús se declara la luz del mundo, y en Apocalipsis el Cordero es la lumbrera de la ciudad."
+      },
+      {
+        "referencia": "Apocalipsis 22:5",
+        "tipo": "Continuidad temática",
+        "razon": "Ambos versículos hablan de la ausencia de necesidad de luz artificial o natural por la presencia de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, joyful city glowing with golden light from above. No sun or moon visible. Children playing in streets, smiling. A gentle lamb stands in center, radiating warmth. Soft colors, magical atmosphere.",
+    "prompt_imagen_normal": "A massive golden city floating in space, illuminated by an intense, warm light from a central divine source. No sun or moon. The city shines with precious stones. A lamb stands on a throne, radiating light. Epic, awe-inspiring.",
+    "texto_original": "Y la ciudad no tenía necesidad de sol, ni de luna, para que resplandezcan en ella: porque la claridad de Dios la iluminó, y el Cordero era su lumbrera.",
+    "versiculo": "Apocalipsis 21:23"
+  },
+  "24": {
+    "normal": "<h2>Caminando en la Luz de Dios</h2><p>Imagina un lugar donde la oscuridad ya no existe, donde el sol y la luna son innecesarios porque la gloria de Dios lo ilumina todo. Eso es lo que Juan nos describe en Apocalipsis 21:24. Las naciones que han sido salvas caminan en esa luz, y los reyes de la tierra traen su gloria y honor a ella. Es una imagen de unidad y paz, donde todas las culturas y pueblos se reúnen en adoración. Para nosotros hoy, este versículo nos recuerda que nuestra vida no termina en la muerte; hay una esperanza futura donde Dios restaurará todas las cosas. Mientras tanto, estamos llamados a ser portadores de esa luz en medio de la oscuridad de este mundo. ¿Cómo puedes reflejar la luz de Dios en tu trabajo, en tu familia o en tu comunidad? Quizás sea mostrando bondad, perdonando a alguien, o compartiendo tu fe con amor. La luz de Dios no es para guardarla, sino para compartirla. Así como las naciones caminan en esa luz, nosotros podemos caminar hoy con la certeza de que un día estaremos en la presencia de Dios, trayendo todo lo que somos para su gloria.</p>",
+    "academico": "<h2>La Luz de las Naciones: Un Análisis de Apocalipsis 21:24</h2><h3>Análisis Filológico</h3><p>El término griego clave en este versículo es <em>ethnē</em> (ἔθνη), traducido como 'naciones' o 'gentiles'. En el contexto apocalíptico, se refiere a los pueblos redimidos de todas las etnias. La frase 'las naciones que hubieren sido salvas' (τὰ ἔθνη τῶν σῳζομένων) utiliza el participio presente pasivo <em>sōzomenōn</em> (σῳζομένων), indicando una acción continua: 'los que están siendo salvados'. Esto sugiere que la salvación es un proceso que culmina en la Nueva Jerusalén. 'Andarán en la lumbre de ella' (περιπατήσουσιν ἐν τῷ φωτὶ αὐτῆς) usa el verbo <em>peripateō</em> (περιπατέω), que en el NT a menudo denota una conducta moral. La 'lumbre' (φῶς) es la gloria divina que ilumina la ciudad. Los 'reyes de la tierra' (βασιλεῖς τῆς γῆς) traen su 'gloria' (δόξα) y 'honor' (τιμή), términos que en la cultura grecorromana denotan estatus y riqueza, pero aquí se transforman en ofrendas de alabanza.</p><h3>Contexto Histórico</h3><p>Apocalipsis fue escrito por Juan en Patmos hacia el 95 d.C., durante la persecución de Domiciano. La imagen de la Nueva Jerusalén descendiendo del cielo contrasta con la Roma imperial, que exigía adoración al emperador. Este versículo refleja la esperanza de que los pueblos gentiles, antes excluidos, ahora participan plenamente en la adoración del verdadero Dios. La referencia a los reyes trayendo su gloria evoca Isaías 60:3-11, donde las naciones traen sus riquezas a Sión. Juan reinterpreta esta profecía en clave cristológica: la luz es Cristo, y la ciudad es la comunidad de los redimidos.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la universalidad de la salvación: no solo Israel, sino todas las naciones son incluidas. La luz de la ciudad no es física, sino la presencia misma de Dios. La actividad de las naciones ('andar') implica una vida de obediencia y adoración continua. Los reyes no dominan, sino que sirven, trayendo sus dones. Esto invierte las estructuras de poder terrenales. Teológicamente, afirma que la cultura humana no es aniquilada, sino redimida y ofrecida a Dios. La gloria y el honor que los reyes traen son las expresiones culturales y logros humanos transformados por la gracia.</p>",
+    "ninos": "🌟 ¡La Ciudad Más Brillante!<p>Imagina una ciudad tan brillante que no necesita sol ni luna. ¿Por qué? ¡Porque Dios mismo es su luz! En esa ciudad viven personas de todos los países, de todos los colores y de todas las lenguas. Y los reyes, los líderes más importantes, traen sus mejores tesoros para dárselos a Dios. Es como cuando en tu cumpleaños todos tus amigos traen regalos, pero aquí los regalos son amor, alegría y paz. Lo más bonito es que todos caminan juntos en la luz de Dios, sin peleas ni tristezas. Para nosotros hoy, podemos ser como esa luz: siendo amables con nuestros amigos, compartiendo nuestros juguetes y ayudando a los que lo necesitan. Así, aunque todavía no estamos en esa ciudad, podemos hacer que nuestro mundo sea un poquito más brillante. Recuerda: cuando eres bueno, llevas la luz de Dios a los demás. 🌟</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 60:3",
+        "tipo": "Profecía cumplida",
+        "razon": "Isaías profetiza que las naciones caminarán a la luz de Sión, y los reyes al resplandor de su amanecer, directamente relacionado con la escena de Apocalipsis."
+      },
+      {
+        "referencia": "Apocalipsis 21:23",
+        "tipo": "Contexto inmediato",
+        "razon": "El versículo anterior explica que la ciudad no necesita sol ni luna porque la gloria de Dios la ilumina, estableciendo la fuente de la luz."
+      },
+      {
+        "referencia": "Efesios 2:12-13",
+        "tipo": "Tema complementario",
+        "razon": "Pablo describe cómo los gentiles, antes excluidos, ahora son acercados por la sangre de Cristo, paralelo a la inclusión de las naciones en la Nueva Jerusalén."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, colorful city with gates made of pearl, streets of gold, and a gentle light coming from above. Children of different ethnicities holding hands, smiling, walking together. Kings in royal robes carrying gifts like crowns and jewels.",
+    "prompt_imagen_normal": "Epic scene of a radiant, golden city descending from heaven. Kings from various nations, dressed in rich robes, approach the city gates bearing treasures. The light from the city illuminates their faces with awe and reverence.",
+    "texto_original": "Y las naciones que hubieren sido salvas andarán en la lumbre de ella: y los reyes de la Tierra traerán su gloria y honor a ella",
+    "versiculo": "Apocalipsis 21:24"
+  },
+  "25": {
+    "normal": "<h2>Un Lugar Sin Noche</h2><p>Imagina un lugar donde nunca se pone el sol, donde las puertas siempre están abiertas y no hay necesidad de cerrarlas. Eso es lo que nos promete Apocalipsis 21:25. En la nueva Jerusalén, no habrá noche, ni oscuridad, ni miedo. Las puertas estarán abiertas de par en par, simbolizando la seguridad perfecta y la bienvenida constante de Dios.</p><p>En nuestra vida diaria, a menudo cerramos puertas por miedo: cerramos nuestro corazón para no ser heridos, cerramos nuestras casas por seguridad, cerramos nuestras mentes a nuevas ideas. Pero en el cielo, no habrá necesidad de eso. Dios será nuestra luz y nuestra protección. Podemos vivir con la confianza de que en Su presencia, no hay nada que temer.</p><p>Hoy, mientras enfrentas tus propias 'noches' —momentos de incertidumbre, tristeza o soledad— recuerda que esta promesa es para ti. Dios quiere que experimentes un anticipo de esa paz. Puedes abrir las puertas de tu vida a Su amor, sabiendo que Él es tu luz constante. ¿Hay alguna 'puerta' que has cerrado por miedo? Pídele a Dios que te ayude a abrirla, confiando en que Su luz disipa toda oscuridad.</p>",
+    "academico": "<h2>La Puerta Abierta de la Jerusalén Celestial</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <i>kai hoi pylōnes autēs ou mē kleisthōsin hēmeras</i> (καὶ οἱ πυλῶνες αὐτῆς οὐ μὴ κλεισθῶσιν ἡμέρας). El verbo <i>kleisthōsin</i> (κλεισθῶσιν) es aoristo subjuntivo pasivo, enfatizando la certeza de que nunca serán cerradas. La frase <i>ou mē</i> (οὐ μὴ) con subjuntivo es una negación enfática, equivalente a 'nunca jamás'. <i>Hēmeras</i> (ἡμέρας) es genitivo de tiempo, indicando 'de día'. La razón: <i>nyx gar ouk estai ekei</i> (νὺξ γὰρ οὐκ ἔσται ἐκεῖ) — 'porque no habrá noche allí'. La ausencia de noche implica la presencia continua de la luz divina (cf. 21:23: <i>hē lampras tou theou</i>).</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, las puertas de las ciudades se cerraban al anochecer por seguridad (cf. Josué 2:5; Nehemías 7:3). La imagen de puertas siempre abiertas evoca una era de paz perfecta y seguridad absoluta, sin amenaza de enemigos. En el contexto del Apocalipsis, escrito para iglesias perseguidas, esta promesa les aseguraba que en el nuevo orden de Dios no habría más peligro ni opresión.</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, la puerta abierta simboliza el acceso continuo a la presencia de Dios y la comunión ininterrumpida de los redimidos. La ausencia de noche apunta a la plenitud escatológica donde Dios mismo es la luz (21:23), eliminando toda oscuridad física y espiritual. Esto cumple las profecías de Isaías 60:11, donde las puertas de Jerusalén estarán abiertas de continuo para recibir las riquezas de las naciones. Además, la seguridad eterna contrasta con la vulnerabilidad actual de la iglesia, ofreciendo esperanza y consuelo.</p>",
+    "ninos": "<h2>🌟 La Ciudad con Puertas Siempre Abiertas</h2><p>Imagina que vives en una ciudad donde nunca es de noche. ¡Siempre es de día! El sol brilla todo el tiempo y no hay oscuridad. Las puertas de la ciudad nunca se cierran. ¿Por qué? Porque no hay peligro. No hay ladrones, ni animales que den miedo, ni nada malo.</p><p>Es como cuando estás en casa con tu familia y te sientes tan seguro que no necesitas cerrar la puerta con llave. En el cielo, con Dios, siempre nos sentiremos así. Nunca tendremos miedo, porque Dios nos cuida y nos da luz.</p><p>¿Sabes qué? Así es como Dios quiere que nos sintamos ahora. Quiere que sepamos que Él siempre está con nosotros, como una luz que nunca se apaga. Cuando tengas miedo a la oscuridad, recuerda que Dios es más grande que cualquier oscuridad. Él te cuida siempre. 😊</p><p>Lección: Dios es nuestra luz y nos da seguridad. No tenemos que tener miedo porque Él siempre está con nosotros.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 60:11",
+        "tipo": "Profecía cumplida",
+        "razon": "Isaías profetiza que las puertas de Jerusalén estarán abiertas de continuo, lo cual se cumple en la Nueva Jerusalén."
+      },
+      {
+        "referencia": "Apocalipsis 22:5",
+        "tipo": "Continuidad temática",
+        "razon": "Allí se reitera que no habrá noche y que los redimidos reinarán por los siglos de los siglos."
+      },
+      {
+        "referencia": "Juan 8:12",
+        "tipo": "Fundamento teológico",
+        "razon": "Jesús se presenta como la luz del mundo, anticipando la luz eterna de la Nueva Jerusalén."
+      }
+    ],
+    "prompt_imagen_ninos": "A bright, sunny city with golden gates wide open. Happy children playing in streets filled with flowers. No shadows, only warm light. A friendly lion lies nearby. Peaceful and safe.",
+    "prompt_imagen_normal": "Massive golden gates of a celestial city standing open, glowing with internal light. No night, only eternal day. Radiant clouds and a sense of peace. Epic scale, dramatic lighting.",
+    "texto_original": "Y sus puertas nunca serán cerradas de día, porque allí no habrá noche.",
+    "versiculo": "Apocalipsis 21:25"
+  },
+  "26": {
+    "normal": "<h2>La Gloria de las Naciones</h2><p>Imagina una ciudad donde todas las culturas, lenguas y tradiciones se unen en armonía. Eso es la Nueva Jerusalén. En Apocalipsis 21:26, leemos que las naciones traerán su gloria y honra a ella. Esto no significa que solo lo mejor de cada cultura esté presente, sino que todo lo valioso, lo hermoso y lo bueno de la humanidad redimida será ofrecido a Dios. Como creyentes, somos llamados a vivir ya con esa perspectiva: reconocer y celebrar la diversidad como un reflejo de la creatividad divina, y ofrecer nuestros dones y talentos para la gloria de Dios. ¿Qué gloria traes tú a la comunidad de fe? Tu trabajo, tu arte, tu servicio: todo puede ser una ofrenda de honra. Que este versículo te inspire a vivir con generosidad, sabiendo que cada contribución cuenta en el reino eterno.</p>",
+    "academico": "<h2>La Doxa de las Etnias en la Escatología</h2><h3>Análisis Filológico</h3><p>El término griego <em>doxa</em> (δόξα) traducido como 'gloria' implica esplendor, reputación y manifestación divina. <em>Timē</em> (τιμή) significa 'honra' o 'valor'. El verbo <em>pherō</em> (φέρω) 'llevarán' indica un acto continuo de traer. En el contexto del Apocalipsis, las naciones (<em>ethnē</em>, ἔθνη) se refiere a grupos étnicos redimidos que traen sus tesoros culturales a la Nueva Jerusalén, no como una imposición sino como una ofrenda voluntaria.</p><h3>Contexto Histórico</h3><p>El libro de Apocalipsis fue escrito en un contexto de persecución bajo el Imperio Romano. La imagen de las naciones trayendo su gloria contrasta con la arrogancia imperial de Roma, que exigía tributo y sometimiento. En el Cercano Oriente Antiguo, las procesiones de tributos eran comunes, pero aquí se transforma en una escena de adoración voluntaria. La Nueva Jerusalén, como templo escatológico, recibe lo mejor de la humanidad redimida, cumpliendo las profecías de Isaías 60:11 sobre las riquezas de las naciones.</p><h3>Implicaciones Teológicas</h3><p>Este versículo afirma la redención de la cultura: no toda expresión humana es desechada, sino que lo bueno, verdadero y bello es santificado y presentado a Dios. La diversidad étnica permanece en la eternidad, pero sin pecado ni conflicto. La gloria de las naciones no compite con la gloria de Dios, sino que la refleja. Teológicamente, subraya que la salvación no borra las identidades culturales, las transfigura.</p>",
+    "ninos": "<h2>🌟 ¡Todos Traen Sus Tesoros!</h2><p>Imagina que estás en una ciudad muy especial, brillante como mil estrellas. Es la Nueva Jerusalén, la ciudad de Dios. Y lo más bonito es que personas de todos los países vienen con sus mejores regalos. Un niño de África trae un tambor que suena a alegría, una niña de China trae un hermoso abanico pintado, y un niño de México trae una colorida manta. Todos ponen sus tesoros en la ciudad, y Dios sonríe. ¿Sabes qué? Tú también tienes un tesoro: tu sonrisa, tu ayuda, tus oraciones. Puedes traerlos a Jesús hoy. La lección es: Dios ama cuando compartimos lo mejor de nosotros con los demás, porque así mostramos su amor en el mundo. 🌍💖</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 60:11",
+        "tipo": "Cumplimiento profético",
+        "razon": "Isaías profetiza que las puertas de la ciudad estarán abiertas para que entren las riquezas de las naciones, lo cual se cumple en Apocalipsis 21:26."
+      },
+      {
+        "referencia": "Apocalipsis 21:24",
+        "tipo": "Contexto inmediato",
+        "razon": "El versículo anterior menciona que las naciones caminarán a la luz de la ciudad, estableciendo el contexto de la llegada de las naciones con su gloria."
+      },
+      {
+        "referencia": "Salmo 96:7-8",
+        "tipo": "Temática paralela",
+        "razon": "El salmista llama a las naciones a dar gloria y honra a Dios, reflejando la misma idea de ofrenda cultural."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful parade of children from different cultures carrying colorful gifts and musical instruments, walking toward a glowing golden city in the sky, bright sunlight, warm and inviting.",
+    "prompt_imagen_normal": "A majestic golden city descending from heaven, gates open wide, diverse people from all nations streaming in carrying treasures and light, dramatic clouds, awe-inspiring.",
+    "texto_original": "Y llevarán la gloria y la honra de las naciones a ella.",
+    "versiculo": "Apocalipsis 21:26"
+  },
+  "27": {
+    "normal": "<h2>La Puerta Abierta a la Pureza</h2><p>Imagina que estás en la fila para entrar a un evento exclusivo. Solo aquellos con invitación pueden pasar. Apocalipsis 21:27 nos recuerda que la Nueva Jerusalén, el hogar eterno de Dios, tiene un requisito de entrada: la pureza. No se trata de ser perfecto, sino de haber sido limpiado por la sangre de Cristo. El versículo menciona 'cosas sucias', 'abominación' y 'mentira' como lo que no entrará. Esto nos desafía a examinar nuestras vidas: ¿Qué 'suciedad' espiritual estamos tolerando? ¿Hemos dejado que la mentira, el engaño o la impureza encuentren espacio en nuestro corazón? La buena noticia es que el libro de la vida del Cordero está abierto para todos los que se arrepienten y confían en Jesús. Hoy, podemos pedirle a Dios que nos limpie y nos prepare para ese día. Vive con la esperanza de que tu nombre está escrito en ese libro, y deja que esa certeza transforme tus decisiones diarias.</p>",
+    "academico": "<h2>Análisis Exegético de Apocalipsis 21:27</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'οὐ μὴ εἰσέλθῃ εἰς αὐτὴν πᾶν κοινὸν καὶ ποιῶν βδέλυγμα καὶ ψεῦδος'. La palabra 'κοινὸν' (koinon) significa 'común' o 'profano', refiriéndose a lo ceremonialmente impuro. 'Βδέλυγμα' (bdelugma) denota 'abominación', a menudo asociada con idolatría. 'Ψεῦδος' (pseudos) es 'mentira' o 'falsedad'. El versículo contrasta con los que están 'escritos en el libro de la vida del Cordero' (γεγραμμένοι ἐν τῇ βίβλῳ τῆς ζωῆς τοῦ ἀρνίου).</p><h3>Contexto Histórico</h3><p>Escrito por Juan en Patmos (c. 95 d.C.), el Apocalipsis usa imaginería del Antiguo Testamento. La Nueva Jerusalén desciende del cielo, simbolizando la restauración del Edén. Las puertas abiertas contrastan con las puertas cerradas de las ciudades antiguas, indicando seguridad y pureza. El 'libro de la vida' aparece en el AT (Éxodo 32:32) y en la literatura apocalíptica judía.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enfatiza la santidad de Dios y la necesidad de pureza para la comunión eterna. La exclusión de lo impuro no es arbitraria, sino coherente con la naturaleza de Dios. El 'libro de la vida del Cordero' vincula la salvación con el sacrificio de Cristo. La doctrina de la perseverancia de los santos encuentra eco aquí: los nombres escritos permanecen, pero la advertencia implícita es contra la apostasía.</p>",
+    "ninos": "<h2>🌟 La Lista Especial de Dios</h2><p>Imagina que tienes una lista de invitados para tu fiesta de cumpleaños. Solo los que están en la lista pueden entrar. En el cielo, Dios tiene un libro muy especial llamado 'el libro de la vida del Cordero'. Allí están escritos los nombres de todos los que aman a Jesús. En el cielo no puede entrar nada malo: ni mentiras, ni cosas sucias, ni maldades. Es como un parque de diversiones limpio y seguro, donde todos son felices. ¿Cómo puedes asegurarte de que tu nombre esté en esa lista? Confiando en Jesús, pidiéndole perdón cuando haces algo mal, y tratando de ser bueno como Él. Así, cuando termines tu vida aquí, podrás entrar a la fiesta más grande de todas: el cielo. 🎉</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Apocalipsis 20:12",
+        "tipo": "Continuidad temática",
+        "razon": "Menciona el libro de la vida en el contexto del juicio final."
+      },
+      {
+        "referencia": "Apocalipsis 21:8",
+        "tipo": "Contraste",
+        "razon": "Enumera los que son excluidos de la Nueva Jerusalén, complementando la lista de impurezas."
+      },
+      {
+        "referencia": "Daniel 12:1",
+        "tipo": "Referencia del AT",
+        "razon": "Habla de los inscritos en el libro en el contexto de la resurrección."
+      }
+    ],
+    "prompt_imagen_ninos": "A golden book with a lamb on the cover, open on a wooden table. Children's hands reaching to write names with a glowing pen. Warm sunlight streaming through a window. Soft, friendly atmosphere.",
+    "prompt_imagen_normal": "Massive golden gates of a celestial city, glowing with light. A scroll with names written in fire. A majestic lamb standing beside the gates. Dramatic clouds and rays of light. Sense of awe and holiness.",
+    "texto_original": "No entrará en ella ninguna cosa sucia, o que hace abominación y mentira; sino solamente los que están escritos en el libro de la vida del Cordero.",
+    "versiculo": "Apocalipsis 21:27"
+  }
+}

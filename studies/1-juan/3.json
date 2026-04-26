@@ -1,0 +1,676 @@
+{
+  "1": {
+    "normal": "<h2>El Amor que Nos Hace Hijos</h2><p>Imagina por un momento que eres un niño pequeño, perdido en un lugar desconocido. De repente, alguien se acerca, te toma de la mano y te dice: 'No temas, eres mi hijo'. Esa seguridad, ese amor incondicional, es lo que Juan nos describe en este versículo. Dios, el Padre, nos ha dado un amor tan grande que nos llama sus hijos. No por nuestros méritos, sino por pura gracia.</p><p>Pero hay una realidad que duele: el mundo no nos reconoce. Así como no reconoció a Jesús, tampoco nos reconoce a nosotros. Esto puede ser desalentador, pero también es una señal de nuestra identidad. No pertenecemos a este mundo; somos ciudadanos del cielo. Y aunque a veces nos sintamos incomprendidos o rechazados, recordemos que nuestro Padre nos ama con un amor eterno.</p><p>Hoy, tómate un momento para reflexionar: ¿vives como un hijo de Dios? ¿O buscas la aprobación del mundo? La invitación es a descansar en ese amor que te define. Eres amado, eres hijo, y nada puede cambiar eso. Vive hoy con la confianza de que perteneces a la familia de Dios.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Juan 3:1</h2><h3>Análisis Filológico</h3><p>El versículo comienza con 'MIRAD' (ἴδετε, idete), un imperativo aoristo que exige atención inmediata. La palabra 'amor' (ἀγάπην, agapēn) es un sustantivo que denota amor incondicional, distinto de φιλία (philia) o ἔρως (eros). El verbo 'ha dado' (δέδωκεν, dedōken) está en perfecto, indicando una acción completada con efectos continuos. 'Hijos de Dios' (τέκνα θεοῦ, tekna theou) usa τέκνα (tekna), que enfatiza el nacimiento y la relación filial, no solo la adopción legal. La frase 'el mundo no nos conoce' (κόσμος οὐ γινώσκει, kosmos ou ginōskei) emplea γινώσκω (ginōskō), conocimiento experiencial, no solo intelectual. La razón: 'porque no le conoce a él' (ὅτι οὐκ ἔγνω αὐτόν, hoti ouk egnō auton), con ἔγνω (egnō) en aoristo, refiriéndose al rechazo histórico de Cristo.</p><h3>Contexto Histórico</h3><p>La carta fue escrita a finales del siglo I d.C., probablemente desde Éfeso, en un contexto de comunidades joánicas enfrentando herejías docéticas y cismas. El mundo (κόσμος) representa el sistema humano opuesto a Dios, que persiguió a Jesús y ahora persigue a sus seguidores. El énfasis en 'hijos de Dios' contrarresta enseñanzas que negaban la encarnación y la filiación divina de los creyentes. La comunidad cristiana, minoritaria y marginada, necesitaba reafirmar su identidad y consuelo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo fundamenta la teología de la adopción filial: los creyentes son verdaderamente hijos de Dios por gracia, no por naturaleza. El amor del Padre es la fuente de esta identidad, no el esfuerzo humano. La tensión entre ser hijos de Dios y no ser reconocidos por el mundo refleja la escatología joánica: los creyentes viven en el 'ya pero todavía no'. La incomprensión del mundo es señal de pertenencia a Cristo, quien también fue rechazado. Esto llama a una ética de separación del mundo y de confianza en el amor paterno de Dios.</p>",
+    "ninos": "<h2>🌟 ¡Somos Hijos de Dios!</h2><p>Imagina que estás en un parque y ves a un niño perdido. De repente, su papá llega corriendo, lo abraza y le dice: '¡Hijo mío, te encontré!'. Así es Dios con nosotros. La Biblia dice: '¡Miren cuánto nos ama Dios! Tanto, que nos llama sus hijos'. ¿Puedes creerlo? 🎉</p><p>A veces, otros niños no entienden por qué vamos a la iglesia o por qué amamos a Jesús. Pero no importa, porque nosotros sabemos que somos hijos del Rey más grande. Como cuando tienes un secreto especial con tu papá, nosotros tenemos un secreto: ¡somos hijos de Dios! 👑</p><p>Así que cuando te sientas solo o diferente, recuerda: Dios te ama muchísimo. Eres su hijo o hija, y eso es lo más importante. ¡Vive feliz porque eres amado! ❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 1:12",
+        "tipo": "Paralelo",
+        "razon": "Ambos versículos hablan de recibir el derecho de ser hijos de Dios."
+      },
+      {
+        "referencia": "Romanos 8:15-17",
+        "tipo": "Desarrollo temático",
+        "razon": "Pablo desarrolla el tema de la adopción filial y el Espíritu de hijos."
+      },
+      {
+        "referencia": "Efesios 1:5",
+        "tipo": "Fundamento teológico",
+        "razon": "Explica la predestinación para adopción como hijos mediante Jesucristo."
+      },
+      {
+        "referencia": "Gálatas 4:4-7",
+        "tipo": "Paralelo",
+        "razon": "Describe cómo Dios envió a su Hijo para que recibiéramos la adopción."
+      },
+      {
+        "referencia": "1 Pedro 1:23",
+        "tipo": "Temático",
+        "razon": "Habla de ser nacidos de nuevo, no de simiente corruptible sino incorruptible."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child running towards a bright light, with a warm embrace from a giant, loving figure representing God. Surrounding them are soft clouds and a gentle glow, conveying safety and love.",
+    "prompt_imagen_normal": "A dramatic scene of a parent embracing a child in a desolate, dark world, with a beam of heavenly light breaking through the clouds, illuminating their faces with hope and love.",
+    "texto_original": "MIRAD cuál amor nos ha dado el Padre, que seamos llamados hijos de Dios: por esto el mundo no nos conoce, porque no le conoce a él.",
+    "versiculo": "1 Juan 3:1"
+  },
+  "2": {
+    "normal": "<h2>Nuestra Identidad como Hijos de Dios</h2><p>Querido hermano, ¿alguna vez te has preguntado quién eres realmente? El apóstol Juan nos recuerda una verdad asombrosa: ya somos hijos de Dios. No por nuestros méritos, sino por su amor incondicional. Esta no es una promesa futura, sino una realidad presente. Sin embargo, lo que seremos cuando Cristo regrese supera nuestra imaginación. Seremos semejantes a Él, transformados completamente a su imagen. Esta esperanza nos llena de gozo y nos motiva a vivir de manera digna de nuestra filiación. En medio de las luchas diarias, recuerda que tu identidad está segura en Cristo. No eres definido por tus fracasos, sino por el amor del Padre. Vive hoy con la certeza de que eres amado y que un día verás a Jesús cara a cara, reflejando su gloria. Que esta verdad transforme tu manera de pensar y actuar, llevándote a una vida de santidad y gratitud.</p>",
+    "academico": "<h2>La Esperanza Escatológica de la Filiación Divina</h2><h3>Análisis Filológico</h3><p>El versículo 1 Juan 3:2 contiene términos griegos clave: <em>teknia</em> (τεκνία, 'hijitos') denota cariño paternal; <em>huioi Theou</em> (υἱοὶ Θεοῦ, 'hijos de Dios') enfatiza la filiación adoptiva. El verbo <em>phanerōthē</em> (φανερωθῇ, 'apareciere') se refiere a la segunda venida de Cristo. La frase <em>homoioi autō</em> (ὅμοιοι αὐτῷ, 'semejantes a él') implica una transformación ontológica, no solo moral. El término <em>opsometha</em> (ὀψόμεθα, 'veremos') sugiere una visión beatífica que produce conformidad con Cristo.</p><h3>Contexto Histórico</h3><p>En el contexto del Cercano Oriente Antiguo, la filiación divina era un concepto conocido en culturas paganas (ej. faraones como hijos de Ra), pero Juan lo democratiza: todos los creyentes son hijos por gracia. La carta combate herejías gnósticas que negaban la encarnación y la realidad de la filiación presente. La esperanza de ver a Dios cara a cara contrasta con la tradición del Antiguo Testamento (Éxodo 33:20), donde nadie podía ver a Dios y vivir.</p><h3>Implicaciones Teológicas</h3><p>Este versículo vincula la santificación presente con la glorificación futura. La filiación actual es real pero incompleta; la parusía traerá la plena manifestación. La visión de Dios (teología apofática) transforma al creyente en la imagen de Cristo (Romanos 8:29). La certeza de esta esperanza produce purificación moral (1 Juan 3:3).</p>",
+    "ninos": "<h2>🌟 ¡Somos Hijos de un Rey!</h2><p>Imagina que eres un príncipe o una princesa, pero no lo sabes. Vives en una casa normal, juegas con tus amigos, y a veces te sientes triste o enojado. Pero un día, tu papá el rey viene y te dice: '¡Tú eres mi hijo!'. ¡Qué sorpresa! La Biblia dice que ya somos hijos de Dios, aunque no lo parezca. Pero cuando Jesús regrese, seremos como Él, ¡brillaremos como el sol! 😊 Mientras tanto, podemos portarnos como hijos del Rey: siendo buenos, ayudando a otros y amando a todos. Recuerda: eres muy especial para Dios. Nunca lo olvides.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 8:14-17",
+        "tipo": "Profundización",
+        "razon": "Explica la filiación por el Espíritu y la herencia con Cristo."
+      },
+      {
+        "referencia": "2 Corintios 3:18",
+        "tipo": "Paralelo temático",
+        "razon": "Describe la transformación a imagen de Cristo al contemplarlo."
+      },
+      {
+        "referencia": "Filipenses 3:20-21",
+        "tipo": "Cumplimiento profético",
+        "razon": "Habla de la transformación del cuerpo a la semejanza de Cristo."
+      },
+      {
+        "referencia": "1 Juan 2:28",
+        "tipo": "Contexto inmediato",
+        "razon": "Exhorta a permanecer en Cristo para confianza en su venida."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child in simple clothes, looking up with wonder, surrounded by soft golden light. A gentle figure of Jesus in the clouds, smiling. Warm colors, playful, hopeful.",
+    "prompt_imagen_normal": "A dramatic epic scene: a lone figure standing on a hilltop under a stormy sky, rays of golden light breaking through clouds, reflecting on the person's face with awe and peace.",
+    "texto_original": "Muy amados, ahora somos hijos de Dios, y aun no se ha manifestado lo que hemos de ser; pero sabemos que cuando él apareciere, seremos semejantes a él, porque le veremos como él es.",
+    "versiculo": "1 Juan 3:2"
+  },
+  "3": {
+    "normal": "<h2>Purificados por la Esperanza</h2><p>¿Has notado cómo una gran esperanza puede transformar tu vida diaria? Cuando esperas algo maravilloso, como el regreso de un ser querido o el cumplimiento de un sueño, esa expectativa te motiva a prepararte, a ser mejor. Algo similar ocurre con nuestra fe en Cristo. El apóstol Juan nos dice que 'todo el que tiene esta esperanza en él, se purifica a sí mismo, así como él es puro' (1 Juan 3:3). La esperanza de ver a Jesús cara a cara y ser semejantes a él nos impulsa a vivir una vida santa.</p><p>No se trata de un esfuerzo humano por alcanzar la pureza por nosotros mismos, sino de una respuesta amorosa a la obra de Cristo. Él es puro, y nosotros, al fijar nuestra mirada en él, somos transformados. Esta purificación es un proceso continuo: cada día, al renovar nuestra esperanza en su regreso, dejamos atrás hábitos, pensamientos y actitudes que no reflejan su carácter. Es como un espejo que se limpia para reflejar mejor la luz. La esperanza no es pasiva; es activa. Nos llama a examinar nuestra vida y a permitir que el Espíritu Santo nos santifique.</p><p>Hoy, pregúntate: ¿mi esperanza en Cristo está moldeando mis decisiones? ¿Estoy dejando que esa esperanza me purifique? No se trata de perfección instantánea, sino de una dirección constante hacia Jesús. Él es tanto la fuente como el modelo de nuestra pureza. Al aferrarnos a esta esperanza, encontramos la motivación y la gracia para vivir de una manera que le honre.</p>",
+    "academico": "<h2>Esperanza Escatológica y Santificación en 1 Juan 3:3</h2><h3>Análisis Filológico</h3><p>El texto griego de 1 Juan 3:3 dice: 'Καὶ πᾶς ὁ ἔχων τὴν ἐλπίδα ταύτην ἐπ' αὐτῷ ἁγνίζει ἑαυτὸν, καθὼς ἐκεῖνος ἁγνός ἐστιν.' La palabra clave es 'ἁγνίζει' (hagnizei), del verbo 'ἁγνίζω' (hagnizō), que significa 'purificar', 'hacer santo' o 'limpiar ceremonialmente'. Este verbo se usa en la Septuaginta para la purificación ritual (Números 8:6), pero Juan le da un sentido ético y espiritual. El término 'ἐλπίδα' (elpis) denota 'esperanza', no como mero deseo, sino como expectativa segura basada en la promesa divina. La frase 'ἐπ' αὐτῷ' (ep' autō) puede interpretarse como 'en él' (Cristo), indicando que la esperanza está puesta en su persona y su retorno.</p><h3>Contexto Histórico</h3><p>La carta de 1 Juan fue escrita en un contexto donde algunas enseñanzas heréticas (probablemente proto-gnósticas) negaban la realidad de la encarnación y minimizaban la ética cristiana. Juan contrarresta esto vinculando la doctrina (cristología) con la práctica (santificación). La esperanza del creyente no es abstracta; se fundamenta en la promesa de que 'cuando él se manifieste, seremos semejantes a él' (1 Juan 3:2). Esta esperanza escatológica (relativa al fin de los tiempos) tiene un efecto presente: motiva la pureza moral. En el judaísmo del Segundo Templo, la purificación era a menudo ritual, pero Juan la internaliza como un proceso personal y continuo.</p><h3>Implicaciones Teológicas</h3><p>Juan establece un vínculo inseparable entre la esperanza de la parusía (la segunda venida de Cristo) y la santificación. La pureza de Cristo es tanto el estándar como el poder para nuestra purificación. No se trata de una limpieza externa, sino de una transformación interior que se refleja en la conducta. La frase 'se purifica a sí mismo' (ἁγνίζει ἑαυτὸν) sugiere una responsabilidad humana activa, pero siempre en respuesta a la obra de Dios. Esto armoniza con la teología paulina de 'trabajad en vuestra salvación con temor y temblor, porque Dios es el que en vosotros produce tanto el querer como el hacer' (Filipenses 2:12-13). La esperanza no es escapismo; es un llamado a la santidad. Además, la pureza aquí no es perfección sin pecado, sino una dirección intencional hacia la semejanza con Cristo, que se consumará en su venida.</p>",
+    "ninos": "<h2>🌟 La Esperanza que Nos Limpia</h2><p>Imagina que tu mejor amigo te promete que vendrá a jugar contigo mañana. ¡Qué ilusión! Te levantas temprano, ordenas tu cuarto, preparas los juguetes y te pones tu camiseta favorita. ¡Quieres estar listo! Algo parecido pasa con Jesús. La Biblia dice que Jesús volverá un día, y nosotros tenemos la esperanza de verlo. Esa esperanza nos ayuda a querer ser mejores, a portarnos bien, a pedir perdón cuando nos equivocamos y a ayudar a los demás. Es como si esa esperanza limpiara nuestro corazón. 😊</p><p>¿Sabes cómo? Cuando piensas en Jesús, que es puro y bueno, tú también quieres ser como él. Así que decides no decir mentiras, compartir tus juguetes y ser amable. No es que seas perfecto, pero cada día intentas parecerte más a Jesús. ¡Eso es purificarse! Es como cuando te lavas las manos antes de comer: te quitas lo sucio y quedas limpio. La esperanza en Jesús te ayuda a limpiar tu corazón.</p><p><strong>Lección moral:</strong> La esperanza en Jesús nos motiva a ser mejores cada día, porque queremos estar listos para cuando él regrese. ¡Así que vive con alegría y haz el bien!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "2 Corintios 7:1",
+        "tipo": "Temática",
+        "razon": "Ambos versículos hablan de purificarnos a nosotros mismos, en el contexto de las promesas de Dios."
+      },
+      {
+        "referencia": "1 Pedro 1:13-16",
+        "tipo": "Temática",
+        "razon": "Relaciona la esperanza en la venida de Cristo con el llamado a ser santos como él es santo."
+      },
+      {
+        "referencia": "Tito 2:11-14",
+        "tipo": "Doctrinal",
+        "razon": "Vincula la gracia de Dios que trae salvación con la enseñanza de vivir de manera pura, esperando la venida de Cristo."
+      },
+      {
+        "referencia": "Salmos 119:9",
+        "tipo": "Práctica",
+        "razon": "Explica cómo un joven puede purificar su camino: guardando la palabra de Dios, complementando la purificación por la esperanza."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child cleaning a messy room with a bright smile, toys being organized, warm sunlight streaming through a window, a soft glow around a cross on the wall, hopeful atmosphere.",
+    "prompt_imagen_normal": "A person kneeling in prayer in a dimly lit room, hands clasped, a beam of light illuminating their face, an expression of hope and determination, shadows receding, symbolizing purification.",
+    "texto_original": "Y cualquiera que tiene esta esperanza en él, se purifica, como él también es limpio.",
+    "versiculo": "1 Juan 3:3"
+  },
+  "4": {
+    "normal": "<h2>La Ley del Amor</h2><p>Cuando leemos que el pecado es transgresión de la ley, a veces pensamos en reglas frías y restrictivas. Pero Dios nos dio sus mandamientos por amor, para protegernos y guiarnos hacia una vida plena. El pecado no es solo romper una regla; es alejarnos de la relación con Dios y dañar a otros y a nosotros mismos. Juan nos recuerda que cada vez que elegimos el pecado, estamos traspasando los límites que Dios puso para nuestro bien. Es como un padre que advierte a su hijo sobre el peligro de un acantilado: la advertencia no es para arruinar la diversión, sino para salvarle la vida. Hoy, examina tu corazón: ¿hay áreas donde estás ignorando la voz de Dios? Él no te señala con el dedo, sino que te extiende la mano para volver a Él. El arrepentimiento no es un castigo, sino una puerta a la libertad. Confía en que su gracia es más grande que cualquier transgresión.</p>",
+    "academico": "<h2>Transgresión y Pecado: Un Análisis de 1 Juan 3:4</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el término griego <em>hamartia</em> (ἁμαρτία) para 'pecado', cuyo significado original es 'errar el blanco'. La frase 'traspasa la ley' traduce <em>anomia</em> (ἀνομία), que literalmente significa 'sin ley' o 'ilegalidad'. Juan establece una equivalencia directa: <em>hamartia</em> es <em>anomia</em>. Esto refleja la tradición del Antiguo Testamento, donde la ley (Torá) es la norma de justicia. El verbo 'hacer' (<em>poieō</em>) indica una práctica habitual, no un acto aislado. En el contexto de la carta, Juan combate herejías que minimizaban la seriedad del pecado, afirmando que la verdadera comunión con Dios requiere obediencia.</p><h3>Contexto Histórico</h3><p>La epístola fue escrita a finales del siglo I d.C., probablemente desde Éfeso, en un contexto donde surgían enseñanzas gnósticas que separaban la vida espiritual de la conducta moral. Para Juan, la ley no es solo la Torá mosaica, sino el mandamiento del amor revelado en Cristo (2 Juan 1:5-6). La transgresión es, en esencia, una violación de la naturaleza de Dios, quien es luz y amor.</p><h3>Implicaciones Teológicas</h3><p>La identificación del pecado con la transgresión de la ley subraya la santidad de Dios y la responsabilidad humana. No es legalismo, sino la base para entender la necesidad del sacrificio expiatorio de Cristo (1 Juan 2:2). El creyente no está bajo la ley como sistema de salvación, pero la ley sigue siendo el estándar de justicia que revela el pecado. La gracia no anula la ley, sino que capacita para cumplirla por amor.</p>",
+    "ninos": "<h2>🌟 La Regla de la Pista de Baile</h2><p>Imagina que estás en una pista de baile con muchos niños. Hay una línea roja en el suelo. Todos saben que al otro lado hay un hoyo grande y oscuro. Si alguien cruza la línea, ¡pum! cae en el hoyo. Dios nos dio reglas como esa línea. No son para fastidiarnos, sino para mantenernos seguros y felices. El pecado es como cruzar la línea: nos aleja de Dios y nos puede lastimar. Pero si te caes, Dios siempre está listo para ayudarte a salir. Solo tienes que pedirle perdón y volver a la pista. Recuerda: las reglas de Dios son como un abrazo que nos protege. ¿Juegas dentro de la línea?</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 4:15",
+        "tipo": "Paralelo doctrinal",
+        "razon": "También vincula pecado y ley, mostrando que la ley trae conocimiento de la transgresión."
+      },
+      {
+        "referencia": "Santiago 2:10-11",
+        "tipo": "Complemento",
+        "razon": "Amplía la idea de que transgredir un punto de la ley es ser culpable de toda la ley."
+      },
+      {
+        "referencia": "Mateo 5:17-18",
+        "tipo": "Contraste",
+        "razon": "Jesús afirma que no vino a abolir la ley sino a cumplirla, mostrando la continuidad de la ley en el Nuevo Pacto."
+      }
+    ],
+    "prompt_imagen_ninos": "A group of diverse children playing on a colorful playground with a red safety line marked on the ground, one child about to step over it, bright sunny day, warm tones, soft lighting.",
+    "prompt_imagen_normal": "A dramatic scene of a broken stone tablet with Hebrew letters on a dark cliff edge, lightning illuminating the sky, a solitary figure kneeling in repentance, epic and cinematic lighting.",
+    "texto_original": "Cualquiera que hace pecado, traspasa también la ley; pues el pecado es transgresión de la ley.",
+    "versiculo": "1 Juan 3:4"
+  },
+  "5": {
+    "normal": "<h2>Él vino a quitar nuestros pecados</h2><p>Cuando leemos que Jesús apareció para quitar nuestros pecados, es un recordatorio de que su misión no era condenarnos, sino liberarnos. Él sabía que cargamos con culpa, vergüenza y fracasos, pero vino a limpiarnos. Y lo hizo no solo con su muerte, sino con su vida perfecta: 'no hay pecado en él'. Eso significa que su sacrificio fue puro, sin mancha. Hoy, puedes acercarte a Dios sin miedo, porque Jesús ya pagó por todo. ¿Hay algo que te esté pesando? Entrégaselo a él. Él no solo quita el pecado, sino que te da una nueva oportunidad. Vive libre, sabiendo que eres perdonado.</p>",
+    "academico": "<h2>La Manifestación del Cristo sin Pecado para la Expiación</h2><h3>Análisis Filológico</h3><p>El verbo griego 'ἐφανερώθη' (ephanerōthē) significa 'fue manifestado' o 'apareció', indicando una revelación divina en la historia. 'Ἵνα τὰς ἁμαρτίας ἄρῃ' (hina tas hamartias arē) expresa propósito: 'para quitar los pecados'. El verbo 'αἴρω' (airō) implica levantar, cargar y remover, sugiriendo una eliminación total. La frase 'ἁμαρτία ἐν αὐτῷ οὐκ ἔστιν' (hamartia en autō ouk estin) afirma la absoluta ausencia de pecado en Cristo, subrayando su naturaleza sin mancha.</p><h3>Contexto Histórico</h3><p>En el judaísmo del Segundo Templo, el concepto de un mesías que quita pecados era revolucionario. Los sacrificios levíticos solo cubrían temporalmente, pero Juan proclama que Jesús, como Cordero de Dios, elimina el pecado de manera definitiva. La afirmación de su impecabilidad contrasta con la tradición de líderes humanos imperfectos.</p><h3>Implicaciones Teológicas</h3><p>Este versículo fundamenta la doctrina de la expiación sustitutoria: Cristo, sin pecado, tomó nuestro lugar. Además, establece que la santidad de Jesús es esencial para su obra redentora. Para el creyente, implica que el perdón no depende de nuestros méritos, sino de su pureza.</p>",
+    "ninos": "<h2>🌟 Jesús, el Superhéroe que Quita los Pecados</h2><p>Imagina que tienes una camiseta favorita y se mancha de chocolate. No importa cuánto la frotes, la mancha no se va. Pero llega un amigo especial que tiene un jabón mágico y la deja como nueva. Así es Jesús: él vino del cielo para limpiar nuestras manchas, que son los pecados. ¿Y sabes qué? Él nunca hizo nada malo, así que su jabón es súper poderoso. Cuando le pedimos perdón, él nos limpia y nos hace sentir felices otra vez. Recuerda: no importa qué hayas hecho, Jesús siempre está listo para ayudarte a empezar de nuevo. ¡Eso es amor de verdad!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 53:5-6",
+        "tipo": "Profecía",
+        "razon": "Describe al Siervo sufriente que carga con nuestros pecados, cumplido en Jesús."
+      },
+      {
+        "referencia": "Hebreos 4:15",
+        "tipo": "Doctrinal",
+        "razon": "Afirma que Jesús fue tentado pero sin pecado, reforzando su impecabilidad."
+      },
+      {
+        "referencia": "2 Corintios 5:21",
+        "tipo": "Teológico",
+        "razon": "Explica que Cristo, sin pecado, se hizo pecado por nosotros para que fuéramos justicia de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child in a colorful room, holding a white shirt with a dark stain. A radiant, gentle Jesus figure approaches with a glowing soap bubble, smiling warmly. Soft sunlight streams through a window.",
+    "prompt_imagen_normal": "A dramatic scene of Jesus on a hill, arms outstretched, with a radiant light emanating from his heart. Dark shadows representing sin fall away from him, dissolving into light. Emotional, epic lighting.",
+    "texto_original": "Y sabéis que él apareció para quitar nuestros pecados, y no hay pecado en él.",
+    "versiculo": "1 Juan 3:5"
+  },
+  "6": {
+    "normal": "<h2>Permaneciendo en Cristo</h2><p>El apóstol Juan nos presenta una verdad profunda pero sencilla: quien permanece en Cristo no vive en pecado. Esto no significa que el creyente sea perfecto, sino que el pecado no es su estilo de vida. Permanecer en Jesús implica una relación constante, íntima y dependiente de Él. Es como una rama unida a la vid, que recibe vida y savia. Cuando estamos conectados a Cristo, el Espíritu Santo nos transforma y nos da poder para vencer el pecado. Pero si alguien peca habitualmente, sin arrepentimiento, demuestra que no ha conocido verdaderamente a Dios. La comunión con Dios y el pecado deliberado son incompatibles. Hoy, examina tu corazón: ¿Estás permaneciendo en Cristo? ¿Hay áreas de tu vida donde estás tolerando el pecado? Dios te ofrece gracia para volver a Él y caminar en santidad.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Juan 3:6</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego <em>ménō</em> (μένω, 'permanecer, morar'), que implica una residencia continua y estable. El participio <em>ho ménōn</em> ('el que permanece') indica una acción habitual. <em>Hamartánei</em> (ἁμαρτάνει, 'peca') está en presente de indicativo, sugiriendo una práctica continua. La negación <em>ouch hamartánei</em> ('no peca') es una afirmación rotunda. La segunda parte usa <em>heōraken</em> (ἑώρακεν, 'ha visto') y <em>égnōken</em> (ἔγνωκεν, 'ha conocido'), perfectos de indicativo que denotan un estado resultante: no han tenido una experiencia genuina de Dios.</p><h3>Contexto Histórico</h3><p>La epístola fue escrita en Éfeso hacia finales del siglo I, en un contexto de herejías incipientes (posiblemente docetismo y gnosticismo) que negaban la encarnación y la realidad del pecado. Juan enfatiza la ética cristiana como prueba de la verdadera comunión con Dios. El trasfondo del Antiguo Testamento incluye la idea de 'permanecer' en la alianza (Deuteronomio 30:20).</p><h3>Implicaciones Teológicas</h3><p>Juan no enseña la impecabilidad absoluta (cf. 1:8-10), sino que el pecado habitual es incompatible con la vida en Cristo. La 'visión' y 'conocimiento' de Dios no son intelectuales sino experienciales y relacionales. Este versículo desafía el antinomianismo y afirma que la santidad es evidencia de salvación.</p>",
+    "ninos": "<h2>🌟 El Secreto para No Pecar</h2><p>Imagina que eres una lamparita que necesita estar conectada al enchufe para dar luz. Si te desconectas, te apagas. Jesús es como ese enchufe que da vida. Cuando estamos conectados a Él, orando y leyendo la Biblia, el Espíritu Santo nos ayuda a hacer lo bueno y a alejarnos del pecado. Pero si nos desconectamos, empezamos a hacer cosas malas. El versículo de hoy dice que si alguien sigue pecando sin importarle, es porque no conoce a Jesús de verdad. Así que, ¡quédate siempre conectado a Jesús! Él te da fuerza para ser bueno y feliz. Recuerda: cuando amas a Jesús, quieres agradarle y no hacer cosas malas. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 15:4-5",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos pasajes usan la metáfora de permanecer en Cristo para producir fruto."
+      },
+      {
+        "referencia": "1 Juan 1:8-10",
+        "tipo": "Complemento",
+        "razon": "Equilibra la afirmación de 3:6 al reconocer que los creyentes aún pecan, pero confiesan."
+      },
+      {
+        "referencia": "Romanos 6:1-2",
+        "tipo": "Paralelo doctrinal",
+        "razon": "Pablo argumenta que quienes murieron al pecado no pueden vivir en él."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful child holding a glowing light bulb connected to a bright outlet shaped like a cross, surrounded by colorful flowers and friendly animals, warm sunlight, playful and safe atmosphere.",
+    "prompt_imagen_normal": "A dramatic scene of a person kneeling in prayer, hands clasped, with a beam of heavenly light piercing darkness, symbolizing connection to Christ, intense emotion, realistic lighting.",
+    "texto_original": "Cualquiera que permanece en él, no peca; cualquiera que peca, no le ha visto, ni le ha conocido.",
+    "versiculo": "1 Juan 3:6"
+  },
+  "7": {
+    "normal": "<h2>La justicia que transforma</h2><p>Querido hermano, hoy el apóstol Juan nos da una advertencia amorosa: \"Hijitos, no os engañe ninguno\". Vivimos en un mundo lleno de voces que nos dicen que podemos ser justos solo con buenas intenciones, o que la gracia nos exime de vivir en santidad. Pero Juan es claro: el que hace justicia es justo, así como Cristo es justo.</p><p>No se trata de ganar la salvación por obras, sino de que la salvación verdadera produce un fruto inevitable: una vida que practica la justicia. Así como un árbol bueno da frutos buenos, un corazón transformado por el amor de Dios se inclina naturalmente a hacer lo correcto. La justicia no es un ideal abstracto, sino acciones concretas: ayudar al necesitado, hablar con verdad, perdonar al que nos ofende.</p><p>¿Te has preguntado si tu fe se refleja en tus actos? No te engañes pensando que puedes seguir a Cristo sin imitarlo. Hoy, elige hacer una obra de justicia: una llamada, una visita, una palabra de aliento. Deja que la justicia de Cristo fluya a través de ti.</p>",
+    "academico": "<h2>La justicia imitativa en 1 Juan 3:7</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el término griego <em>dikaios</em> (δίκαιος) para \"justo\", que en el contexto joánico denota no solo rectitud legal, sino una conformidad ética con la naturaleza de Dios. El verbo <em>poieō</em> (ποιέω) \"hacer\" en presente activo indica una acción continua, no esporádica. La frase \"como él también es justo\" emplea <em>kathōs</em> (καθώς), que establece un estándar de imitación: la justicia del creyente debe reflejar la justicia inherente de Cristo. El término <em>teknia</em> (τεκνία) \"hijitos\" es un diminutivo afectuoso usado por Juan para dirigirse a sus discípulos como hijos espirituales.</p><h3>Contexto Histórico</h3><p>La epístola fue escrita hacia finales del siglo I, probablemente desde Éfeso, en un contexto donde surgían enseñanzas gnósticas que separaban la fe de la conducta ética. Algunos sostenían que el conocimiento espiritual (gnosis) eximía de obligaciones morales. Juan contrarresta esta herejía afirmando que la verdadera filiación divina se demuestra en la práctica de la justicia. El énfasis en \"no os engañe ninguno\" refleja la presencia de falsos maestros que negaban la necesidad de una vida santa.</p><h3>Implicaciones Teológicas</h3><p>Este versículo articula la inseparable unión entre soteriología y ética. La justificación por la fe no anula la necesidad de santificación; más bien, la fe genuina produce obras de justicia como evidencia de la nueva naturaleza. Juan no enseña una justicia por obras, sino una justicia que fluye de la unión con Cristo. El creyente es justo no por sus méritos, sino porque participa de la justicia de Cristo, y esa participación se manifiesta en acciones justas. La imitación de Cristo no es opcional, sino la marca distintiva del verdadero discípulo.</p>",
+    "ninos": "🌟 <h2>El espejo de Jesús</h2><p>Imagina que tienes un espejo mágico. Cuando te miras, no ves tu cara, sino lo que haces. Si compartes tus juguetes, el espejo muestra a Jesús sonriendo. Si dices mentiras, el espejo se nubla. Juan nos dice: \"No dejes que nadie te engañe\". Algunos niños piensan que pueden portarse mal y aún así ser amigos de Jesús. ¡Pero eso no es cierto! Ser justo significa hacer lo correcto: ayudar a mamá, decir la verdad, perdonar a tu hermano. Así como Jesús siempre hizo lo bueno, nosotros podemos hacerlo también. Cada vez que eliges ser amable, te pareces más a Jesús. 🧒💖 Recuerda: no basta con decir \"soy cristiano\", hay que actuar como Jesús. ¡Hoy, elige hacer algo bueno!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Efesios 2:8-10",
+        "tipo": "Complemento teológico",
+        "razon": "Explica que la salvación es por gracia mediante la fe, pero que fuimos creados para buenas obras, conectando la justificación con la santificación."
+      },
+      {
+        "referencia": "Santiago 2:14-17",
+        "tipo": "Refuerzo práctico",
+        "razon": "Enfatiza que la fe sin obras es muerta, reforzando la idea de que la justicia debe evidenciarse en acciones."
+      },
+      {
+        "referencia": "Mateo 5:20",
+        "tipo": "Advertencia",
+        "razon": "Jesús enseña que la justicia de sus discípulos debe superar la de los fariseos, subrayando la necesidad de una justicia auténtica."
+      },
+      {
+        "referencia": "Romanos 3:21-22",
+        "tipo": "Base doctrinal",
+        "razon": "Presenta la justicia de Dios mediante la fe en Jesucristo, base de la justicia imputada que luego se refleja en la vida."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child helping an elderly person cross a street, with a warm sunset glow, simple and colorful cartoon style, emphasizing kindness and action.",
+    "prompt_imagen_normal": "Epic cinematic scene of a lone figure walking a narrow path toward a radiant light, with dramatic clouds and a sense of moral resolve, realistic lighting.",
+    "texto_original": "Hijitos, no os engañe ninguno: el que hace justicia, es justo, como él también es justo.",
+    "versiculo": "1 Juan 3:7"
+  },
+  "8": {
+    "normal": "<h2>Venciendo al enemigo</h2><p>Este versículo nos confronta con una verdad poderosa: el pecado no es solo un error, sino que tiene una raíz espiritual. Juan nos dice que quien practica el pecado está alineado con el diablo, quien ha pecado desde el principio. Pero la buena noticia es que Jesús vino precisamente para destruir las obras del diablo. Esto significa que no estamos solos en nuestra lucha contra el pecado. Dios nos ha dado el poder de Su Espíritu para vencer. Hoy, si te sientes atrapado en algún hábito o tentación, recuerda que Jesús ya ganó la batalla. Puedes pedirle que te ayude a caminar en libertad. La victoria no está en tus fuerzas, sino en Cristo. Toma un momento para confesar cualquier área de pecado y recibe Su perdón y poder para cambiar.</p>",
+    "academico": "<h2>El Pecado y la Obra Redentora de Cristo: Análisis de 1 Juan 3:8</h2><h3>Análisis Filológico</h3><p>El término griego clave es 'hamartia' (ἁμαρτία), traducido como 'pecado', que significa 'errar al blanco'. La frase 'es del diablo' usa 'ek tou diabolou' (ἐκ τοῦ διαβόλου), indicando origen o pertenencia. 'Diabolos' (διάβολος) significa 'acusador' o 'calumniador'. La expresión 'desde el principio' (ap' archēs, ἀπ' ἀρχῆς) alude al inicio de la creación o de la rebelión de Satanás. El verbo 'deshacer' (luō, λύω) significa 'desatar', 'destruir' o 'abolir', implicando que Cristo desmantela las obras del diablo.</p><h3>Contexto Histórico</h3><p>La comunidad joánica enfrentaba herejías que negaban la realidad del pecado y la encarnación (docetismo). Juan enfatiza que el pecado tiene consecuencias espirituales y que Jesús vino en carne para vencer al diablo. En el judaísmo del Segundo Templo, Satanás era visto como el acusador celestial (Job 1-2; Zacarías 3). La idea de que el Mesías destruiría las obras del maligno era común en la literatura apocalíptica (1 Enoc, Testamento de Leví).</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece una dicotomía clara entre el reino de Dios y el reino de Satanás. El pecado no es neutral; tiene un origen demoníaco. La obra de Cristo es restaurativa y victoriosa: Él no solo perdona el pecado, sino que destruye su poder. Esto implica que el creyente está llamado a vivir en santidad, participando de la victoria de Cristo. La teología joánica subraya la realidad del conflicto espiritual y la necesidad de permanecer en Cristo para vencer.</p>",
+    "ninos": "<h2>🌟 Jesús, el Héroe que Vence al Malo</h2><p>Imagina que hay un ladrón que siempre quiere robarte la alegría y hacerte hacer cosas malas. Ese es el diablo. Pero Dios envió a su Hijo Jesús, como un superhéroe, para detener al ladrón. ¿Sabes cómo? Jesús nunca hizo nada malo, y cuando murió en la cruz, rompió todos los planes malos del diablo. Así que cuando te sientas tentado a pelear con tu hermano o a decir una mentira, recuerda que Jesús ya ganó. Puedes pedirle que te ayude a hacer lo bueno. ¡Tú estás del equipo de Jesús, y Él es el más fuerte! 🦸‍♂️✨</p><p><strong>Lección:</strong> Jesús vino para deshacer lo malo, así que tú puedes confiar en Él para hacer lo correcto.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 8:44",
+        "tipo": "tematico",
+        "razon": "Jesús llama al diablo 'padre de la mentira' y 'homicida desde el principio', conectando con la idea de que el pecado tiene origen diabólico."
+      },
+      {
+        "referencia": "Hebreos 2:14",
+        "tipo": "doctrinal",
+        "razon": "Explica que Cristo participó de la naturaleza humana para destruir al diablo, paralelo a 'deshacer las obras del diablo'."
+      },
+      {
+        "referencia": "Colosenses 2:15",
+        "tipo": "tematico",
+        "razon": "Describe cómo Cristo desarmó a los poderes espirituales, triunfando sobre ellos en la cruz, similar a la victoria sobre el diablo."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child holding hands with a glowing Jesus, stepping on a dark shadowy figure representing the devil, bright sunlight breaking through clouds, warm colors, simple and hopeful scene.",
+    "prompt_imagen_normal": "Epic cinematic scene: Jesus standing on a defeated serpent, radiating golden light, dramatic storm clouds parting, intense emotions of triumph and peace, realistic textures, divine illumination.",
+    "texto_original": "El que hace pecado, es del diablo; porque el diablo peca desde el principio. Para esto apareció el Hijo de Dios, para deshacer las obras del diablo.",
+    "versiculo": "1 Juan 3:8"
+  },
+  "9": {
+    "normal": "<h2>Nacido de Dios: Una Nueva Naturaleza</h2><p>¿Alguna vez te has sentido frustrado por pecar una y otra vez? Este versículo nos da una esperanza increíble: si has nacido de Dios, tu naturaleza ha cambiado. No es que los cristianos sean perfectos, sino que el pecado ya no es tu estilo de vida. La \"simiente\" de Dios está en ti: su Espíritu Santo te da poder para vencer. Piensa en una semilla de roble: aunque es pequeña, contiene todo el potencial para crecer. Así es el creyente: la vida de Dios está dentro, y aunque caigas, tu nueva naturaleza te impulsa a levantarte. No se trata de nunca fallar, sino de no vivir en pecado deliberadamente. Si amas a Dios, tu corazón ya no quiere pecar. Cuando tropieces, corre a él. Él te dará la fuerza para seguir adelante.</p>",
+    "academico": "<h2>El Nacido de Dios y la Imposibilidad del Pecado: Un Análisis de 1 Juan 3:9</h2><h3>Análisis Filológico</h3><p>El verbo griego \"ποιέω\" (poieō) en \"no hace pecado\" (ἁμαρτίαν οὐ ποιεῖ) implica una práctica continua, no un acto aislado. \"Simiente\" (σπέρμα, sperma) se refiere a la naturaleza divina implantada por el Espíritu Santo. El presente activo \"οὐ δύναται ἁμαρτάνειν\" (ou dynatai hamartanein) indica incapacidad habitual: el regenerado no puede vivir en pecado como estilo de vida. Contexto histórico: Juan escribe en Éfeso (c. 90-100 d.C.) contra el gnosticismo, que separaba el espíritu del cuerpo, negando la responsabilidad moral. El texto afirma la transformación ética real del creyente.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, la idea de \"simiente\" (heb. זֶרַע, zera) evocaba descendencia y bendición del pacto. Juan usa este concepto para mostrar que el nuevo nacimiento en Cristo crea una nueva filiación: así como un padre humano transmite su naturaleza, Dios transmite la suya al creyente. Los primeros cristianos entendían esto como una ruptura radical con el pecado, no por perfeccionismo, sino por la presencia del Espíritu.</p><h3>Implicaciones Teológicas</h3><p>La doctrina de la perseverancia de los santos se apoya aquí: el verdadero creyente no puede apostatar completamente. Sin embargo, no es una garantía de impecabilidad, sino una promesa de victoria progresiva. El texto llama a la santidad práctica, no al quietismo.</p>",
+    "ninos": "🌟 ¡Nacido de Dios! 🌟\n\nImagina que eres una semillita de girasol. Dentro de ti hay una fuerza especial que te hará crecer alto y fuerte. Así es cuando confías en Jesús: ¡pones una semilla de Dios en tu corazón! Esa semilla te hace querer hacer lo bueno.\n\n¿Alguna vez has visto a un patito seguir a su mamá pata? Así los niños de Dios quieren parecerse a su Padre celestial. A veces los patitos se caen, pero siempre se levantan y siguen a mamá. Igual tú: cuando cometes un error, Dios te ayuda a levantarte y seguir haciendo lo correcto.\n\nLección: Dios te ha dado una nueva vida. ¡Eres su hijo! Y los hijos de Dios aprenden a amar y obedecer. 😊🙏",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 3:3",
+        "tipo": "base teológica",
+        "razon": "Explica el nuevo nacimiento necesario para ver el reino de Dios, concepto clave en 1 Juan 3:9."
+      },
+      {
+        "referencia": "Romanos 6:1-2",
+        "tipo": "paralelo doctrinal",
+        "razon": "Pablo argumenta que los creyentes no deben continuar en pecado, reflejando la misma verdad de que la nueva naturaleza no puede pecar habitualmente."
+      },
+      {
+        "referencia": "1 Juan 5:18",
+        "tipo": "confirmación contextual",
+        "razon": "Repite la misma verdad: el que es nacido de Dios no peca, reforzando la enseñanza de 1 Juan 3:9."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child holding a glowing seed in their hands, surrounded by a warm light, with a gentle dove descending from heaven, in a lush garden with colorful flowers, soft sunlight filtering through leaves.",
+    "prompt_imagen_normal": "A dramatic scene of a person kneeling in prayer, a brilliant beam of light from heaven illuminating them, with a visible spiritual seed of fire entering their chest, their face expressing awe and transformation, epic lighting.",
+    "texto_original": "Cualquiera que es nacido de Dios, no hace pecado, porque su simiente está en él; y no puede pecar, porque es nacido de Dios.",
+    "versiculo": "1 Juan 3:9"
+  },
+  "10": {
+    "normal": "<h2>El Amor que Revela Nuestra Identidad</h2><p>Querido hermano, ¿alguna vez te has preguntado cómo saber si realmente perteneces a Dios? Juan nos da una respuesta clara y práctica: se manifiesta en hacer justicia y amar a los hermanos. No se trata de un sentimiento vago, sino de acciones concretas. La justicia aquí no es solo legal, sino vivir en rectitud según el corazón de Dios: tratar a otros con equidad, defender al oprimido y caminar en integridad. Y el amor fraternal es la marca del verdadero discípulo. Jesús dijo que nos conocerían por nuestro amor mutuo (Juan 13:35).</p><p>Hoy, examina tu vida: ¿Hay áreas donde no estás haciendo justicia? ¿Hay algún hermano o hermana a quien te cuesta amar? Tal vez es tiempo de pedir perdón, de tender una mano, de dejar el orgullo. No se trata de perfección, sino de dirección. Si tu corazón anhela hacer el bien y amar, aunque a veces falles, eres de Dios. Su Espíritu mora en ti y te capacita. Anímate: cada acto de justicia y amor te asemeja más a tu Padre celestial. Que hoy puedas reflejar su amor en palabras y hechos.</p>",
+    "academico": "<h2>La Manifestación de la Filiación Divina: Análisis Exegético de 1 Juan 3:10</h2><h3>Análisis Filológico</h3><p>El versículo comienza con \"En esto\" (ἐν τούτῳ, en toutō), que se refiere a lo anterior: la práctica de la justicia y el amor fraternal. \"Son manifiestos\" (φανερά ἐστιν, phanera estin) indica una revelación visible y clara. Los términos \"hijos de Dios\" (τέκνα τοῦ θεοῦ, tekna tou theou) y \"hijos del diablo\" (τέκνα τοῦ διαβόλου, tekna tou diabolou) contrastan dos linajes espirituales. \"No hace justicia\" (μὴ ποιῶν δικαιοσύνην, mē poiōn dikaiosynēn) implica una falta activa de práctica justa. \"No ama a su hermano\" (μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ, mē agapōn ton adelphon autou) usa el verbo ἀγαπάω (agapaō), amor sacrificial y de compromiso.</p><h3>Contexto Histórico</h3><p>La comunidad joánica enfrentaba conflictos con herejes (probablemente proto-gnósticos) que negaban la encarnación y minimizaban la ética. Juan contrarresta: la filiación divina no es solo doctrina, sino práctica. En el Antiguo Cercano Oriente, la paternidad implicaba herencia de carácter; así, los hijos de Dios reflejan su naturaleza justa y amorosa. El término \"diablo\" (διάβολος) significa \"acusador\" o \"calumniador\", y sus hijos se caracterizan por la injusticia y la falta de amor.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece una soteriología práctica: la salvación se evidencia en la transformación ética. No es que las obras salven, sino que el nuevo nacimiento produce frutos. La justicia y el amor son señales de la regeneración. También implica que la comunidad cristiana es el lugar donde se manifiesta esta filiación, en contraste con el mundo. La referencia a \"no es de Dios\" subraya la seriedad de la apostasía. En la teología joánica, la unión con Cristo se demuestra en la obediencia y el amor mutuo.</p>",
+    "ninos": "🌟 ¡Hijos de Dios vs. Hijos del Diablo! 🌟\n\nImagina que tienes una camiseta invisible que dice de quién eres hijo. Si eres hijo de Dios, tu camiseta brilla cuando haces cosas buenas: compartes tus juguetes 🧸, dices la verdad 🗣️, ayudas a tu mamá 🧹. Pero si eres hijo del diablo, tu camiseta se oscurece cuando mientes, pegas o no compartes.\n\nJuan dice: \"El que no hace lo correcto y no ama a su hermano, no es de Dios.\" Es como si tu camiseta no brillara. Pero no te preocupes: si te equivocas, puedes pedir perdón y Dios te limpia. Lo importante es que quieras ser como Jesús, que siempre hacía lo bueno y amaba a todos. ¡Elige hoy hacer justicia y amar! Así tu camiseta brillará fuerte. 😊",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:15-20",
+        "tipo": "Contraste",
+        "razon": "Ambos pasajes enseñan que los frutos (acciones) revelan la verdadera naturaleza de una persona."
+      },
+      {
+        "referencia": "Gálatas 5:22-23",
+        "tipo": "Complemento",
+        "razon": "El fruto del Espíritu incluye justicia y amor, evidenciando la filiación divina."
+      },
+      {
+        "referencia": "Santiago 2:14-17",
+        "tipo": "Similitud",
+        "razon": "La fe sin obras es muerta; ambos autores enfatizan la práctica de la justicia y el amor."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful scene of children playing in a sunny park; one child shares a toy with a sad friend, while another helps an elderly person. Bright colors, warm light, smiling faces.",
+    "prompt_imagen_normal": "Epic cinematic scene: a person in ancient robes stands on a hill at sunset, facing a divided crowd. Some people radiate warm golden light, others are in shadow. Dramatic clouds, intense emotions.",
+    "texto_original": "En esto son manifiestos los hijos de Dios, y los hijos del diablo: cualquiera que no hace justicia, y que no ama a su hermano, no es de Dios.",
+    "versiculo": "1 Juan 3:10"
+  },
+  "11": {
+    "normal": "<h2>El mensaje desde el principio</h2><p>Cuando pensamos en el mensaje central del evangelio, a veces nos complicamos con doctrinas complejas. Pero Juan nos recuerda que el núcleo es simple y poderoso: amarnos unos a otros. Este mandamiento no es nuevo; lo hemos escuchado desde que comenzamos a seguir a Cristo. Sin embargo, en el ajetreo diario, es fácil olvidarlo. Amar no siempre es fácil. Requiere paciencia, perdón y sacrificio. Pero es la señal más clara de que somos hijos de Dios. Hoy, busca una oportunidad para mostrar amor práctico: una palabra amable, un gesto de ayuda, o simplemente escuchar a alguien que lo necesita. El amor no es solo un sentimiento, es una acción que refleja el corazón de Dios.</p>",
+    "academico": "<h2>Análisis exegético de 1 Juan 3:11</h2><h3>Análisis Filológico</h3><p>El versículo comienza con \"Porque\" (ὅτι, hoti), que conecta con el versículo anterior sobre el amor fraternal. \"Mensaje\" traduce ἀγγελία (angelia), que en el NT solo aparece aquí y en 1 Juan 1:5, refiriéndose a una proclamación divina. \"Desde el principio\" (ἀπʼ ἀρχῆς, apʼ archēs) es una frase clave en la literatura joánica, que remite al inicio del evangelio (1 Jn 1:1; 2:7). El mandato \"que nos amemos unos a otros\" (ἵνα ἀγαπῶμεν ἀλλήλους, hina agapōmen allēlous) usa el subjuntivo volitivo, expresando propósito o mandato. El verbo ἀγαπάω (agapaō) denota amor incondicional, distinto de φιλέω (phileō). La frase completa subraya que el amor mutuo no es opcional, sino esencial a la identidad cristiana.</p><h3>Contexto Histórico</h3><p>La comunidad joánica enfrentaba divisiones internas (1 Jn 2:18-19). Juan contrarresta la herejía docética que negaba la humanidad de Cristo y fomentaba el elitismo espiritual. En el Cercano Oriente Antiguo, el honor y la lealtad familiar eran primordiales; Juan reinterpreta la comunidad cristiana como una nueva familia donde el amor es la marca distintiva.</p><h3>Implicaciones Teológicas</h3><p>Este versículo establece el amor fraternal como prueba de la verdadera fe. Sin amor, la confesión doctrinal es vacía. El amor no es un añadido, sino la evidencia de haber nacido de Dios (1 Jn 4:7). Además, conecta con el amor de Cristo (Jn 13:34-35) y anticipa el mandato de amar al hermano como requisito para amar a Dios (1 Jn 4:20-21).</p>",
+    "ninos": "<h2>🌟 El mensaje secreto del amor</h2><p>Imagina que tienes un cofre del tesoro. Dentro hay un mensaje muy especial: \"Ámense unos a otros\". ¡Eso es lo que Dios nos dice desde el principio! A veces es difícil compartir tus juguetes o perdonar cuando alguien te molesta. Pero el amor es como una luz que brilla más cuando la compartes. Piensa en un abrazo cálido o en ayudar a tu mamá a poner la mesa. Así mostramos que somos amigos de Jesús. Hoy, intenta hacer algo bueno por alguien: dibujar una sonrisa, dar las gracias o invitar a jugar a un niño solito. ¡Eso hace feliz a Dios! Recuerda: el amor es el mejor regalo que puedes dar.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 13:34-35",
+        "tipo": "paralelo temático",
+        "razon": "Jesús da el mismo mandamiento de amarse unos a otros como señal de discipulado."
+      },
+      {
+        "referencia": "1 Juan 4:7-8",
+        "tipo": "desarrollo teológico",
+        "razon": "El amor procede de Dios, y quien ama ha nacido de Dios."
+      },
+      {
+        "referencia": "Levítico 19:18",
+        "tipo": "base veterotestamentaria",
+        "razon": "El mandamiento de amar al prójimo ya estaba en la Ley."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful group of diverse children holding hands in a circle under a bright rainbow, smiling, with a glowing heart above them, warm sunlight, simple and colorful.",
+    "prompt_imagen_normal": "A dramatic scene of two people embracing in a dimly lit room, tears of joy, rays of light breaking through a window, conveying forgiveness and love.",
+    "texto_original": "Porque, este es el mensaje que habéis oído desde el principio: Que nos amemos unos a otros.",
+    "versiculo": "1 Juan 3:11"
+  },
+  "12": {
+    "normal": "<h2>El Peligro de la Envidia</h2><p>La historia de Caín y Abel nos confronta con una verdad incómoda: el pecado no nace de la nada, sino que crece en el corazón cuando permitimos que la envidia y el orgullo echen raíces. Caín no mató a su hermano por un arrebato repentino; lo hizo porque sus propias obras eran malas y las de Abel, justas. En lugar de arrepentirse y buscar a Dios, dejó que la amargura lo consumiera.</p><p>Hoy, quizás no estamos tentados a cometer un asesinato físico, pero sí podemos 'matar' a otros con nuestras palabras, con nuestra indiferencia o con nuestros pensamientos. Cada vez que menospreciamos a alguien por ser más bendecido, exitoso o amado, estamos repitiendo el patrón de Caín. La envidia nos roba la paz y nos aleja de Dios.</p><p>La solución no está en compararnos con otros, sino en presentar nuestras obras delante del Señor con un corazón sincero. Dios no rechazó a Caín por capricho; lo hizo porque su actitud no era recta. Cuando sentimos celos, es una señal de que necesitamos examinar nuestro interior y pedirle a Dios que transforme nuestro corazón. Él nos da la gracia para cambiar si humildemente se lo pedimos. No permitas que la envidia te robe la alegría de vivir en la luz de Cristo.</p>",
+    "academico": "<h2>El Pecado de Caín: Un Estudio de 1 Juan 3:12</h2><h3>Análisis Filológico</h3><p>El versículo utiliza la palabra griega <em>ponēros</em> (πονηρός) para 'maligno', que en el contexto joánico denota no solo maldad moral, sino una influencia satánica activa. El verbo 'mató' es <em>esphaxen</em> (ἔσφαξεν), que implica una matanza violenta, a menudo sacrificial, contrastando con el sacrificio justo de Abel. La pregunta retórica '¿Y por qué causa le mató?' usa <em>charin</em> (χάριν), indicando la razón o motivo. La respuesta destaca la oposición entre 'obras malas' (<em>erga ponēra</em>) y 'justas' (<em>dikaia</em>), estableciendo un dualismo ético fundamental.</p><h3>Contexto Histórico</h3><p>En el Cercano Oriente Antiguo, el asesinato del hermano era un tabú social y religioso. La narrativa de Génesis 4 presenta a Caín como agricultor y a Abel como pastor, reflejando tensiones entre estilos de vida. El sacrificio de Abel (primogénito del rebaño) era más valorado que la ofrenda de Caín (frutos de la tierra), posiblemente porque implicaba derramamiento de sangre, prefigurando el sacrificio de Cristo. La tradición judía posterior (Filón, Josefo) elabora sobre la envidia de Caín como raíz del mal.</p><h3>Implicaciones Teológicas</h3><p>Juan usa a Caín como tipo del incrédulo, contrastándolo con el amor fraternal que caracteriza a los hijos de Dios. El versículo enseña que las acciones revelan la naturaleza espiritual: las obras justas demuestran filiación divina, mientras que las malas evidencian influencia del maligno. La pregunta retórica subraya que el odio y la violencia surgen de la injusticia interior. Para la comunidad joánica, perseguida por sus oponentes, este texto ofrecía consuelo al identificar a los perseguidores con Caín y a los creyentes con Abel, mártir justo. Teológicamente, vincula la soteriología con la ética: la fe se manifiesta en amor, no en odio.</p>",
+    "ninos": "🌟 ¡No Seas Como Caín! 🌟<p>Había una vez dos hermanos: Caín y Abel. Abel amaba a Dios y hacía cosas buenas. Caín, en cambio, hacía cosas malas y se enojaba porque Dios amaba a Abel. Un día, Caín se puso tan celoso que, en lugar de pedir perdón, hizo algo terrible: ¡lastimó a su hermano! 😢</p><p>¿Sabes qué? A veces nosotros también nos sentimos celosos cuando un amigo saca mejores notas o tiene un juguete nuevo. Pero Dios quiere que seamos como Abel: bondadosos y generosos. Si sientes celos, respira hondo y di: 'Señor, ayúdame a alegrarme por los demás'. 🌈</p><p>La lección es: el amor siempre gana. No dejes que la envidia llene tu corazón; mejor comparte y sonríe. ¡Así brillarás como Abel! 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Génesis 4:1-16",
+        "tipo": "Base narrativa",
+        "razon": "Relato original del asesinato de Abel por Caín, que Juan cita directamente."
+      },
+      {
+        "referencia": "Hebreos 11:4",
+        "tipo": "Contraste de fe",
+        "razon": "Abel ofreció un sacrificio de fe, mientras que Caín no; muestra la diferencia entre justicia e incredulidad."
+      },
+      {
+        "referencia": "1 Juan 2:9-11",
+        "tipo": "Tema teológico",
+        "razon": "Expande el contraste entre amor y odio al hermano, conectando con la luz y las tinieblas."
+      },
+      {
+        "referencia": "Mateo 5:21-22",
+        "tipo": "Enseñanza ética",
+        "razon": "Jesús equipara la ira con el asesinato, profundizando la enseñanza sobre el odio interior."
+      }
+    ],
+    "prompt_imagen_ninos": "Two brothers in ancient field: one angry with dark shadow, holding a stone; the other kneeling with sheep, peaceful. Bright sky contrasts their emotions. Simple, colorful, child-friendly.",
+    "prompt_imagen_normal": "Caín with furrowed brow, dark eyes, standing over Abel's body in a barren field. Dramatic lighting, storm clouds gathering. Abel's face peaceful, a lamb nearby. Intense emotional contrast.",
+    "texto_original": "No como Caín, que era del maligno, y mató a su hermano. ¿Y por qué causa le mató? Porque sus obras eran malas, y las de su hermano justas.",
+    "versiculo": "1 Juan 3:12"
+  },
+  "13": {
+    "normal": "<h2>No te sorprendas si te rechazan</h2><p>Como creyentes, a veces nos sentimos extraños cuando el mundo nos rechaza. Pero Juan nos recuerda que esto es parte de la vida cristiana. El mundo no conoce a Dios, por lo que tampoco conoce a sus hijos. No te desanimes; en lugar de eso, recuerda que Jesús también fue rechazado. Tu identidad está en Cristo, no en la aprobación del mundo. Busca consuelo en la comunidad de fe y sigue amando, incluso cuando no seas correspondido. Dios ve tu fidelidad y te recompensará.</p>",
+    "academico": "<h2>El odio del mundo como señal de identidad</h2><h3>Análisis Filológico</h3><p>El término griego <em>thaumazō</em> (θαυμάζω), traducido como 'maravillarse', implica asombro o sorpresa. Juan insta a no sorprenderse ante el <em>miseō</em> (μισέω, 'aborrecer') del <em>kosmos</em> (κόσμος, 'mundo'). <em>Kosmos</em> aquí se refiere al sistema mundano opuesto a Dios. La construcción μὴ θαυμάζετε (mē thaumazete) es un presente imperativo, indicando una acción continua: 'dejen de sorprenderse'.</p><h3>Contexto Histórico</h3><p>La carta fue escrita a finales del siglo I d.C., cuando los cristianos enfrentaban persecución del Imperio Romano y el judaísmo. El 'mundo' representaba la sociedad hostil que rechazaba el mensaje de Cristo. Juan recuerda a los creyentes que el odio es una consecuencia natural de seguir a Jesús, quien también fue odiado (Juan 15:18).</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la escatología realizada: los creyentes ya están separados del mundo en Cristo. El odio del mundo confirma la autenticidad de la fe. La respuesta no debe ser sorpresa, sino perseverancia y amor. La carta enfatiza que el amor fraterno es la señal del verdadero discipulado, incluso en medio del rechazo.</p>",
+    "ninos": "<h2>🌟 No te preocupes si no te quieren</h2><p>Imagina que tienes una linterna muy especial que brilla en la oscuridad. Cuando la enciendes, la oscuridad no la quiere porque muestra todo lo que está escondido. Así pasa con los amigos de Jesús: ellos brillan con su amor, y a veces el mundo, que está oscuro, no los quiere. Pero no te preocupes, porque Jesús también pasó por eso. Lo importante es seguir brillando y amando a los demás. Dios te quiere mucho y está orgulloso de ti. Recuerda: siempre hay otros que también brillan, y juntos pueden iluminar todo.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 15:18",
+        "tipo": "Paralelo temático",
+        "razon": "Jesús predice el odio del mundo hacia sus discípulos."
+      },
+      {
+        "referencia": "1 Pedro 4:12",
+        "tipo": "Refuerzo",
+        "razon": "No os sorprendáis de la prueba de fuego."
+      },
+      {
+        "referencia": "1 Juan 3:1",
+        "tipo": "Contexto",
+        "razon": "El mundo no nos conoce porque no conoce a Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A child with a glowing heart stands confidently while shadowy figures turn away. Bright light emanates from the child, contrasting with dark background. Warm, hopeful atmosphere.",
+    "prompt_imagen_normal": "A lone figure stands on a hill at sunset, facing away from a dark city. Light from above illuminates the figure's face, showing peaceful determination. Epic, dramatic lighting.",
+    "texto_original": "Hermanos míos, no os maravilléis si el mundo os aborrece.",
+    "versiculo": "1 Juan 3:13"
+  },
+  "14": {
+    "normal": "<h2>El puente hacia la vida eterna</h2><p>¿Alguna vez has sentido que algo cambió en tu interior cuando comenzaste a seguir a Jesús? Ese cambio es real y se nota en cómo tratamos a los demás. El apóstol Juan nos da una señal clara de que hemos pasado de muerte a vida: el amor por nuestros hermanos en la fe. No se trata de un sentimiento vago, sino de acciones concretas de cuidado, perdón y servicio. Cuando amamos a otros creyentes, demostramos que la vida de Dios está en nosotros. Por el contrario, si guardamos rencor, indiferencia o desprecio hacia un hermano, estamos mostrando que todavía vivimos en muerte espiritual. Es como si tuviéramos un termómetro espiritual: el amor es la temperatura que indica si estamos vivos en Cristo. Así que hoy, pregúntate: ¿estoy amando activamente a mis hermanos? ¿Hay alguien a quien necesito perdonar o ayudar? El amor no es opcional; es la evidencia de nuestra fe. Practiquemos el amor, no solo de palabra, sino de hecho y en verdad. Así sabremos que hemos cruzado el puente hacia la vida eterna.</p>",
+    "academico": "<h2>Análisis exegético de 1 Juan 3:14</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego <i>oídamen</i> (οἴδαμεν), primera persona del plural de <i>eidō</i>, que implica un conocimiento intuitivo y experiencial, no meramente intelectual. La frase \"hemos pasado\" traduce <i>metabebēkamen</i> (μεταβεβήκαμεν), perfecto de <i>metabainō</i>, indicando un cambio de estado completado con efectos continuos. Los términos \"muerte\" (<i>thanatos</i>) y \"vida\" (<i>zōē</i>) no solo son físicos sino que denotan esferas de existencia: muerte como separación de Dios, vida como comunión con Él. El amor (<i>agapē</i>) se expresa mediante el verbo <i>agapaō</i>, un amor activo y sacrificial. La frase \"está en muerte\" (<i>menei en tō thanatō</i>) usa <i>menō</i> (permanecer), sugiriendo una condición estable y continua.</p><h3>Contexto Histórico</h3><p>La epístola fue escrita a finales del siglo I d.C., probablemente desde Éfeso, a comunidades cristianas que enfrentaban divisiones internas por falsos maestros (docetistas) que negaban la encarnación y el mandamiento del amor. Juan contrapone el amor fraternal como prueba de verdadera fe, en contraste con el odio que caracteriza al mundo (Caín como tipo). El contexto del Cercano Oriente Antiguo valora la comunidad y la hospitalidad; el amor fraternal era esencial para la supervivencia de las iglesias domésticas perseguidas.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la certeza de la salvación no es solo doctrinal sino práctica: se manifiesta en el amor ético. La transición de muerte a vida es un evento pasado con consecuencias presentes. El amor no es opcional sino evidencia de regeneración. La falta de amor indica permanencia en muerte espiritual, desafiando cualquier profesión de fe sin obras. Esto resuena con la teología joánica de la vida eterna como conocimiento experiencial de Dios y comunión con los hermanos.</p>",
+    "ninos": "<h2>🌟 El puente del amor</h2><p>Imagina que estás en una isla oscura y fría llamada Muerte. De repente, Jesús construye un puente muy fuerte hacia una isla hermosa y llena de luz llamada Vida. ¿Cómo sabes que has cruzado ese puente? ¡Porque empiezas a amar a tus hermanos! 🫶 Así como cuando compartes tu juguete favorito con tu hermano o hermana, o ayudas a un amigo que está triste. Eso demuestra que ya no estás en la isla oscura. Pero si no amas a tu hermano, es como si todavía estuvieras en la isla Muerte, aunque digas que cruzaste el puente. Jesús quiere que vivamos en la isla Vida, amándonos unos a otros. Así que hoy, busca a alguien a quien puedas amar: un abrazo, una palabra bonita, o compartir algo. ¡Eso es vivir de verdad! 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 5:24",
+        "tipo": "paralelo temático",
+        "razon": "Ambos versículos hablan de pasar de muerte a vida mediante la fe y el amor."
+      },
+      {
+        "referencia": "1 Juan 4:20-21",
+        "tipo": "desarrollo teológico",
+        "razon": "Amplía el mandamiento del amor al hermano como prueba del amor a Dios."
+      },
+      {
+        "referencia": "Efesios 2:1-5",
+        "tipo": "paralelo conceptual",
+        "razon": "Describe la transición de muerte a vida por gracia mediante la fe."
+      }
+    ],
+    "prompt_imagen_ninos": "A sunny bridge over a dark ravine. A child with a glowing heart walks from a gray, shadowy land to a colorful, bright land with flowers and trees. Warm light.",
+    "prompt_imagen_normal": "Epic scene: a dark, barren wasteland (death) contrasted with a radiant, lush landscape (life). A solitary figure crossing a narrow bridge, bathed in golden light, with intense emotion of hope.",
+    "texto_original": "Nosotros sabemos que hemos pasado de muerte a vida, en que amamos a los hermanos. El que no ama a su hermano, está en muerte.",
+    "versiculo": "1 Juan 3:14"
+  },
+  "15": {
+    "normal": "<h2>El Corazón del Asesino</h2><p>Cuando leemos que el odio equivale a asesinato, podemos sentirnos confrontados. ¿Cuántos de nosotros hemos albergado resentimiento o enojo hacia alguien? Juan nos desafía a ver más allá del acto externo y examinar nuestro corazón. El odio no es solo un sentimiento; es una semilla que, si se cultiva, produce muerte espiritual. Así como un asesino quita la vida física, el que odia corta la comunión con Dios y con los demás. La vida eterna no es solo una promesa futura, sino una realidad presente que fluye en nuestras relaciones. Si permitimos que el odio eche raíces, bloqueamos ese flujo de vida. La aplicación práctica es clara: debemos examinar nuestras actitudes y buscar la reconciliación. ¿Hay alguien a quien necesitas perdonar hoy? Dios nos ofrece su gracia para transformar nuestro corazón y llenarlo de amor. Al hacerlo, experimentamos la vida abundante que Cristo prometió.</p>",
+    "academico": "<h2>Odio y Homicidio: Una Exégesis de 1 Juan 3:15</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>μισέω</em> (miseō, 'aborrecer, odiar'), que implica una aversión activa y persistente. Juan lo equipara con <em>ἀνθρωποκτόνος</em> (anthrōpoktonos, 'homicida'), palabra compuesta de <em>ἄνθρωπος</em> (anthrōpos, 'ser humano') y <em>κτείνω</em> (kteinō, 'matar'). Esta asociación recuerda la enseñanza de Jesús en Mateo 5:21-22, donde la ira injustificada es condenada como asesinato. La frase <em>ζωὴν αἰώνιον</em> (zōēn aiōnion, 'vida eterna') denota no solo duración, sino calidad de vida en comunión con Dios. El participio <em>μένουσαν</em> (menousan, 'permaneciente') subraya la naturaleza continua y estable de esta vida. Juan contrasta el odio, que es transitorio y destructivo, con el amor, que es la evidencia de la vida eterna.</p><h3>Contexto Histórico</h3><p>La epístola fue escrita a finales del siglo I d.C., probablemente en Éfeso, en un contexto de tensiones comunitarias y herejías incipientes (docetismo, gnosticismo). Los destinatarios enfrentaban divisiones internas, y Juan enfatiza la ética del amor como prueba de la verdadera fe. En el mundo grecorromano, el odio era visto como una pasión destructiva que perturbaba el orden social. La comunidad joánica, influida por la tradición judía, entendía el homicidio no solo como acto físico, sino como violación de la imagen de Dios en el prójimo (Génesis 9:6).</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la inseparable unión entre la ética y la soteriología. La vida eterna no es un logro humano, sino un don divino que se manifiesta en el amor. El odio revela la ausencia de esta vida, indicando que la persona no ha experimentado la transformación del nuevo nacimiento. Juan no está enseñando que un acto de odio hace perder la salvación, sino que el odio persistente evidencia que no se ha recibido la vida eterna. Esto refuerza la doctrina de la seguridad basada en la evidencia de una vida transformada.</p>",
+    "ninos": "<h2>🌟 El Corazón que No Quiere Amar</h2><p>Imagina que tienes una planta muy especial. Si le das agua y sol, crece fuerte y da flores hermosas. Pero si la ignoras y la tratas mal, se marchita y muere. Nuestro corazón es así. Cuando odiamos a alguien, es como si dejáramos que nuestro corazón se seque. La Biblia dice que odiar es como ser un homicida, porque el odio mata el amor y la amistad. Dios quiere que tengamos un corazón lleno de amor, como una planta regada con agua fresca. Si perdonamos y somos amables, nuestro corazón se llena de la vida de Dios. Así que cada vez que te enojes, recuerda: el amor es mejor que el odio. ¡Elige amar y verás cómo tu corazón florece!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 5:21-22",
+        "tipo": "paralelo",
+        "razon": "Jesús equipara la ira con el asesinato, similar al vínculo entre odio y homicidio en 1 Juan 3:15."
+      },
+      {
+        "referencia": "Génesis 4:8-10",
+        "tipo": "tipo",
+        "razon": "Caín odió a su hermano y lo mató, ilustrando cómo el odio lleva al homicidio."
+      },
+      {
+        "referencia": "1 Juan 4:20",
+        "tipo": "complemento",
+        "razon": "Amplía la idea: quien dice amar a Dios pero odia a su hermano es mentiroso, reforzando la inconsistencia del odio con la vida eterna."
+      }
+    ],
+    "prompt_imagen_ninos": "A child with a sad face holding a wilted flower in a dark room, while a sunny window shows a lush garden with colorful flowers and a smiling friend waving.",
+    "prompt_imagen_normal": "A dramatic scene: a man turning away from his brother, his face twisted with hatred, shadows engulfing him, while a faint light of hope fades in the background.",
+    "texto_original": "Cualquiera que aborrece a su hermano, es homicida; y sabéis que ningún homicida tiene vida eterna permaneciente en sí.",
+    "versiculo": "1 Juan 3:15"
+  },
+  "16": {
+    "normal": "<h2>El Amor Verdadero se Demuestra</h2><p>Cuando leemos que Jesús dio su vida por nosotros, entendemos que el amor no es solo un sentimiento, sino una acción. En 1 Juan 3:16, el apóstol nos recuerda que el amor más grande es el que se sacrifica por otros. Así como Cristo puso su vida por nosotros, nosotros también estamos llamados a poner nuestras vidas por nuestros hermanos. Esto no necesariamente significa morir físicamente, sino vivir de manera sacrificial: dar nuestro tiempo, recursos y atención a quienes nos rodean. Piensa en esa persona que necesita ayuda, ánimo o simplemente tu presencia. ¿Cómo puedes amar como Jesús hoy? El versículo nos desafía a pasar de la teoría a la práctica, a hacer del amor un verbo. Cuando servimos a otros, reflejamos el amor de Dios y experimentamos la verdadera alegría. Que este versículo sea un llamado a amar con hechos y verdad.</p>",
+    "academico": "<h2>El Sacrificio como Paradigma del Amor Ágape</h2><h3>Análisis Filológico</h3><p>El texto griego de 1 Juan 3:16 dice: 'Ἐν τούτῳ ἐγνώκαμεν τὴν ἀγάπην, ὅτι ἐκεῖνος ὑπὲρ ἡμῶν τὴν ψυχὴν αὐτοῦ ἔθηκεν· καὶ ἡμεῖς ὀφείλομεν ὑπὲρ τῶν ἀδελφῶν τὰς ψυχὰς θεῖναι.' La palabra clave es 'ἀγάπην' (agapēn), el amor sacrificial e incondicional. El verbo 'ἔθηκεν' (ethēken) significa 'puso' o 'depositó', indicando una acción deliberada. 'Ψυχὴν' (psychēn) se refiere a la vida o alma, no solo al cuerpo físico. La conjunción 'καὶ' (kai) conecta el acto de Cristo con la responsabilidad del creyente: 'ὀφείλομεν' (opheilomen), 'debemos' u 'obligados estamos'. Esto no es opcional, sino una exigencia ética derivada del ejemplo de Cristo.</p><h3>Contexto Histórico</h3><p>La comunidad joánica enfrentaba conflictos internos y externos. Algunos falsos maestros negaban la encarnación y minimizaban la ética del amor. Juan contrarresta esto enfatizando que el amor verdadero se demuestra en acciones concretas, no solo en palabras. En el mundo grecorromano, el sacrificio por otros era considerado noble solo para héroes o soldados; Juan lo universaliza para todos los creyentes. La referencia a 'los hermanos' (τῶν ἀδελφῶν) indica la comunidad de fe, pero el principio se extiende a todo prójimo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo fundamenta la ética cristiana en la cristología: el amor de Cristo es el modelo y la fuente. No es un mero ideal, sino una realidad que capacita al creyente para amar sacrificialmente. La obligación (opheilomen) no es legalista, sino una respuesta al amor recibido. La vida del creyente debe ser una 'ofrenda viva' (Romanos 12:1) que refleje el amor ágape. Además, el versículo vincula la fe con la ética social: el amor a Dios se demuestra amando al prójimo, especialmente a los necesitados.</p>",
+    "ninos": "<h2>🌟 El Amor que se Ve</h2><p>Imagina que tienes un juguete súper especial. Tu mejor amigo no tiene ninguno y está triste. ¿Qué harías? ¡Compartir! Eso es amor. La Biblia dice que Jesús nos amó tanto que dio su vida por nosotros. Eso es el amor más grande. Y ahora nosotros podemos amar así: ayudando a los demás, compartiendo, siendo amables. Cuando ves a un niño solo en el recreo, invítalo a jugar. Cuando tu mamá está cansada, ayúdala. Así muestras el amor de Jesús. Recuerda: el amor no solo se dice, se demuestra. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 15:13",
+        "tipo": "Paralelo directo",
+        "razon": "Jesús define el amor supremo como dar la vida por los amigos, mismo concepto que 1 Juan 3:16."
+      },
+      {
+        "referencia": "Romanos 5:8",
+        "tipo": "Fundamento teológico",
+        "razon": "Explica que Cristo murió por nosotros mientras aún éramos pecadores, mostrando la naturaleza incondicional del amor."
+      },
+      {
+        "referencia": "1 Juan 4:11",
+        "tipo": "Conclusión ética",
+        "razon": "Si Dios nos amó así, nosotros también debemos amarnos unos a otros."
+      },
+      {
+        "referencia": "Filipenses 2:5-8",
+        "tipo": "Modelo de humildad",
+        "razon": "Cristo se vació a sí mismo, tomando forma de siervo, ejemplificando el sacrificio por otros."
+      },
+      {
+        "referencia": "Gálatas 2:20",
+        "tipo": "Aplicación personal",
+        "razon": "Vivir por fe en el Hijo que me amó y se entregó por mí."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child sharing a toy with a sad friend on a sunny playground. Bright colors, warm lighting, diverse children, smiling faces, lush green grass, simple and wholesome scene.",
+    "prompt_imagen_normal": "A dramatic scene of Jesus on the cross at sunset, with a crowd of diverse people looking up in awe and gratitude. Epic realism, emotional faces, golden light, stormy clouds parting.",
+    "texto_original": "En esto hemos conocido el amor, porque él puso su vida por nosotros: también nosotros debemos poner nuestras vidas por los hermanos.",
+    "versiculo": "1 Juan 3:16"
+  },
+  "17": {
+    "normal": "<h2>El Amor en Acción</h2><p>Imagina que tienes un plato de comida frente a ti, y a tu lado hay alguien que no ha comido en días. ¿Compartirías tu pan? Juan nos desafía a ir más allá de las palabras bonitas. El amor de Dios no es un sentimiento abstracto; se demuestra cuando vemos la necesidad de nuestro hermano y actuamos. Si cerramos nuestro corazón y nuestros recursos, ¿cómo podemos decir que el amor de Dios habita en nosotros? Este versículo nos confronta con la realidad de que la fe sin obras está muerta. No se trata de dar por obligación, sino de dejar que el amor de Cristo fluya a través de nosotros. Hoy, pregúntate: ¿Hay alguien a quien Dios te está llamando a ayudar? Quizás no es solo dinero, sino tiempo, una escucha atenta o una mano amiga. El amor verdadero siempre encuentra una manera de manifestarse.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Juan 3:17</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>splagchna</em> (σπλάγχνα), traducido como 'entrañas', que en el mundo helenístico se refería a los órganos internos, especialmente el corazón, los pulmones y el hígado, considerados sede de las emociones profundas. En la literatura bíblica, <em>splagchna</em> denota compasión y misericordia visceral. El verbo 'cerrar' (<em>kleisē</em>, κλείσῃ) implica una acción deliberada de obstruir el flujo natural de la compasión. La frase 'bienes de este mundo' (<em>ton bion tou kosmou</em>, τὸν βίον τοῦ κόσμου) se refiere a los recursos materiales necesarios para la vida. El contexto histórico del Cercano Oriente Antiguo muestra una comunidad cristiana primitiva que enfrentaba tensiones económicas, donde la acumulación de riqueza contrastaba con las necesidades de los hermanos. La pregunta retórica '¿cómo está el amor de Dios en él?' (<em>pōs hē agapē tou theou menei en autō</em>), con el verbo <em>menō</em> (permanecer), indica que la ausencia de acción demuestra que el amor de Dios no tiene morada en esa persona.</p><h3>Contexto Histórico</h3><p>La carta fue escrita hacia finales del siglo I d.C., probablemente desde Éfeso, a comunidades cristianas en Asia Menor. En ese entorno, las tensiones entre ricos y pobres eran agudas; la iglesia enfrentaba herejías docetas que negaban la encarnación y, por ende, la importancia de las obras físicas. Juan contrarresta esta tendencia enfatizando que el amor divino debe encarnarse en acciones concretas hacia los necesitados.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la inseparabilidad entre la fe y la ética social. El amor de Dios no es una posesión estática, sino una realidad dinámica que transforma la conducta. Negar la ayuda al hermano necesitado es negar la esencia misma del evangelio. La teología joánica presenta a Jesús como el modelo de amor sacrificial, y el creyente está llamado a imitarlo. Por tanto, la falta de misericordia cuestiona la autenticidad de la fe.</p>",
+    "ninos": "🌟 <h2>El Corazón Abierto</h2><p>Había una vez un niño llamado Tomás que tenía muchas canicas. Un día, vio a su amigo Lucas que no tenía ninguna y estaba triste. Tomás pensó: 'Si le doy mis canicas, ¡me quedaré con menos!'. Entonces, guardó sus canicas en su bolsillo bien cerrado. Pero luego recordó lo que su mamá le dijo: 'Cuando ayudas a otros, tu corazón se llena de alegría'. Tomás abrió su mano y le dio la mitad de sus canicas a Lucas. ¡Los dos sonrieron! La lección es: Dios nos da amor para compartir. Cuando ves a alguien que necesita ayuda, abre tu corazón y tus manos. Así demuestras que el amor de Dios vive en ti.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 2:15-16",
+        "tipo": "Temática",
+        "razon": "Ambos pasajes conectan la fe con obras concretas de misericordia hacia los necesitados."
+      },
+      {
+        "referencia": "Mateo 25:35-40",
+        "tipo": "Temática",
+        "razon": "Jesús identifica el servicio al necesitado como servicio a Él mismo."
+      },
+      {
+        "referencia": "Deuteronomio 15:7-8",
+        "tipo": "Antecedente",
+        "razon": "La ley mosaica ya mandaba no endurecer el corazón ante el hermano pobre."
+      }
+    ],
+    "prompt_imagen_ninos": "A boy with a kind face gives colorful marbles to a sad friend in a sunlit park. Warm colors, soft lighting, focus on the open hands exchanging marbles.",
+    "prompt_imagen_normal": "A wealthy man in ancient robes turns away from a beggar on dusty street, his face hard. Dramatic shadows, tense moment, emotional contrast between abundance and need.",
+    "texto_original": "Mas el que tuviere bienes de este mundo, y viere a su hermano tener necesidad, y le cerrare sus entrañas, ¿cómo está el amor de Dios en él?",
+    "versiculo": "1 Juan 3:17"
+  },
+  "18": {
+    "normal": "<h2>Amor en Acción</h2><p>Querido hermano, ¿alguna vez has dicho 'te amo' sin sentirlo realmente? Es fácil. Pero Dios nos llama a algo más profundo. El apóstol Juan nos recuerda que el amor verdadero no se queda en palabras bonitas o promesas vacías. Se demuestra con hechos concretos. Piensa en Jesús: no solo habló de amor, sino que lavó pies, sanó enfermos y dio su vida. Hoy, ¿cómo puedes mostrar amor en acción? Una visita a un amigo solitario, una ayuda a un vecino necesitado, un perdón sincero. No se trata de grandiosidades, sino de pequeños gestos cotidianos que reflejan el corazón de Dios. Que tu amor sea genuino, no de labios para afuera, sino de obras y verdad. Así el mundo verá a Cristo en ti.</p>",
+    "academico": "<h2>Amor Verdadero: Más Allá de las Palabras</h2><h3>Análisis Filológico</h3><p>El versículo utiliza dos términos griegos clave: <em>logos</em> (palabra) y <em>glossa</em> (lengua), contrastados con <em>ergon</em> (obra) y <em>aletheia</em> (verdad). La frase 'no amemos de palabra ni de lengua' es una construcción pleonástica que enfatiza la insuficiencia del amor meramente verbal. El verbo <em>agapao</em> (amar) está en modo subjuntivo exhortativo, indicando una acción continua y deliberada. El contexto joánico subraya la encarnación del amor divino: así como Dios amó en acción al enviar a su Hijo (1 Juan 4:9-10), los creyentes deben amar tangiblemente. La oposición binaria 'palabra vs obra' y 'lengua vs verdad' refleja la ética del Antiguo Testamento (cf. Proverbios 14:23) y la enseñanza de Jesús sobre el fruto del árbol (Mateo 7:16-20). La 'verdad' (<em>aletheia</em>) no es solo sinceridad, sino la realidad revelada en Cristo, quien es la Verdad (Juan 14:6).</p><h3>Contexto Histórico</h3><p>La carta fue escrita a comunidades cristianas de Asia Menor hacia finales del siglo I, enfrentando herejías docetas que negaban la encarnación. Estos falsos maestros separaban el espíritu de la materia, despreciando las obras físicas como irrelevantes. Juan contrarresta enfatizando que el amor auténtico se encarna en acciones concretas, reflejando la encarnación de Cristo. En el mundo grecorromano, el amor (<em>agape</em>) no era un mero sentimiento, sino una virtud cívica demostrada en beneficencia. Sin embargo, Juan lo eleva a un mandamiento divino, vinculado a la obediencia (1 Juan 5:2-3).</p><h3>Implicaciones Teológicas</h3><p>El versículo establece el amor como criterio de verdadera filiación divina. No basta la ortodoxia doctrinal; se requiere ortopraxis. El amor en 'obra y verdad' es la señal del nuevo nacimiento (1 Juan 3:14) y la evidencia de que Dios mora en nosotros (1 Juan 4:12). Esto anticipa la teología de Santiago sobre la fe sin obras muerta (Santiago 2:17). Además, conecta con la ética del Reino: el amor no es opcional, sino mandato (Juan 13:34). La verdad sin amor es dura; el amor sin verdad es sentimentalismo. Solo la unión de ambos refleja el carácter de Dios.</p>",
+    "ninos": "<h2>🌟 El Amor que se Ve</h2><p>Había una vez un niño llamado Lucas. Su mamá le decía: 'Te quiero mucho'. Pero Lucas estaba triste porque su mamá siempre estaba ocupada. Un día, Lucas le preguntó: 'Mami, si me quieres, ¿por qué no juegas conmigo?' Su mamá lo abrazó y dijo: 'Tienes razón, hijo. El amor no solo se dice, se demuestra'. Desde ese día, su mamá dejó su teléfono y jugó con él. Lucas sonrió. Así es el amor de Dios: no solo nos dice que nos ama, sino que nos cuida, nos ayuda y nos da su amor en cada detalle. ¿Cómo puedes mostrar amor hoy? Ayuda a tu mamá, comparte tu juguete, da un abrazo. 😊 Recuerda: el amor verdadero se ve en lo que haces.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 2:14-17",
+        "tipo": "Temática",
+        "razon": "Ambos pasajes contrastan la fe/amor de palabra con las obras concretas, enfatizando que la fe sin obras es muerta."
+      },
+      {
+        "referencia": "Mateo 7:21-23",
+        "tipo": "Temática",
+        "razon": "Jesús advierte que no basta decir 'Señor, Señor', sino hacer la voluntad del Padre, similar al llamado a amar de obra."
+      },
+      {
+        "referencia": "1 Juan 4:7-12",
+        "tipo": "Contextual",
+        "razon": "Expande el mandamiento del amor mutuo como evidencia de conocer a Dios, y vincula el amor con la obra de Dios en Cristo."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child hugging a smiling mother, warm sunlight streaming through a window, colorful toys scattered on the floor, heart-shaped decorations, cozy home atmosphere, bright and cheerful colors.",
+    "prompt_imagen_normal": "A person kneeling to wash another's feet, dramatic lighting, dust motes in sunbeams, humble setting with wooden basin and cloth, expression of deep compassion and humility.",
+    "texto_original": "Hijitos míos, no amemos de palabra ni de lengua, sino de obra y en verdad.",
+    "versiculo": "1 Juan 3:18"
+  },
+  "19": {
+    "normal": "<h2>Seguridad en la Verdad</h2><p>Cuando leemos 1 Juan 3:19, encontramos un hermoso consuelo: podemos saber que pertenecemos a la verdad. No se trata de un conocimiento intelectual, sino de una certeza que Dios pone en nuestro corazón. ¿Alguna vez has dudado de tu fe? Tal vez te has preguntado si realmente eres salvo o si Dios te acepta. Este versículo nos recuerda que nuestra seguridad no viene de sentirnos perfectos, sino de la obra de Cristo en nosotros. Juan dice que podemos tener nuestros corazones certificados delante de Dios. La palabra 'certificados' sugiere una tranquilidad profunda, como cuando un niño sabe que su padre lo ama sin condiciones. Pero, ¿cómo experimentamos esto en la vida diaria? Primero, recordando que la verdad no es solo una doctrina, sino una persona: Jesús. Cuando vivimos en amor y obedecemos sus mandamientos, nuestro corazón se aquieta. Segundo, confesando nuestras dudas a Dios; él no se ofende, sino que nos asegura su amor. Tercero, compartiendo nuestra fe con otros; al testificar, la verdad se vuelve más real. Así que hoy, si sientes inseguridad, pídele a Dios que renueve la certeza de que eres suyo. Él es fiel para darte paz.</p>",
+    "academico": "<h2>La Certeza de Pertenecer a la Verdad: Análisis Exegético de 1 Juan 3:19</h2><h3>Análisis Filológico</h3><p>El versículo comienza con la frase 'Y en esto conocemos' (καὶ ἐν τούτῳ γινώσκομεν, kai en toutō ginōskomen). El verbo γινώσκομεν (ginōskomen) está en presente activo indicativo, indicando un conocimiento continuo y experimental, no meramente intelectual. 'Que somos de la verdad' (ὅτι ἐκ τῆς ἀληθείας ἐσμέν, hoti ek tēs alētheias esmen) utiliza la preposición ἐκ (ek) para denotar origen o procedencia: los creyentes tienen su fuente en la verdad, que en el contexto joánico se refiere a Cristo (Juan 14:6). La palabra 'corazones' (καρδίας, kardias) en el griego bíblico representa el centro de la voluntad, las emociones y el pensamiento. 'Certificados' traduce πείσομεν (peisomen), futuro de πείθω (peithō), que significa persuadir, tranquilizar o asegurar. El versículo completo expresa que, al amar en obra y verdad (v.18), obtenemos la seguridad interna de nuestra filiación divina.</p><h3>Contexto Histórico</h3><p>La carta fue escrita a finales del siglo I en Asia Menor, probablemente desde Éfeso. La comunidad joánica enfrentaba enseñanzas gnósticas incipientes que negaban la encarnación y la realidad del pecado. Juan contrapone la verdad encarnada en Jesús con la falsa espiritualidad de los disidentes. El énfasis en el amor práctico (v.18) y la seguridad resultante (v.19) responde a la necesidad de fortalecer la identidad de los creyentes en medio de la controversia. La palabra 'certificados' refleja la necesidad pastoral de calmar conciencias atribuladas por dudas o acusaciones.</p><h3>Implicaciones Teológicas</h3><p>Este versículo enseña que la seguridad de la salvación no es una presunción arrogante, sino una certeza basada en la obra de Cristo y evidenciada por el amor fraternal. La verdad no es abstracta, sino personal y práctica. La 'certificación' del corazón es obra del Espíritu Santo, que da testimonio a nuestro espíritu (Romanos 8:16). Además, subraya que la fe verdadera produce frutos de amor, y estos frutos son el fundamento de nuestra confianza. No se trata de obras meritocráticas, sino de evidencias de la gracia transformadora.</p>",
+    "ninos": "<h2>🌟 El Corazón Tranquilo</h2><p>Imagina que tienes un globo muy especial. Cuando haces lo bueno, el globo se llena de aire y se siente ligero. Pero cuando dices una mentira o peleas con tu hermano, el globo se desinfla un poco. En la Biblia, Dios nos dice que podemos saber que somos de la verdad cuando amamos de verdad. Es como cuando abrazas a tu mamá y sientes que todo está bien. El versículo de hoy dice que Dios puede hacer que nuestro corazón esté tranquilo, como cuando tu papá te dice 'todo está bien' después de una pesadilla. ¿Cómo podemos tener ese corazón tranquilo? Haciendo cosas buenas: compartiendo tus juguetes, diciendo la verdad, y pidiendo perdón cuando te equivocas. Dios ve tu corazón y dice: '¡Eres mi hijo amado!' Así que recuerda: cuando haces lo correcto, tu corazón se siente feliz y seguro. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 8:32",
+        "tipo": "Temática",
+        "razon": "Ambos versículos hablan de conocer la verdad y ser libres. 1 Juan 3:19 asegura que somos de la verdad, mientras Juan 8:32 promete que la verdad nos libera."
+      },
+      {
+        "referencia": "Romanos 8:16",
+        "tipo": "Doctrinal",
+        "razon": "El Espíritu da testimonio a nuestro espíritu de que somos hijos de Dios, similar a la certificación del corazón en 1 Juan 3:19."
+      },
+      {
+        "referencia": "Hebreos 10:22",
+        "tipo": "Temática",
+        "razon": "Habla de tener el corazón purificado y la conciencia limpia, relacionado con la seguridad del corazón delante de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A child with a glowing heart, surrounded by warm light, hugging a parent. Simple room, soft colors, feeling of safety and love. No text.",
+    "prompt_imagen_normal": "A dramatic scene: a person kneeling in prayer, hands over chest, with a soft divine light emanating from their heart. Dark background, emotional tranquility, realistic style.",
+    "texto_original": "Y en esto conocemos que somos de la verdad, y tenemos nuestros corazones certificados delante de él.",
+    "versiculo": "1 Juan 3:19"
+  },
+  "20": {
+    "normal": "<h2>Dios es más grande que nuestro corazón</h2><p>¿Alguna vez te has sentido abrumado por la culpa o la vergüenza? Tal vez cometiste un error y tu corazón te acusa sin piedad. En esos momentos, es fácil creer que nuestros fallos nos definen. Pero 1 Juan 3:20 nos recuerda una verdad poderosa: Dios es más grande que nuestro corazón. Él conoce todas las cosas, incluso lo que no podemos entender. Cuando nuestro corazón nos condena, Dios nos ofrece gracia y perdón. No tenemos que vivir atrapados en la culpa; podemos acudir a Él con confianza, sabiendo que su amor es más fuerte que cualquier acusación. Hoy, si sientes que tu corazón te reprende, recuerda que Dios te ve completo en Cristo. Acepta su paz y permite que su verdad silencie las mentiras de la condenación. Vive libre, sabiendo que en Él eres perdonado y amado incondicionalmente.</p>",
+    "academico": "<h2>El Conocimiento Divino como Fundamento de la Confianza</h2><h3>Análisis Filológico</h3><p>El versículo 1 Juan 3:20 dice: \"Porque si nuestro corazón nos reprendiere, mayor es Dios que nuestro corazón, y conoce todas las cosas.\" La palabra griega para \"corazón\" es <em>kardia</em> (καρδία), que en el contexto bíblico no solo se refiere al órgano físico, sino al centro de la voluntad, las emociones y la conciencia. El verbo \"reprendiere\" proviene de <em>kataginōskō</em> (καταγινώσκω), que significa \"condenar\" o \"acusar\". Esta palabra tiene connotaciones legales, sugiriendo un juicio interno. La frase \"mayor es Dios\" usa el adjetivo comparativo <em>meizōn</em> (μείζων), indicando superioridad en conocimiento y autoridad. Finalmente, \"conoce todas las cosas\" emplea <em>ginōskō</em> (γινώσκω), un verbo que implica conocimiento experiencial y relacional, no solo intelectual. Así, el versículo contrasta la limitada y a menudo distorsionada autopercepción humana con el conocimiento perfecto y amoroso de Dios.</p><h3>Contexto Histórico</h3><p>La Primera Epístola de Juan fue escrita a finales del siglo I d.C., probablemente desde Éfeso, a comunidades cristianas en Asia Menor. El autor enfrenta herejías incipientes, como el docetismo y el gnosticismo, que negaban la encarnación y la realidad del pecado. En este contexto, Juan enfatiza la realidad del pecado en la vida del creyente y la necesidad de confesión (1:8-10). El versículo 3:20 se encuentra en una sección donde Juan anima a los creyentes a tener confianza delante de Dios (3:19-24). La mención del \"corazón\" que acusa refleja la lucha interna de los primeros cristianos, quienes podían dudar de su salvación debido a sus imperfecciones. Juan les recuerda que el conocimiento divino trasciende la autoevaluación humana, ofreciendo seguridad en el amor de Dios.</p><h3>Implicaciones Teológicas</h3><p>Teológicamente, 1 Juan 3:20 subraya la soberanía y omnisciencia de Dios. Dios no solo conoce los hechos, sino que comprende la totalidad de nuestro ser, incluyendo nuestras motivaciones y debilidades. Esto proporciona una base para la confianza: aunque nuestra conciencia nos condene, Dios es mayor y su juicio es misericordioso. El versículo también implica que la autoevaluación humana es falible; nuestro \"corazón\" puede ser demasiado severo o engañoso. Por lo tanto, la seguridad de la salvación no depende de un sentimiento interno, sino de la obra objetiva de Cristo y el conocimiento perfecto de Dios. Además, conecta con el tema joánico de la verdad: Dios es luz (1:5) y conoce la verdad completa, por lo que podemos descansar en Su veredicto de gracia.</p>",
+    "ninos": "<h2>🌟 El Corazón que Acusa</h2><p>Imagina que tienes un amigo invisible llamado Corazoncito. A veces, cuando haces algo mal, Corazoncito se pone triste y te dice: \"¡Lo hiciste mal!\" Y te sientes muy mal. Pero Dios es como un súper papá que es más grande que Corazoncito. Dios te quiere tanto que sabe todo lo que piensas y sientes, incluso cuando te equivocas. Y aunque Corazoncito te acuse, Dios te perdona y te abraza. Es como si Corazoncito fuera una vocecita pequeña, pero la voz de Dios es más fuerte y dice: \"Te amo, te perdono, eres mi hijo.\" Así que cuando te sientas mal por algo, recuerda que Dios es más grande y siempre te ama. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Salmo 139:1-4",
+        "tipo": "Temático",
+        "razon": "Ambos versículos destacan el conocimiento completo de Dios sobre el ser humano."
+      },
+      {
+        "referencia": "Romanos 8:1",
+        "tipo": "Consuelo",
+        "razon": "Ofrece la seguridad de que no hay condenación para los que están en Cristo Jesús, complementando la idea de que Dios es mayor que nuestra conciencia."
+      },
+      {
+        "referencia": "Hebreos 4:13",
+        "tipo": "Omnisciencia",
+        "razon": "Enfatiza que todo está desnudo y abierto ante Dios, similar a que Él conoce todas las cosas."
+      }
+    ],
+    "prompt_imagen_ninos": "A child with a sad face, a small glowing heart shape near their chest, and a giant warm glowing figure representing God embracing them, soft light, colorful background, friendly atmosphere.",
+    "prompt_imagen_normal": "A person kneeling in despair with a dark shadow over them, while a majestic divine light breaks through clouds above, illuminating them, dramatic contrast, epic realism, emotional intensity.",
+    "texto_original": "Porque si nuestro corazón nos reprendiere, mayor es Dios que nuestro corazón, y conoce todas las cosas.",
+    "versiculo": "1 Juan 3:20"
+  },
+  "21": {
+    "normal": "<h2>Confianza en la Presencia de Dios</h2><p>Cuando nuestro corazón no nos acusa, podemos acercarnos a Dios con total confianza. Es como tener una conciencia limpia que nos permite hablar con un amigo cercano. Juan nos recuerda que, al vivir en obediencia y amor, podemos estar seguros de que Dios nos escucha y nos recibe. Esta confianza no nace de nuestra perfección, sino de la obra de Cristo en nosotros. Así que, si hoy tu corazón no te condena, acércate a Dios con valentía, sabiendo que Él te ama y desea lo mejor para ti. Vive en paz, porque tu relación con Él es firme.</p>",
+    "academico": "<h2>Análisis Exegético de 1 Juan 3:21</h2><h3>Análisis Filológico</h3><p>El término griego clave es <em>kardia</em> (καρδία, corazón), que en el contexto joánico se refiere a la conciencia moral y el centro de la voluntad. El verbo <em>kataginōskō</em> (καταγινώσκω, condenar) implica un juicio interno. La frase <em>parrēsian echomen</em> (παρρησίαν ἔχομεν, tenemos confianza) denota libertad de expresión ante Dios, un concepto derivado de la vida pública griega. Juan contrasta la condena interna con la confianza filial, basada en la obra expiatoria de Cristo (1 Jn 2:1-2).</p><h3>Contexto Histórico</h3><p>La carta combate herejías docéticas y antinomianas del siglo I. El autor, probablemente Juan el apóstol, escribe a comunidades asiáticas enfrentando falsos maestros que negaban la encarnación y la ética cristiana. El versículo se sitúa en una sección sobre el amor fraterno y la seguridad de la salvación (1 Jn 3:19-24).</p><h3>Implicaciones Teológicas</h3><p>La conciencia limpia no es base para la salvación, sino evidencia de una vida en comunión con Dios. La confianza (parrēsia) es un don escatológico: los creyentes pueden anticipar el juicio final con esperanza. Juan enfatiza que la seguridad cristiana nace del amor vivido, no de la introspección morbosa.</p>",
+    "ninos": "<h2>🌟 El Secreto de la Confianza</h2><p>Imagina que tu corazón es como un sensor de humo. Cuando haces algo mal, suena una alarma. Pero cuando haces lo correcto, todo está en silencio. ¡Qué bonito es tener el corazón tranquilo! En la Biblia, Juan dice que si nuestro corazón no nos acusa, podemos estar seguros de que Dios está con nosotros. Es como cuando limpias tu cuarto y tu mamá te sonríe: sabes que todo está bien. Así que, cuando hagas lo bueno, recuerda que Dios te ama y puedes hablar con Él sin miedo. 🕊️ La lección: una conciencia limpia te da confianza para acercarte a Dios.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hebreos 10:22",
+        "tipo": "Temática",
+        "razon": "Ambos versículos hablan de acercarse a Dios con corazón limpio y plena confianza."
+      },
+      {
+        "referencia": "1 Juan 3:19-20",
+        "tipo": "Contexto",
+        "razon": "Versículos inmediatamente anteriores que explican cómo saber que somos de la verdad y cómo Dios es mayor que nuestro corazón."
+      },
+      {
+        "referencia": "Salmos 51:10",
+        "tipo": "Complementaria",
+        "razon": "David pide un corazón limpio, que permite la confianza en Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child in a cozy room, holding a glowing heart, with a warm light from above, surrounded by soft clouds, feeling safe and loved.",
+    "prompt_imagen_normal": "A person kneeling in prayer in a dimly lit room, hands clasped, face illuminated by a beam of light from above, expressing peace and confidence.",
+    "texto_original": "Carísimos, si nuestro corazón no nos reprende, confianza tenemos en Dios;",
+    "versiculo": "1 Juan 3:21"
+  },
+  "22": {
+    "normal": "<h2>La Llave de la Confianza</h2><p>¿Alguna vez has sentido que tus oraciones no pasan del techo? A veces, hasta los creyentes más fieles luchan con la duda. Pero 1 Juan 3:22 nos revela un secreto transformador: cuando guardamos los mandamientos de Dios y hacemos lo que le agrada, nuestra confianza al orar se fortalece. No se trata de ganar puntos con Dios para que nos conceda deseos, sino de vivir en una relación tan cercana con Él que nuestros deseos se alinean con los suyos. Es como un niño que pide algo a su padre sabiendo que él quiere lo mejor para él. La obediencia no es una carga, sino el camino a una vida de bendición. Hoy, examina tu corazón: ¿hay áreas donde no estás caminando en obediencia? Pídele a Dios que te ayude a alinear tu vida con Su voluntad, y verás cómo tu vida de oración cobra vida.</p>",
+    "academico": "<h2>La Eficacia de la Oración y la Obediencia: Un Análisis de 1 Juan 3:22</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego αἰτῶμεν (aitōmen, 'pedir') en modo subjuntivo, indicando una acción condicionada. La frase 'cualquier cosa' (ὃ ἐὰν, ho ean) es una cláusula indefinida que enfatiza la amplitud de la petición. El término 'guardamos' (τηροῦμεν, tēroumen) implica una observancia cuidadosa y continua de los mandamientos (ἐντολάς, entolas). La expresión 'cosas agradables delante de él' (τὰ ἀρεστὰ ἐνώπιον αὐτοῦ, ta aresta enōpion autou) sugiere una vida que busca activamente complacer a Dios, no solo evitar el pecado. El contexto joánico (1 Juan 3:21-24) vincula la confianza en la oración con una conciencia limpia y la morada del Espíritu.</p><h3>Contexto Histórico</h3><p>La epístola fue escrita a comunidades cristianas en Asia Menor (actual Turquía) a finales del siglo I, enfrentando herejías docetas y gnósticas que negaban la encarnación y la ética cristiana. Juan contrarresta estas enseñanzas enfatizando la obediencia práctica como evidencia de la verdadera fe. En el judaísmo del Segundo Templo, la oración eficaz estaba ligada a la fidelidad a la Torá; Juan reinterpreta esto en términos cristológicos, donde los mandamientos incluyen creer en Jesús y amarse unos a otros (1 Juan 3:23).</p><h3>Implicaciones Teológicas</h3><p>Este versículo no promete un 'cheque en blanco' divino, sino que revela la dinámica de la oración en la comunión con Dios. La obediencia no es un medio para manipular a Dios, sino la expresión de una relación íntima donde los deseos del creyente se armonizan con la voluntad divina. La teología joánica subraya que la oración eficaz fluye de una vida de santidad y amor fraternal, desafiando visiones individualistas de la fe.</p>",
+    "ninos": "<h2>🌟 Papá Dios Escucha Siempre</h2><p>Imagina que tienes un papá que te ama muchísimo. Cuando le pides algo, él siempre te escucha. Pero hay un secreto: cuando tú obedeces a tu papá y haces lo que él te pide, ¡es más fácil que te dé lo que quieres! En la Biblia, Dios nos dice: 'Si me obedecen y hacen lo que a mí me gusta, yo les daré todo lo que me pidan'. Es como cuando ayudas en casa sin que te lo pidan; tus papás se ponen felices y quieren darte un premio. Pero no se trata solo de recibir cosas, sino de estar cerca de Dios. Si hoy quieres que Dios te escuche, empieza por ser obediente y bondadoso con los demás. ¡Verás cómo tu corazón se llena de paz! Lección: Obedecer a Dios nos acerca a Él y hace que nuestras oraciones sean especiales.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 7:7-11",
+        "tipo": "paralelo temático",
+        "razon": "Jesús enseña sobre la oración y la certeza de que el Padre da cosas buenas a los que le piden."
+      },
+      {
+        "referencia": "Juan 15:7",
+        "tipo": "paralelo temático",
+        "razon": "Permaneciendo en Cristo y sus palabras, podemos pedir lo que queramos y nos será hecho."
+      },
+      {
+        "referencia": "Santiago 4:3",
+        "tipo": "contraste",
+        "razon": "Advierte que pedimos mal para gastar en nuestros placeres, contrastando con la obediencia en 1 Juan 3:22."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling child praying at bedside, warm light from window, toys in background, parents watching lovingly, cozy bedroom, soft colors.",
+    "prompt_imagen_normal": "A humble believer kneeling in prayer, hands clasped, divine light streaming from heaven, peaceful expression, simple room, dramatic shadows.",
+    "texto_original": "Y cualquier cosa que pidiéremos, la recibiremos de él, porque guardamos sus mandamientos, y hacemos las cosas que son agradables delante de él.",
+    "versiculo": "1 Juan 3:22"
+  },
+  "23": {
+    "normal": "<h2>Fe y Amor: El Mandamiento Doble</h2><p>Este versículo nos recuerda el corazón de la vida cristiana: creer en Jesús y amarnos unos a otros. No es una sugerencia, sino un mandamiento directo de Dios. Creer en el nombre de Jesús significa confiar en Él como Salvador y Señor, reconociendo su autoridad y poder. El amor mutuo no es opcional; es la evidencia visible de que realmente conocemos a Dios. Así como Cristo nos amó primero, nosotros estamos llamados a amar a los demás con acciones concretas, no solo con palabras. Practica hoy: elige perdonar, servir o escuchar a alguien que lo necesite. La fe y el amor van de la mano: no puedes tener una sin la otra.</p>",
+    "academico": "<h2>El Mandamiento de Fe y Amor en 1 Juan 3:23</h2><h3>Análisis Filológico</h3><p>El término griego para 'mandamiento' es ἐντολή (entolē), que implica una orden autoritativa. 'Creer' (πιστεύω, pisteuō) en el nombre (ὄνομα, onoma) de Jesucristo significa reconocer su persona y obra. La frase 'unos a otros' (ἀλλήλους, allēlous) enfatiza la reciprocidad. El verbo 'amar' (ἀγαπάω, agapaō) se refiere al amor sacrificial y desinteresado, distinto del amor emocional (φιλέω, phileō).</p><h3>Contexto Histórico</h3><p>La carta fue escrita en un contexto de herejías gnósticas que negaban la encarnación y la necesidad del amor práctico. Juan contrarresta esto uniendo la fe correcta en Cristo con el amor ético. En el judaísmo del Segundo Templo, el 'nombre' de una persona representaba su carácter; creer en el nombre de Jesús implica someterse a su señorío.</p><h3>Implicaciones Teológicas</h3><p>Este versículo sintetiza la ética joánica: la fe en Jesucristo y el amor fraternal son inseparables. La fe no es solo asentimiento intelectual, sino confianza activa que produce obediencia. El amor no es opcional, sino evidencia de la regeneración. La unidad de estos dos mandamientos refleja el doble amor a Dios y al prójimo (Mr 12:29-31).</p>",
+    "ninos": "🌟 <h2>El Secreto del Amor de Dios</h2><p>Imagina que tienes un juguete favorito. Tu mamá te dice: 'Cuida tu juguete y compártelo con tu hermano'. ¡Esas son dos instrucciones! Así es el mandamiento de Dios: primero, confía en Jesús como tu mejor amigo (como cuidar tu juguete). Segundo, ama a los demás (como compartir). Cuando crees en Jesús y amas a otros, ¡haces feliz a Dios! ¿Cómo puedes mostrar amor hoy? Puedes dar un abrazo, compartir un dulce o decir 'gracias'. Recuerda: Dios nos ama y quiere que nosotros también amemos. ¡Es el mejor plan!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 13:34-35",
+        "tipo": "Paralelo temático",
+        "razon": "Jesús da el mandamiento de amarse unos a otros, conectando directamente con 1 Juan 3:23."
+      },
+      {
+        "referencia": "Juan 6:29",
+        "tipo": "Paralelo temático",
+        "razon": "Define la obra de Dios como creer en Jesucristo, similar a la fe en el nombre."
+      },
+      {
+        "referencia": "Deuteronomio 6:5",
+        "tipo": "Base del AT",
+        "razon": "El mandamiento de amar a Dios con todo el corazón, que Jesús resume junto con amar al prójimo."
+      },
+      {
+        "referencia": "Levítico 19:18",
+        "tipo": "Base del AT",
+        "razon": "Amar al prójimo como a uno mismo, base del amor mutuo en 1 Juan."
+      },
+      {
+        "referencia": "Romanos 13:8-10",
+        "tipo": "Aplicación paulina",
+        "razon": "Pablo resume la ley en el amor, mostrando la continuidad del mandamiento."
+      }
+    ],
+    "prompt_imagen_ninos": "Two children, one sharing a toy with the other, smiling. Bright sunny room, warm colors, soft lighting. Focus on their happy faces and the toy being passed.",
+    "prompt_imagen_normal": "A dramatic scene: Jesus on a hill, arms outstretched, with a diverse crowd of people embracing each other. Golden sunset light, emotional faces, epic landscape.",
+    "texto_original": "Y éste es su mandamiento: Que creamos en el nombre de su Hijo Jesucristo, y nos amemos unos a otros como nos lo ha mandado.",
+    "versiculo": "1 Juan 3:23"
+  },
+  "24": {
+    "normal": "<h2>Viviendo en Él</h2><p>¿Alguna vez has sentido que Dios está lejos? La Biblia nos da una respuesta sencilla: cuando obedecemos sus mandamientos, no solo demostramos nuestro amor, sino que experimentamos su presencia real. Juan nos dice que el que guarda los mandamientos de Dios permanece en Él, y Dios en él. Es como una danza: nosotros nos movemos en Él, y Él se mueve en nosotros. Pero no es algo que tengamos que adivinar; Dios nos ha dado su Espíritu como prueba. El Espíritu Santo es la garantía de que Dios vive en nosotros. Así que, si te sientes inseguro de tu relación con Dios, mira tu vida: ¿estás obedeciendo sus mandamientos? No se trata de perfección, sino de dirección. Cuando caminas en obediencia, el Espíritu te da paz, gozo y seguridad. Hoy, elige un mandamiento específico que sabes que Dios te pide cumplir. Puede ser perdonar a alguien, ser generoso o pasar tiempo en oración. Al obedecer, no solo agradarás a Dios, sino que sentirás su presencia contigo. Él no te ha dejado solo; su Espíritu mora en ti.</p>",
+    "academico": "<h2>La Permanencia Mutua y el Sello del Espíritu</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el verbo griego <em>tereo</em> (τηρέω), que significa 'guardar, observar, retener' los mandamientos (<em>entolai</em>, ἐντολαί). La frase 'está en él, y él en él' refleja la fórmula de <em>perichoresis</em> (περιχώρησις) o inhabitación mutua, concepto clave en la teología joánica. El término 'permanece' (<em>menei</em>, μένει) indica una relación continua y estable. El 'Espíritu que nos ha dado' (<em>pneuma</em>, πνεῦμα) es el don escatológico que sella la comunión. En hebreo, el concepto de 'guardar' (<em>shamar</em>, שָׁמַר) implica cuidado vigilante, no solo cumplimiento legalista.</p><h3>Contexto Histórico</h3><p>1 Juan fue escrito en un contexto de herejías incipientes (probablemente proto-gnosticismo) que negaban la encarnación y la ética práctica. La comunidad joánica enfrentaba divisiones internas. Juan enfatiza que la verdadera comunión con Dios se manifiesta en la obediencia a los mandamientos de Jesús, especialmente el amor fraternal. En el judaísmo del Segundo Templo, la idea de que el Espíritu Santo morara en los creyentes era una promesa escatológica; Juan la presenta como realidad presente para los fieles.</p><h3>Implicaciones Teológicas</h3><p>Este versículo vincula la ética (guardar mandamientos) con la ontología (estar en Dios). La obediencia no es meramente moral, sino que posibilita la experiencia de la presencia divina. El Espíritu Santo funciona como el <em>arrhabon</em> (ἀρραβών), las arras o garantía de la permanencia de Dios. La teología joánica presenta una relación recíproca: el creyente en Dios y Dios en el creyente, mediada por el Espíritu. Esto desafía cualquier noción de salvación por obras, pues la obediencia fluye de la unión con Cristo. Además, subraya la seguridad de la salvación: el Espíritu es la evidencia objetiva de la morada divina.</p>",
+    "ninos": "<h2>🌟 El Secreto para Sentir a Dios Cerca</h2><p>Imagina que tienes un amigo invisible que siempre está contigo, pero no puedes verlo. ¿Cómo sabes que está ahí? ¡Porque te habla y te ayuda! Eso pasa con Dios. La Biblia dice que si obedecemos a Dios, Él vive en nosotros y nosotros en Él. Es como cuando abrazas a tu mamá: estás muy cerca. 🫂 Pero hay una pista especial: Dios nos dio al Espíritu Santo, que es como una lucecita dentro de tu corazón que te dice: '¡Dios está aquí!'. Cuando eres bueno, compartes tus juguetes o dices la verdad, esa lucecita brilla más. Así que, si quieres sentir a Dios cerca, solo haz lo que Él dice. Por ejemplo, hoy puedes ayudar a tu hermano o hermana sin que te lo pidan. Cuando lo hagas, vas a sentir una paz bonita. ¡Eso es Dios viviendo en ti! La lección es: obedecer a Dios nos hace estar pegaditos a Él, y su Espíritu nos lo recuerda siempre.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Juan 14:15-17",
+        "tipo": "Paralelo temático",
+        "razon": "Jesús promete el Espíritu Santo a los que guardan sus mandamientos, estableciendo la misma conexión entre obediencia y morada del Espíritu."
+      },
+      {
+        "referencia": "Romanos 8:9-11",
+        "tipo": "Paralelo teológico",
+        "razon": "Pablo explica que el Espíritu de Dios mora en los creyentes, dando vida y garantizando la resurrección, similar a la permanencia del Espíritu en 1 Juan."
+      },
+      {
+        "referencia": "Ezequiel 36:26-27",
+        "tipo": "Cumplimiento profético",
+        "razon": "Dios promete dar un corazón nuevo y poner su Espíritu dentro de su pueblo para que anden en sus estatutos, prefigurando la morada del Espíritu en el Nuevo Pacto."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful child hugging a glowing, translucent heart-shaped light, surrounded by soft golden rays, in a cozy bedroom, warm colors, simple and heartwarming scene.",
+    "prompt_imagen_normal": "A dramatic scene of a person kneeling in prayer, with a dove of light descending and merging into their chest, surrounded by a dark stormy sky breaking into sunlight, conveying peace and divine presence.",
+    "texto_original": "Y el que guarda sus mandamientos, está en él, y él en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado.",
+    "versiculo": "1 Juan 3:24"
+  }
+}

@@ -1,0 +1,735 @@
+{
+  "1": {
+    "normal": "<h2>Un Viaje de Fe y Propósito</h2><p>Después de su paso por Atenas, donde debatió con filósofos en el Areópago, Pablo llega a Corinto. Esta ciudad era un centro comercial vibrante, conocido por su diversidad cultural y también por su inmoralidad. Para Pablo, Corinto representaba un nuevo campo de misión, lleno de desafíos pero también de oportunidades.</p><p>Dios guía a Pablo a través de cada paso. No fue un viaje aleatorio; cada movimiento tenía un propósito divino. A veces, nosotros también sentimos que damos pasos sin rumbo, pero Dios está obrando en cada detalle. Así como Pablo confió en la dirección de Dios, nosotros podemos descansar en que Él nos guía, incluso cuando no vemos el panorama completo.</p><p>La llegada de Pablo a Corinto nos recuerda que Dios nos prepara para cada estación. Tal vez estás en un nuevo trabajo, una nueva ciudad o una nueva etapa de la vida. Al igual que Pablo, puedes estar seguro de que Dios va delante de ti, abriendo puertas y preparando corazones. No temas lo desconocido; confía en que el mismo Dios que guió a Pablo te guiará a ti.</p><p>Ora hoy: Señor, ayúdame a confiar en Tu dirección, incluso cuando no entiendo el camino. Dame la valentía de seguir Tus pasos, sabiendo que Tú tienes un propósito en cada lugar al que me llevas. Amén.</p>",
+    "academico": "<h2>Transición Misionera: De Atenas a Corinto</h2><h3>Análisis Filológico</h3><p>El texto griego dice: \"Μετὰ ταῦτα χωρισθεὶς ἐκ τῶν Ἀθηνῶν ἦλθεν εἰς Κόρινθον\" (Meta tauta choristheis ek tōn Athēnōn ēlthen eis Korinthon). El verbo \"χωρισθεὶς\" (choristheis) es un participio aoristo pasivo de \"χωρίζω\" (chorizō), que significa \"separarse\" o \"partir\". Implica una separación deliberada, no meramente un viaje casual. Esto sugiere que Pablo sintió que su ministerio en Atenas había llegado a su fin y que era momento de moverse. \"ἦλθεν\" (ēlthen) es aoristo activo de \"ἔρχομαι\" (erchomai), \"venir\" o \"llegar\". La preposición \"εἰς\" (eis) indica movimiento hacia un destino. Corinto (Κόρινθον) era una ciudad importante en el istmo, conocida por su comercio y su templo a Afrodita.</p><h3>Contexto Histórico</h3><p>Corinto era una colonia romana, reconstruida por Julio César en el 44 a.C. Era famosa por su riqueza y su inmoralidad, al punto que \"corintianizar\" significaba vivir de manera licenciosa. Pablo llegó solo, probablemente desanimado por la recepción mixta en Atenas (Hechos 17:32-34). Sin embargo, Corinto se convertiría en un centro clave para el ministerio de Pablo, donde pasaría 18 meses (Hechos 18:11). La ciudad ofrecía un ambiente cosmopolita, con judíos y gentiles, y una sinagoga donde Pablo podía predicar inicialmente.</p><h3>Implicaciones Teológicas</h3><p>Este versículo muestra la soberanía de Dios en la dirección del ministerio. Pablo no se movió por capricho, sino bajo la guía del Espíritu Santo. También destaca la estrategia misionera de Pablo: ir a centros urbanos clave desde donde el evangelio podía difundirse. Teológicamente, nos recuerda que Dios prepara el terreno antes de que lleguemos. En Corinto, Pablo encontraría a Aquila y Priscila (Hechos 18:2), así como una visión del Señor animándolo (Hechos 18:9-10). La transición de Atenas a Corinto simboliza el paso de un ministerio intelectual a uno más práctico y pastoral, mostrando la adaptabilidad del evangelio a diferentes contextos.</p>",
+    "ninos": "🌟 **Pablo Viaja a una Nueva Ciudad** 🌟\n\nDespués de estar en Atenas, donde habló con muchas personas, Pablo decidió ir a otra ciudad llamada Corinto. Era como cuando tú terminas un juego y empiezas uno nuevo. 🎮\n\nCorinto era una ciudad grande y bulliciosa, llena de gente de muchos lugares. Pablo no conocía a nadie allí, pero confiaba en que Dios lo guiaría. Así como cuando te mudas a una nueva escuela y no conoces a nadie, pero sabes que Dios está contigo. 🏫\n\nPablo no llevaba un mapa mágico, pero llevaba algo mejor: el amor de Dios en su corazón. ❤️ Y Dios le mostró el camino. En Corinto, Pablo encontró nuevos amigos y muchas personas que querían aprender de Jesús.\n\nLección moral: No importa a dónde vayas, Dios siempre va contigo. Confía en Él, y Él te guiará a lugares increíbles. 🚀",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 17:16-34",
+        "tipo": "Contexto inmediato",
+        "razon": "Muestra el ministerio de Pablo en Atenas justo antes de viajar a Corinto, proporcionando el trasfondo de su partida."
+      },
+      {
+        "referencia": "Hechos 18:2-4",
+        "tipo": "Continuación narrativa",
+        "razon": "Describe el encuentro de Pablo con Aquila y Priscila en Corinto y su trabajo conjunto, mostrando cómo Dios proveyó compañeros de ministerio."
+      },
+      {
+        "referencia": "1 Corintios 2:1-5",
+        "tipo": "Reflexión teológica",
+        "razon": "Pablo reflexiona sobre su enfoque en Corinto, enfatizando la debilidad y el poder de Dios, en contraste con el énfasis intelectual en Atenas."
+      },
+      {
+        "referencia": "2 Corintios 12:7-10",
+        "tipo": "Tema de debilidad",
+        "razon": "Pablo habla de un aguijón en su carne, posiblemente relacionado con las dificultades en Corinto, mostrando la suficiencia de la gracia de Dios."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful cartoon scene: Paul walking into a colorful ancient city with busy market stalls, smiling people, and a bright blue sky. Warm sunlight. Simple, friendly style.",
+    "prompt_imagen_normal": "Epic realistic scene: Paul, a weary traveler, arrives at the gates of ancient Corinth at dusk. Dusty road, towering city walls, distant temple columns. Dramatic lighting, sense of purpose and determination.",
+    "texto_original": "PASADAS estas cosas, Pablo partió de Atenas, y vino a Corinto.",
+    "versiculo": "Hechos 18:1"
+  },
+  "2": {
+    "normal": "<h2>Dios usa personas y circunstancias</h2><p>Al leer Hechos 18:2, vemos cómo Dios orquesta encuentros significativos. Pablo, en Corinto, encuentra a Aquila y Priscila, una pareja que, como él, eran fabricantes de tiendas y judíos expulsados de Roma por un edicto del emperador Claudio. Este encuentro no fue casualidad; fue providencia divina. Dios usó la persecución y el desplazamiento para unir a estos creyentes, formando una alianza que fortalecería la iglesia primitiva.</p><p>En nuestra vida, a menudo vemos los cambios y dificultades como obstáculos, pero Dios puede estar obrando detrás de escena. Tal vez un cambio de trabajo, una mudanza inesperada o una pérdida te ha llevado a conocer a alguien que será un apoyo espiritual clave. Como Aquila y Priscila, podemos estar dispuestos a ser usados por Dios en medio de nuestras propias transiciones.</p><p>La lección práctica es estar atentos a las personas que Dios pone en nuestro camino. No subestimemos el poder de una amistad cristiana. Además, recordemos que nuestras circunstancias, incluso las difíciles, pueden ser el escenario para que Dios nos conecte con otros para su gloria. Abramos nuestros ojos y corazones para recibir a aquellos que Dios envía, y seamos como Aquila y Priscila: hospitalarios, colaboradores y fieles en medio del cambio.</p>",
+    "academico": "<h2>Providencia divina en el encuentro de Pablo con Aquila y Priscila</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>kai heurōn tina Ioudaion onomati Akylan, Pontikon tō genei, prosphatōs elēlythota apo tēs Italias, kai Priskillan gynaika autou</em>. El verbo <em>heurōn</em> (hallando) implica un encuentro intencional, no fortuito. <em>Prosphatōs</em> (recientemente) indica que la llegada de Aquila era contemporánea a la de Pablo. El nombre <em>Akylas</em> es forma latinizada del griego, sugiriendo origen romano. <em>Pontikon tō genei</em> especifica su origen étnico: del Ponto, región del Mar Negro. La referencia a Claudio (Klaudios) confirma el edicto de expulsión de judíos de Roma hacia el año 49 d.C., mencionado por Suetonio (Claudio, 25.4).</p><h3>Contexto Histórico</h3><p>El edicto de Claudio expulsó a los judíos de Roma debido a disturbios relacionados con <em>Chrestus</em> (probablemente Cristo). Aquila y Priscila, como muchos judíos, se vieron obligados a emigrar. Corinto, ciudad cosmopolita y puerto clave, ofrecía oportunidades. La pareja probablemente ya era cristiana antes de conocer a Pablo, dado su posterior liderazgo en la iglesia. El oficio común de fabricante de tiendas (skēnopoios) facilitó la colaboración y el sustento mutuo. Este encuentro ilustra cómo Dios usó la persecución política para expandir el evangelio y formar equipos ministeriales.</p><h3>Implicaciones Teológicas</h3><p>Dios soberanamente dirige la historia, incluso los decretos imperiales, para cumplir sus propósitos. La hospitalidad de Aquila y Priscila refleja la koinonía cristiana. El texto subraya que el ministerio no es solitario; Pablo necesitaba compañeros. Además, la pareja es un modelo de ministerio matrimonial conjunto. La providencia divina no elimina la agencia humana: Aquila y Priscila respondieron con fe y disposición. Para la iglesia actual, esto invita a reconocer las conexiones divinas en medio de las crisis y a valorar el trabajo en equipo.</p>",
+    "ninos": "🌟 **Dios junta a sus amigos**\n\nPablo estaba en la ciudad de Corinto, solo y necesitaba amigos. De repente, conoció a Aquila y Priscila, una pareja que también había tenido que mudarse lejos de su casa. ¡Qué alegría! Ellos hacían tiendas de campaña, igual que Pablo. Así que trabajaban juntos y se hicieron muy buenos amigos. 🏕️\n\nPiensa en cuando te mudas a un nuevo colegio o barrio. Al principio puedes sentirte solo, pero Dios tiene una sorpresa: va a poner personas especiales en tu camino, como nuevos amigos que te ayudarán y te querrán. Aquila y Priscila no solo fueron compañeros de trabajo, sino que también enseñaron a Pablo sobre Jesús y juntos compartieron el amor de Dios. ❤️\n\n**Lección:** Dios siempre nos da personas para ayudarnos, incluso en momentos difíciles. Así que cuando conozcas a alguien nuevo, sé amable y hazle sentir bienvenido, ¡como Aquila y Priscila hicieron con Pablo!",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 16:3-4",
+        "tipo": "Desarrollo posterior",
+        "razon": "Muestra a Aquila y Priscila como colaboradores de Pablo y que arriesgaron su vida por él."
+      },
+      {
+        "referencia": "1 Corintios 16:19",
+        "tipo": "Contexto eclesiástico",
+        "razon": "Indica que la iglesia se reunía en su casa, destacando su hospitalidad."
+      },
+      {
+        "referencia": "Hechos 18:24-26",
+        "tipo": "Continuación narrativa",
+        "razon": "Muestra cómo instruyeron a Apolos, completando su ministerio."
+      }
+    ],
+    "prompt_imagen_ninos": "Paul, a man with a beard, meets Aquila and Priscilla in a tent workshop in ancient Corinth. They smile and shake hands. Sunlight streams through the tent opening. Tools and fabric around. Warm, friendly atmosphere.",
+    "prompt_imagen_normal": "A dramatic scene in ancient Corinth: Paul, a weathered traveler, meets Aquila and Priscilla in a leather workshop. Dim lighting, tools hanging, tension of exile in their faces, but hope in their eyes. Epic realism.",
+    "texto_original": "Y hallando a un Judío llamado Aquila, natural del Ponto, que hacía poco que había venido de Italia, y a Priscila su mujer, (porque Claudio había mandado que todos los Judíos saliesen de Roma) se vino a ellos;",
+    "versiculo": "Hechos 18:2"
+  },
+  "3": {
+    "normal": "<h2>El valor del trabajo humilde</h2><p>Pablo, el gran apóstol, no era ajeno al trabajo manual. En Hechos 18:3, lo vemos viviendo con Aquila y Priscila, y trabajando junto a ellos haciendo tiendas. Este versículo nos recuerda que el trabajo, incluso el más sencillo, tiene dignidad y propósito. Pablo no consideraba que predicar el evangelio lo eximiera de ganarse el pan con sus manos. Al contrario, veía su oficio como una forma de sostén y testimonio.</p><p>En nuestra vida diaria, a veces menospreciamos las tareas rutinarias o los empleos que consideramos 'menores'. Pero Dios valora la fidelidad en lo pequeño. El trabajo no es solo un medio para sobrevivir; es una oportunidad para honrar a Dios, servir a otros y mantener una vida íntegra. Pablo trabajaba para no ser una carga a nadie, y para poder predicar libremente.</p><p>Hoy, reflexiona: ¿Cómo puedes ver tu trabajo como un acto de adoración? Ya sea que estés en una oficina, en casa o en el campo, hazlo con excelencia y gratitud. Así como Pablo, permite que tu labor sea un testimonio de tu fe, no solo con palabras, sino con acciones. El trabajo humilde, hecho con amor, es poderoso ante Dios.</p>",
+    "academico": "<h2>Hechos 18:3: Trabajo manual y testimonio apostólico</h2><h3>Análisis Filológico</h3><p>El término griego para 'hacer tiendas' es σκηνοποιός (skēnopoios), compuesto de σκηνή (skēnē, 'tienda') y ποιέω (poieō, 'hacer'). Este oficio implicaba trabajar con cuero o lona, común en el mundo grecorromano. El verbo 'trabajaba' (ἐργάζομαι, ergazomai) indica una acción continua, subrayando que Pablo se mantenía activo en su oficio. La frase 'porque era de su oficio' (ὁμότεχνον, homotechnon) significa 'del mismo oficio', destacando la conexión gremial entre Pablo y Aquila.</p><h3>Contexto Histórico</h3><p>En el siglo I, los artesanos solían vivir y trabajar juntos. Corinto era un centro comercial donde la fabricación de tiendas era necesaria para viajeros y el ejército. Pablo, como rabino, había aprendido un oficio (costumbre judía), y aquí lo usa para sustentarse (cf. 1 Tes 2:9). Aquila y Priscila, expulsados de Roma por el edicto de Claudio, encontraron en Pablo un colega y colaborador.</p><h3>Implicaciones Teológicas</h3><p>Pablo modela una ética laboral que integra evangelio y trabajo. No ve contradicción entre lo espiritual y lo material. El trabajo manual no es inferior al ministerio; ambos son vocación. Además, el trabajo en equipo ('posó con ellos') muestra la importancia de la comunidad. Este pasaje desafía la idea de que el ministerio cristiano debe ser financiado externamente; Pablo prefiere ser autosuficiente para no obstaculizar el evangelio (1 Co 9:18).</p>",
+    "ninos": "🌟 ¡Pablo y sus amigos fabricantes de tiendas! 🌟\n\n¿Sabías que el apóstol Pablo también trabajaba con sus manos? Así es, Pablo, Aquila y Priscila hacían tiendas de campaña juntos. Imagina a tres amigos cosiendo telas y cuero, riendo mientras trabajan. Pablo no solo predicaba, también ayudaba a otros con su oficio. \n\nCuando trabajas en equipo, todo es más divertido. Como cuando en la escuela haces un proyecto con tus compañeros: cada uno pone su parte. Pablo enseñaba que el trabajo es importante y que podemos ayudar a otros mientras hacemos lo que nos gusta. \n\nLección: No importa si eres pequeño o grande, tu trabajo es valioso. Ayuda a otros con lo que sabes hacer, ¡y verás cómo Dios usa tus manos para bendecir! 🤲✨",
+    "recomendaciones": [
+      {
+        "referencia": "1 Tesalonicenses 2:9",
+        "tipo": "Paralelo temático",
+        "razon": "Pablo recuerda su trabajo manual para no ser carga."
+      },
+      {
+        "referencia": "Hechos 20:34",
+        "tipo": "Confirmación biográfica",
+        "razon": "Pablo menciona que trabajó para sustentarse a sí mismo y a otros."
+      },
+      {
+        "referencia": "2 Tesalonicenses 3:8-10",
+        "tipo": "Enseñanza ética",
+        "razon": "Pablo establece el principio de trabajar para comer."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful scene of Paul, Aquila, and Priscilla sewing a large tent together in a sunlit workshop. They are smiling, surrounded by rolls of colorful fabric and tools. Warm, inviting atmosphere.",
+    "prompt_imagen_normal": "Paul, a weathered man in his 50s, sits at a wooden workbench stitching leather tent panels by lamplight. Aquila and Priscilla work nearby, their faces focused. Dusty workshop, tools hanging, dramatic shadows.",
+    "texto_original": "Y porque era de su oficio, posó con ellos, y trabajaba; porque el oficio de ellos era hacer tiendas.",
+    "versiculo": "Hechos 18:3"
+  },
+  "4": {
+    "normal": "<h2>Persuadiendo con Paciencia</h2><p>En Hechos 18:4, vemos a Pablo en Corinto, una ciudad llena de diversidad y desafíos. Cada sábado, él iba a la sinagoga para dialogar y persuadir tanto a judíos como a griegos. Este versículo nos muestra la importancia de la perseverancia y la paciencia en la comunicación del evangelio. Pablo no se desanimaba por la falta de resultados inmediatos; en cambio, continuaba sembrando la semilla de la verdad semana tras semana. Como creyentes, a menudo queremos ver cambios rápidos, pero Dios nos llama a ser fieles en el proceso, confiando que Él dará el crecimiento. Además, Pablo se dirigía a diferentes audiencias: judíos, que conocían las Escrituras, y griegos, que tenían una cosmovisión distinta. Esto nos reta a adaptar nuestro mensaje sin comprometer su esencia, buscando conectar con las personas donde están. Hoy, ¿estás dispuesto a ser constante en tu testimonio, incluso cuando no ves frutos inmediatos? ¿Puedes aprender a comunicar el amor de Dios de manera relevante para quienes te rodean? La paciencia y la adaptabilidad son claves para una fe que impacta.</p>",
+    "academico": "<h2>Análisis de Hechos 18:4</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>διελέγετο</em> (dielegeto) indica un diálogo o discusión razonada, no un simple monólogo. El término <em>συνάγωγῃ</em> (synagoge) se refiere al lugar de reunión judío, mientras que <em>σάββατον</em> (sabbaton) señala el día de reposo. La frase <em>ἔπειθέν τε Ἰουδαίους καὶ Ἕλληνας</em> (epeithen te Ioudaious kai Hellenas) usa el verbo <em>πείθω</em> (peitho), que implica persuadir o convencer. El uso de <em>τε...καὶ</em> enfatiza la inclusión de ambos grupos. El contexto histórico muestra que Pablo, en Corinto, seguía su estrategia misionera de ir primero a la sinagoga (Romanos 1:16). La mención de griegos indica la presencia de gentiles temerosos de Dios o prosélitos. Teológicamente, este versículo subraya la universalidad del evangelio y la necesidad de un diálogo contextualizado.</p><h3>Contexto Histórico</h3><p>Corinto era una ciudad cosmopolita, centro comercial y religioso. La sinagoga local probablemente tenía influencia judía y atraía a gentiles interesados en el monoteísmo. Pablo trabajaba como fabricante de tiendas (Hechos 18:3), y dedicaba los sábados a debatir. La persecución posterior (vv. 6-7) muestra la resistencia de algunos judíos, pero también la apertura de otros.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje destaca la importancia de la apologética y el diálogo respetuoso. Pablo no imponía, sino que persuadía. La paciencia semanal refleja la fidelidad en el testimonio. Además, la inclusión de griegos anticipa la misión gentil, mostrando que el evangelio trasciende barreras étnicas y culturales.</p>",
+    "ninos": "🌟 ¡Pablo, el Gran Conversador! 🌟\n\nImagina que cada sábado vas a un lugar donde hay personas que piensan diferente a ti. Eso hacía Pablo. Iba a la sinagoga, como una iglesia, y hablaba con judíos y griegos. 🗣️ Él no se enojaba si no le creían, sino que seguía hablando con amor y paciencia. 🕊️ ¿Sabes qué? A veces, cuando queremos contarles a otros sobre Jesús, puede ser difícil porque no todos entienden. Pero Pablo nos enseña a ser pacientes y a seguir intentando. Así como un jardinero riega las plantas cada día, nosotros podemos hablar de Dios poquito a poco. Al final, algunos creyeron. La lección es: ¡Nunca te rindas! Dios usa nuestras palabras para sembrar semillas de amor. 💖",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 17:2-3",
+        "tipo": "Paralelo contextual",
+        "razon": "Pablo también discutía las Escrituras en la sinagoga de Tesalónica, mostrando su método consistente."
+      },
+      {
+        "referencia": "1 Corintios 2:4-5",
+        "tipo": "Temático",
+        "razon": "Pablo enfatiza que su persuasión no era con sabiduría humana, sino con el poder de Dios."
+      },
+      {
+        "referencia": "Romanos 1:16",
+        "tipo": "Teológico",
+        "razon": "El evangelio es poder de Dios para salvación a todo aquel que cree, primero al judío y también al griego."
+      }
+    ],
+    "prompt_imagen_ninos": "A friendly man named Paul talking to a group of children and adults in a cozy synagogue. Sunlight streams through windows. Everyone is listening attentively. Warm colors, peaceful atmosphere.",
+    "prompt_imagen_normal": "Paul, in a ancient synagogue, passionately debating with a diverse crowd of Jews and Greeks. Dramatic lighting, intense expressions, hands gesturing. Epic realism, historical setting.",
+    "texto_original": "Y disputaba en la sinagoga todos los sábados, y persuadía a Judíos y a Griegos.",
+    "versiculo": "Hechos 18:4"
+  },
+  "5": {
+    "normal": "<h2>El Fuego de la Palabra</h2><p>Cuando Silas y Timoteo llegaron desde Macedonia, algo cambió en Pablo. No era solo que tuviera compañía; era como si la llegada de sus hermanos encendiera una llama que ya ardía en su interior. El texto dice que Pablo estaba 'constreñido por la palabra'. Imagina un río que se desborda: así era el mensaje de Jesús en su corazón. No podía contenerlo.</p><p>Tal vez te has sentido así alguna vez. Cuando compartes algo que te apasiona, las palabras fluyen sin esfuerzo. Para Pablo, esa pasión era el evangelio. Pero no era un entusiasmo ciego; era una convicción profunda, alimentada por el Espíritu Santo y el apoyo de sus hermanos.</p><p>¿Qué te constriñe a ti? ¿Qué verdad te urge compartir? No tiene que ser un sermón; puede ser una palabra de aliento, una ayuda práctica, o simplemente vivir de manera que otros vean a Jesús en ti. La llegada de Silas y Timoteo nos recuerda que no estamos solos. En comunidad, nuestra pasión se aviva y nuestro testimonio se fortalece.</p><p>Hoy, busca a esos 'Silas y Timoteo' en tu vida: amigos que te animen a compartir lo que Dios ha puesto en tu corazón. Y no temas que la palabra te constriña; déjala fluir, porque cuando el mensaje de Jesús nos llena, es imposible callarlo.</p>",
+    "academico": "<h2>La Constricción Profética: Análisis de Hechos 18:5</h2><h3>Análisis Filológico</h3><p>El versículo dice: 'Y cuando Silas y Timoteo vinieron de Macedonia, Pablo estaba constreñido por la palabra, testificando a los Judíos que Jesús era el Cristo'. El término griego clave es <em>syneícheto</em> (συνείχετο), tercera persona singular imperfecto pasivo de <em>synécho</em> (συνέχω), que significa 'estar presionado, constreñido, ocupado intensamente'. En el contexto, implica una compulsión interna, casi física, por proclamar el mensaje. La frase 'por la palabra' (<em>tōi lógōi</em>, τῷ λόγῳ) puede referirse al mensaje del evangelio o a la Escritura misma. El verbo 'testificando' (<em>diamartyrómenos</em>, διαμαρτυρόμενος) es un participio presente medio, indicando una acción continua y enfática: 'dando testimonio solemne'. La declaración 'que Jesús era el Cristo' (<em>Iēsoûn tòn Christón</em>, Ἰησοῦν τὸν Χριστόν) es central en la cristología lucana: Jesús es el Mesías prometido.</p><h3>Contexto Histórico</h3><p>Pablo había llegado a Corinto solo (Hechos 18:1), tras ser expulsado de Atenas. En Corinto, encontró a Aquila y Priscila, y trabajaba con ellos haciendo tiendas (18:2-3). Cada sábado discutía en la sinagoga, tratando de persuadir a judíos y griegos (18:4). La llegada de Silas y Timoteo desde Macedonia (probablemente desde Tesalónica, cf. 1 Tesalonicenses 3:6) le trajo apoyo financiero (2 Corintios 11:9) y aliento. Esto liberó a Pablo para dedicarse por completo a la predicación. La 'constricción' sugiere un sentido de urgencia escatológica: el tiempo es corto, el mensaje debe ser proclamado. La oposición judía se intensificó, llevando a Pablo a sacudirse las vestiduras y declarar que se volvería a los gentiles (18:6).</p><h3>Implicaciones Teológicas</h3><p>Este versículo revela la dinámica del llamamiento apostólico: la proclamación no es opcional sino imperativa (cf. 1 Corintios 9:16). La 'palabra' tiene un poder inherente que impulsa al heraldo. Además, la comunidad de creyentes (Silas y Timoteo) facilita el ministerio. La cristología es explícita: Jesús es el Cristo, el cumplimiento de las esperanzas de Israel. Este testimonio, aunque rechazado por muchos, establece la base para la misión a los gentiles. La constricción de Pablo modela la pasión que debe caracterizar a todo creyente: una urgencia santa por compartir el evangelio.</p>",
+    "ninos": "<h2>🌟 ¡El Secreto que Quemaba!</h2><p>Imagina que tienes un secreto súper emocionante, como que encontraste un tesoro escondido o que tu mejor amigo te va a visitar. ¡No puedes quedarte quieto! Quieres contárselo a todos. Así se sentía Pablo.</p><p>Pablo estaba solito en Corinto, trabajando y hablando de Jesús. Pero cuando llegaron sus amigos Silas y Timoteo, ¡fue como si le pusieran gasolina al fuego! Ya no podía parar. El mensaje de Jesús le quemaba por dentro, y tenía que compartirlo. Les decía a todos: '¡Jesús es el Rey que Dios prometió!'.</p><p>¿Sabes? A veces nosotros también tenemos algo importante que compartir: que Jesús nos ama. No necesitas ser grande o famoso. Solo dile a un amigo: 'Jesús te quiere'. Así como Pablo, cuando tienes un mensaje bonito en tu corazón, ¡no puedes guardarlo!</p><p>🎯 <strong>Lección:</strong> Cuando amas a Jesús, quieres que otros también lo conozcan. Busca un amigo y cuéntale hoy algo bueno de Dios.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 9:16",
+        "tipo": "Temática",
+        "razon": "Pablo expresa su compulsión por predicar el evangelio: '¡Ay de mí si no anuncio el evangelio!'"
+      },
+      {
+        "referencia": "Filipenses 4:15-16",
+        "tipo": "Histórica",
+        "razon": "Los filipenses apoyaron financieramente a Pablo, posiblemente a través de Silas y Timoteo"
+      },
+      {
+        "referencia": "Hechos 17:1-15",
+        "tipo": "Cronológica",
+        "razon": "Describe el ministerio de Pablo en Macedonia, de donde vinieron Silas y Timoteo"
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful Paul with open arms, surrounded by Silas and Timothy arriving with smiles. Bright Corinthian street, warm sunlight, colorful fabrics. Paul's face shows excitement and urgency. Children watching nearby.",
+    "prompt_imagen_normal": "Paul preaching passionately in a crowded synagogue, hands raised, intense expression. Silas and Timothy stand behind him, supportive. Dim interior with shafts of light. Emotional tension, dramatic realism.",
+    "texto_original": "Y cuando Silas y Timoteo vinieron de Macedonia, Pablo estaba constreñido por la palabra, testificando a los Judíos que Jesús era el Cristo.",
+    "versiculo": "Hechos 18:5"
+  },
+  "6": {
+    "normal": "<h2>Limpio ante Dios</h2><p>Cuando Pablo enfrentó oposición y blasfemia, no se desanimó ni discutió sin fruto. Sacudió sus vestidos como señal simbólica: 'Vuestra sangre sea sobre vuestra cabeza; yo, limpio'. Esta acción nos recuerda que no somos responsables de la respuesta de otros al evangelio, solo de nuestra fidelidad al proclamarlo. A veces, debemos reconocer que hemos hecho nuestra parte y seguir adelante, confiando en que Dios tiene un plan más amplio. Pablo no se aferró al rechazo; se volvió a los gentiles, abriendo una puerta de bendición a nuevas naciones. Hoy, ¿hay áreas donde necesitas soltar la carga de la responsabilidad por otros? Ora: 'Señor, ayúdame a ser fiel en compartir tu amor, pero a dejar los resultados en tus manos. Dame sabiduría para saber cuándo seguir adelante, como Pablo, hacia nuevas oportunidades de sembrar tu gracia.'</p>",
+    "academico": "<h2>El Gesto Profético de Pablo: Implicaciones Teológicas e Históricas</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>apotinassō</em> (ἀποτινάσσω) significa 'sacudir violentamente', usado en la LXX para acciones simbólicas de rechazo (Neh 5:13). La frase 'vuestra sangre sea sobre vuestra cabeza' (τὸ αἷμα ὑμῶν ἐπὶ τὴν κεφαλὴν ὑμῶν) es una expresión semítica que transfiere la responsabilidad moral (cf. Jos 2:19; Ez 33:4). Pablo declara 'limpio' (καθαρός), término ritual que indica pureza legal y moral. El cambio a 'gentiles' (ἔθνη) marca un punto de inflexión en la misión paulina, reflejando la teología de Isaías 49:6.</p><h3>Contexto Histórico</h3><p>Corinto, colonia romana con fuerte presencia judía, era un centro comercial donde la sinagoga ofrecía plataforma inicial. La oposición de los judíos probablemente incluía acusaciones de blasfemia contra la Ley. Sacudir las vestiduras era un gesto profético de juicio (cf. Nehemías 13:25), ejecutado en público para enfatizar la separación. Pablo, como fariseo, conocía su simbolismo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo muestra la tensión entre la responsabilidad humana y la soberanía divina en la predicación. Pablo no cesa de predicar a los judíos (cf. Rom 9-11), pero aquí legitima el giro a los gentiles como estrategia divina. La 'sangre sobre la cabeza' recuerda la responsabilidad individual ante el evangelio (Ez 18:20). El 'limpio' de Pablo refleja su conciencia libre de culpa al cumplir su comisión (Hch 20:26). Teológicamente, subraya que el rechazo al evangelio tiene consecuencias, pero Dios redirige la misión para alcanzar a otros pueblos.</p>",
+    "ninos": "🌟 ¡Pablo Sigue Adelante! 🌟\n\nImagina que estás compartiendo tus juguetes favoritos con tus amigos, pero algunos no quieren jugar y se enojan. ¿Qué haces? ¡Pablo se encontró con personas que no querían escuchar sobre Jesús! Ellos decían cosas malas, pero Pablo no se puso triste. Sacudió su ropa como si dijera: '¡No es mi culpa! Yo ya hice mi parte'. Luego, se fue a hablar con otras personas que sí querían escuchar. ¡Así como cuando tú cambias de juego y encuentras nuevos amigos! La lección es: no te preocupes si algunos no te escuchan; sigue compartiendo el amor de Dios con quienes están listos para recibirlo. 😊🙏",
+    "recomendaciones": [
+      {
+        "referencia": "Nehemías 5:13",
+        "tipo": "paralelo",
+        "razon": "Nehemías también sacude su vestido como señal de juicio contra quienes no cumplen su promesa."
+      },
+      {
+        "referencia": "Ezequiel 33:4",
+        "tipo": "paralelo",
+        "razon": "La advertencia de que la sangre del impío será sobre su propia cabeza si no es advertido."
+      },
+      {
+        "referencia": "Hechos 13:46",
+        "tipo": "paralelo",
+        "razon": "Pablo y Bernabé también se vuelven a los gentiles ante el rechazo judío."
+      },
+      {
+        "referencia": "Mateo 10:14",
+        "tipo": "paralelo",
+        "razon": "Jesús instruye a sacudir el polvo de los pies como testimonio contra quienes no reciben el mensaje."
+      }
+    ],
+    "prompt_imagen_ninos": "A man in ancient robes shaking his cloak dramatically, walking away from a crowd of angry people, with a bright light shining on his path forward, colorful sky, cartoon style.",
+    "prompt_imagen_normal": "Paul in Corinth, shaking his garments, dust rising, facing a hostile Jewish crowd, intense lighting, dramatic shadows, realistic biblical scene, emotional tension.",
+    "texto_original": "Mas contradiciendo y blasfemando ellos, les dijo: sacudiendo sus vestidos: Vuestra sangre sea sobre vuestra cabeza; yo, limpio; desde ahora me iré a los Gentiles.",
+    "versiculo": "Hechos 18:6"
+  },
+  "7": {
+    "normal": "<h2>Puertas abiertas en lugares inesperados</h2><p>Cuando Pablo salió de la sinagoga, probablemente se sintió rechazado. Pero Dios ya había preparado un lugar junto a ella: la casa de Justo, un hombre que temía a Dios. A veces, cuando una puerta se cierra, Dios nos muestra otra más cercana de lo que imaginamos. Justo no era israelita, pero su corazón estaba abierto al Señor. Su casa, literalmente al lado del lugar de conflicto, se convirtió en un refugio para el evangelio. Así como Pablo, nosotros podemos encontrar aliados inesperados en momentos de oposición. ¿Hay alguien a tu alrededor que, aunque diferente, comparte tu temor a Dios? Quizás esa persona es la llave para un nuevo comienzo. No te desanimes por los rechazos; mira a tu lado: la provisión divina puede estar más cerca de lo que piensas. Hoy, busca a esos 'Justos' que Dios ha puesto en tu camino, y atrévete a entrar en sus casas, a construir puentes de fe en medio de la adversidad.</p>",
+    "academico": "<h2>La transición del ministerio: de la sinagoga a la casa de Justo</h2><h3>Análisis Filológico</h3><p>El versículo comienza con 'καὶ μεταβὰς ἐκεῖθεν' (kai metabas ekeithen, 'y partiendo de allí'), indicando una acción deliberada de Pablo al dejar la sinagoga (posiblemente tras el conflicto en Hechos 18:6). El nombre 'Ἰούστου' (Ioustou, 'Justo') es la forma griega del latín 'Justus', un nombre común entre prosélitos o simpatizantes judíos. La frase 'σεβομένου τὸν θεόν' (sebomenou ton theon, 'temeroso de Dios') es un término técnico para los 'temerosos de Dios', gentiles que adoraban al Dios de Israel sin convertirse plenamente al judaísmo (cf. Hechos 10:2,22). La expresión 'ἡ οἰκία ἦν συνομοροῦσα τῇ συναγωγῇ' (hē oikia ēn synomorousa tē synagōgē, 'la casa estaba contigua a la sinagoga') usa el verbo 'συνομορέω' (synomoreō, 'limitar con, estar adyacente'), que solo aparece aquí en el NT, subrayando la proximidad física y simbólica.</p><h3>Contexto Histórico</h3><p>En Corinto, la sinagoga era el centro de la comunidad judía. Al mudarse a la casa de Justo, Pablo no se aleja del todo, sino que permanece en las inmediaciones, lo que sugiere una estrategia misionera: continuar predicando a judíos y gentiles desde un espacio privado pero visible. Las casas en el mundo grecorromano a menudo servían como lugares de reunión para grupos religiosos. Justo, como 'temeroso de Dios', representaba un puente entre el judaísmo y el cristianismo naciente. Este movimiento refleja un cambio en el enfoque de Pablo hacia los gentiles, pero sin abandonar por completo a los judíos.</p><h3>Implicaciones Teológicas</h3><p>La decisión de Pablo de ir a la casa de Justo junto a la sinagoga muestra la providencia divina en medio de la oposición. Dios prepara 'casas' (comunidades) para su mensaje incluso cuando las puertas institucionales se cierran. La casa de un gentil temeroso de Dios se convierte en el nuevo centro del ministerio, prefigurando la expansión del evangelio a los gentiles. Además, la proximidad a la sinagoga indica que Pablo no rompe completamente con el judaísmo, sino que busca una plataforma alternativa. Teológicamente, este pasaje enfatiza que Dios obra a través de personas marginadas o inesperadas para avanzar su reino.</p>",
+    "ninos": "🌟 **La casa de al lado**\n\nPablo estaba triste porque algunas personas en la sinagoga no querían escuchar acerca de Jesús. Pero Dios ya tenía un plan. Justo, un hombre que amaba a Dios, vivía justo al lado. Su casa se convirtió en un lugar especial donde Pablo podía enseñar. 🏠✨ Así como cuando tú no puedes jugar en un parque, pero encuentras un lugar divertido en tu patio trasero. Dios siempre tiene una puerta abierta para ti. Recuerda: cuando algo no sale como esperas, mira a tu alrededor; Dios ya preparó una nueva aventura. ¡No te rindas! 🙌",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 16:13-15",
+        "tipo": "paralelo narrativo",
+        "razon": "Ambos pasajes muestran a Pablo ministrando en casas de mujeres o gentiles temerosos de Dios, con énfasis en la hospitalidad y la apertura al evangelio."
+      },
+      {
+        "referencia": "Hechos 10:1-2",
+        "tipo": "concepto compartido",
+        "razon": "Cornelio también es descrito como 'temeroso de Dios', un gentil devoto, similar a Justo, mostrando un patrón de receptividad entre los gentiles."
+      },
+      {
+        "referencia": "Romanos 16:3-5",
+        "tipo": "trasfondo histórico",
+        "razon": "Pablo menciona a la iglesia en la casa de Priscila y Aquila, ilustrando cómo las casas servían como centros de reunión cristiana, paralelo a la casa de Justo."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful man named Paul walking into a cozy house next to a synagogue. A friendly man named Justus welcomes him with a smile. Bright sunlight, warm colors, simple houses.",
+    "prompt_imagen_normal": "Paul leaving a synagogue, walking towards a modest house adjacent to it. Justus stands at the door, inviting him in. Dramatic lighting, emotional relief, ancient Corinthian street scene.",
+    "texto_original": "Y partiendo de allí, entró en casa de uno llamado Justo, temeroso de Dios, la casa del cual estaba junto a la sinagoga.",
+    "versiculo": "Hechos 18:7"
+  },
+  "8": {
+    "normal": "<h2>Fe que Transforma Hogares</h2><p>En Hechos 18:8 vemos un hermoso ejemplo de cómo la fe en Jesús puede transformar familias enteras. Crispo, el líder de la sinagoga en Corinto, no solo creyó personalmente, sino que su fe impactó a toda su casa. Este pasaje nos recuerda que nuestra decisión de seguir a Cristo tiene un efecto dominó en quienes nos rodean. Muchos corintios también escucharon, creyeron y fueron bautizados. ¿Qué tal si hoy reflexionas sobre cómo tu fe está influyendo en tu hogar? Tal vez puedas compartir un testimonio con tu familia o iniciar un tiempo de oración juntos. La fe no es solo individual, sino que está diseñada para ser compartida y vivida en comunidad.</p>",
+    "academico": "<h2>La Conversión de Crispo y el Avivamiento en Corinto</h2><h3>Análisis Filológico</h3><p>El nombre 'Crispo' (del griego Κρίσπος, Krispos) significa 'rizado' y era un nombre común entre los romanos. El término 'prepósito de la sinagoga' (ἀρχισυνάγωγος, archisynagogos) designaba al líder principal de la sinagoga, encargado de la liturgia y el mantenimiento del edificio. La frase 'creyó al Señor' (ἐπίστευσεν τῷ κυρίῳ, episteusen tō kyriō) implica una confianza personal y activa en Jesús como Señor. 'Con toda su casa' (σὺν ὅλῳ τῷ οἴκῳ αὐτοῦ, syn holō tō oikō autou) indica que la fe de Crispo tuvo un impacto comunitario, reflejando la estructura patriarcal de la época. El verbo 'eran bautizados' (ἐβαπτίζοντο, ebaptizonto) está en voz media/pasiva, sugiriendo que los corintios se sometían voluntariamente al bautismo.</p><h3>Contexto Histórico</h3><p>Corinto era una ciudad cosmopolita y comercial, conocida por su inmoralidad. Pablo llegó allí después de su experiencia en Atenas y encontró resistencia inicial. La conversión de un líder de la sinagoga como Crispo fue significativa, ya que representaba un puente entre el judaísmo y el cristianismo. Este evento ocurrió durante la estancia de Pablo en Corinto, aproximadamente en el año 50-52 d.C., bajo el procónsul Galión.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la soberanía de Dios al llamar a personas de alto estatus social, así como la naturaleza expansiva del Evangelio. La fe de Crispo no fue un hecho aislado, sino que tuvo repercusiones en su familia y en la comunidad. El bautismo de muchos corintios demuestra la respuesta positiva al mensaje de Pablo, a pesar de la oposición. Teológicamente, se destaca la importancia del testimonio personal y la responsabilidad de los creyentes de influir en su entorno.</p>",
+    "ninos": "<h2>🌟 Crispo y su Familia Deciden Seguir a Jesús</h2><p>Imagina que eres el capitán de un barco. Cuando tú cambias de rumbo, ¡todo el barco cambia! Así pasó con Crispo, el jefe de la sinagoga. Cuando él decidió seguir a Jesús, su familia entera también lo hizo. Como cuando compartes un helado con tus hermanos, ¡la alegría se multiplica! Muchas otras personas en Corinto también escucharon a Pablo y quisieron seguir a Jesús, y fueron bautizados. El bautismo es como una fiesta en el agua que muestra que amas a Jesús. La lección es: cuando tú eliges hacer lo bueno, puedes inspirar a otros a hacerlo también. 🎉</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 16:31-34",
+        "tipo": "Paralelo",
+        "razon": "También menciona la conversión de un carcelero y su casa, mostrando el efecto comunitario de la fe."
+      },
+      {
+        "referencia": "1 Corintios 1:14",
+        "tipo": "Referencia Cruzada",
+        "razon": "Pablo menciona que bautizó a Crispo, confirmando su importancia en la iglesia de Corinto."
+      },
+      {
+        "referencia": "Hechos 18:1-11",
+        "tipo": "Contexto",
+        "razon": "Ofrece el contexto más amplio del ministerio de Pablo en Corinto y la oposición que enfrentó."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful family of four, including a father, mother, and two children, standing in a river with a pastor, being baptized. Bright sunlight, smiling faces, water splashing. Warm, inviting atmosphere.",
+    "prompt_imagen_normal": "A dramatic scene of a Roman synagogue leader, Crispo, kneeling in prayer with his family behind him, in a dimly lit room with rays of light streaming through a window. Emotional, reverent, epic lighting.",
+    "texto_original": "Y Crispo, él prepósito de la sinagoga, creyó al Señor con toda su casa: y muchos de los Corintios oyendo creían, y eran bautizados.",
+    "versiculo": "Hechos 18:8"
+  },
+  "9": {
+    "normal": "<h2>No temas, habla y no calles</h2><p>En medio de la noche, cuando el silencio y la oscuridad podían amplificar los miedos, Dios habló a Pablo. No fue un susurro ambiguo, sino una orden clara: 'No temas, sino habla, y no calles'. Cuántas veces nosotros también enfrentamos momentos en que el temor nos paraliza. Tal vez es el miedo a compartir nuestra fe con un compañero de trabajo, o a defender lo correcto en una conversación difícil. Pero Dios no nos llama a ser valientes por nuestra cuenta; Él nos recuerda que está con nosotros. Pablo estaba en Corinto, una ciudad llena de oposición, pero también de personas listas para escuchar. Hoy, Dios te dice lo mismo: no dejes que el miedo silencie tu testimonio. Habla con amor, con verdad, con la confianza de que Él va delante de ti. No necesitas tener todas las respuestas, solo necesitas estar dispuesto. Y si sientes que las palabras no vienen, recuerda que el Espíritu Santo te guiará en ese momento. Así que levanta la cabeza, abre la boca, y deja que Dios use tu voz para llevar esperanza a otros. Él no te ha dado un espíritu de cobardía, sino de poder, amor y dominio propio.</p>",
+    "academico": "<h2>La Visión Nocturna: Mandato Divino en Tiempos de Oposición</h2><h3>Análisis Filológico</h3><p>El texto griego dice: 'Μὴ φοβοῦ, ἀλλὰ λάλει καὶ μὴ σιωπήσῃς' (Mē phobou, alla lalei kai mē siōpēsēs). El verbo 'φοβοῦ' (phobou) es imperativo presente medio, indicando una acción continua: 'deja de temer'. 'λάλει' (lalei) es imperativo presente activo, 'habla continuamente'. 'σιωπήσῃς' (siōpēsēs) es subjuntivo aoristo activo, usado con 'μὴ' para una prohibición enfática: 'no calles ni por un momento'. La frase 'de noche en visión' (διὰ νυκτὸς ἐν ὁράματι) sitúa la revelación en un contexto de quietud y vulnerabilidad. El término 'Κύριος' (Kyrios) aquí se refiere al Señor Jesús, quien a menudo se aparece en visiones en Hechos.</p><h3>Contexto Histórico</h3><p>Pablo llegó a Corinto alrededor del año 50 d.C., una ciudad cosmopolita y moralmente corrupta, famosa por su templo a Afrodita. La oposición judía era fuerte (Hechos 18:6), y Pablo había enfrentado recientemente persecución en Filipos, Tesalónica y Berea. La visión ocurre probablemente en la casa de Ticio Justo, donde Pablo se había trasladado. Dios le asegura protección: 'porque yo estoy contigo, y ninguno pondrá sobre ti la mano para hacerte mal' (v. 10). Esto se cumplió cuando el procónsul Galión rechazó las acusaciones de los judíos (v. 12-17).</p><h3>Implicaciones Teológicas</h3><p>El mandato divino subraya la soberanía de Dios sobre la oposición humana. Pablo no debe callar porque Dios tiene 'mucho pueblo en esta ciudad' (v. 10), una referencia a la predestinación y la certeza de la cosecha espiritual. La orden 'no temas' es un eco de las teofanías del Antiguo Testamento (Isaías 41:10, Jeremías 1:8), vinculando a Pablo con los profetas. Teológicamente, la visión revela que el éxito del ministerio no depende de las circunstancias, sino de la fidelidad al llamado. La promesa de protección no exime del sufrimiento, pero asegura que la misión se cumplirá.</p>",
+    "ninos": "<h2>🌟 ¡No Tengas Miedo, Habla!</h2><p>Imagina que estás en tu cuarto oscuro y de repente ves una luz brillante. ¡Es Jesús! Así le pasó a Pablo. Jesús le dijo: 'No tengas miedo, sigue hablando de mí'. A veces nosotros también tenemos miedo de hablar de Jesús con nuestros amigos, como cuando queremos invitar a alguien a la iglesia o decir que está mal hacer trampa. Pero Jesús nos dice: '¡No calles! Yo estoy contigo'. Es como cuando estás en un partido y tu papá te anima desde la tribuna; te sientes más valiente. Así es Jesús: siempre está a nuestro lado. Así que la próxima vez que tengas miedo de hablar de Dios, recuerda que Él te dice: '¡Habla, que yo te cuido!'. Y si lo haces, verás cosas increíbles, como cuando Pablo vio que mucha gente en Corinto creyó en Jesús. Lección: No dejes que el miedo te detenga; Dios te da valor para hablar de su amor.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Isaías 41:10",
+        "tipo": "Temático",
+        "razon": "Ambos versículos contienen la orden 'no temas' y la promesa de la presencia de Dios."
+      },
+      {
+        "referencia": "Jeremías 1:8",
+        "tipo": "Temático",
+        "razon": "Llamado profético con mandato de no temer y promesa de liberación."
+      },
+      {
+        "referencia": "Mateo 28:20",
+        "tipo": "Temático",
+        "razon": "Jesús promete estar con sus discípulos siempre, similar a la promesa en Hechos 18:10."
+      },
+      {
+        "referencia": "Hechos 18:1-17",
+        "tipo": "Contextual",
+        "razon": "El versículo 9 es parte de esta narrativa, dando contexto a la visión."
+      }
+    ],
+    "prompt_imagen_ninos": "A dark room with a glowing figure of Jesus speaking to Paul, who is kneeling. Warm light illuminates Paul's face, showing awe. Simple, child-friendly style.",
+    "prompt_imagen_normal": "Night scene in ancient Corinth: Paul kneeling on a stone floor, hands clasped, looking up at a radiant vision of Christ. Dramatic chiaroscuro lighting, emotional intensity.",
+    "texto_original": "Entonces él Señor dijo de noche en visión a Pablo: No temas, sino habla, y no calles:",
+    "versiculo": "Hechos 18:9"
+  },
+  "10": {
+    "normal": "<h2>Dios está contigo en medio de la oposición</h2><p>En Hechos 18:10, Dios le habla a Pablo en una visión, justo cuando enfrenta oposición en Corinto. Es una promesa poderosa: 'Porque yo estoy contigo, y ninguno te podrá hacer mal; porque yo tengo mucho pueblo en esta ciudad.' A veces, cuando enfrentamos dificultades o críticas, podemos sentirnos solos o desanimados. Pero Dios nos recuerda que Él está con nosotros, y que nadie puede hacernos daño fuera de Su voluntad. Además, Dios ve lo que nosotros no vemos: hay personas que aún no han creído, pero que Él ya está preparando para recibir el mensaje. Así que no te rindas. Sigue adelante con fe, sabiendo que Dios tiene un plan más grande. Hoy, si te sientes abrumado, recuerda: Dios está contigo, y Él tiene mucho pueblo en tu ciudad también. Confía en que Él está obrando.</p>",
+    "academico": "<h2>Análisis Exegético de Hechos 18:10</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>διότι ἐγώ εἰμι μετὰ σοῦ καὶ οὐδεὶς ἐπιθήσεταί σοι τοῦ κακῶσαί σε, διότι λαός ἐστί μοι πολὺς ἐν τῇ πόλει ταύτῃ</em>. La conjunción <em>διότι</em> (dioti) indica causalidad, reforzando la razón de la protección divina. <em>ἐπιθήσεται</em> (epithēsetai) es futuro medio de <em>ἐπιτίθημι</em>, 'poner sobre', aquí en sentido hostil de 'atacar'. <em>κακῶσαι</em> (kakōsai) es infinitivo aoristo de <em>κακόω</em>, 'hacer mal'. La frase <em>λαός πολὺς</em> (laos polys) significa 'pueblo numeroso', refiriéndose a los elegidos de Dios en Corinto.</p><h3>Contexto Histórico</h3><p>Pablo llegó a Corinto después de ser rechazado en Atenas. Corinto era una ciudad cosmopolita, famosa por su inmoralidad. Pablo enfrentó oposición de los judíos, pero Dios le aseguró protección y éxito. La promesa de 'mucho pueblo' refleja la soberanía divina en la elección y la certeza de la cosecha espiritual. Históricamente, Pablo permaneció 18 meses en Corinto, estableciendo una iglesia fuerte.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la providencia de Dios y la seguridad del creyente en medio de la persecución. Dios no solo protege, sino que también asegura la expansión de su reino. La declaración 'yo tengo mucho pueblo' enfatiza la predestinación y la obra del Espíritu Santo preparando corazones. Para el creyente, es un llamado a la perseverancia y la confianza en el plan soberano de Dios.</p>",
+    "ninos": "<h2>🌟 Jesús está contigo siempre</h2><p>Imagina que estás en un lugar nuevo, como cuando cambias de escuela. Puede dar un poco de miedo, ¿verdad? Eso le pasó a Pablo. Pero Jesús le dijo: 'No tengas miedo, yo estoy contigo y nadie te hará daño. Tengo muchos amigos en esta ciudad.' Así como en tu nueva escuela, aunque no conozcas a nadie, Jesús ya tiene preparados amigos para ti. Él siempre está a tu lado, cuidándote. Así que cuando te sientas solo, recuerda: Jesús está contigo y tiene un plan especial. ¡Confía en Él! 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Josué 1:9",
+        "tipo": "Ánimo y fortaleza",
+        "razon": "Ambos versículos contienen la promesa de la presencia de Dios y la exhortación a no temer."
+      },
+      {
+        "referencia": "Isaías 43:5",
+        "tipo": "Protección divina",
+        "razon": "Dios promete estar con su pueblo y reunirlos, similar a la protección sobre Pablo."
+      },
+      {
+        "referencia": "Mateo 28:20",
+        "tipo": "Presencia continua",
+        "razon": "Jesús promete estar con sus discípulos siempre, reflejando la misma seguridad que a Pablo."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful apostle Paul, smiling, surrounded by diverse children from different cultures, in a sunny ancient city square. Warm lighting, friendly atmosphere, colorful clothes, holding hands.",
+    "prompt_imagen_normal": "A dramatic scene of Paul standing alone on a dark street in ancient Corinth, but a radiant light from heaven surrounds him, with shadowy figures of opponents in the background, intense emotion on his face.",
+    "texto_original": "Porque yo estoy contigo, y ninguno te podrá hacer mal; porque yo tengo mucho pueblo en esta ciudad.",
+    "versiculo": "Hechos 18:10"
+  },
+  "11": {
+    "normal": "<h2>Persistencia en la Enseñanza</h2><p>Pablo pasó un año y medio en Corinto, no porque fuera un lugar fácil, sino porque Dios tenía un propósito allí. A menudo, cuando enfrentamos dificultades, queremos huir. Pero Pablo eligió quedarse y enseñar la Palabra de Dios con paciencia. Este versículo nos recuerda que el crecimiento espiritual requiere tiempo y constancia. No se trata de un mensaje rápido, sino de una siembra continua. ¿Hay algún área de tu vida donde necesites perseverar en compartir el amor de Dios? Tal vez en tu familia, trabajo o comunidad. La fidelidad de Pablo nos anima a no rendirnos, confiando en que Dios está obrando incluso cuando no vemos resultados inmediatos. Tómate un momento para orar y pedirle a Dios que te dé esa misma perseverancia para ser un instrumento de su enseñanza donde Él te ha puesto.</p>",
+    "academico": "<h2>La Estancia de Pablo en Corinto: Un Análisis Exegético</h2><h3>Análisis Filológico</h3><p>El verbo griego utilizado para 'se detuvo' es <em>ekathisen</em> (ἐκάθισεν), que literalmente significa 'se sentó', indicando una estancia prolongada y estable. El término 'enseñándoles' proviene de <em>didaskōn</em> (διδάσκων), participio presente activo, subrayando la acción continua de enseñar. La frase 'la palabra de Dios' es <em>ton logon tou theou</em> (τὸν λόγον τοῦ θεοῦ), que en el contexto lucano se refiere al mensaje del evangelio. El período de 'un año y seis meses' (18 meses) es significativo, ya que Corinto era una ciudad cosmopolita y moralmente compleja; Pablo estableció allí una comunidad cristiana sólida.</p><h3>Contexto Histórico</h3><p>Corinto, bajo el dominio romano, era un centro comercial y cultural con fama de inmoralidad. Pablo llegó después de su experiencia en Atenas (Hechos 17) y encontró resistencia inicial, pero el Señor le aseguró en una visión que tenía mucho pueblo en esa ciudad (Hechos 18:9-10). La duración de su ministerio allí refleja la estrategia misionera de Pablo: establecer bases sólidas en centros urbanos clave. Además, durante este tiempo escribió las cartas a los Tesalonicenses.</p><h3>Implicaciones Teológicas</h3><p>La insistencia de Lucas en el tiempo exacto resalta la fidelidad de Pablo y la providencia divina. La enseñanza continua de la Palabra es fundamental para la edificación de la iglesia. Este pasaje subraya que el crecimiento espiritual no es instantáneo; requiere paciencia, dedicación y dependencia de Dios. La permanencia de Pablo en Corinto también demuestra que la oposición no debe detener la proclamación del evangelio cuando Dios ha abierto una puerta.</p>",
+    "ninos": "🌟 ¡Pablo se Queda Mucho Tiempo! 🌟\n\nImagina que tienes que mudarte a una ciudad nueva y no conoces a nadie. Así se sintió Pablo cuando llegó a Corinto. Pero Dios le dijo: 'No tengas miedo, yo estoy contigo'. Y Pablo se quedó allí ¡un año y medio! Eso es como 18 meses. Durante todo ese tiempo, enseñaba a la gente sobre Jesús. No se aburrió ni se fue rápido. ¿Sabes por qué? Porque amaba a Dios y a las personas. Así como un maestro en la escuela te enseña poco a poco, Pablo enseñaba la Palabra de Dios con paciencia. A veces, nosotros también necesitamos esperar para aprender cosas nuevas. La lección es: no te rindas cuando algo es difícil. Dios te ayudará a perseverar, como ayudó a Pablo. 😊",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 2:1-5",
+        "tipo": "Contexto del ministerio de Pablo en Corinto",
+        "razon": "Pablo describe su enfoque al predicar en Corinto, enfatizando la debilidad y el poder de Dios."
+      },
+      {
+        "referencia": "Hechos 18:9-10",
+        "tipo": "Visión de ánimo",
+        "razon": "Dios asegura a Pablo que tiene mucho pueblo en Corinto, motivándolo a quedarse."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling Paul sits under a tree in ancient Corinth, surrounded by children and adults listening attentively. Bright sunlight, warm colors, scroll in his hand, peaceful atmosphere.",
+    "prompt_imagen_normal": "Paul teaching in a crowded Corinthian synagogue, gesturing with conviction. Dim oil lamps cast dramatic shadows on listeners' faces. Intense focus, emotional gravity, ancient stone walls.",
+    "texto_original": "Y se detuvo allí un año y seis meses, enseñándoles la palabra de Dios.",
+    "versiculo": "Hechos 18:11"
+  },
+  "12": {
+    "normal": "<h2>Defendiendo la Fe con Serenidad</h2><p>Cuando los líderes judíos arrastraron a Pablo ante el tribunal de Galión, el procónsul de Acaya, esperaban una condena rápida. Pero Galión, con sabiduría práctica, reconoció que se trataba de disputas internas de la ley judía, no de un delito civil. Se negó a intervenir, dejando a los acusadores sin apoyo. Para nosotros, esta escena nos recuerda que no toda oposición viene de Dios para derrotarnos; a veces, Él levanta personas neutrales que nos protegen sin siquiera saberlo. En medio de la controversia, podemos confiar en que Dios tiene control sobre las autoridades y las circunstancias. Nuestra tarea no es pelear cada batalla, sino mantener una actitud de paz y confianza, sabiendo que Él pelea por nosotros. Aplica esto hoy: cuando enfrentes críticas o ataques injustos, respira profundo y recuerda que Dios puede usar incluso a los incrédulos para defender tu causa. No necesitas responder con ira; a veces, el silencio y la integridad son tu mejor defensa.</p>",
+    "academico": "<h2>Galión y la Neutralidad del Poder Romano</h2><h3>Análisis Filológico</h3><p>El término griego <i>anthypatos</i> (ἀνθύπατος) designa al procónsul, un gobernador provincial romano. Aquí, Galión (Junio Galión, hermano del filósofo Séneca) es mencionado como procónsul de Acaya (la provincia romana que abarcaba Grecia central y el Peloponeso). El verbo <i>katepestesan</i> (κατεπέστησαν) significa 'se levantaron juntos' o 'se abalanzaron', indicando un ataque concertado. El tribunal (βῆμα, <i>bema</i>) era la plataforma elevada donde los magistrados romanos administraban justicia. La escena refleja la tensión entre la ley judía y la jurisdicción romana; Pablo, como ciudadano romano, estaba protegido de acusaciones meramente religiosas.</p><h3>Contexto Histórico</h3><p>Galión asumió el cargo en Acacia alrededor del año 51-52 d.C., fecha clave para la cronología paulina. Su decisión de no intervenir en disputas sobre la ley judía estableció un precedente legal que benefició a los primeros cristianos, al distinguir el cristianismo como una secta del judaísmo (religio licita). Este incidente ocurre en Corinto, una ciudad cosmopolita y conflictiva, donde Pablo había fundado la iglesia. La indiferencia de Galión muestra la actitud romana hacia las disputas religiosas internas: mientras no amenazaran el orden público, Roma no se involucraba.</p><h3>Implicaciones Teológicas</h3><p>La providencia divina opera a través de estructuras seculares. Dios usó a un procónsul pagano para proteger a Pablo, demostrando que Su soberanía se extiende sobre todos los poderes. Además, la negativa de Galión a juzgar el caso subraya que el evangelio no debe ser impuesto por medios políticos o judiciales; la verdad se defiende con el testimonio y la gracia, no con el poder coercitivo. Para la iglesia primitiva, este evento reforzó la separación entre la fe cristiana y las acusaciones legales maliciosas, animando a los creyentes a confiar en Dios incluso cuando las autoridades humanas parecen indiferentes.</p>",
+    "ninos": "🌟 ¡Pablo y el Juez Justo!\n\nImagina que estás jugando con tus amigos y alguien te acusa de hacer trampa sin razón. Te llevan ante un juez muy serio. Así le pasó a Pablo. Unos hombres enojados lo llevaron ante el gobernador Galión, esperando que lo castigara. Pero Galión era listo: vio que era solo una pelea sobre reglas de la iglesia, no algo malo de verdad. Dijo: \"¡No me interesa!\" y los dejó ir. 🏛️✨ Pablo sonrió, porque sabía que Dios lo cuidaba. A veces, cuando otros te acusan injustamente, no necesitas pelear. Dios puede usar a personas que ni creen en Él para ayudarte. Lección: Confía en que Dios siempre tiene un plan, incluso cuando otros se enojan sin razón. 😊🙏",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 13:1",
+        "tipo": "Temática",
+        "razon": "Ambos versículos tratan sobre la autoridad civil y la sumisión a ella."
+      },
+      {
+        "referencia": "1 Pedro 2:13-17",
+        "tipo": "Temática",
+        "razon": "Instruye a los creyentes a someterse a las autoridades humanas por causa del Señor."
+      },
+      {
+        "referencia": "Hechos 16:19-24",
+        "tipo": "Narrativa",
+        "razon": "Otro episodio donde Pablo es llevado ante autoridades, mostrando el patrón de persecución y liberación."
+      }
+    ],
+    "prompt_imagen_ninos": "A colorful scene of a Roman governor sitting on a high stone platform, with Paul standing calmly before him, surrounded by angry men pointing fingers. Bright sunlight, warm tones, friendly cartoon style.",
+    "prompt_imagen_normal": "Epic historical scene: Roman proconsul Gallio on a marble tribunal, stern expression, Paul standing bound but serene, Jewish accusers gesticulating wildly. Dramatic lighting, realistic textures, ancient Corinthian architecture.",
+    "texto_original": "Y siendo Galión procónsul de Acaya, los Judíos se levantaron de común acuerdo contra Pablo, y le llevaron al tribunal,",
+    "versiculo": "Hechos 18:12"
+  },
+  "13": {
+    "normal": "<h2>Honrar a Dios en Medio de la Controversia</h2><p>En Hechos 18:13, vemos a Pablo siendo acusado de persuadir a la gente a honrar a Dios de una manera que supuestamente violaba la ley. Este versículo nos recuerda que seguir a Cristo a veces genera oposición, incluso de aquellos que se consideran religiosos. La acusación contra Pablo era que su enseñanza desafiaba las tradiciones establecidas. ¿Alguna vez has sentido que tu fe te pone en conflicto con lo que otros consideran 'correcto'? Quizás en tu trabajo, en tu familia o entre amigos, honrar a Dios puede parecer 'contra la ley' de las expectativas humanas.</p><p>La lección aquí es que nuestra lealtad final es a Dios, no a las tradiciones o normas humanas que contradicen su verdad. Pablo no se dejó intimidar por las acusaciones; continuó predicando el evangelio con valentía. En tu vida diaria, ¿estás dispuesto a honrar a Dios incluso cuando eso te ponga en desacuerdo con otros? No se trata de ser rebelde sin causa, sino de priorizar la verdad de Dios sobre la presión social. Pídele al Señor sabiduría y coraje para mantener tu fe firme, sabiendo que él está contigo en medio de la controversia.</p>",
+    "academico": "<h2>Acusación de Transgresión Legal en Hechos 18:13</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>ἀναπείθω</em> (anapeithō) en 'persuade' implica una influencia engañosa o coercitiva, sugiriendo que los acusadores veían la enseñanza de Pablo como ilegítima. La frase 'honrar a Dios' traduce <em>σέβεσθαι τὸν θεόν</em> (sebesthai ton theon), un término común para la adoración. 'Contra la ley' es <em>παρὰ τὸν νόμον</em> (para ton nomon), indicando violación de la ley judía (Torá) o posiblemente la ley romana. El contexto histórico muestra que los judíos de Corinto llevaron a Pablo ante el procónsul Galión, acusándolo de promover una religión no autorizada. Sin embargo, Galión desestimó el caso por tratarse de una disputa interna judía (Hechos 18:14-15).</p><h3>Contexto Histórico</h3><p>Corinto era una colonia romana con una comunidad judía significativa. El judaísmo era una religio licita (religión permitida) en el Imperio Romano, pero el cristianismo aún no tenía ese estatus. Los acusadores intentaron presentar el cristianismo como una secta ilegal que desviaba a la gente del judaísmo aprobado. Galión, hermano del filósofo Séneca, actuó con pragmatismo al no involucrarse en disputas teológicas, estableciendo un precedente legal que protegió a Pablo.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la tensión entre la fe en Cristo y las estructuras religiosas humanas. Pablo enseñaba que la salvación es por gracia mediante la fe, no por obras de la ley (Efesios 2:8-9). La acusación refleja el conflicto entre el evangelio y el legalismo. Teológicamente, nos recuerda que la verdadera adoración a Dios puede ser malinterpretada como transgresión cuando desafía tradiciones. La respuesta de Galión también muestra la soberanía de Dios al usar autoridades seculares para proteger su obra misionera.</p>",
+    "ninos": "🌟 <h2>Honrar a Dios Siempre</h2><p>Imagina que estás jugando con tus amigos y decides compartir tus galletas con alguien que no tiene. Pero un amigo te dice: '¡No puedes hacer eso! Va contra las reglas del juego'. Así se sintió Pablo cuando le dijeron que enseñar sobre Jesús estaba 'contra la ley'. Pero Pablo sabía que honrar a Dios es lo más importante, incluso si otros no están de acuerdo.</p><p>En la vida, a veces la gente te dirá que está mal hacer lo correcto, como ser amable con todos o decir la verdad. Pero recuerda: Dios siempre está feliz cuando lo honramos obedeciéndolo. Como Pablo, tú puedes ser valiente y hacer lo bueno, aunque otros te critiquen. Al final, lo que importa es que Dios te ve y te sonríe. 🌟</p><p><strong>Lección moral:</strong> Honra a Dios siempre, incluso cuando otros digan que está mal. Él te ayudará a ser valiente.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 5:29",
+        "tipo": "Temático",
+        "razon": "Ambos versículos tratan sobre obedecer a Dios antes que a los hombres, incluso bajo acusación."
+      },
+      {
+        "referencia": "1 Pedro 4:14",
+        "tipo": "Temático",
+        "razon": "Ser insultado por el nombre de Cristo es una bendición, similar a la acusación contra Pablo."
+      },
+      {
+        "referencia": "Romanos 10:2-3",
+        "tipo": "Contextual",
+        "razon": "Explica el celo religioso sin conocimiento que lleva a oponerse al evangelio."
+      }
+    ],
+    "prompt_imagen_ninos": "Pablo stands calmly before a Roman official in a sunlit courtyard, Jewish accusers pointing fingers, children watching curiously, warm colors, friendly faces, simple ancient setting.",
+    "prompt_imagen_normal": "Pablo stands before Governor Gallio in a marble-pillared hall, accusers gesticulating angrily, dramatic lighting, tense atmosphere, realistic ancient Roman legal scene.",
+    "texto_original": "Diciendo: Que éste persuade a los hombres a honrar a Dios contra la ley.",
+    "versiculo": "Hechos 18:13"
+  },
+  "14": {
+    "normal": "<h2>La Sabiduría de Saber Cuándo Hablar</h2><p>A veces, la mejor respuesta es el silencio. En Hechos 18:14, vemos a Galión, un procónsul romano, que se niega a involucrarse en disputas religiosas internas de los judíos. Pablo había sido acusado, pero Galión reconoció que no se trataba de un delito civil o criminal, sino de cuestiones de la ley judía. Por eso, se negó a juzgar.</p><p>Para nosotros, esta escena nos recuerda la importancia de discernir cuándo debemos hablar y cuándo callar. No todas las batallas merecen nuestra energía. A veces, las críticas o acusaciones vienen de personas que no entienden nuestra fe, y responder solo aviva el conflicto. Jesús mismo a veces guardó silencio ante sus acusadores (Mateo 27:12-14).</p><p>Hoy, pregúntate: ¿Hay alguna situación en la que estés defendiendo tu fe innecesariamente? ¿O tal vez estás callando cuando deberías hablar? Pide a Dios sabiduría para discernir el momento adecuado. Como Galión, podemos aprender a poner límites sabios, evitando discusiones que no edifican. Pero también, como Pablo, debemos estar listos para hablar cuando el Espíritu nos guíe. Que tu paz no dependa de ganar argumentos, sino de caminar en la verdad con amor.</p>",
+    "academico": "<h2>Análisis de Hechos 18:14: La Neutralidad Judicial de Galión</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <em>Μέλλοντος δὲ τοῦ Παύλου ἀνοίγειν τὸ στόμα εἶπεν ὁ Γαλλίων πρὸς τοὺς Ἰουδαίους· Εἰ μὲν ἦν ἀδίκημά τι ἢ ῥᾳδιούργημα πονηρόν, ὦ Ἰουδαῖοι, κατὰ λόγον ἂν ἀνεσχόμην ὑμῶν</em>. La palabra <em>ἀδίκημα</em> (adikēma) significa 'injusticia' o 'delito', mientras que <em>ῥᾳδιούργημα</em> (rhaidiourgēma) se refiere a un 'crimen grave' o 'maldad'. Galión usa <em>κατὰ λόγον</em> (kata logon) que significa 'razonablemente' o 'conforme a derecho'. El verbo <em>ἀνέχομαι</em> (anechomai) implica 'soportar' o 'tolerar', indicando que Galión habría escuchado el caso si fuera un asunto legal romano.</p><h3>Contexto Histórico</h3><p>Galio era procónsul de Acaya (Grecia) alrededor del año 51-52 d.C., hermano del filósofo Séneca. Los judíos habían llevado a Pablo ante su tribunal, acusándolo de enseñar contra la ley. Pero Galión, conocedor de la política romana, se negó a intervenir en disputas religiosas internas del judaísmo, estableciendo un precedente legal que protegía a los cristianos como secta del judaísmo ante Roma. Esto permitió que Pablo continuara su ministerio en Corinto sin interferencia estatal.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje muestra la providencia de Dios usando autoridades seculares para proteger a su siervo. También enseña sobre la separación entre la ley civil y la religiosa: el Estado no debe juzgar asuntos de fe, aunque sí debe castigar delitos. Para la iglesia primitiva, fue una validación de que el cristianismo no era una amenaza política. Hoy, nos recuerda orar por las autoridades y buscar vivir en paz, sabiendo que Dios tiene control sobre los gobernantes.</p>",
+    "ninos": "🌟 ¡Pablo y el Juez Sabio! 🌟\n\nImagina que estás jugando y alguien te acusa de algo que no hiciste. Te sientes triste y quieres explicarte. Eso le pasó a Pablo. Un grupo de personas lo llevó ante el juez Galión. Pero el juez, después de escuchar, dijo: 'Esto no es un delito, es una discusión religiosa. ¡No me corresponde juzgar!' Y no dejó que castigaran a Pablo. 😊\n\nA veces, cuando otros se enojan por cosas de Dios, no tenemos que pelear. Podemos confiar en que Dios sabe la verdad. Como Pablo, podemos estar tranquilos porque Dios cuida de nosotros. 🤗\n\n**Lección moral:** No todas las peleas son importantes. A veces, es mejor confiar en Dios y no discutir. Él siempre nos protege. 🙏",
+    "recomendaciones": [
+      {
+        "referencia": "Mateo 10:19",
+        "tipo": "Temática",
+        "razon": "Jesús promete que el Espíritu Santo dará palabras adecuadas cuando se es llevado ante autoridades."
+      },
+      {
+        "referencia": "Romanos 13:1-7",
+        "tipo": "Doctrinal",
+        "razon": "Pablo enseña sobre la sumisión a las autoridades civiles, como Galión."
+      },
+      {
+        "referencia": "1 Pedro 3:15",
+        "tipo": "Aplicación",
+        "razon": "Insta a estar preparados para defender la fe con mansedumbre y respeto."
+      }
+    ],
+    "prompt_imagen_ninos": "A Roman judge in a white toga sits on a raised stone chair, listening to a group of angry men pointing at a calm, bearded man (Paul). The judge looks dismissive. Sunlight streams through columns. Colorful, lively scene.",
+    "prompt_imagen_normal": "A Roman proconsul in a curule chair, wearing a purple-bordered toga, dismissively waves his hand at a crowd of Jews accusing Paul. Paul stands serene, hands free. Marble columns, tense atmosphere, dramatic lighting.",
+    "texto_original": "Y comenzando Pablo a abrir la boca, Galión dijo a los Judíos: Si fuera algún agravio o algún crimen enorme, oh Judíos, conforme a derecho yo os tolerara:",
+    "versiculo": "Hechos 18:14"
+  },
+  "15": {
+    "normal": "<h2>Dejando los Argumentos a un Lado</h2><p>En este pasaje, Pablo se encuentra ante el procónsul Galión, quien se niega a juzgar disputas religiosas entre los judíos. Es un recordatorio de que no todas las controversias merecen nuestra energía. A veces, las discusiones sobre palabras o tradiciones nos distraen de lo esencial: el amor a Dios y al prójimo. ¿Cuántas veces has gastado tiempo en debates que no edifican? Hoy, elige la paz. Cuando sientas la tentación de enredarte en una disputa sin importancia, recuerda las palabras de Galión: 'vedlo vosotros'. No necesitas ser juez en cada conflicto. Ora por sabiduría para discernir cuándo hablar y cuándo dejar que otros resuelvan sus diferencias. Que tu enfoque esté en compartir el evangelio con gracia, no en ganar argumentos.</p>",
+    "academico": "<h2>Análisis de Hechos 18:15: La Neutralidad del Poder Romano ante las Disputas Religiosas</h2><h3>Análisis Filológico</h3><p>El versículo contiene la frase griega 'περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθ' ὑμᾶς' (peri logou kai onomatōn kai nomou tou kath' hymas), que se traduce como 'cuestiones de palabras, y de nombres, y de vuestra ley'. El término 'λόγου' (logou) puede referirse a 'palabras' o 'argumentos', mientras que 'ὀνομάτων' (onomatōn) significa 'nombres', posiblemente aludiendo a discusiones sobre títulos mesiánicos. 'Νόμου' (nomou) se refiere a la ley judía. Galión usa el verbo 'βλέπετε' (blepete, 'vedlo vosotros'), en imperativo, indicando que los judíos debían resolver sus asuntos internos. La frase 'οὐ βούλομαι' (ou boulomai, 'no quiero') expresa una firme decisión personal de no involucrarse.</p><h3>Contexto Histórico</h3><p>Galio era procónsul de Acaya, hermano del filósofo Séneca. Su decisión refleja la política romana de tolerancia religiosa siempre que no se alterara el orden público. Al negarse a juzgar, estableció un precedente legal que protegió a Pablo y al cristianismo como una secta dentro del judaísmo, evitando la persecución estatal temprana.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje muestra la providencia divina usando a autoridades seculares para proteger la misión apostólica. También enseña que los creyentes deben priorizar el evangelio sobre disputas secundarias. La neutralidad de Galión contrasta con la hostilidad de los líderes judíos, subrayando que Dios puede obrar a través de incrédulos para cumplir sus propósitos.</p>",
+    "ninos": "<h2>🌟 El Juez Sabio que No Quiso Juzgar</h2><p>Imagina que estás en el recreo y dos amigos discuten sobre quién tiene el mejor juguete. Tú eres el maestro, pero dices: '¡Ustedes resuélvanlo! Yo no voy a decidir'. Eso hizo Galión, un gobernador importante. Un grupo de personas estaba enojado con Pablo, pero Galión dijo: 'Esto es sobre sus palabras y su ley, no es mi problema'. A veces, nosotros también nos metemos en peleas tontas por cosas pequeñas. La próxima vez que quieras discutir por un juego o por quién tiene la razón, recuerda a Galión: no todo necesita un juez. Mejor ocúpate de lo importante: ser amable y compartir. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Timoteo 6:4",
+        "tipo": "Contraste",
+        "razon": "Pablo advierte sobre debates inútiles que causan contiendas, similar a las 'cuestiones de palabras'."
+      },
+      {
+        "referencia": "Tito 3:9",
+        "tipo": "Complemento",
+        "razon": "Evita las discusiones necias y genealogías, porque son sin provecho, reflejando la actitud de Galión."
+      }
+    ],
+    "prompt_imagen_ninos": "A Roman official in a toga sits on a stone chair, looking dismissive. A group of Jewish men argue with raised hands. Paul stands calmly aside. Bright sunlight, outdoor courtyard.",
+    "prompt_imagen_normal": "A Roman proconsul in a tribunal, stern and indifferent, as Jewish accusers gesture angrily. Paul stands serene. Dramatic lighting, marble columns, tense atmosphere.",
+    "texto_original": "Mas si son cuestiones de palabras, y de nombres, y de vuestra ley, vedlo vosotros; porque yo no quiero ser juez de estas cosas.",
+    "versiculo": "Hechos 18:15"
+  },
+  "16": {
+    "normal": "<h2>El tribunal de la conciencia</h2><p>Este breve versículo nos muestra un momento de aparente rechazo. Pablo y Silas son echados del tribunal, pero no es un fracaso; es una puerta que se cierra para que otra se abra. A veces, Dios permite que seamos removidos de lugares de influencia o comodidad para llevarnos a un ministerio más amplio. El tribunal representa la autoridad humana, pero los apóstoles sabían que su verdadera autoridad venía de Dios. Cuando somos rechazados por los hombres, recordemos que nuestro valor no depende de su aprobación. Pregúntate hoy: ¿Hay algún 'tribunal' del cual necesites ser liberado para avanzar en el propósito de Dios? Confía en que Él tiene un plan mejor.</p>",
+    "academico": "<h2>Análisis de Hechos 18:16</h2><h3>Análisis Filológico</h3><p>El verbo griego usado es 'ἀπήλασεν' (apēlasen), del verbo 'ἀπελαύνω' (apelaunō), que significa 'expulsar' o 'echar fuera', con un matiz de violencia o determinación. El término 'βήματος' (bēmatos) se refiere al tribunal o estrado del juez, un lugar elevado desde donde se pronunciaban sentencias. En el contexto del Nuevo Testamento, el 'bēma' también se usa para el tribunal de Cristo (2 Corintios 5:10). La acción de Galión, procónsul de Acaya, al expulsar a los judíos del tribunal, muestra su desinterés en las disputas religiosas judías, considerándolas irrelevantes para la ley romana.</p><h3>Contexto Histórico</h3><p>Galio era hermano del filósofo Séneca y gobernó Acaya alrededor del año 51-52 d.C. Este incidente ocurre en Corinto, una ciudad romana cosmopolita. Los judíos habían llevado a Pablo ante Galión acusándolo de enseñar una religión ilegal, pero Galión se negó a intervenir, estableciendo un precedente legal que protegía al cristianismo como una secta del judaísmo (religio licita). Al expulsar a los acusadores, Galión no solo desestimó el caso, sino que también afirmó la libertad de predicar el evangelio.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la soberanía de Dios sobre las autoridades humanas. Aunque los líderes religiosos intentaron silenciar a Pablo, Dios usó a un gobernante pagano para proteger la misión. También enseña que el rechazo humano no equivale al fracaso espiritual; a veces, la expulsión de un lugar es la puerta a un ministerio más amplio. La iglesia primitiva aprendió a confiar en la providencia divina incluso en medio de la oposición.</p>",
+    "ninos": "🌟 ¡Expulsados pero no vencidos! 🏛️\n\nImagina que estás jugando y alguien te dice: '¡Fuera de aquí!'. Así se sintieron Pablo y Silas cuando los echaron del tribunal. Pero no se pusieron tristes, porque sabían que Dios tenía un plan mejor. A veces, cuando una puerta se cierra, Dios abre una ventana. 🪟\n\nPablo y Silas no se rindieron; siguieron predicando en otros lugares. Así que si alguien te rechaza, no te preocupes: Dios siempre tiene un lugar especial para ti. 🙌\n\nLección: Cuando te echen de un lado, busca la nueva oportunidad que Dios te da.",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 16:22-24",
+        "tipo": "Paralelo histórico",
+        "razon": "Pablo y Silas también fueron golpeados y encarcelados en Filipos, mostrando un patrón de persecución."
+      },
+      {
+        "referencia": "Mateo 10:14",
+        "tipo": "Enseñanza de Jesús",
+        "razon": "Jesús instruyó a sus discípulos a sacudirse el polvo cuando fueran rechazados, similar a la expulsión del tribunal."
+      },
+      {
+        "referencia": "2 Corintios 5:10",
+        "tipo": "Concepto teológico",
+        "razon": "El tribunal (bema) de Cristo contrasta con el tribunal humano; todos compareceremos ante Cristo."
+      }
+    ],
+    "prompt_imagen_ninos": "A colorful cartoon scene of two men being pushed out of a grand stone courthouse by a Roman soldier. The men look calm and hopeful. Bright sunlight outside. Children watching.",
+    "prompt_imagen_normal": "Epic realism: A Roman magistrate in a white toga stands on a raised tribunal, gesturing dismissal. Two apostles, one older with a beard, are being escorted out by guards. Dramatic lighting, marble columns, tense atmosphere.",
+    "texto_original": "Y los echó del tribunal.",
+    "versiculo": "Hechos 18:16"
+  },
+  "17": {
+    "normal": "<h2>Lecciones de un Corazón Indiferente</h2><p>¿Alguna vez has sentido que el mundo es indiferente a tu fe? En Hechos 18:17, vemos una escena violenta: los griegos golpean a Sóstenes, el líder de la sinagoga, frente al tribunal. Pero lo que más llama la atención es la reacción de Galión, el procónsul: “a Galión nada se le daba de ello”.</p><p>Galío representa la indiferencia del mundo hacia las cosas de Dios. No le importaba la fe de los judíos ni el sufrimiento de Sóstenes. Para él, era solo un conflicto religioso más. Pero para nosotros, esta escena nos recuerda que no todos valorarán nuestra fe. A veces, enfrentamos burlas, rechazo o incluso violencia, y las autoridades o las personas a nuestro alrededor pueden ser indiferentes.</p><p>Sin embargo, la historia no termina ahí. Sóstenes, aunque golpeado, más tarde aparece en 1 Corintios 1:1 como un hermano en Cristo. ¡Dios transformó su sufrimiento en un testimonio! Así que, cuando te sientas ignorado o maltratado por tu fe, recuerda que Dios ve tu dolor. Él no es indiferente. Usa esas experiencias para fortalecer tu carácter y acercarte más a Él. No busques la aprobación del mundo; busca la de Dios.</p><p>Aplicación: Esta semana, cuando enfrentes indiferencia o crítica por tu fe, ora: “Señor, ayúdame a no desanimarme. Tú ves mi corazón y mi lucha. Dame fortaleza para seguirte, sin importar lo que otros piensen”. Y recuerda que, como Sóstenes, tu sufrimiento puede ser el preludio de un propósito mayor.</p>",
+    "academico": "<h2>Indiferencia Imperial y Violencia Religiosa: Un Análisis de Hechos 18:17</h2><h3>Análisis Filológico</h3><p>El versículo utiliza el término griego <em>πάντες οἱ Ἕλληνες</em> (pantes hoi Hellēnes, “todos los griegos”) para describir a los agresores, posiblemente una turba mixta de gentiles. <em>Σωσθένην</em> (Sōsthénēn) es un nombre común, cuyo significado (“salvador fuerte”) contrasta con su humillación. <em>ἀρχισυνάγωγον</em> (archisynagōgon, “prepósito de la sinagoga”) indica un cargo oficial. El verbo <em>ἔτυπτον</em> (etypton, “herían”) está en imperfecto, sugiriendo una acción continua o repetitiva. La frase <em>οὐδὲν τούτων τῷ Γαλλίωνι ἔμελεν</em> (ouden toutōn tō Galliōni emelen, “a Galión nada se le daba de ello”) refleja indiferencia legal: Galión, como procónsul romano de Acaya, se negó a intervenir en disputas internas judías, considerándolas <em>ζητήματα</em> (zētēmata, “cuestiones”) de la ley judía.</p><h3>Contexto Histórico</h3><p>Galio era el hermano mayor del filósofo Séneca, y gobernó Acaya alrededor del año 51-52 d.C. Su indiferencia refleja la política romana de no interferir en religiones locales, siempre que no amenazaran el orden público. Sin embargo, el ataque a Sóstenes, posiblemente el sucesor de Crispo (Hechos 18:8), muestra la tensión entre la sinagoga y los cristianos. La escena ocurre “delante del tribunal” (<em>ἔμπροσθεν τοῦ βήματος</em>, emprosthen tou bēmatos), el lugar donde Galión administraba justicia, lo que subraya la impotencia de las autoridades judías para obtener una condena romana contra Pablo.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje demuestra la providencia divina en medio de la oposición. La indiferencia de Galión permitió que Pablo continuara su ministerio sin interferencia romana. Además, Sóstenes, aunque golpeado, aparece luego como colaborador de Pablo (1 Corintios 1:1), lo que sugiere que la persecución puede llevar a la conversión. Teológicamente, muestra que Dios puede usar incluso la apatía del poder secular para proteger a su iglesia y que el sufrimiento por la fe no es en vano.</p>",
+    "ninos": "<h2>🌟 ¡No importa lo que otros digan!</h2><p>Imagina que estás en el patio del colegio y un grupo de niños se ríe de ti porque crees en Jesús. Duele, ¿verdad? En la historia de hoy, un hombre llamado Sóstenes fue golpeado solo porque era el líder de la iglesia. Y lo peor es que el juez, Galión, no hizo nada. ¡Le dio igual!</p><p>Pero ¿sabes qué? Aunque los demás no se preocuparon por Sóstenes, Dios sí. Y más tarde, Sóstenes se convirtió en un gran amigo del apóstol Pablo. ¡Dios usó esa experiencia difícil para algo bueno!</p><p>Cuando te sientas solo o ignorado por tu fe, recuerda que Jesús siempre está contigo. No importa si otros no entienden o no les importa; a Dios le importas muchísimo. Él tiene un plan especial para tu vida, incluso cuando las cosas se ponen difíciles.</p><p>Lección: No dejes que la indiferencia de otros te desanime. Sigue confiando en Dios, porque Él nunca te abandona. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 1:1",
+        "tipo": "Personaje",
+        "razon": "Sóstenes, mencionado aquí como el que fue golpeado, aparece luego como hermano y colaborador de Pablo, mostrando su conversión y restauración."
+      },
+      {
+        "referencia": "Hechos 18:12-16",
+        "tipo": "Contexto",
+        "razon": "Versículos anteriores describen el juicio de Pablo ante Galión, estableciendo el escenario para la violencia contra Sóstenes."
+      },
+      {
+        "referencia": "Romanos 8:28",
+        "tipo": "Temática",
+        "razon": "La indiferencia de Galión y el sufrimiento de Sóstenes ejemplifican cómo Dios obra para bien en medio de la adversidad."
+      }
+    ],
+    "prompt_imagen_ninos": "A crowd of Greek men angrily grabbing a man named Sosthenes, who wears a synagogue leader robe, in front of a Roman tribunal. The judge Gallio sits with a bored expression. Bright daylight, ancient Corinth setting.",
+    "prompt_imagen_normal": "A dramatic scene in ancient Corinth: a mob of Greeks violently beating a Jewish synagogue leader named Sosthenes before a Roman tribunal. The proconsul Gallio looks away indifferently, while dust and tension fill the air.",
+    "texto_original": "Entonces todos los Griegos tomando a Sóstenes, prepósito de la sinagoga, le herían delante del tribunal: y a Galión nada se le daba de ello.",
+    "versiculo": "Hechos 18:17"
+  },
+  "18": {
+    "normal": "<h2>El Voto que Nos Une</h2><p>Pablo había pasado mucho tiempo en Corinto, predicando y fortaleciendo a la iglesia. Pero llegó el momento de partir. Antes de embarcarse hacia Siria, se detuvo en Cencreas, un puerto cercano, y allí se rapó la cabeza como parte de un voto que había hecho. Este acto, conocido como voto nazareo, era una forma de consagrarse a Dios temporalmente. A veces, en nuestra vida cristiana, también hacemos promesas a Dios. Puede ser algo pequeño como dedicar tiempo a la oración, o algo grande como servir en una misión. Lo importante es que esos votos nos recuerdan que nuestra relación con Dios es seria y personal. Pablo no viajó solo; lo acompañaban Priscila y Aquila, una pareja que se había convertido en sus colaboradores cercanos. Ellos también estaban comprometidos con el evangelio. Así como ellos apoyaron a Pablo, nosotros necesitamos hermanos y hermanas que caminen a nuestro lado en la fe. ¿Has hecho algún voto a Dios? Quizás es momento de recordarlo y renovarlo. O tal vez necesitas buscar compañeros de viaje que te animen a cumplirlo. La vida cristiana no es solitaria; es una aventura compartida.</p>",
+    "academico": "<h2>El Voto de Pablo en Cencreas: Un Estudio de Hechos 18:18</h2><h3>Análisis Filológico</h3><p>El versículo menciona que Pablo 'se rapó la cabeza' (griego: κείρασθαι, keirastai, aoristo medio de κείρω, 'cortar, rapar') en Cencreas 'porque tenía un voto' (griego: εὐχήν, euchēn, acusativo singular de εὐχή, 'voto, oración'). El verbo en voz media indica que Pablo se rapó a sí mismo, un acto ritual. El término εὐχή puede referirse a un voto nazareo (cf. Núm 6:1-21), que incluía abstenerse de vino, no cortarse el cabello durante el período del voto, y al final, raparse la cabeza y ofrecer sacrificios en el templo. Sin embargo, Pablo estaba en Cencreas, no en Jerusalén, lo que sugiere que pudo haber hecho un voto temporal o privado, no necesariamente el nazareo formal. El contexto histórico muestra que los judíos de la diáspora a menudo hacían votos similares como expresión de piedad. Filón de Alejandría menciona prácticas similares. El voto podría haber sido una acción de gracias por la protección divina durante su ministerio en Corinto, o una petición por el viaje venidero.</p><h3>Contexto Histórico</h3><p>Cencreas era el puerto oriental de Corinto, en el golfo Sarónico. Pablo se embarca hacia Siria (probablemente Antioquía), acompañado de Priscila y Aquila, quienes habían salido de Roma con él (Hechos 18:2). Este viaje marca el fin de su segunda gira misionera. El voto de Pablo refleja las costumbres judías del siglo I, donde los votos eran comunes entre los piadosos. La mención de raparse la cabeza indica el cumplimiento del voto, que normalmente se realizaba en el templo de Jerusalén; pero hacerlo en Cencreas sugiere una adaptación por la distancia.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje muestra la continuidad de Pablo con las tradiciones judías, incluso mientras ministraba a los gentiles. Su voto no contradice la libertad cristiana, sino que demuestra que las prácticas culturales pueden usarse para honrar a Dios. También subraya la importancia de la comunidad: Pablo no viaja solo, sino con Priscila y Aquila, modelo de colaboración en el ministerio. Teológicamente, el voto apunta a la consagración personal a Dios, un tema recurrente en el Nuevo Testamento (Romanos 12:1).</p>",
+    "ninos": "🌟 <h2>El Secreto de Pablo</h2><p>Pablo había estado en Corinto por mucho tiempo, enseñando acerca de Jesús. Un día, decidió irse en un barco a otro lugar. Pero antes de subir al barco, ¡hizo algo muy extraño! Se rapó la cabeza. ¿Por qué? Porque había hecho una promesa especial a Dios, como cuando tú prometes portarte bien en la escuela. A veces, cuando hacemos una promesa a Dios, hacemos algo para recordarla. Pablo se rapó la cabeza para mostrar que amaba a Dios y cumpliría su promesa. Además, no viajó solo; sus amigos Priscila y Aquila fueron con él. Así como ellos se ayudaron, tú también puedes ayudar a otros a cumplir sus promesas. La lección es: cuando prometes algo a Dios, es importante cumplirlo, y siempre es bueno tener amigos que te animen a hacer lo correcto. 🌊✂️🙏</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Números 6:1-21",
+        "tipo": "Antecedente Bíblico",
+        "razon": "Describe la ley del voto nazareo, que incluía raparse la cabeza al final del período."
+      },
+      {
+        "referencia": "Hechos 21:23-24",
+        "tipo": "Paralelo Temático",
+        "razon": "Pablo participa en un voto similar en Jerusalén, mostrando consistencia en su práctica."
+      },
+      {
+        "referencia": "Romanos 12:1",
+        "tipo": "Implicación Teológica",
+        "razon": "Habla de ofrecer el cuerpo como sacrificio vivo, conexión con la consagración del voto."
+      }
+    ],
+    "prompt_imagen_ninos": "Paul with shaved head on a boat dock, Priscilla and Aquila beside him, smiling, harbor with ships, bright sunny day, warm colors, friendly atmosphere.",
+    "prompt_imagen_normal": "Paul shaving his head at Cencreae harbor, dramatic lighting, Priscilla and Aquila watching, ancient ships in background, emotional solemnity, realistic epic style.",
+    "texto_original": "Mas Pablo habiéndose detenido aún allí muchos días, después se despidió de los hermanos, y navegó a Siria, y con él Priscila y Aquila, habiéndose trasquilado la cabeza en Cencreas, porque tenía voto.",
+    "versiculo": "Hechos 18:18"
+  },
+  "19": {
+    "normal": "<h2>El Poder de una Conversación</h2><p>Cuando Pablo llegó a Éfeso, no perdió tiempo. Dejó a Priscila y Aquila en la ciudad y se fue a la sinagoga para discutir con los judíos. A veces pensamos que el ministerio requiere grandes escenarios o multitudes, pero Pablo nos muestra que una conversación sincera puede ser el inicio de algo transformador. Él no predicó un sermón elaborado; simplemente dialogó, respondió preguntas y compartió su fe de manera natural.</p><p>En nuestra vida diaria, tenemos muchas oportunidades para tener conversaciones significativas sobre Dios. Puede ser con un compañero de trabajo, un vecino o un familiar. No necesitas tener todas las respuestas; solo necesitas estar dispuesto a escuchar y compartir con humildad. Pablo entró a la sinagoga, un lugar donde la gente se reunía para aprender, y allí plantó semillas del evangelio.</p><p>Hoy, pregúntate: ¿con quién puedes tener una conversación espiritual esta semana? No subestimes el poder de una charla casual. Dios puede usarla para cambiar una vida.</p>",
+    "academico": "<h2>Pablo en Éfeso: Un Estudio de Hechos 18:19</h2><h3>Análisis Filológico</h3><p>El versículo comienza con 'κατήντησαν' (katēntēsan), 'llegaron', indicando la culminación de un viaje. 'Εἰς Ἔφεσον' (eis Epheson) sitúa la acción en Éfeso, capital de la provincia romana de Asia. La frase 'κἀκείνους κατέλιπεν' (kakeinous katelipen) significa 'y los dejó allí', refiriéndose a Priscila y Aquila. El verbo 'εἰσελθὼν' (eiselthōn), 'entrando', seguido de 'εἰς τὴν συναγωγὴν' (eis tēn synagōgēn), 'en la sinagoga', muestra la estrategia misionera de Pablo: ir primero a los judíos. 'Διελέξατο' (dielexato), 'disputó' o 'discutió', implica un diálogo razonado, no una confrontación agresiva. 'Τοῖς Ἰουδαίοις' (tois Ioudaiois), 'con los judíos', indica el auditorio.</p><h3>Contexto Histórico</h3><p>Éfeso era una ciudad cosmopolita, famosa por el templo de Artemisa, una de las Siete Maravillas del Mundo. La sinagoga en Éfeso sugiere una comunidad judía establecida, probablemente con vínculos comerciales. Pablo, al llegar, se separa de sus compañeros para enfocarse en la predicación. Este patrón de visitar primero la sinagoga es consistente con su declaración en Romanos 1:16 de que el evangelio es 'poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego'. La discusión en la sinagoga probablemente incluía la interpretación de las Escrituras del Antiguo Testamento a la luz de Jesús como el Mesías.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la prioridad del evangelio para Israel, pero también la apertura a los gentiles. Pablo no rechaza a los judíos, sino que les ofrece primero el mensaje. Además, la acción de 'dejar' a Priscila y Aquila en Éfeso indica la formación de una comunidad cristiana local. La palabra 'disputó' (dielexato) sugiere un método apologético basado en la razón y las Escrituras, modelo para el diálogo interreligioso hoy. La paciencia de Pablo al discutir, en lugar de imponer, refleja el respeto por la libertad de conciencia.</p>",
+    "ninos": "<h2>🌟 Una Conversación Especial</h2><p>Pablo llegó a una ciudad grande llamada Éfeso. Dejó a sus amigos Priscila y Aquila allí, y fue a la sinagoga, que es como una iglesia para los judíos. Adentro, Pablo empezó a hablar con la gente sobre Jesús. No fue un sermón aburrido; fue como una conversación animada donde todos podían hacer preguntas. 🗣️✨</p><p>Imagina que tienes un juguete nuevo y genial, y quieres contarle a tus amigos cómo funciona. Así se sentía Pablo: emocionado de compartir la buena noticia de Jesús. Él no necesitaba un escenario grande; solo un lugar donde la gente se reunía. Y tú también puedes hacerlo. Cuando juegas con tus amigos, puedes hablarles del amor de Dios de una manera sencilla.</p><p>La lección es: no necesitas ser un superhéroe para hablar de Jesús. Solo necesitas amor y ganas de compartir. 🌈❤️</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 19:1-10",
+        "tipo": "Continuación narrativa",
+        "razon": "Describe el ministerio prolongado de Pablo en Éfeso, incluyendo la enseñanza en la escuela de Tirano."
+      },
+      {
+        "referencia": "1 Corintios 16:8-9",
+        "tipo": "Referencia cruzada",
+        "razon": "Pablo menciona su estancia en Éfeso y una puerta abierta para el ministerio."
+      },
+      {
+        "referencia": "Romanos 1:16",
+        "tipo": "Base teológica",
+        "razon": "Explica la prioridad del evangelio al judío primero, como Pablo practica en Éfeso."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful Paul entering a synagogue with a smile, surrounded by curious children and adults. Warm lighting, ancient Middle Eastern setting, friendly atmosphere.",
+    "prompt_imagen_normal": "Paul stands at the entrance of a synagogue in Ephesus, gesturing passionately. Dim interior, stone walls, oil lamps casting shadows, faces of listeners in contemplation.",
+    "texto_original": "Y llegó a Efeso, y los dejó allí: y él entrando en la sinagoga, disputó con los Judíos,",
+    "versiculo": "Hechos 18:19"
+  },
+  "20": {
+    "normal": "<h2>El valor de la paciencia</h2><p>Cuando Pablo visitó Éfeso, la gente quedó tan impactada por su mensaje que le rogaron que se quedara más tiempo. Sin embargo, él no accedió. A veces, cuando sentimos que algo es bueno, queremos que dure para siempre. Pero Pablo sabía que su misión era más amplia: había otras ciudades que necesitaban escuchar el evangelio. Esta decisión nos enseña que no siempre podemos quedarnos donde nos sentimos cómodos. Dios nos llama a seguir adelante, confiando en que Él tiene un plan mayor. La próxima vez que tengas que dejar algo bueno, recuerda que Dios te guía hacia algo aún mejor. La paciencia y la fe en Su dirección son clave para crecer espiritualmente.</p>",
+    "academico": "<h2>La respuesta de Pablo a la petición de los efesios</h2><h3>Análisis Filológico</h3><p>El verbo griego <em>parakaleō</em> (παρακαλέω) en 'rogaban' indica una súplica intensa, casi una exhortación. El término <em>epimeinō</em> (ἐπιμένω) para 'quedarse' implica permanencia continua, no una visita breve. La negativa de Pablo usa <em>ouk epeneusen</em> (οὐκ ἐπένευσεν), literalmente 'no asintió', sugiriendo una decisión deliberada. El contexto histórico muestra que Pablo estaba en su segundo viaje misionero, y su plan era regresar a Antioquía. La ciudad de Éfeso, capital de Asia, era un centro religioso y cultural; quedarse habría sido estratégico, pero Pablo priorizó su itinerario divino. Teológicamente, esto refleja la soberanía de Dios en la dirección del apóstol, quien no se dejaba llevar por el éxito momentáneo sino por la guía del Espíritu Santo.</p><h3>Contexto Histórico</h3><p>Éfeso era una ciudad cosmopolita con el templo de Artemisa, una de las siete maravillas del mundo antiguo. La petición de los efesios muestra su interés genuino por el evangelio, pero Pablo ya había establecido una iglesia allí (Hechos 18:19). Su negativa no fue falta de amor, sino obediencia a un plan mayor. Más tarde, Pablo escribiría una carta a los efesios, demostrando su continuo cuidado pastoral.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la tensión entre el deseo humano de seguridad y la comisión divina de avanzar. Pablo modela una vida guiada por el Espíritu, no por las circunstancias. Nos recuerda que el ministerio no depende de la popularidad sino de la fidelidad al llamado de Dios.</p>",
+    "ninos": "🌟 <h2>Pablo dice adiós</h2><p>Imagina que estás jugando con tus amigos y te diviertes tanto que quieres que el juego nunca termine. Eso les pasó a las personas en Éfeso cuando escucharon a Pablo hablar de Jesús. Le rogaron: '¡Quédate más tiempo!' Pero Pablo sabía que tenía que ir a otros lugares para contarles también sobre Jesús. A veces, tenemos que dejar cosas divertidas para hacer lo correcto. Como cuando termina un recreo y hay que volver a clase. Pablo confiaba en que Dios tenía un plan. Y tú también puedes confiar en que, aunque algo termine, algo nuevo y bueno vendrá. La lección es: sigue a Dios aunque tengas que decir adiós.</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 16:6-10",
+        "tipo": "Contexto",
+        "razon": "Muestra la guía del Espíritu Santo en las decisiones de Pablo."
+      },
+      {
+        "referencia": "1 Corintios 16:8-9",
+        "tipo": "Contraste",
+        "razon": "Pablo decide quedarse en Éfeso después, mostrando que su negativa fue temporal."
+      },
+      {
+        "referencia": "Hechos 20:31",
+        "tipo": "Continuidad",
+        "razon": "Pablo recuerda su ministerio en Éfeso, indicando que no los abandonó."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful apostle Paul waving goodbye to a crowd of smiling people in ancient Ephesus, warm sunset light, colorful robes, children holding hands, friendly atmosphere.",
+    "prompt_imagen_normal": "Apostle Paul standing firm, declining the pleas of a crowd in Ephesus, dramatic lighting, ancient city backdrop, expressions of urgency and resolve, cinematic realism.",
+    "texto_original": "Los cuales le rogaban que se quedase con ellos por más tiempo; mas no accedió.",
+    "versiculo": "Hechos 18:20"
+  },
+  "21": {
+    "normal": "<h2>La voluntad de Dios guía nuestros pasos</h2><p>En este versículo, vemos a Pablo despidiéndose de los hermanos en Éfeso. Él tenía un plan claro: ir a Jerusalén para la fiesta, pero también promete regresar si Dios lo permite. Esto nos enseña una lección importante sobre cómo debemos planificar nuestras vidas. Es bueno tener metas y hacer planes, pero siempre debemos recordar que Dios tiene la última palabra. Pablo no dijo \"volveré\", sino \"volveré a vosotros, queriendo Dios\". Reconoció su dependencia de la voluntad divina. En nuestra vida diaria, podemos hacer planes para el trabajo, la familia o los estudios, pero debemos mantener un corazón flexible y dispuesto a cambiar cuando Dios nos guíe en otra dirección. A veces, nuestros planes no se cumplen, y eso puede ser frustrante. Pero confiar en que Dios sabe lo que es mejor nos da paz. Hoy, al tomar decisiones, pregúntate: ¿Estoy abierto a que Dios modifique mis planes? ¿Reconozco su soberanía en cada paso? Que esta actitud de Pablo sea un modelo para nosotros: planificar con diligencia, pero siempre con la humildad de decir \"si Dios quiere\".</p>",
+    "academico": "<h2>Análisis de Hechos 18:21: La Dependencia de Pablo en la Voluntad Divina</h2><h3>Análisis Filológico</h3><p>El versículo contiene la frase clave \"queriendo Dios\" (griego: τοῦ θεοῦ θέλοντος, tou theou thelontos), un genitivo absoluto que expresa condición. El verbo θέλω (thelō) indica deseo o voluntad, y aquí subraya la soberanía divina sobre los planes humanos. Pablo usa esta construcción también en 1 Corintios 4:19 y 16:7, mostrando un patrón de dependencia. El término \"despidió\" (ἀποταξάμενος, apotaxamenos) implica un acto formal de despedida, a menudo con connotaciones de encomendar a Dios. La referencia a \"la fiesta que viene\" probablemente alude a la Pascua o Pentecostés, eventos clave en el calendario judío que Pablo deseaba observar en Jerusalén, mostrando su conexión con las tradiciones de Israel.</p><h3>Contexto Histórico</h3><p>Pablo estaba en Éfeso, una ciudad portuaria importante en la provincia romana de Asia. Su partida se da en medio de un ministerio fructífero (Hechos 18:19-20). La mención de la fiesta en Jerusalén refleja la práctica de los primeros cristianos de mantener vínculos con el templo y las festividades judías, aunque Pablo también enfrentaba oposición de algunos judíos. La promesa de regresar \"si Dios quiere\" era una expresión común en la cultura grecorromana (cf. Santiago 4:15), pero Pablo la usa con un sentido teológico profundo, reconociendo la guía del Espíritu Santo en sus viajes misioneros.</p><h3>Implicaciones Teológicas</h3><p>Este versículo resalta la tensión entre la iniciativa humana y la soberanía divina. Pablo no es pasivo; toma decisiones y se despide, pero su confianza final está en Dios. Esto enseña que el creyente debe planificar con sabiduría, pero siempre con sumisión a la voluntad de Dios. La expresión \"queriendo Dios\" no es una mera formalidad, sino una declaración de fe en que Dios dirige los eventos. Además, muestra la importancia de la comunidad: Pablo se preocupa por despedirse y promete regresar, indicando lazos afectivos y responsabilidad pastoral.</p>",
+    "ninos": "<h2>🌟 El plan de Pablo y el plan de Dios</h2><p>Pablo tenía un mapa en su cabeza: primero, ir a Jerusalén para una fiesta especial, y luego volver a visitar a sus amigos en Éfeso. Pero antes de irse, dijo algo muy importante: \"Volveré, si Dios quiere\". ¿Sabes por qué dijo eso? Porque Pablo sabía que aunque él hiciera planes, Dios es el que decide al final. Es como cuando tú planeas ir al parque, pero de repente llueve. Tus planes cambian, pero papá o mamá te llevan a hacer algo divertido en casa. Dios también tiene planes para ti, y son mejores que los tuyos. Así que cuando hagas planes, recuerda decir: \"Si Dios quiere\". Eso significa que confías en que Él sabe lo que es mejor. Y aunque a veces las cosas no salgan como esperas, Dios siempre te cuida y te guía. ¡Qué bonito es saber que Dios está al mando!</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Santiago 4:13-15",
+        "tipo": "Paralelo temático",
+        "razon": "Ambos pasajes enseñan a no presumir del futuro sin considerar la voluntad de Dios."
+      },
+      {
+        "referencia": "Hechos 18:19-20",
+        "tipo": "Contexto inmediato",
+        "razon": "Describe la estadía anterior de Pablo en Éfeso, preparando su partida."
+      },
+      {
+        "referencia": "1 Corintios 16:7",
+        "tipo": "Uso similar de frase",
+        "razon": "Pablo usa la misma expresión 'si el Señor lo permite' al planificar visitas."
+      }
+    ],
+    "prompt_imagen_ninos": "A cheerful Paul waving goodbye to a group of smiling children and adults in ancient Ephesus, warm sunlight, stone buildings, colorful clothes, gentle sea breeze, friendly atmosphere.",
+    "prompt_imagen_normal": "Paul standing at the port of Ephesus, raising his hand in farewell, a ship in the background, dramatic sky with clouds, determined expression, classical Mediterranean architecture, golden hour light.",
+    "texto_original": "Sino que se despidió de ellos, diciendo: Es menester que en todo caso tenga la fiesta que viene, en Jerusalem; mas otra vez volveré a vosotros, queriendo Dios. Y partió de Efeso.",
+    "versiculo": "Hechos 18:21"
+  },
+  "22": {
+    "normal": "<h2>Un viaje de conexión y servicio</h2><p>Pablo acababa de terminar un viaje misionero, y en lugar de descansar, se tomó el tiempo para visitar a la iglesia en Jerusalén. Este pequeño gesto nos recuerda la importancia de mantenernos conectados con nuestra comunidad de fe. No importa cuán ocupados estemos, siempre debemos priorizar el tiempo para animar y ser animados por otros creyentes. Al igual que Pablo, podemos hacer una pausa en nuestras rutinas para saludar, compartir y fortalecer los lazos que nos unen en Cristo. ¿Hay alguien en tu iglesia a quien puedas visitar o llamar hoy? Un simple saludo puede ser una gran bendición.</p>",
+    "academico": "<h2>La visita de Pablo a Jerusalén: una transición estratégica</h2><h3>Análisis Filológico</h3><p>El verbo griego utilizado para 'subió' (ἀναβαίνω, anabainō) implica un movimiento ascendente, que en el contexto de Jerusalén, ubicada en una región montañosa, tiene un significado literal y simbólico. 'Saludar' (ἀσπάζομαι, aspazomai) denota un saludo cálido y respetuoso, indicando la comunión entre Pablo y la iglesia madre. 'Descendió' (καταβαίνω, katabainō) contrasta con 'subió', marcando el regreso a Antioquía, el centro de su ministerio gentil.</p><h3>Contexto Histórico</h3><p>Este versículo marca el final del segundo viaje misionero de Pablo (Hechos 15:36-18:22). Cesarea era un puerto romano importante, mientras que Jerusalén seguía siendo el centro religioso del judaísmo. La visita de Pablo a la iglesia de Jerusalén probablemente tenía como objetivo informar a los apóstoles y ancianos sobre su trabajo entre los gentiles, manteniendo la unidad del cuerpo de Cristo.</p><h3>Implicaciones Teológicas</h3><p>La acción de Pablo de subir a Jerusalén para saludar a la iglesia subraya la importancia de la rendición de cuentas y la comunión entre las iglesias. Aunque Pablo era apóstol a los gentiles, reconocía la autoridad de la iglesia de Jerusalén y buscaba mantener la unidad. Este pasaje nos enseña que el ministerio efectivo requiere conexión con el cuerpo más amplio de Cristo.</p>",
+    "ninos": "<h2>🌟 El viaje de Pablo: una visita importante</h2><p>Imagina que has estado viajando por muchos días, visitando nuevas ciudades y contándole a la gente sobre Jesús. ¡Qué cansado, pero emocionante! Al final, Pablo llegó a Cesarea, una ciudad cerca del mar. Pero no se fue a dormir; primero subió a Jerusalén para visitar a sus amigos de la iglesia. Los saludó con una gran sonrisa y les contó todo lo que Dios había hecho. Luego, bajó a Antioquía, su base de operaciones. Esto nos enseña que, aunque estemos muy ocupados, siempre debemos tomarnos tiempo para nuestros amigos y familia en la iglesia. Un abrazo o un 'hola' pueden hacer que alguien se sienta amado. Así que, ¿por qué no le das un saludo especial a alguien hoy? 🎉</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 15:30-35",
+        "tipo": "contexto",
+        "razon": "Describe el inicio del segundo viaje misionero desde Antioquía, completando el ciclo."
+      },
+      {
+        "referencia": "Gálatas 2:1-10",
+        "tipo": "tema",
+        "razon": "Pablo relata su visita a Jerusalén para confirmar su evangelio con los apóstoles."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling Paul waves to a small group of people outside a simple stone church in ancient Jerusalem. Bright sunlight, warm colors, joyful expressions.",
+    "prompt_imagen_normal": "Paul, a weathered traveler, steps ashore at Caesarea's busy port. He looks toward the distant hills of Jerusalem, resolute. Dramatic clouds, golden hour lighting, epic scale.",
+    "texto_original": "Y habiendo arribado a Cesarea subió a Jerusalem; y después de saludar a la iglesia, descendió a Antioquía.",
+    "versiculo": "Hechos 18:22"
+  },
+  "23": {
+    "normal": "<h2>Un Viaje de Confirmación</h2><p>Pablo continúa su ministerio, visitando las iglesias que había establecido en su primer viaje misionero. No se trata de una simple visita turística; su propósito es 'confirmar' a los discípulos. Esta palabra implica fortalecer, animar y establecer en la fe. A veces, la vida cristiana puede sentirse como una caminata solitaria, pero Pablo nos recuerda la importancia de la comunidad y el apoyo mutuo. Así como él viajó para alentar a los creyentes, nosotros también estamos llamados a edificarnos unos a otros. ¿Hay alguien a quien puedas animar hoy? Un mensaje, una llamada o un tiempo juntos puede ser justo lo que necesitan para seguir firmes en su fe.</p>",
+    "academico": "<h2>Confirmando el Camino: Análisis de Hechos 18:23</h2><h3>Análisis Filológico</h3><p>El verbo griego 'epistērizō' (ἐπιστηρίζω), traducido como 'confirmando', aparece en el Nuevo Testamento para describir el acto de fortalecer o establecer a alguien en la fe. Proviene de 'stērizō' (στηρίζω), que significa 'fijar firmemente'. Pablo realiza esta acción 'kath'exēs' (καθʼ ἑξῆς), frase que indica un orden secuencial o metódico, sugiriendo una visita planificada. Las regiones de Galacia y Frigia eran áreas de Asia Menor donde Pablo había fundado iglesias en su primer viaje (Hechos 13-14). El término 'mathētēs' (μαθητής) se refiere a los discípulos, seguidores de Cristo, indicando que la comunidad cristiana ya estaba establecida.</p><h3>Contexto Histórico</h3><p>Este versículo marca el inicio del tercer viaje misionero de Pablo (aproximadamente 53-57 d.C.). Después de un tiempo en Antioquía, Pablo recorre las iglesias para consolidar la fe de los creyentes en medio de desafíos como el judaizantes y la presión del imperio romano. La ruta por Galacia y Frigia refleja la estrategia de Pablo de fortalecer las comunidades existentes antes de aventurarse a nuevas regiones. La mención de 'orden' (kath'exēs) sugiere un itinerario deliberado, posiblemente siguiendo la Vía Sebaste, una ruta romana que conectaba las ciudades de la región.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje subraya la importancia del discipulado continuo y el cuidado pastoral. La confirmación no es un evento único, sino un proceso de edificación mutua en el cuerpo de Cristo. Pablo modela un liderazgo que no solo evangeliza, sino que también nutre y fortalece a los creyentes. La iglesia primitiva entendía que la fe necesita ser 'fijada firmemente' en medio de pruebas y enseñanzas falsas. Para el creyente contemporáneo, esto implica la necesidad de estar arraigado en la Palabra y en la comunidad, buscando constantemente el fortalecimiento espiritual a través de la enseñanza, la oración y la comunión.</p>",
+    "ninos": "🌟 ¡Pablo, el Viajero Animador! 🌟\n\nImagina que tienes un amigo que se muda lejos. ¡Qué triste! Pero luego, ese amigo viene a visitarte y te dice: '¡Eres genial! Sigue siendo bueno y valiente'. ¡Te sientes feliz y fuerte otra vez! Así era Pablo. Visitaba a sus amigos cristianos en ciudades lejanas como Galacia y Frigia. Les decía palabras bonitas para que no se olvidaran de Jesús y fueran valientes. 🚶‍♂️💪\n\n¿Sabes? Tú también puedes animar a otros. Cuando un amigo está triste, puedes darle un abrazo 🤗 o decirle algo lindo. Así como Pablo, ¡tú puedes hacer que otros se sientan fuertes en el amor de Dios! ❤️\n\n**Lección moral:** Animar a otros los hace sentir amados y valientes.",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 14:21-22",
+        "tipo": "paralelo",
+        "razon": "Muestra cómo Pablo y Bernabé fortalecían a los discípulos en el primer viaje misionero, similar a la acción de confirmar en 18:23."
+      },
+      {
+        "referencia": "1 Tesalonicenses 3:2",
+        "tipo": "conceptual",
+        "razon": "Pablo envía a Timoteo para 'fortalecer y confortar' a los tesalonicenses, usando el mismo verbo griego 'epistērizō'."
+      },
+      {
+        "referencia": "Hechos 16:6",
+        "tipo": "geográfico",
+        "razon": "Menciona la región de Frigia y Galacia, contexto del viaje de Pablo en el segundo viaje misionero."
+      },
+      {
+        "referencia": "Gálatas 1:6-9",
+        "tipo": "teológico",
+        "razon": "Pablo escribe a las iglesias de Galacia para confirmarlas en el evangelio verdadero, reflejando su preocupación pastoral."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling man with a walking stick, surrounded by happy children and adults in an ancient village, bright sunlight, warm colors, simple and joyful scene.",
+    "prompt_imagen_normal": "Paul walking on a dusty road through Galatian hills, determined face, scroll in hand, disciples greeting him, dramatic sky, epic lighting, realistic style.",
+    "texto_original": "Y habiendo estado allí algún tiempo, partió, andando por orden la provincia de Galacia, y la Phrygia, confirmando a todos los discípulos.",
+    "versiculo": "Hechos 18:23"
+  },
+  "24": {
+    "normal": "<h2>El poder de una mente preparada</h2><p>La historia de Apolos nos recuerda que Dios puede usar nuestras habilidades y conocimientos para Su gloria. Apolos era un hombre elocuente y poderoso en las Escrituras, pero también estaba dispuesto a aprender y ser corregido. Cuando llegó a Éfeso, ya tenía un fuerte fundamento bíblico, pero necesitaba entender más plenamente el camino de Dios. En nuestra vida diaria, a menudo enfrentamos situaciones donde debemos humillarnos y reconocer que siempre hay más por aprender. Ya sea en nuestro trabajo, en nuestras relaciones o en nuestro crecimiento espiritual, la clave está en mantener un corazón enseñable. Apolos no se aferró a lo que ya sabía, sino que permitió que Priscila y Aquila le explicaran con mayor exactitud el camino de Dios. ¿Hay áreas en tu vida donde necesitas estar abierto a corrección o enseñanza? Hoy, te animo a buscar la sabiduría de Dios con humildad, confiando en que Él te guiará a través de personas y experiencias. Tu elocuencia o talento no son un fin en sí mismos, sino herramientas para servir a otros y glorificar a Dios. Aplicación práctica: Dedica tiempo esta semana a estudiar un pasaje bíblico con un amigo o mentor, y pide retroalimentación sobre tu comprensión.</p>",
+    "academico": "<h2>Análisis de Hechos 18:24: Apolos, el alejandrino instruido</h2><h3>Análisis Filológico</h3><p>El versículo presenta a Apolos (Ἀπολλώς, Apollōs), nombre abreviado de Apolonio, común en el mundo grecorromano. Se le describe como 'alejandrino' (Ἀλεξανδρεύς, Alexandreus), indicando origen de Alejandría, centro de cultura helenística y hogar de la comunidad judía más influyente de la diáspora. El término 'varón elocuente' (ἀνὴρ λόγιος, anēr logios) implica habilidad retórica y erudición; λόγιος puede significar 'instruido' o 'elocuente'. 'Poderoso en las Escrituras' (δυνατὸς ἐν ταῖς γραφαῖς, dynatos en tais graphais) sugiere no solo conocimiento, sino capacidad de argumentar y enseñar las Escrituras judías (LXX). La palabra 'poderoso' (δυνατός) también se usa para describir a Dios (Lc 1:49) y a Jesús (Hch 2:22), indicando una autoridad excepcional en el manejo de la Palabra.</p><h3>Contexto Histórico</h3><p>Alejandría, fundada por Alejandro Magno, era un crisol de culturas con una gran población judía que produjo la Septuaginta. Filón de Alejandría, contemporáneo, representa la fusión del pensamiento judío con la filosofía griega. Apolos probablemente recibió educación en las sinagogas alejandrinas y en escuelas de retórica. Su llegada a Éfeso, ciudad clave en la provincia de Asia, muestra la movilidad de predicadores itinerantes. Éfeso era un centro religioso y comercial, con el templo de Artemisa. El hecho de que Apolos 'hablara y enseñara diligentemente lo concerniente al Señor' (v. 25) indica que conocía el mensaje cristiano, pero solo hasta el bautismo de Juan, reflejando la difusión del movimiento bautista.</p><h3>Implicaciones Teológicas</h3><p>Apolos representa la integración de la cultura helenística con la fe judía y cristiana. Su 'elocuencia' y 'poder en las Escrituras' muestran que Dios usa dones intelectuales y retóricos para el avance del Evangelio. Sin embargo, su conocimiento incompleto (solo el bautismo de Juan) subraya la necesidad de una comprensión plena de la obra de Cristo y el Espíritu Santo. La corrección de Priscila y Aquila (v. 26) destaca la importancia de la comunidad y la humildad para recibir enseñanza. Apolos luego sería un gran defensor de la fe (1 Co 3:6), demostrando que una mente preparada, cuando es guiada por el Espíritu, puede ser un instrumento poderoso.</p>",
+    "ninos": "🌟 ¡Apolos, el superhéroe de las Escrituras! 🌟\n\nHabía una vez un hombre llamado Apolos, que venía de una ciudad lejana llamada Alejandría. Era muy inteligente y hablaba tan bien que todos lo escuchaban con atención. Pero lo más importante es que conocía muy bien la Biblia, ¡como un superhéroe que sabe todos los secretos de su libro favorito! Un día, llegó a Éfeso, donde conoció a Priscila y Aquila, dos amigos que seguían a Jesús. Ellos vieron que Apolos sabía mucho, pero le faltaba entender algo muy importante: que Jesús ya había venido y había muerto por nuestros pecados. Entonces, con amor, le explicaron todo mejor. ¿Qué hizo Apolos? ¿Se enojó? ¡No! Fue humilde y aprendió. Así que, niños, la lección es: aunque sepas mucho, siempre puedes aprender más. ¡No tengas miedo de preguntar y escuchar a los demás! Así como Apolos, puedes ser un superhéroe de la Biblia, pero con un corazón dispuesto a crecer. 😊",
+    "recomendaciones": [
+      {
+        "referencia": "1 Corintios 3:6",
+        "tipo": "Conexión biográfica",
+        "razon": "Pablo menciona que él plantó y Apolos regó, mostrando su papel en el crecimiento de la iglesia en Corinto."
+      },
+      {
+        "referencia": "Hechos 19:1-7",
+        "tipo": "Continuidad narrativa",
+        "razon": "Pablo encuentra discípulos en Éfeso que solo conocían el bautismo de Juan, similar a Apolos inicialmente."
+      },
+      {
+        "referencia": "Tito 3:13",
+        "tipo": "Referencia posterior",
+        "razon": "Pablo recomienda a Apolos, indicando su continua colaboración en el ministerio."
+      }
+    ],
+    "prompt_imagen_ninos": "A well-dressed man in ancient robes, standing in a marketplace, speaking passionately to a crowd. Sunlight, warm colors, scrolls in his hand, people listening intently.",
+    "prompt_imagen_normal": "A scholarly Jewish man in a synagogue in Ephesus, holding a scroll, gesturing with authority. Dramatic lighting, intense expression, marble columns, Greek and Jewish motifs.",
+    "texto_original": "Llegó entonces a Efeso un Judío, llamado Apolos, natural de Alejandría, varón elocuente, poderoso en las Escrituras.",
+    "versiculo": "Hechos 18:24"
+  },
+  "25": {
+    "normal": "<h2>Instruido y Ferviente</h2><p>Este versículo nos presenta a un hombre que no solo conocía el camino del Señor, sino que lo vivía con pasión. Era instruido, es decir, había aprendido las Escrituras y las enseñanzas de Jesús. Pero además, era ferviente de espíritu: su fe no era fría ni teórica, sino que ardía en su interior. ¿Cómo está tu corazón hoy? ¿Conoces la verdad, pero te falta el fuego? Pídele al Espíritu Santo que encienda en ti ese fervor, para que no solo sepas de Dios, sino que lo sirvas con gozo y diligencia. Enseñaba con esmero, aunque su conocimiento era limitado (solo el bautismo de Juan). Dios usa lo que tenemos, por pequeño que sea, cuando lo entregamos con pasión. Hoy, busca ser instruido en la Palabra, pero también ferviente en el Espíritu. Así como Apolos, tu testimonio impactará a otros.</p>",
+    "academico": "<h2>Análisis de Hechos 18:25</h2><h3>Análisis Filológico</h3><p>El término griego <em>katēchēmenos</em> (κατηχημένος) significa 'instruido', indicando una enseñanza sistemática. <em>Zēlōn tō pneumati</em> (ζηλῶν τῷ πνεύματι) se traduce 'ferviente de espíritu', con <em>zēlos</em> connotando ardor apasionado. <em>Ethelōn</em> (ἐθέλων) implica determinación al enseñar. La frase 'las cosas del Señor' usa <em>ta peri tou Kyriou</em> (τὰ περὶ τοῦ Κυρίου), refiriéndose a las enseñanzas sobre Jesús. El bautismo de Juan (to baptisma Iōannou) era uno de arrepentimiento, no cristiano. Apolos conocía solo este bautismo, lo que muestra una etapa temprana de la teología cristiana.</p><h3>Contexto Histórico</h3><p>Apolos, un judío de Alejandría, era un erudito en las Escrituras (18:24). Alejandría tenía una gran comunidad judía y era centro de estudio. Su conocimiento limitado al bautismo de Juan sugiere que no había recibido la plenitud del evangelio de Pentecostés. Priscila y Aquila luego lo instruyeron más exactamente (18:26). Esto refleja la transición del judaísmo mesiánico al cristianismo pleno.</p><h3>Implicaciones Teológicas</h3><p>La combinación de instrucción y fervor muestra que el conocimiento bíblico debe ir acompañado del poder del Espíritu. El celo sin conocimiento puede ser peligroso, pero el conocimiento sin celo es estéril. La disposición de Apolos a enseñar a pesar de su conocimiento parcial es un modelo de humildad y servicio. Su ejemplo desafía a los creyentes a buscar siempre una comprensión más completa de Cristo, mientras usan lo que ya saben para edificar a otros.</p>",
+    "ninos": "🌟 ¡Apolos, el Maestro Apasionado! 🌟\n\nHabía un hombre llamado Apolos que amaba a Dios con todo su corazón. Él había estudiado mucho la Biblia y sabía muchas cosas sobre Jesús. Pero lo más especial era que su corazón ardía como una llama 🕯️. Cuando hablaba de Dios, sus ojos brillaban y sus palabras saltaban como chispas. ¡Era tan emocionante escucharlo! Aunque solo conocía una parte de la historia (el bautismo de Juan), no esperó a saberlo todo para compartir. Enseñaba con alegría a todos los que querían aprender. ¿Sabes qué? Dios puede usarte hoy, aunque no sepas todo. Lo importante es que tengas amor por Él y ganas de compartirlo. Así que, como Apolos, ¡habla de Jesús con pasión! ❤️",
+    "recomendaciones": [
+      {
+        "referencia": "2 Tim 3:16-17",
+        "tipo": "Base doctrinal",
+        "razon": "La instrucción en las Escrituras es esencial para el ministerio, como Apolos estaba instruido."
+      },
+      {
+        "referencia": "Rom 12:11",
+        "tipo": "Actitud espiritual",
+        "razon": "Ferviente de espíritu se refleja en servir al Señor con celo."
+      },
+      {
+        "referencia": "Hechos 19:1-7",
+        "tipo": "Continuidad narrativa",
+        "razon": "Pablo encuentra discípulos que solo conocían el bautismo de Juan, similar a Apolos."
+      }
+    ],
+    "prompt_imagen_ninos": "A joyful man teaching a group of children outdoors, holding a scroll, with a glowing light around his heart, warm sunlight, colorful robes, smiling faces.",
+    "prompt_imagen_normal": "A scholarly man in a synagogue, passionately speaking with raised hands, intense expression, scrolls on a table, dramatic lighting from a window, historical setting.",
+    "texto_original": "Este era instruído en el camino del Señor; y ferviente de espíritu, hablaba y enseñaba diligentemente las cosas que son del Señor, enseñando solamente en el bautismo de Juan.",
+    "versiculo": "Hechos 18:25"
+  },
+  "26": {
+    "normal": "<h2>El valor de la enseñanza personalizada</h2><p>En Hechos 18:26, vemos a Apolos, un hombre elocuente y conocedor de las Escrituras, pero que necesitaba una comprensión más completa del evangelio. Priscila y Aquila, al escucharlo hablar en la sinagoga, no lo criticaron públicamente ni lo ignoraron. En lugar de eso, lo tomaron aparte y le explicaron 'más particularmente el camino de Dios'. Este gesto nos enseña la importancia de la enseñanza personalizada y la humildad para aprender. Muchas veces, incluso los más instruidos necesitan orientación adicional. Como creyentes, debemos estar dispuestos a recibir corrección y también a ofrecerla con amor, en privado y con respeto. La aplicación práctica es buscar mentores espirituales y ser mentores para otros, creando espacios seguros para crecer en el conocimiento de Dios. Reflexiona: ¿Hay alguien a quien puedas ayudar a entender mejor las Escrituras? ¿O necesitas buscar a alguien que te guíe con paciencia?</p>",
+    "academico": "<h2>Precisión doctrinal en el ministerio de Priscila y Aquila</h2><h3>Análisis Filológico</h3><p>El verbo griego 'εξετίθετο' (exetítheto) en 'declararon más particularmente' implica una exposición detallada y sistemática, no solo una conversación casual. El término 'ὁδὸν τοῦ Θεοῦ' (hodón tou Theou) significa 'camino de Dios', una metáfora de la vida y doctrina cristiana. Priscila (nombre mencionado primero, inusual en la cultura patriarcal) y Aquila, discípulos de Pablo, corrigieron a Apolos, quien 'ἐλάλει καὶ ἐδίδασκεν' (hablaba y enseñaba) con celo pero conocimiento incompleto. El contexto histórico muestra que Apolos era un judío alejandrino, versado en la retórica y el Antiguo Testamento, pero desconocía el bautismo cristiano y el Espíritu Santo (Hechos 19:1-7).</p><h3>Contexto Histórico</h3><p>En el siglo I, las sinagogas permitían que visitantes instruidos expusieran las Escrituras. Apolos probablemente conocía el movimiento de Juan el Bautista, pero no la plenitud del evangelio. Priscila y Aquila, como fabricantes de tiendas y colaboradores de Pablo, habían recibido una enseñanza más completa. La acción de 'tomarlo aparte' refleja la discreción y el respeto por su posición como maestro.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje subraya la necesidad de una doctrina precisa y la corrección fraterna. El liderazgo de Priscila muestra que las mujeres podían enseñar en contextos informales. Además, destaca que el conocimiento intelectual sin la guía del Espíritu puede ser insuficiente. La humildad de Apolos para recibir corrección es un modelo para todos los líderes.</p>",
+    "ninos": "🌟 ¡Ayudando a un amigo a entender mejor!<p>Imagina que estás en la escuela y un amigo sabe muchas cosas de la Biblia, pero se equivoca en algunas partes. En lugar de reírte de él, lo invitas a tu casa y, con cariño, le explicas bien la historia. Así hicieron Priscila y Aquila con Apolos. Ellos escucharon a Apolos hablar en la iglesia y vieron que necesitaba ayuda. Entonces, lo llevaron aparte y le explicaron con más detalles el camino de Dios. ¡Qué bonito es ayudar a otros a aprender! A veces, todos necesitamos que alguien nos enseñe con paciencia. La lección es: si ves que alguien no entiende algo de Dios, ayúdalo con amor, como lo hicieron Priscila y Aquila. 😊</p>",
+    "recomendaciones": [
+      {
+        "referencia": "Hechos 19:1-7",
+        "tipo": "Continuidad narrativa",
+        "razon": "Muestra el resultado del ministerio de Apolos después de ser corregido, y cómo Pablo completa la enseñanza sobre el Espíritu Santo."
+      },
+      {
+        "referencia": "Romanos 16:3-4",
+        "tipo": "Personajes",
+        "razon": "Priscila y Aquila son mencionados como colaboradores de Pablo que arriesgaron su vida por él, destacando su fidelidad."
+      },
+      {
+        "referencia": "Proverbios 27:17",
+        "tipo": "Temática",
+        "razon": "'El hierro con hierro se aguza', ilustra la corrección mutua y el crecimiento espiritual."
+      }
+    ],
+    "prompt_imagen_ninos": "A friendly couple, Priscilla and Aquila, talking gently to a young man Apollos in a cozy room with scrolls, warm sunlight streaming through a window, teaching with open Bibles.",
+    "prompt_imagen_normal": "Priscilla and Aquila in a dimly lit synagogue, leaning over a scroll, explaining to Apollos with earnest expressions, dramatic lighting casting shadows, emotional intensity of correction and humility.",
+    "texto_original": "Y comenzó a hablar confiadamente en la sinagoga: al cual como oyeron Priscila y Aquila, le tomaron, y le declararon más particularmente el camino de Dios.",
+    "versiculo": "Hechos 18:26"
+  },
+  "27": {
+    "normal": "<h2>La Gracia que Abre Puertas</h2><p>Este versículo nos muestra cómo la gracia de Dios prepara el camino para el ministerio. Apolos deseaba ir a Acaya, y los hermanos, animados, escribieron cartas de recomendación para que los discípulos lo recibieran. Al llegar, fue de gran ayuda para los creyentes por la gracia de Dios. En nuestra vida, a menudo sentimos deseos de servir o movernos a nuevos lugares. La clave está en buscar la confirmación de la comunidad de fe y confiar en que la gracia de Dios nos precederá. No se trata de nuestras habilidades, sino de Su favor que abre puertas y hace fructífero nuestro servicio. Hoy, pregúntate: ¿Qué puertas está abriendo Dios delante de ti? ¿Cómo puedes cooperar con Su gracia para bendecir a otros?</p>",
+    "academico": "<h2>Análisis Exegético de Hechos 18:27</h2><h3>Análisis Filológico</h3><p>El texto griego dice: <i>βουλομένου δὲ αὐτοῦ διελθεῖν εἰς τὴν Ἀχαΐαν, προτρεψάμενοι οἱ ἀδελφοὶ ἔγραψαν τοῖς μαθηταῖς ἀποδέξασθαι αὐτόν· ὃς παραγενόμενος συνεβάλετο πολὺ τοῖς πεπιστευκόσιν διὰ τῆς χάριτος</i>. El verbo <i>βούλομαι</i> (boulomai) indica un deseo deliberado, no solo un capricho. <i>Προτρεψάμενοι</i> (protrepsamenoi) es un participio que sugiere que los hermanos animaron activamente a Apolos. <i>Συνεβάλετο</i> (synebaleto) significa 'contribuyó' o 'ayudó', con la noción de poner algo junto. La frase <i>διὰ τῆς χάριτος</i> (dia tēs charitos) indica el medio instrumental: por medio de la gracia.</p><h3>Contexto Histórico</h3><p>Acaya era la provincia romana que incluía Corinto, un centro comercial y cultural. Las cartas de recomendación (ἐπιστολαὶ συστατικαί) eran comunes en el mundo grecorromano para facilitar la hospitalidad y el apoyo entre comunidades. Apolos, un judío alejandrino elocuente, ya había sido instruido en el camino del Señor, pero necesitaba el respaldo de la iglesia en Éfeso para ser recibido en Acaya.</p><h3>Implicaciones Teológicas</h3><p>Este pasaje destaca la cooperación entre el deseo individual, la confirmación comunitaria y la gracia divina. La gracia no solo salva, sino que también capacita para el servicio. Apolos, aunque talentoso, dependía de la gracia para ser efectivo. La iglesia primitiva modela un equilibrio entre iniciativa personal y autoridad eclesial. Además, subraya la importancia de la hospitalidad y el apoyo mutuo en la expansión del evangelio.</p>",
+    "ninos": "🌟 Apolos y la Carta Mágica 🌟\n\nHabía una vez un hombre llamado Apolos que quería viajar a una ciudad lejana llamada Acaya. Pero no conocía a nadie allí. ¿Qué hacer? Sus amigos de la iglesia le escribieron una carta especial, como una invitación, para que los cristianos de Acaya lo recibieran con alegría. Cuando Apolos llegó, ¡todos lo abrazaron! Y gracias a la ayuda de Dios, Apolos enseñó muchas cosas buenas sobre Jesús. \n\n¿La lección? Cuando quieras hacer algo importante, pide ayuda a tus amigos y confía en que Dios te abrirá puertas. ¡Nunca estás solo!",
+    "recomendaciones": [
+      {
+        "referencia": "Romanos 15:24",
+        "tipo": "Temática",
+        "razon": "Pablo también planea viajar y pide cartas de recomendación, similar a Apolos."
+      },
+      {
+        "referencia": "2 Corintios 3:1",
+        "tipo": "Temática",
+        "razon": "Pablo menciona cartas de recomendación, contexto de ministerio."
+      },
+      {
+        "referencia": "Hechos 18:24-26",
+        "tipo": "Contextual",
+        "razon": "Versículos anteriores presentan a Apolos y su preparación."
+      }
+    ],
+    "prompt_imagen_ninos": "A smiling man holding a scroll, surrounded by joyful friends waving goodbye. Bright sunlight, ancient harbor town. Warm colors, simple cartoon style.",
+    "prompt_imagen_normal": "Apostle Apolos standing at a harbor, holding an unrolled letter. Mediterranean sunset, classical Greek columns in background. Determined expression, dramatic lighting, epic realism.",
+    "texto_original": "Y queriendo él pasar a Acaya, los hermanos exhortados, escribieron a los discípulos que le recibiesen; y venido él, aprovechó mucho por la gracia a los que habían creído:",
+    "versiculo": "Hechos 18:27"
+  },
+  "28": {
+    "normal": "<h2>Defendiendo la Verdad con Pasión</h2><p>El versículo de hoy nos muestra a Apolos, un creyente lleno de celo y conocimiento, que convencía públicamente a los judíos de que Jesús era el Mesías. Su arma no era la fuerza, sino las Escrituras. Con gran vehemencia, pero también con argumentos sólidos, Apolos demostraba que todo lo que los profetas habían anunciado se cumplía en Cristo.</p><p>Esta escena nos invita a reflexionar sobre cómo compartimos nuestra fe. No se trata de imponer, sino de presentar la verdad con amor y convicción. Apolos no solo conocía las Escrituras, sino que las usaba para iluminar mentes y tocar corazones. ¿Estamos nosotros dispuestos a estudiar la Palabra con la misma dedicación? ¿Buscamos oportunidades para hablar de Jesús con claridad y respeto?</p><p>Hoy, te animo a que, como Apolos, te prepares para dar razón de tu esperanza. No necesitas ser un experto; solo necesitas un corazón apasionado por la verdad y un deseo genuino de que otros conozcan a Cristo. Que tu testimonio sea como el suyo: firme, fundamentado en las Escrituras, y lleno de gracia.</p>",
+    "academico": "<h2>La Apologética Escritural de Apolos: Un Modelo de Confrontación Mesiánica</h2><h3>Análisis Filológico</h3><p>El término griego <em>eutonos</em> (εὐτόνως), traducido como 'con gran vehemencia', implica intensidad y vigor (BDAG, s.v. εὔτονος). El verbo <em>diakatelegchomai</em> (διακατελέγχομαι) significa 'refutar completamente' o 'convencer plenamente' (Haenchen, <em>The Acts of the Apostles</em>). La frase 'mostrando por las Escrituras' utiliza <em>epideiknymi</em> (ἐπιδείκνυμι), que denota una demostración pública y concluyente. El término <em>Christos</em> (Χριστός) es la traducción griega del hebreo <em>Mashíaj</em> (מָשִׁיחַ), 'ungido', indicando la identidad mesiánica de Jesús.</p><h3>Contexto Histórico</h3><p>Apolos, un judío alejandrino (Hechos 18:24), representa la influencia de la diáspora y la sinagoga helenística. Alejandría era un centro de erudición donde la Septuaginta (LXX) era ampliamente utilizada. Su método de 'mostrar por las Escrituras' refleja la tradición rabínica de <em>midrash</em>, aplicando textos del Antiguo Testamento a eventos contemporáneos. La controversia sobre la mesianidad de Jesús era central en las sinagogas del siglo I, y Apolos usaba profecías como Isaías 53 y Salmo 2 para argumentar que Jesús cumplía las expectativas mesiánicas.</p><h3>Implicaciones Teológicas</h3><p>Este versículo subraya la legitimidad de la apologética basada en la Escritura. La 'vehemencia' de Apolos no es mera emoción, sino pasión informada por el estudio. Su éxito en 'refutar' (no solo debatir) muestra que la verdad bíblica tiene poder intrínseco para convencer. Teológicamente, enfatiza la continuidad entre el Antiguo y Nuevo Pacto: Jesús es el cumplimiento de las promesas. Además, la actividad pública de Apolos en Corinto (adonde viajó después) revela que la apologética no es solo para eruditos, sino para todo creyente que desea dar razón de su fe.</p>",
+    "ninos": "🌟 Apolos, el Defensor Valiente\n\nHabía un hombre llamado Apolos que amaba mucho a Dios. Él conocía muy bien la Biblia y hablaba con mucha energía. Un día, Apolos fue a una ciudad donde muchos judíos no creían que Jesús era el Mesías prometido. Pero Apolos no se quedó callado. Con mucho amor y usando las Escrituras, les explicaba una y otra vez que Jesús era el Salvador. Era como un detective que mostraba pistas en la Biblia: ¡todas apuntaban a Jesús! 🕵️‍♂️📖\n\n¿Sabes qué? Apolos no peleaba ni se enojaba. Solo compartía la verdad con valentía. Así como él, tú también puedes hablar de Jesús con tus amigos. No necesitas ser un experto; solo cuenta lo que sabes: que Jesús te ama y quiere ser tu amigo. Y si no sabes algo, ¡puedes aprender más de la Biblia! \n\nLección: Dios quiere que hablemos de Él con amor y usando Su Palabra. ¡Sé valiente como Apolos! 😊",
+    "recomendaciones": [
+      {
+        "referencia": "1 Pedro 3:15",
+        "tipo": "Principio paralelo",
+        "razon": "Ambos versículos enfatizan la defensa de la fe con mansedumbre y conocimiento."
+      },
+      {
+        "referencia": "Hechos 17:2-3",
+        "tipo": "Patrón similar",
+        "razon": "Pablo también razonaba con las Escrituras para demostrar que Jesús es el Cristo."
+      },
+      {
+        "referencia": "2 Timoteo 3:16",
+        "tipo": "Base doctrinal",
+        "razon": "La Escritura es útil para enseñar y redargüir, como hizo Apolos."
+      }
+    ],
+    "prompt_imagen_ninos": "A young man with a scroll, animated style, speaking passionately to a crowd of people in a sunny outdoor market. Warm colors, friendly faces, scroll showing Hebrew letters.",
+    "prompt_imagen_normal": "A man in first-century attire, gesticulating emphatically before a synagogue crowd, shafts of light illuminating an open scroll, dramatic chiaroscuro, intense expressions.",
+    "texto_original": "Porque con gran vehemencia convencía públicamente a los Judíos, mostrando por las Escrituras que Jesús era el Cristo.",
+    "versiculo": "Hechos 18:28"
+  }
+}
